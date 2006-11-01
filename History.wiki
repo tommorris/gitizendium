@@ -107,17 +107,5 @@ Such contrasts with regard to "history's value" serve as examples of history as 
 *Wells, H. G.; ''An Outline of History''; Reprint Services Corporation (1920), ISBN 0-7812-0661-8.
 *''The World Almanac and Book of Facts'' (annual); World Almanac Education Group; 2004 ISBN 0-9968791-0-8.
 
-== External links==
-{{sisterlinks|History}}
-<!-- 
 
-Please ask in talk before adding more external links.
-
--->
-*[http://www.fordham.edu/halsall/ Internet History Sourcebooks Project] See also [[Internet History Sourcebooks Project]]. Collections of public domain and copy-permitted historical texts presented cleanly (without advertising or excessive layout) for educational use.
-*[http://vlib.iue.it/history/index.html WWW-VL: History Central Catalogue] first history on the WWW, located at European University Institute
-*[http://world-history-blog.blogspot.com/ World History Blog] 
-{{Social sciences-footer}}
-
-<!--Categories-->
 [[Category:History| ]]
