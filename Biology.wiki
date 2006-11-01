@@ -3,9 +3,9 @@
 
 '''Biology''' is the [[science]] of [[life]]. Biologists study all aspects of living things, including the processes in organisms that enable life. These basic processes include the making and harnessing of energy, the creation and duplication of the materials that make up the body, and the healing of injuries. 
 
-Life forms have been of interest to all peoples throughout history. Detailed knowledge about plants and animals has improved people's standard of living through [[agriculture]] and [[animal husbandry]]. Biology differs from the general human interest in plants, animals and our own bodies by using a systematic approach to study. 
+Life forms have been of interest to all peoples throughout history. Detailed knowledge about plants and animals has improved people's standard of living through [[agriculture]] and [[animal husbandry]]. Biology differs from the general human interest in plants, animals and our own bodies by using a systematic approach to study. Biologic studies of animals fall under the field of [[zoology]], where as the biologic study of plants is [[botany]].
 
-The natural history of plants and animals was the first area of biology to develop. Whole organisms were studied in an attempt to make sense of the order of Nature. 
+The natural history of plants and animals was the first area of biology to develop. In [[natural history]], whole organisms are studied in an attempt to make sense of the order of Nature. When the natural history of plants and animals are considered in a context of how each affects the other and their environment, then the biologist's focus is on [[ecology]]. Some fields of biology are focused on the natural history of living organisms and their interactions within a certain realm of the earth, as in [[marine biology]], and other fields of biology focus on charcteristics of the bodies of living organisms, like [[Anatomy]] and [[Physiology]].
 
 A workable classification of living things was made practical by Linneas using a form of systematic nomenclature he invented. 
 
