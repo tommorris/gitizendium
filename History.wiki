@@ -86,6 +86,9 @@ Such contrasts with regard to "history's value" serve as examples of history as 
 *[[Political history]]: the study of politics in the past.
 *[[Psychohistory]]: study of the psychological motivations of historical events.
 *[[Historiography of science]]: study of the structure and development of science.
+**[[Science History]] - History of Science
+***[[History of Biology]] - History of Science of Life
+***[[History of Medicine (Human Biology)]] - History of modern Medicine
 *[[Social History]]: the study of societies in the past.
 *[[World History]]: the study of history from a global perspective.
 
