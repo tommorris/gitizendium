@@ -39,8 +39,9 @@ Major discoveries in biology include:
 *[[Marine Biology]]: The study of life in the seas and oceans
 
 ==External links==
-
+===Plain & Technical Language===
 * [http://www.aibs.org/virtual-library/] The American Institute of Biological Sciences (ABIBS) Virtual Library is free to all visitors
+*[http://cellbiol.com/] The Bio-Web reviews and access to information in Cell and Molecular Biology, includes "news" in plain language
 
 ==Further reading==
 
