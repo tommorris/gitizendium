@@ -1,4 +1,5 @@
-(from [[Greek language|Greek]] ''βίος λόγος'')
+(from [[Greek language|Greek]] ''βίος λόγος'')  The word "Biology" is formed by combining the [[Greek language|Greek]] ''{{Polytonic|βίος}}'' ''(bios)'', meaning 'life', and ''{{Polytonic|λόγος}}'' ''(logos)'', meaning 'study of'. "Biology" in its modern use was probably introduced independently by both [[Gottfried Reinhold Treviranus]] (''Biologie oder Philosophie der lebenden Natur'', 1802) and by [[Jean-Baptiste Lamarck]] (''Hydrogéologie'', 1802). Although the word "biology" is sometimes said to have been coined in 1800 by Karl Friedrich Burdach, it appears in the title of Volume 3 of Michael Christoph Hanov's ''Philosophiae naturalis sive physicae dogmaticae'': ''Geologia, biologia, phytologia generalis et dendrologia'', published in 1766.
+
 ----
 
 '''Biology''' is the [[science]] of [[life]]. Biologists study all aspects of living things, including'' all'' of the many life forms on earth and the processes in them that enable life. These basic processes include the making and harnessing of energy, the creation and duplication of the materials that make up the body, the healing of injuries, the reproduction of the organism and many other activities. 
