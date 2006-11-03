@@ -13,10 +13,14 @@ There are many independent scientific fields that make up Biology, and all are r
 
 
 ==History and Development of Biology==
-
+* Roots of Biology in the Ancient World
 The natural history of plants and animals was the first area of biology to develop. 
 
+* Early Biology : The Establishment of the Scientific Method
+
 A workable classification of living things was made practical by Linneas using a form of systematic nomenclature he invented. This nomenclauture not only provides a unique name for each kind of plant and animal, but organizes all of them into a classification scheme that stresses similarities of physical features.
+
+* First Glimpses of the Microscopic World
 
 The features of plants and animals have often been understood on an entirely different levels with technological advances that provided new means for examination. For example, the microscope, invented by [[Antoni van Leeuwenhoek]] in the Seventeenth Century revealed details of structure in the bodies of organisms that had never even been suspected. Whole new types of organisms were also revealed, micro-organisms that could not be detected with the naked eye. (reference: Anton van Leeuwenhoek." Encyclopedia of World Biography, 2nd ed. 17 Vols. Gale Research, 1998.  Reproduced in Biography Resource Center. Farmington Hills, Mich.: Thomson Gale. 2006. http:/galenet.galegroup.com.ezproxy.med.nyu.edu/servlet/BioRC)
 
