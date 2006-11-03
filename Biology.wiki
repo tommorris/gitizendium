@@ -12,15 +12,15 @@ There are many independent scientific fields that make up Biology, and all are r
 ==History of the word "biology"==
 Formed by combining the [[Greek language|Greek]] ''{{Polytonic|βίος}}'' ''(bios)'', meaning 'life', and ''{{Polytonic|λόγος}}'' ''(logos)'', meaning 'study of', the word "biology" in its modern sense seems to have been introduced independently by [[Gottfried Reinhold Treviranus]] (''Biologie oder Philosophie der lebenden Natur'', 1802) and by [[Jean-Baptiste Lamarck]] (''Hydrogéologie'', 1802). The word is sometimes said to have been coined in 1800 by Karl Friedrich Burdach, but it appears in the title of Volume 3 of Michael Christoph Hanov's ''Philosophiae naturalis sive physicae dogmaticae'': ''Geologia, biologia, phytologia generalis et dendrologia'', published in 1766.
 
-==History of Biology==
+==History and Development of Biology==
 
 The natural history of plants and animals was the first area of biology to develop. 
 
 A workable classification of living things was made practical by Linneas using a form of systematic nomenclature he invented. This nomenclauture not only provides a unique name for each kind of plant and animal, but organizes all of them into a classification scheme that stresses similarities of physical features.
 
-The features of plants and animals were understood on an entirely different level with technological advances that provided new means for examination. The microscope, invented by v L in the   century revealed details of structure in the bodies of organisms that had never been suspected. New types of organisms were also revealed, micro-organism that could not be detected with the naked eye.
+The features of plants and animals have often been understood on an entirely different levels with technological advances that provided new means for examination. For example, the microscope, invented by [[Antoni van Leeuwenhoek]] in the Seventeenth Century revealed details of structure in the bodies of organisms that had never even been suspected. Whole new types of organisms were also revealed, micro-organisms that could not be detected with the naked eye. (reference: Anton van Leeuwenhoek." Encyclopedia of World Biography, 2nd ed. 17 Vols. Gale Research, 1998.  Reproduced in Biography Resource Center. Farmington Hills, Mich.: Thomson Gale. 2006. http:/galenet.galegroup.com.ezproxy.med.nyu.edu/servlet/BioRC)
 
-As with every major technological advance in biology, the use of the microsocope led to new idea about living things. The concept that tissues were composed of cells was clarified, the entire field of microbiology was born, and the ground was prepared for the germ theory of disease, an idea that helped bring the traditional practice of western [[medicine]] (sometimes called [[allopathy]]) into the field of [[health science]].
+As with every important technological advance in biology, the use of the microsocope led to new ideas about living things. The concept that tissues were composed of cells was clarified, the entire field of microbiology was born, and the ground was prepared for the germ theory of disease, an idea that helped bring the traditional practice of western [[medicine]] (sometimes called [[allopathy]]) into the field of [[health science]].
 
 
 
