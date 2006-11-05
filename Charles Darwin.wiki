@@ -1,0 +1,357 @@
+:''For other people of the same surname, and places and things named after Charles Darwin, see [[Darwin]].''
+
+'''Charles Robert Darwin''' ([[12 February]] [[1809]] &ndash; [[19 April]] [[1882]]) was an [[England|English]] [[natural history|naturalist]] who achieved lasting fame by finding considerable evidence that [[species]] originated through [[evolution]]ary change, at the same time proposing the [[scientific theory]] that [[natural selection]] is the mechanism by which such change occurs. Since then, an immense ammount of additional evidence supporting this theory has been discovered.  Although there have been some later supplemental biological process involved, all are compatible with the basic concepts, and this theory remains a cornerstone of [[biology]].
+
+Darwin developed an interest in natural history while studying first [[medicine]], then [[theology]], at university. After the University, Darwin's observations on his [[The Voyage of the Beagle|five-year voyage]] on the [[HMS Beagle|''Beagle'']] brought him eminence as a [[geology|geologist]] and fame as a popular author. His biological finds led him to study the [[transmutation of species]] and in 1838 he conceived his theory of natural selection. Fully aware that others had been severely treated for such "[[heresy#Contemporary heresy|heretical]]" ideas, he confided only in his closest friends and continued his research to meet anticipated objections. However, in 1858 the information that [[Alfred Russel Wallace]] had developed a similar theory forced an early joint [[publication of Darwin's theory|publication of the theory]].
+
+His 1859 book ''On the Origin of Species by Means of Natural Selection, or The Preservation of Favoured Races in the Struggle for Life'' (usually abbreviated to ''[[The Origin of Species]]'') established evolution by [[common descent]] as the dominant scientific explanation of diversification in nature.  He was made a [[Fellow of the Royal Society]], continued his research, and wrote a series of books on plants and animals, including humankind, notably ''[[The Descent of Man, and Selection in Relation to Sex]]'' and ''[[The Expression of the Emotions in Man and Animals]]''.
+
+In recognition of Darwin's preeminence, he was buried in [[Westminster Abbey]], close to  [[John Herschel]] and [[Isaac Newton]].
+
+==Life==
+===Early life===
+[[Image:Charles Darwin 1816.jpg|thumb|190px|The seven-year-old Charles Darwin in 1816, one year before the sudden loss of his mother.]]
+{{main|Charles Darwin's education}}
+
+Charles Darwin was born in [[Shrewsbury, Shropshire]], [[England]] on [[12 February]] [[1809]] at his family home, the [[The Mount, Shrewsbury|Mount House]].<ref>[http://www.themountshrewsbury.com/ The Mount Residents' Group] Information on the history of The Mount (Darwin's Birthplace) and Darwin - provided by the Mount Residents' Group.</ref> He was the fifth of six children of wealthy society doctor [[Robert Darwin]] and [[Susannah Darwin]] (''née'' Wedgwood). He was the grandson of [[Erasmus Darwin]] on his father's side, and of [[Josiah Wedgwood]] on his mother's side, both from the [[Darwin — Wedgwood family]], a prominent English family which supported the [[Unitarianism|Unitarian]] church. His mother died when he was only eight. He went to the nearby [[Shrewsbury School]] the next year as a [[boarding school|boarder]].
+
+In 1825, after spending the summer as an apprentice doctor, helping his father with treating the poor of [[Shropshire]], Darwin went to the [[University of Edinburgh]] to study medicine. However, his revulsion at the brutality of surgery led him to neglect his medical studies. He learned [[taxidermy]] from [[John Edmonstone]], a freed black slave who told him exciting tales of the South American [[rainforest]].<ref>He would later, in ''Descent of Man'', use his experience with Edmonstone as evidence that "Negroes and Europeans" were still very closely related despite looking superficially very different from one another. See ''Descent of Man'', chapter 7.</ref> In Darwin's second year he became active in student societies for [[natural history|naturalists]]. He became an avid pupil of [[Robert Edmund Grant]], who pioneered development of the theories of [[Jean-Baptiste Lamarck]] and of Charles' grandfather Erasmus concerning evolution by acquired characteristics. Darwin took part in Grant's investigations of the life cycle of marine animals on the shores of the [[Firth of Forth]] which found evidence for ''[[homology (biology)|homology]]'', the radical theory that all animals have similar organs and differ only in complexity. In March 1827, Darwin made a presentation to the [[Plinian society]] of his own discovery that the black spores often found in oyster shells were the eggs of a skate leech. He also sat in on [[Robert Jameson]]'s natural history course, learning about [[stratigraphy|stratigraphic]] [[geology]], receiving training in [[alpha taxonomy|how to classify plants]], and assisting with work on the extensive collections of the [[Royal Museum|Museum of Edinburgh University]], one of the largest museums in Europe at the time.
+
+In 1827, his father, unhappy that his younger son had no interest in becoming a physician, shrewdly enrolled him in a [[Bachelor of Arts]] course at [[Christ's College, Cambridge|Christ's College]], [[University of Cambridge]] to qualify as a clergyman. This was a sensible career move at a time when many [[Anglicanism|Anglican]] [[parson]]s were provided with a comfortable income, and when most naturalists in England were clergymen who saw it as part of their duties to explore the wonders of God's creation. At Cambridge, Darwin preferred riding and shooting to studying. Along with his cousin [[William Darwin Fox]], he became engrossed in the craze at the time for the competitive collecting of [[beetle]]s, and Fox introduced him to the Reverend [[John Stevens Henslow]], professor of [[botany]], for expert advice on beetles. Darwin subsequently joined Henslow's natural history course, became his favourite pupil and came to be known as "the man who walks with Henslow". When exams began to loom, Darwin focused more on his studies and received private instruction from Henslow. Darwin became particularly enthused by the writings of [[William Paley]], including the [[teleological argument|argument of divine design in nature]]. In his finals in January 1831, he performed well in theology and, having scraped through in [[classics]], [[mathematics]] and [[physics]], came tenth out of a pass list of 178.
+
+Residential requirements kept Darwin at Cambridge until June. In keeping with Henslow's example and advice, he was in no rush to take holy orders. Inspired by [[Alexander von Humboldt]]'s ''Personal Narrative'', he planned to visit the [[Madeira Islands]] to study natural history in the tropics with some classmates after graduation. To prepare himself for this project, Darwin joined the geology course of the Reverend [[Adam Sedgwick]], a strong proponent of [[history of creationism|divine design]], then in the summer went with him to assist in mapping strata in [[Wales]]. Darwin was surveying strata on his own when his plans to visit Madeira were dashed by a message that his intended companion had died, but on his return home he received another letter. Henslow had recommended Darwin for the unpaid position of gentleman's companion to [[Robert FitzRoy]], the captain of [[HMS Beagle|HMS ''Beagle'']], on a two-year expedition to chart the coastline of [[South America]] which would give Darwin valuable opportunities to develop his career as a naturalist. His father objected to the voyage, regarding it as a waste of time, but was persuaded by his brother-in-law, [[Josiah Wedgwood II|Josiah Wedgwood]], to agree to his son's participation. This voyage became a five-year expedition that would lead to dramatic changes in many fields of science.
+
+===Journey on the Beagle===
+{{main|The Voyage of the Beagle}}
+
+[[Image:HMS_Beagle_by_Conrad_Martens.jpg|thumb|245px|right|As [[HMS Beagle|HMS ''Beagle'']] surveyed the coasts of [[South America]], Darwin began to theorise about the wonders of nature around him.]]
+
+The ''Beagle'' survey took five years, two-thirds of which Darwin spent exploring on land. He studied a rich variety of geological features, [[fossil]]s and living organisms, and met a wide range of people, both native and colonial. He methodically collected an enormous number of specimens, many of them new to science. This established his reputation as a naturalist and made him one of the precursors of the field of [[ecology]], particularly the notion of [[biocoenosis]]. His extensive detailed notes showed his gift for theorising and formed the basis for his later work, as well as providing social, political and [[Anthropology|anthropological]] insights into the areas he visited.   
+
+On the voyage, Darwin read [[Charles Lyell]]'s ''Principles of Geology'', which explained geological features as the outcome of gradual processes over huge periods of time, and wrote home that he was seeing landforms "as though he had the eyes of Lyell": he saw stepped plains of shingle and seashells in [[Patagonia]] as raised beaches; in [[Chile]], he experienced an earthquake and noted [[mussel]]-beds stranded above high tide showing that the land had been raised; and even high in the [[Andes]], he was able to collect seashells. He theorised that [[coral]] [[atoll]]s form on sinking volcanic mountains, an idea he confirmed when the ''Beagle'' surveyed the [[Cocos (Keeling) Islands]].
+
+In [[South America]] he discovered fossils of gigantic extinct mammals including [[megatherium|megatheria]] and [[glyptodon]]s in strata which showed no signs of catastrophe or change in climate. At the time, he thought them similar to African species, but after the voyage [[Richard Owen]] showed that the remains were of animals related to living creatures in the same area. In [[Argentina]] two species of [[Rhea (bird)|rhea]] had separate but overlapping territories. On the [[Galápagos Islands]] Darwin found that [[mockingbird]]s differed from one island to another, and on returning to Britain he was shown that Galápagos [[tortoise]]s and [[finch]]es were also in distinct species based on the individual islands they inhabited. The [[Australia]]n [[marsupial]] [[Potoridae|rat-kangaroo]] and [[platypus]] were such strikingly unusual animals that on [[19 January]] [[1836]], in
+New South Wales, he recorded this in his journal:
+<blockquote>
+I had been lying on a sunny bank & was reflecting on the strange character of the Animals of this country as compared with the rest of the World. An unbeliever in every thing beyond his own reason, might exclaim ‘Surely two distinct Creators must have been [at] work; their object however has been the same & certainly the end in each case is complete’.
+</blockquote> 
+He puzzled over all he saw, and, in the first edition of ''[[The Voyage of the Beagle]]'', he explained species distribution in light of [[Charles Lyell]]'s ideas of "centres of creation". In later editions of this ''Journal'' he foreshadowed his use of Galápagos Islands fauna as evidence for evolution: "one might really fancy that from an original paucity of birds in this archipelago, one species had been taken and modified for different ends."
+
+Three native missionaries were returned by the ''Beagle'' to [[Tierra del Fuego]]. They had become "civilised" in England over the previous two years, yet their relatives appeared to Darwin to be "miserable, degraded savages".  Within a year, the missionaries had reverted to their harsh previous way of life, yet they preferred this and did not want to return to England. This experience, his detestation of the [[slavery]] he saw elsewhere in South America, and other problems he found about such as the effect of European settlement on aborigines in [[New Zealand]] and Australia, persuaded him that there was no moral justification for the mistreating of others based on the concept of race. He now thought that humanity was not as far removed from animals as his clerical friends believed.
+
+While on board the ship, Darwin suffered from seasickness. In October 1833 he caught a fever in Argentina, and in July 1834, while returning from the Andes down to [[Valparaíso]], he fell ill and spent a month in bed. From 1837 onwards Darwin was repeatedly incapacitated with episodes of stomach pains, vomiting, severe boils, palpitations, trembling and other symptoms. These symptoms particularly affected him at times of stress, such as when attending meetings or dealing with controversy over his theory. The cause of [[Charles Darwin's illness|Darwin's illness]] was unknown during his lifetime, and attempts at treatment had little success. Recent speculation has suggested he caught [[Chagas disease]] from insect bites in South America, leading to the later problems. Other possible causes include psychobiological problems and [[Ménière's disease]].
+
+=== Career in science, inception of theory ===
+{{main|Inception of Darwin's theory}}
+[[Image:Charles_Darwin_by_G._Richmond.jpg|thumb|left|While still a young man, Charles Darwin joined the scientific élite.]]
+
+While Darwin was still on the voyage, [[John Stevens Henslow|Henslow]] carefully fostered his former pupil's reputation by giving selected naturalists access to the fossil specimens and printed copies of Darwin's geological writings. When the ''Beagle'' returned on [[2 October]] [[1836]], Darwin was a celebrity in scientific circles. He visited his home in Shrewsbury and his father organised investments so that Darwin could become a self-funded gentleman scientist. Darwin then went to [[Cambridge]] and persuaded Henslow to work on botanical descriptions of modern plants he had collected. Afterwards Darwin went round the [[London]] institutions to find the best naturalists available to describe his other collections for timely publication. An eager [[Charles Lyell]] met Darwin on [[29 October]] and introduced him to the up-and-coming anatomist [[Richard Owen]]. After working on Darwin's collection of fossil bones at his [[Royal College of Surgeons]], Owen caused great surprise by revealing that some were from gigantic extinct [[rodent]]s and [[sloth]]s. This enhanced Darwin's reputation. With Lyell's enthusiastic backing, Darwin read his first paper to the [[Geological Society of London]] on [[4 January]] [[1837]], arguing that the South American landmass was slowly rising. On the same day Darwin presented his mammal and bird specimens to the [[Zoological Society of London|Zoological Society]]. The Mammalia were taken on by [[George Robert Waterhouse|George R. Waterhouse]]. Though the birds seemed almost an afterthought, the ornithologist [[John Gould]] revealed that what Darwin had taken to be wrens, blackbirds and slightly differing finches from the Galápagos were all finches, but each was a separate species. Others on the ''Beagle'', including FitzRoy, had also collected these birds and had been more careful with their notes, enabling Darwin to determine from which island each species had come.
+
+In London, Darwin stayed with his [[freethought|freethinking]] brother [[Erasmus Alvey Darwin|Erasmus]] and at dinner parties met inspiring [[savant]]s who thought that God preordained life by natural laws rather than [[ad hoc]] miraculous creations. His brother's lady friend Miss [[Harriet Martineau]] was a writer whose stories promoted [[Thomas Malthus|Malthusian]] [[British Whig Party|Whig]] [[Poor Law]] reforms. Scientific circles were buzzing with ideas of [[transmutation of species]] controversially associated with [[Radicalism (historical)|''Radical'' unrest]]. Darwin preferred the respectability of his friends the Cambridge Dons, even though his ideas were pushing beyond their belief that [[natural history]] must justify religion and social order.
+
+[[Image:Darwins first tree.jpg|right|thumb|250px|Darwin's first sketch of an evolutionary tree from his ''First Notebook on Transmutation of Species'' (1837)]]
+
+On [[17 February]] [[1837]], Lyell used his presidential address at the Geographical Society to present Owen's findings to date on Darwin's fossils, noting particularly the unexpected implication that extinct species were related to current species in the same locality. At the same meeting Darwin was elected to the Council of the Society. He had already been invited by FitzRoy to contribute a ''Journal'' based on his field notes as the natural history section of the captain's account of the ''Beagle'''s voyage. He now plunged into writing a book on South American Geology. At the same time he speculated on transmutation in his ''Red Notebook'' which he had begun on the ''Beagle''. Another project he started was getting the expert reports on his collection published as a multivolume ''Zoology of the Voyage of H.M.S. Beagle'', and Henslow used his contacts to arrange a Treasury grant of £1,000 to sponsor this. Darwin finished writing his ''Journal'' around [[20 June]] when King [[William IV of the United Kingdom|William IV]] died and the [[Victoria of the United Kingdom|Victorian]] era began. In mid-July he began his private ''"B" notebook'' on transmutation, and developed the [[hypothesis]] that where every island in the Galápagos Archipelago had its own kind of [[tortoise]], these had originated from a single tortoise species and had adapted to life on the different islands in different ways.
+
+Under pressure with organising ''Zoology'' and correcting proofs of his ''Journal'', Darwin's health suffered. On [[20 September]] [[1837]] he suffered "palpitations of the heart" and left for a month of recuperation in the country. He visited [[Maer Hall]] where his invalid aunt was being cared for by her spinster daughter [[Emma Darwin|Emma Wedgwood]], and entertained his relatives with tales of his travels. His uncle [[Josiah Wedgwood II|Jos]] pointed out an area of ground where cinders had disappeared under [[loam]] and suggested that this might have been the work of earthworms. This led Darwin to the idea for a talk which he gave to the Geological Society on [[1 November]], on the unusually mundane subject of worm casts. This work is considered to be the first scholarly treatment of [[pedogenesis|soil forming processes]]. He had avoided taking on official posts which would have taken up valuable time, but by March [[William Whewell]] had recruited him as Secretary of the Geological Society. Illness prompted Darwin to take a break from the pressure of work and he went "geologising" in Scotland. In glorious weather he visited [[Glen Roy]] to see the phenomenon known as "roads" which he (incorrectly) identified as raised beaches.
+
+[[Image:Emma Darwin.jpg|thumb|left|Charles chose to marry his cousin, [[Emma Darwin|Emma Wedgwood]].]]
+
+Fully recuperated, he returned home to Shrewsbury. Scientifically pondering his career and prospects he drew up a list with columns headed ''"Marry"'' and ''"Not Marry"''. Entries in the pro-marriage column included "constant companion and a friend in old age ... better than a dog anyhow," while listed among the cons were "less money for books" and "terrible loss of time." The pros won out. He discussed the prospect of marriage with his father then went to visit his cousin Emma on [[29 July]] [[1838]]. He did not get around to proposing, but against his father's advice he told her of his ideas on transmutation. While his thoughts and work continued in London over the autumn he suffered repeated bouts of illness. On [[11 November]] he returned and proposed to Emma, once more telling her his ideas. She accepted, but later wrote beseeching him to read from the Gospel of St. John a section on love and following ''the Way'' which also states that ''"If a man abide not in me...they are burned"''. He sent a warm reply which eased her concern, but she would continue to worry that his lapses of faith could endanger her hope that they would meet in afterlife.
+
+Darwin considered [[Thomas Malthus|Malthus's]] argument that human population increases more quickly than food production, leaving people competing for food and making charity useless. He later formulated this in the terms of his biological theory as: "Man tends to increase at a greater rate than his means of subsistence; consequently he is occasionally subjected to a severe struggle for existence, and natural selection will have effected whatever lies within its scope." (''Descent of Man'', Ch.21) He related this to the findings about species relating to localities, his enquiries into animal breeding, and ideas of Natural "laws of harmony". Towards the end of November 1838 he compared breeders selecting traits to a Malthusian Nature selecting from variants thrown up by "chance" so that "every part of newly acquired structure is fully practised and perfected", and thought this "the most beautiful part of my theory" of how species originated. He went house-hunting and eventually found "Macaw Cottage" in Gower Street, London, then moved his "museum" in over Christmas. He was showing the stress, and Emma wrote urging him to get some rest, almost prophetically remarking "So don't be ill any more my dear Charley till I can be with you to nurse you." On [[24 January]] [[1839]] he was honoured by being elected as Fellow of the [[Royal Society]] and presented his paper on the Roads of Glen Roy.
+
+=== Marriage and children ===
+[[Image:Charles and William Darwin.jpg|thumb|185px|Darwin in 1842 with his eldest son, [[Darwin — Wedgwood family|William Erasmus Darwin]].]]
+
+On [[29 January]] [[1839]], Darwin married his cousin [[Emma Darwin|Emma Wedgwood]] at Maer in an [[Anglican]] ceremony arranged to also suit the [[Unitarian]]s.
+After first living in [[Gower Street (London)|Gower Street]], [[London]], the couple moved on [[17 September]] [[1842]] to [[Down House]] in [[Downe]]. The Darwins had ten children, three of whom died early.  Many of his surviving children and their grandchildren would later achieve notability themselves (see [[Darwin — Wedgwood family]])
+
+* William Erasmus Darwin ([[27 December]] [[1839]]&ndash;[[1914]])
+* [[Anne Darwin|Anne Elizabeth Darwin]] ([[2 March]] [[1841]]&ndash;[[22 April]] [[1851]])
+* Mary Eleanor Darwin ([[23 September]] [[1842]]&ndash;[[16 October]] [[1842]])
+* Henrietta Emma "Etty" Darwin ([[25 September]] [[1843]]&ndash;[[1929]])
+* [[George Darwin|George Howard Darwin]] ([[9 July]] [[1845]]&ndash;[[7 December]] [[1912]])
+* [[Darwin — Wedgwood family|Elizabeth "Bessy" Darwin]] ([[8 July]] [[1847]]&ndash;[[1926]])
+* [[Francis Darwin]] ([[6 August]] [[1848]]&ndash;[[19 September]] [[1925]])
+* [[Leonard Darwin]] ([[15 January]] [[1850]]&ndash;[[26 March]] [[1943]])
+* [[Horace Darwin]] ([[13 May]] [[1851]]&ndash;[[29 September]] [[1928]])
+* [[Charles Waring Darwin]] ([[6 December]] [[1856]]&ndash;[[28 June]] [[1858]])
+
+Several of their children suffered illness or weaknesses, and Charles Darwin's fear that this might be due to the closeness of his and Emma's lineage was expressed in his writings on the ill effects of inbreeding and advantages of crossing.
+
+=== Development of theory === 
+{{main|Development of Darwin's theory}}
+
+Darwin was now an eminent geologist in the scientific élite of clerical naturalists, settled with a private income, while privately working on his theory. He had a vast amount of work to do, writing up all his findings and supervising the preparation of the multivolume ''Zoology'', which would describe his collections. He embarked on extensive experiments with plants and consultations with [[Animal husbandry|animal husbanders]], including pigeon and pig breeders, trying to find soundly based answers to all the arguments he anticipated when he presented his theory in public.
+
+When FitzRoy's account was published in May 1839, Darwin's ''Journal and Remarks'' was a great success. Later that year it was published on its own, becoming the bestseller today known as ''[[The Voyage of the Beagle]]''. In December 1839, as Emma's first pregnancy progressed, Darwin suffered more illness and accomplished little during the following year.
+
+Darwin tried to explain his theory to close friends, but they were slow to show interest and thought that selection must need a divine selector. In 1842 the family moved to rural [[Down House]] to escape the pressures of London. Darwin formulated a short "Pencil Sketch" of his theory, and by 1844 had written a 240-page "Essay" that expanded his early ideas on natural selection. Darwin completed his third ''Geological'' book in 1846. Assisted by his friend, the young botanist [[Joseph Dalton Hooker]], he embarked on a huge study of [[barnacles]]. In 1847, Hooker read the "Essay" and sent notes that provided Darwin with the calm critical feedback that he needed.
+
+Darwin feared putting the theory out in an incomplete form, as his ideas about evolution would be highly controversial if any attention was paid to them at all. Other ideas about evolution &mdash; especially the work of [[Jean-Baptiste Lamarck]] &mdash; had been soundly dismissed by the British scientific community, and were associated with  [[Radicalism (historical)|political radicalism]]. The anonymous publication of ''[[Vestiges of the Natural History of Creation]]'' in 1844 created another controversy over radicalism and evolution, and was severely attacked by Darwin's friends who stressed that no reputable scientist would want to be associated with such ideas.
+
+To try to deal with his illness, Darwin went to a spa in [[Great Malvern|Malvern]] in 1849, and to his surprise found that the two months of water treatment helped. In his work on barnacles he found "[[Homology (biology)|homologies]]" that supported his theory by showing that slightly changed body parts could serve different functions to meet new conditions. Then his treasured daughter Annie fell ill, reawakening his fears that his illness might be hereditary. After a long series of crises, she died and Darwin [[Problem of evil|lost all faith in a beneficent God]].
+
+He met the young freethinking naturalist [[Thomas Henry Huxley|Thomas Huxley]] who was to become a close friend and ally. Darwin's work on barnacles (''Cirripedia'') earned him the [[Royal Society]]'s Royal Medal in 1853, establishing his reputation as a [[biology|biologist]]. He completed this study in 1854 and turned his attention to his theory of species.
+
+=== Announcement and publication of theory ===
+[[Image:Charles Darwin aged 51.jpg|right|thumb|Darwin was forced into early publication of his theory of [[natural selection]].]]
+{{main|Publication of Darwin's theory}}
+Darwin found an answer to the problem of how [[genus|genera]] forked in an analogy with industrial ideas of division of labour, with specialised varieties each finding their niche so that species could diverge. He experimented with seeds, testing their ability to survive sea-water to transfer species to isolated islands, and bred pigeons to test his ideas of natural selection being comparable to the "artificial selection" used by pigeon breeders.
+
+In the spring of 1856, Lyell read a paper on the ''Introduction'' of species by [[Alfred Russel Wallace]], a naturalist working in [[Borneo]]. Lyell urged Darwin to publish his theory to establish precedence. Despite illness, Darwin began a 3-volume book titled ''Natural Selection'', getting specimens and information from naturalists including Wallace and [[Asa Gray]]. In December 1857 as Darwin worked on the book he received a letter from Wallace asking if it would delve into human origins. Sensitive to Lyell's fears, Darwin responded that "I think I shall avoid the whole subject, as so surrounded with prejudices, though I fully admit that it is the highest & most interesting problem for the naturalist." He encouraged Wallace's theorising, saying "without speculation there is no good & original observation."  Darwin added that "I go much further than you." His manuscript reached 250,000 words, then on [[18 June]] [[1858]] he received a paper in which Wallace described the evolutionary mechanism and requested him to send it on to Lyell. Darwin did so, shocked that he had been "forestalled". Though Wallace had not asked for publication, Darwin offered to send it to any journal that Wallace chose. He put matters in the hands of Lyell and Hooker. They agreed on a joint presentation at the [[Linnean Society of London|Linnean Society]] on [[1 July]] of ''[[On the Tendency of Species to form Varieties; and on the Perpetuation of Varieties and Species by Natural Means of Selection]]''. Darwin's infant son died and he was unable to attend.
+
+The initial announcement of the theory gained little immediate attention. It was mentioned briefly in a few small reviews, but to most people it seemed much the same as other varieties of [[evolutionism|evolutionary thought]]. For the next thirteen months Darwin suffered from ill health and struggled to produce an abstract of his "big book on species". Receiving constant encouragement from his scientific friends, Darwin finally finished his abstract and Lyell arranged to have it published by [[John Murray (publisher)|John Murray]]. The title was agreed as ''[[The Origin of Species|On the Origin of Species by Means of Natural Selection]]'', and when the book went on sale to the trade on [[22 November]] [[1859]], the stock of 1,250 copies was oversubscribed. At the time "Evolutionism" implied creation without divine intervention, and Darwin avoided using the words "evolution" or "evolve", though the book ends by stating that "endless forms most beautiful and most wonderful have been, and are being, evolved." The book only briefly alluded to the idea that human beings, too, would evolve in the same way as other organisms. Darwin wrote in deliberate understatement that "light will be thrown on the origin of man and his history."
+
+=== Reaction ===
+{{main|Reaction to Darwin's theory}}
+[[image:Darwin_ape.jpg|thumb|left|A typical satire was the later caricature in ''Hornet'' magazine portraying Darwin as a non-human ape.]]
+
+Darwin's book set off a public controversy which he monitored closely, keeping press cuttings of thousands of [[review]]s, [[essay|articles]], [[satire]]s, [[parody|parodies]] and [[caricature]]s. Reviewers were quick to pick out the unstated implications of "men from monkeys", though a [[Unitarian]] review was favourable and ''[[The Times]]'' published a glowing review by Huxley which included swipes at [[Richard Owen]], leader of the scientific establishment Huxley was trying to overthrow. Owen initially appeared neutral, but then wrote a review condemning the book.
+
+The [[Church of England]] scientific establishment including Darwin's old Cambridge tutors [[Adam Sedgwick|Sedgwick]] and  [[John Stevens Henslow|Henslow]]  reacted against the book, though it was well received by a younger generation of professional naturalists. Then ''[[Essays and Reviews]]'' by seven liberal [[Anglican]] theologians declared that miracles were irrational (and supported the ''Origin''), distracting attention away from Darwin.
+
+The most famous confrontation took place at a meeting of the [[British Association for the Advancement of Science]] in [[Oxford]]. Professor [[John William Draper]] delivered a long lecture about Darwin and social progress, then [[Samuel Wilberforce]], the [[Bishop]] of Oxford, argued against Darwin. In the ensuing debate [[Joseph Dalton Hooker|Joseph Hooker]] argued strongly for Darwin and [[Thomas Henry Huxley|Thomas Huxley]] established himself as "Darwin's bulldog" &ndash; the fiercest defender of evolutionary theory on the Victorian stage. The story is that on being asked by Wilberforce whether he was descended from [[monkey]]s on his grandfather's side or his grandmother's side, Huxley muttered: "The Lord has delivered him into my hands" and replied that he "would rather be descended from an ape than from a cultivated man who used his gifts of culture and eloquence in the service of prejudice and falsehood" (this is contested<ref>[http://users.ox.ac.uk/~jrlucas/legend.html Wilberforce and Huxley: A Legendary Encounter]</ref>). The story spread around the country: Huxley had said he would rather be an [[ape]] than a Bishop. 
+
+Many people felt that Darwin's view of nature destroyed the important distinction between man and beast. Darwin himself did not personally defend his theories in public, though he read eagerly about the continuing debates. He was frequently very ill, and mustered support through [[Correspondence of Charles Darwin|letters and correspondence]]. A core circle of scientific friends &ndash; Huxley, Hooker, [[Charles Lyell]] and [[Asa Gray]] &ndash; actively pushed his work to the fore of the scientific and public stage, defending him against his many critics in this key scientific controversy of the era, and helping to gain him the honour of the [[Royal Society]]'s Copley Medal in 1864. Darwin's theory also resonated with various movements at the time and became a key fixture of popular culture. The book was translated into many languages and went through numerous reprints. It became a staple scientific text accessible both to a newly curious middle class and to "working men", and was hailed as the most controversial and discussed scientific book ever written.
+
+=== Further experiments, research and writing ===
+{{main|Darwin from Orchids to Variation|Darwin from Descent of Man to Emotions|Darwin from Insectivorous plants to Worms}}
+[[Image:Charles Darwin by Julia Margaret Cameron.jpg|thumb|right|200px|[[Julia Margaret Cameron]]'s portrait of Darwin.]]
+Despite repeated bouts of illness during the last twenty-two years of his life Darwin pressed on with his work. He had published an abstract of his theory, but more controversial aspects of his "big book" were still incomplete. These included explicit evidence of humankind's descent from earlier animals, and exploration of possible causes underlying the development of society and of human mental abilities. He had yet to explain features with no obvious utility other than decorative beauty. His experiments, research and writing continued.
+
+When Darwin's daughter fell ill he set aside his experiments with seedlings and domestic animals to go with her to a seaside resort where he became interested in wild [[orchid]]s. This developed into an innovative study of how their beautiful flowers served to control insect pollination and ensure cross fertilisation. As with the barnacles, homologous parts served different functions in different species. Back at home he lay on his sickbed in a room filled with experiments on climbing plants. He was visited by a reverent [[Ernst Haeckel]] who had spread the gospel of ''Darwinismus'' in [[Germany]]. Even at Cambridge, students now supported his ideas. Huxley gave "working-men's lectures" to widen the audience, and Wallace remained a supporter but increasingly turned to [[spiritualism]]. ''Variation'' grew to two huge volumes, forcing him to leave out humankind and sexual selection, but when printed was in huge demand.
+[[image:Charles Darwin 1880.jpg|frame|left|200px|A classic image of Darwin in 1880, still researching and producing numerous books.]]
+The question of [[human evolution]] had been taken up by his supporters (and detractors) shortly after the publication of ''[[The Origin of Species]]'', but Darwin's own contribution to the subject came more than ten years later with the two-volume ''[[The Descent of Man, and Selection in Relation to Sex]]'' published in 1871. In the second volume, Darwin introduced in full his concept of [[sexual selection]] to explain the evolution of human culture, the differences between the human sexes, and the differentiation of human [[race]]s, as well as the beautiful (and seemingly non-adaptive) plumage of birds. A year later Darwin published his last major work, ''[[The Expression of the Emotions in Man and Animals]]'', which focused on the evolution of human psychology and its continuity with to the behaviour of animals. He developed his ideas that the human mind and cultures were developed by natural and sexual selection, an approach which has been revived in the last two decades with the emergence of [[evolutionary psychology]]. As he concluded in ''Descent of Man'', Darwin felt that despite all of humankind's "noble qualities" and "exalted powers":
+:''"Man still bears in his bodily frame the indelible stamp of his lowly origin."''
+
+His evolution-related experiments and investigations culminated in five books on plants, and then his last book returned to the effect worms have on soil levels. 
+
+Darwin died in Downe, [[Kent]], England, on [[19 April]] [[1882]]. He had expected to be buried in St Mary's churchyard at Downe, but at the request of Darwin's colleagues, [[William Spottiswoode]] ([[President]] of the [[Royal Society]]) arranged for Darwin to be given a [[state funeral]] and buried in [[Westminster Abbey]].
+
+== Religious views ==
+{{main|Charles Darwin's views on religion}}
+
+[[Image:Annie Darwin.jpg|frame|left|The 1851 death of Darwin's daughter, [[Anne Darwin|Annie]], was the final step in pushing an already doubting Darwin away from the idea of a beneficent God.]]
+
+Charles Darwin came from a [[Nonconformist]] background. Though several members of his family were [[Freethought|Freethinkers]], openly lacking conventional religious beliefs, he did not initially doubt the literal truth of the Bible. He attended a [[Church of England]] school, then at Cambridge studied [[Anglican]] theology to become a clergyman and was fully convinced by [[William Paley]]'s [[teleological argument]] that design in nature proved the existence of God. However, his beliefs began to shift during his time on board [[HMS Beagle|HMS ''Beagle'']]. He questioned what he saw&mdash;wondering, for example, at beautiful deep-ocean creatures created where no one could see them, and shuddering at the sight of a wasp paralysing caterpillars as live food for its eggs; he saw the latter as contradicting Paley's vision of beneficent design. While on the ''Beagle'' Darwin was quite [[orthodoxy|orthodox]] and would quote the Bible as an authority on morality, but had come to see the history in the [[Old Testament]] as being false and untrustworthy.
+
+Upon his return, he investigated [[transmutation of species]]. He knew that his clerical naturalist friends thought this a bestial heresy undermining miraculous justifications for the social order and knew that such revolutionary ideas were especially unwelcome at a time when the Church of England's established position was under attack from [[Radicalism (historical)|radical]] [[Dissenter]]s and [[atheism|atheists]]. While secretly developing his theory of [[natural selection]], Darwin even wrote of religion as a [[Tribe|tribal]] survival strategy, though he still believed that God was the ultimate lawgiver.<ref>[http://speakingoffaith.publicradio.org/programs/darwin/transcript.shtml SOF: Evolution and Wonder - Understanding Charles Darwin | Transcript of Radio Program - Speaking of Faith® from American Public Media]</ref> His belief continued to dwindle over the time, and with the death of his daughter [[Anne Darwin|Annie]] in 1851, Darwin finally lost all faith in Christianity. He continued to give support to the local church and help with parish work, but on Sundays would go for a walk while his family attended church. In later life, when asked about his religious views, he wrote that he had never been an [[atheism|atheist]] in the sense of denying the existence of a God, and that generally "an [[Agnosticism|Agnostic]] would be the more correct description of my state of mind."<ref>[[The Life and Letters of Charles Darwin]], Ch. VIII, p. 274.  New York, D. Appleton & Co., 1905 [http://pages.britishlibrary.net/charles.darwin/texts/letters/letters1_08.html]: quotation in which he describes himself as "agnostic"</ref>
+
+Charles Darwin recounted in his biography of his grandfather [[Erasmus Darwin]] how false stories were circulated claiming that Erasmus had called for Jesus on his deathbed. Charles concluded by writing "Such was the state of Christian feeling in this country [in 1802].... We may at least hope that nothing of the kind now prevails." Despite this hope, very similar stories were circulated following Darwin's own death, most prominently the "[[Elizabeth Hope|Lady Hope Story]]", published in [[1915]] which claimed he had converted on his sickbed.<ref>[http://www.talkorigins.org/faqs/hope.html The Darwin Deathbed Conversion Question]</ref> Such stories have been propagated by some Christian groups, to the extent of becoming [[urban legend]]s, though the claims were refuted by Darwin's children and have been dismissed as false by historians. His daughter, Henrietta, who was at his deathbed, said that he did not convert to Christianity.<ref>{{cite web | url=http://members.aol.com/mjsawyer/darwin.html | title=Did Darwin Die as a Christian? | accessdate=2006-06-13}}</ref>
+<br clear="both" />
+
+== Legacy ==
+[[Image:Charles_Darwin_1881.jpg|thumb|right|200px|Charles Darwin's contributions to evolutionary thought had an enormous effect on many fields of science.]]
+Charles Darwin's theory that evolution occurred through [[natural selection]] changed the thinking of countless fields of study from [[biology]] to [[anthropology]].  His work established that "evolution" had occurred: not necessarily that it was by natural or sexual selection (this particular recognition would not become fully standard until the rediscovery of [[Gregor Mendel]]'s work in the early 20th century and the creation of the [[modern synthesis]]). Others before him had outlined the idea of natural selection: in his lifetime Darwin acknowledged the earlier writings of [[William Charles Wells]] and [[Patrick Matthew]] which he (and practically all other naturalists) had been unaware of when publishing his theory. However, it is clear that Darwin was the first to develop and publish a [[theory#Characteristics|scientific theory]] of natural selection, and that the alleged predecessors did not contribute to the development or success of natural selection as a theory in science.
+
+Darwin's work was extremely controversial at the time he published it and many during his time did not take it seriously.  Evolution by natural selection proved to be a significant blow to notions of [[creationism|divine creation]] and [[intelligent design]] prevalent in [[19th-century]] science, specifically overturning the [[Creation biology]] doctrine of "[[created kind]]s". The idea that there was no line to be drawn between human beings, races, and animals would forever make Darwin a symbol of iconoclasm who removed humanity's privileged place in the universe. To some of his detractors, Darwin would be "the monkey man", often depicted as part ape. His ideas also stood in opposition to the more common beliefs at the time that the human races had developed separately or that one race was superior by virtue of biology than another.
+
+===Commemoration ===
+During Darwin's lifetime many species and geographical features were given his name, including the [[Darwin Sound]] named by [[Robert FitzRoy]] after Darwin's prompt action saved them from being marooned, and the nearby [[Mount Darwin (Andes)|Mount Darwin]] in the [[Andes]] celebrating Darwin's 25th birthday. When the [[HMS Beagle|''Beagle'']] was surveying [[Australia]] in 1839, Darwin's friend [[John Lort Stokes]] sighted a natural harbour which the ship's captain [[John Clements Wickham|Wickham]] named ''Port Darwin''.  The settlement of [[Palmerston, Northern Territory|Palmerston]] [[History of Darwin|founded there in 1869]] was officially renamed [[Darwin, Northern Territory|Darwin]] in 1911 and became the capital city of Australia's [[Northern Territory]], which also boasts [[Charles Darwin University]] and [[Charles Darwin National Park]]. 
+
+The 14 species of [[Finch]]es he researched in the [[Galápagos Islands]] are affectionately named "Darwin's Finches" in honour of his legacy. In [[1964]], [[Darwin College, Cambridge]] was founded, named in honour of the Darwin family, partially because they owned some of the land it was on. In [[1992]], Darwin was ranked #16 on [[Michael H. Hart]]'s [[The 100|list of the most influential figures in history]]. Darwin was given particular recognition in [[2000]] when his image appeared on the [[Bank of England]] [[British banknotes|ten pound note]], replacing [[Charles Dickens]]. His impressive, luxuriant beard (which was reportedly difficult to forge) was said to be a contributory factor to the bank's choice<ref>{{cite web | url = http://news.bbc.co.uk/1/hi/uk/1009901.stm | title = How to join the noteworthy | accessdate = 4 September | accessyear = 2006}}</ref>.  Darwin came fourth in the ''[[100 Greatest Britons]]'' poll sponsored by the [[BBC]] and voted for by the public.
+
+As a humorous celebration of evolution, the annual [[Darwin Awards|Darwin Award]] is bestowed on individuals who "aid the process of evolution by demonstrating their unfitness through fatally stupid actions."
+
+In [[2006]], he was featured in his own "Darwin" exhibition at the [[American Museum of Natural History]] in [[New York City]].
+
+===Eugenics ===
+Following Darwin's publication of the ''Origin'' his cousin [[Francis Galton]] applied the concepts to human society, producing ideas to promote "hereditary improvement" starting in [[1865]] and elaborated at length in [[1869]]. In ''[[The Descent of Man]]'' Darwin agreed that Galton had demonstrated that "talent" and "genius" in humans were probably inherited, but thought that the social changes Galton proposed were too "utopian". Neither Galton nor Darwin supported government intervention and instead believed that, at most, heredity should be taken into consideration by people seeking potential mates. In [[1883]], after Darwin's death, Galton began calling his social philosophy ''[[Eugenics]]''. In the [[twentieth century]], eugenics movements gained popularity in a number of countries and became associated with reproduction control programmes such as [[compulsory sterilization|compulsory sterilisation]] laws, then were stigmatised after their usage in the rhetoric of [[Nazi Germany]] in its goals of genetic "purity".
+
+===Social Darwinism ===
+{{main|Social Darwinism}}
+
+In [[1944]] the American historian [[Richard Hofstadter]] applied the term "[[Social Darwinism]]" to describe 19th- and 20th-century thinking developed from the ideas of [[Thomas Malthus]] and [[Herbert Spencer]], which applied ideas of evolution and "[[survival of the fittest]]" to societies or nations competing for survival in a hostile world. These ideas became discredited by association with [[racism]] and [[New Imperialism|imperialism]]. Though the term is anachronistic, in Darwin's day the difference between what was later called "Social Darwinism" and simple "[[Darwinism]]" was less clear. However, Darwin did not believe that his scientific theory mandated any particular theory of governance or social order. Indeed, he believed that sympathy should be extended to all races and nations.
+
+The use of the phrase "Social Darwinism" to describe Malthus's ideas is particularly disingenuous, since Malthus died in [[1834]] before the [[inception of Darwin's theory]] was spurred by his reading the 6th edition of Malthus' famous ''Essay on a Principle of Population'' in [[1838]]. Spencer's evolutionary "progressivism" and his social and political ideas were largely Malthusian, and his books on economics of [[1851]] and on evolution of [[1855]] predated Darwin's publication of the ''Origin'' in [[1859]].
+
+==Notes==
+<references />
+
+==Works==
+Sources of free e-books online:
+* Bibliography: [http://pages.britishlibrary.net/charles.darwin3/darwin_biblio.htm#primary Darwin Bibliography] (including alternative editions, contributions to books & periodicals, correspondence & life)
+
+Note: the dates given are generally the dates of the first editions. Darwin rewrote many part of his works significantly in subsequent editions, especially "The  Origin of Species and "The Descent of Man," and this will be discussed in the appropriate articles. (It has not yet been verified exactly what editions are being reproduced below)
+;Published works
+* 1836: ''A LETTER, Containing Remarks on the Moral State of TAHITI, NEW ZEALAND, &c. &ndash; BY CAPT. R. FITZROY AND C. DARWIN, ESQ. OF H.M.S. 'Beagle.''' [http://pages.britishlibrary.net/charles.darwin4/tahiti.html]
+* 1839: ''Journal and Remarks'' ([[The Voyage of the Beagle]])
+* ''Zoology of the Voyage of H.M.S. Beagle'':  published between [[1839]] and [[1843]] in five volumes by various authors, Edited and superintended by Charles Darwin: information on two of the volumes &ndash;
+: 1840: ''Part I. Fossil Mammalia'', by [[Richard Owen]] [http://pages.britishlibrary.net/charles.darwin3/zoology.html (Darwin's introduction)]
+: 1839: ''Part II. Mammalia'', by [[George Robert Waterhouse|George R. Waterhouse]] [http://pages.britishlibrary.net/charles.darwin3/zoology.html (Darwin on habits and ranges)]
+* 1842: ''The Structure and Distribution of Coral Reefs'' [http://digital.library.upenn.edu/webbin/gutbook/lookup?num=2690]
+* 1844: ''Geological Observations of Volcanic Islands'' [http://digital.library.upenn.edu/webbin/gutbook/lookup?num=3054], [http://charles-darwin.classic-literature.co.uk/observations-geologiques-sur-les-iles-volcaniques/ (French version)]
+* 1846: ''Geological Observations on South America'' [http://digital.library.upenn.edu/webbin/gutbook/lookup?num=3620]
+* 1849: ''Geology'' from ''A Manual of scientific enquiry; prepared for the use of Her Majesty's Navy: and adapted for travellers in general.'', John F.W. Herschel ed. [http://pages.britishlibrary.net/charles.darwin3/geology.html]
+* 1851: ''A Monograph of the Sub-class Cirripedia, with Figures of all the Species. The Lepadidae; or, Pedunculated Cirripedes.'' [http://pages.britishlibrary.net/charles.darwin4/liv_lepadidae/lepadidae01.html]
+* 1851: ''A Monograph on the Fossil Lepadidae; or, Pedunculated Cirripedes of Great Britain'' [http://pages.britishlibrary.net/charles.darwin4/fos_lepadidae/fos.lep.html]
+* 1854: ''A Monograph of the Sub-class Cirripedia, with Figures of all the Species. The Balanidae (or Sessile Cirripedes); the Verrucidae, etc.'' [http://pages.britishlibrary.net/charles.darwin4/liv_balanidae/balanidae_fm.html]
+* 1854: ''A Monograph on the Fossil Balanidæ and Verrucidæ of Great Britain'' [http://pages.britishlibrary.net/charles.darwin4/fos_balanidae/fos.balanidae.html]
+* 1858: ''[[On the Tendency of Species to form Varieties; and on the Perpetuation of Varieties and Species by Natural Means of Selection|On the Perpetuation of Varieties and Species by Natural Means of Selection]]''
+* 1859: ''[[The Origin of Species|On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life]]''
+* 1862: ''On the various contrivances by which British and foreign orchids are fertilised by insects'' [http://pages.britishlibrary.net/charles.darwin3/orchids/orchids_fm.htm]
+* 1868: ''Variation of Plants and Animals Under Domestication'' [http://www.esp.org/books/darwin/variation/facsimile/title3.html (PDF format)], [http://charles-darwin.classic-literature.co.uk/variation-of-animals-and-plants-under-domestication-v1/ Vol. 1], [http://charles-darwin.classic-literature.co.uk/variation-of-animals-and-plants-under-domestication-v2/ Vol. 2]
+* 1871: ''[[The Descent of Man, and Selection in Relation to Sex]]''
+* 1872: ''[[The Expression of Emotions in Man and Animals]]'' [http://charles-darwin.classic-literature.co.uk/the-expression-of-emotion-in-man-and-animals/]
+* 1875: ''Movement and Habits of Climbing Plants'' [http://digital.library.upenn.edu/webbin/gutbook/lookup?num=2485]
+* 1875: ''Insectivorous Plants'' [http://charles-darwin.classic-literature.co.uk/insectivorous-plants/]
+* 1876: ''The Effects of Cross and Self-Fertilisation in the Vegetable Kingdom'' [http://charles-darwin.classic-literature.co.uk/the-effects-of-cross-and-self-fertilisation/]
+* 1877: ''The Different Forms of Flowers on Plants of the Same Species'' [http://charles-darwin.classic-literature.co.uk/the-different-forms-of-flowers-on-plants/]
+* 1879: "Preface and 'a preliminary notice'" in Ernst Krause's ''Erasmus Darwin'' [http://pages.britishlibrary.net/charles.darwin3/erasmus.html]
+* 1880: ''The Power of Movement in Plants'' [http://charles-darwin.classic-literature.co.uk/the-power-of-movement-in-plants/]
+* 1881: ''The Formation of Vegetable Mould Through the Action of Worms'' [http://digital.library.upenn.edu/webbin/gutbook/lookup?num=2355] [http://books.google.com/books?ie=UTF-8&hl=en&vid=LCCN04010736&id=IHcQHUAXg3oC&pg=PA1&lpg=PA1&dq=Vegetable+Mould]
+* 1887: ''Autobiography of Charles Darwin'' (Edited by his son Francis Darwin) [http://digital.library.upenn.edu/webbin/gutbook/lookup?num=2010]
+* 1958: ''Autobiography of Charles Darwin'' (Barlow, unexpurgated)
+
+;Letters
+*[[Correspondence of Charles Darwin]]
+* 1887: ''Life and Letters of Charles Darwin'', (ed. [[Francis Darwin]]). [http://charles-darwin.classic-literature.co.uk/the-life-and-letters-of-charles-darwin-volume-i/ Volume I], [http://charles-darwin.classic-literature.co.uk/the-life-and-letters-of-charles-darwin-volume-ii/ Volume II] - [http://www.classic-literature.co.uk/ Classic Literature Library]  
+
+*[http://books.google.com/books?vid=OCLC01005177&id=iodTqIRzVukC&printsec=titlepage&dq=%22+Letters+of+Charles+Darwin%22 Volume 1] [http://books.google.com/books?vid=0lCwwwUxl6wncv&id=iyYGZ4YBJsUC&printsec=titlepage&dq=%22+Letters+of+Charles+Darwin%22 Volume 2] - [[Google Books]]
+* 1903: ''More Letters of Charles Darwin'', (ed. [[Francis Darwin]] and A.C. Seward). [http://charles-darwin.classic-literature.co.uk/more-letters-of-charles-darwin-volume-i/ Volume I], [http://charles-darwin.classic-literature.co.uk/more-letters-of-charles-darwin-volume-ii/ Volume II]
+
+== References ==
+*Charles Darwin, ''Voyage of the Beagle'', (including Robert FitzRoy's ''Remarks with reference to the Deluge''), (London: Penguin Books [[1989]]) ISBN 0-14-043268-X
+*[[E. Janet Browne]], ''Charles Darwin: vol. 1 Voyaging'' and ''vol. 2 The Power of Place'' (London: Jonathan Cape, 1995-2002). ISBN 1-8441-3314-1 and ISBN 0-7126-6837-3
+*Adrian Desmond and James Moore, ''Darwin'' (London: Michael Joseph, the Penguin Group, [[1991]]). ISBN 0-7181-3430-3
+*[[Richard Keynes]], ''Fossils, Finches and Fuegians: Charles Darwin's Adventures and Discoveries on the Beagle, 1832-1836''. ( London: HarperCollins, 2002) ISBN 0-00-710189-9.
+* James Moore and Adrian Desmond, "Introduction", in ''The Descent of Man, and Selection in Relation to Sex'' (London: Penguin Classics, 2004). (Detailed history of Darwin's views on race, sex, and class)
+*Diane B. Paul, "Darwin, social Darwinism and eugenics," in Jonathan Hodge and Gregory Radick, eds., ''The Cambridge Companion to Darwin'' (Cambridge, England: Cambridge University Press, 2003), 214-239.
+
+==External links==
+{{sisterlinks|Charles Darwin}}
+*[http://speakingoffaith.org/programs/darwin/index.shtml Speaking of Faith: Evolution and Wonder - Understanding Charles Darwin] radio program featuring biographer [[James Moore (biographer)|James Moore]] and high-res, zoomable images of Darwin's private transmutation and metaphysical notebooks
+*[http://www.orchids.co.in/orchidologists/charles-robert-darwin.shtm Charles Robert Darwin] Darwin's work on orchids
+*John van Wyhe ed., [http://pages.britishlibrary.net/charles.darwin/ Writings of Charles Darwin on the Web]
+*[http://darwin-online.org.uk/ The Complete Work of Charles Darwin Online]
+*[http://www.darwinproject.ac.uk/ Darwin Correspondence Project]
+*[http://darwinlibrary.amnh.org/ The Darwin Digital Library of Evolution]
+*[http://www.darwinisme.org/ Institut Charles Darwin International]
+*[http://www.aboutdarwin.com AboutDarwin.com]
+*[http://www.amnh.org/exhibitions/darwin/ Darwin] - at the [[American Museum of Natural History]]
+*[http://www.gruts.com/darwin/index.php The Friends of Charles Darwin]
+*[http://www.bankofengland.co.uk/banknotes/current/darwin.htm Darwin's portrait on the £10 note]
+*[http://www.npg.org.uk/live/search/person.asp?search=ss&sText=Charles+Darwin&LinkID=mp01196 Twelve different portraits of Charles Darwin at the National Portrait Gallery, U.K.]
+*[http://news.bbc.co.uk/1/hi/sci/tech/4607037.stm BBC News: "Darwin family repeat flower count"]
+*[http://www-personal.umich.edu/~jbourj/money4.htm Charles Darwin on the 10 British Pound banknote]
+*[http://www.rationalrevolution.net/articles/darwin_nazism.htm The Mis-portrayal of Darwin as a Racist]
+*[http://www.botanicus.org/creator.asp?creatorid=93 View digitized titles by Charles Darwin in ''Botanicus.org'']
+
+==See also==
+* [[Darwin Awards]]
+* [[Shrewsbury]] Birthplace of Darwin
+* [[Evolution]]
+* [[Darwin's Frog]] &ndash; a species of Frog named after Charles Darwin.
+* [[Harriet]] &ndash; a Galápagos tortoise, possibly collected by Darwin; died [[23 June]] [[2006]] at an estimated age of 175.
+* [[Patrick Matthew]] &ndash; an amateur evolutionary theorist and contemporary of Darwin.
+* [[Randal Keynes]] &ndash; the great-great grandson of Charles Darwin who wrote a book about him, his daughter, and human evolution
+
+{{Darwin}}
+{{evolution}}
+
+{{Persondata
+|NAME=Darwin, Charles Robert
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION=English naturalist, evolutionary biologist
+|DATE OF BIRTH=[[February 12]], [[1809]]
+|PLACE OF BIRTH=[[Mount House]], [[Shrewsbury]], [[Shropshire]], [[England]]
+|DATE OF DEATH=[[April 19]], [[1892]]
+|PLACE OF DEATH=[[Down House]], [[Downe]], [[Kent]], [[England]]
+}}
+
+
+[[Category:Charles Darwin|*]]
+[[Category:Evolutionary biologists|Darwin, Charles]]
+[[Category:English naturalists|Darwin, Charles]]
+[[Category:English geologists|Darwin, Charles]]
+[[Category:Carcinologists|Darwin, Charles]]
+[[Category:Coleopterists|Darwin, Charles]]
+[[Category:Ethologists|Darwin, Charles]]
+[[Category:English scientists|Darwin, Charles]]
+[[Category:English travel writers|Darwin, Charles]]
+[[Category:Fellows of the Royal Society|Darwin, Charles]]
+[[Category:Old Salopians|Darwin, Charles]]
+[[Category:University of Edinburgh alumni|Darwin, Charles]]
+[[Category:Alumni of Christ's College, Cambridge|Darwin, Charles]]
+[[Category:English agnostics|Darwin, Charles]]
+[[Category:English Anglicans|Darwin, Charles]]
+[[Category:English Unitarians|Darwin, Charles]]
+[[Category:Darwin — Wedgwood family|Darwin, Charles]]
+[[Category:Natives of Shropshire|Darwin, Charles]]
+[[Category:1809 births|Darwin, Charles]]
+[[Category:1882 deaths|Darwin, Charles]]
+
+[[Category:CZ Live]]
+
+
+
+[[ar:تشارلز داروين]]
+[[ast:Charles Darwin]]
+[[az:Çarlz Robert Darvin]]
+[[bg:Чарлз Дарвин]]
+[[bn:চার্ল্‌স্‌ ডারউইন]]
+[[bs:Charles Darwin]]
+[[ca:Charles Robert Darwin]]
+[[cs:Charles Darwin]]
+[[cy:Charles Darwin]]
+[[da:Charles Darwin]]
+[[de:Charles Darwin]]
+[[et:Charles Darwin]]
+[[el:Κάρολος Δαρβίνος]]
+[[es:Charles Darwin]]
+[[eo:Charles Darwin]]
+[[eu:Charles Darwin]]
+[[fa:چارلز داروین]]
+[[fr:Charles Darwin]]
+[[fy:Charles Darwin]]
+[[ga:Charles Darwin]]
+[[gd:Charles Darwin]]
+[[gl:Charles Darwin]]
+[[ko:찰스 다윈]]
+[[hi:चार्ल्स डार्विन]]
+[[hr:Charles Darwin]]
+[[io:Charles Darwin]]
+[[id:Charles Darwin]]
+[[is:Charles Darwin]]
+[[it:Charles Darwin]]
+[[he:צ'ארלס דרווין]]
+[[kn:ಚಾರ್ಲ್ಸ್ ಡಾರ್ವಿನ್]]
+[[ku:Charles Darwin]]
+[[la:Carolus Darwin]]
+[[lv:Čārlzs Darvins]]
+[[lt:Čarlzas Darvinas]]
+[[lb:Charles Darwin]]
+[[hu:Charles Darwin]]
+[[mk:Чарлс Дарвин]]
+[[mr:चार्ल्स डार्विन]]
+[[ms:Charles Darwin]]
+[[nl:Charles Darwin]]
+[[ja:チャールズ・ダーウィン]]
+[[no:Charles Darwin]]
+[[nn:Charles Darwin]]
+[[oc:Charles Darwin]]
+[[pl:Charles Darwin]]
+[[pt:Charles Darwin]]
+[[ro:Charles Darwin]]
+[[ru:Дарвин, Чарлз Роберт]]
+[[sco:Charles Darwin]]
+[[sq:Charles Darwin]]
+[[sh:Čarls Darvin]]
+[[scn:Charles Darwin]]
+[[simple:Charles Darwin]]
+[[sk:Charles Robert Darwin]]
+[[sl:Charles Darwin]]
+[[sr:Чарлс Дарвин]]
+[[fi:Charles Darwin]]
+[[sv:Charles Darwin]]
+[[tl:Charles Darwin]]
+[[tg:Чарлз Дарвин]]
+[[ta:சார்லஸ் டார்வின்]]
+[[th:ชาลส์ ดาร์วิน]]
+[[vi:Charles Darwin]]
+[[tr:Charles Darwin]]
+[[uk:Дарвін Чарльз Роберт]]
+[[yi:טשארלס דארווין]]
+[[zh:查尔斯·罗伯特·达尔文]]
