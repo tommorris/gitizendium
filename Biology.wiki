@@ -36,12 +36,27 @@ Major discoveries in biology include:
 * [[Evolution]]
 * [[DNA]]
 
-==Distinct Academic Disciplines within Biology (Partial List)==
+==Disciplines within biology ==
+{{main|List of biology disciplines}}
+
 *[[Anatomy]]: The study of structure
 *[[Biochemistry]]: The chemistry of living things is a field of both biology and chemistry
 *[[Cell Biology]]: The study of the components of cells
 *[[Genetics]]: The study of the inheritance of characteristics, genes and DNA
 *[[Marine Biology]]: The study of life in the seas and oceans
+*[[Behavior]]:
+*[[Biodiversity]]: 
+*[[Biogeography]]:
+*[[Botany]]: 
+*[[Developmental biology]]:
+*[[Ecology]]:
+*[[Ethology]]:
+*[[Evolutionary biology]]: 
+*[[Molecular biology]]:
+*[[Physiology]]:
+*[[Zoology]]:
+
+{{biology-footer}}
 
 ==Selected External links==
 The following links have been reviewed and are recommended because, ''at the time of their inclusion'', they provided accurate information and portals to additional excellent web resources . Many other excellent links have been omitted through no fault of their own. 
