@@ -28,13 +28,39 @@ The features of plants and animals have often been understood on an entirely dif
 As with every important technological advance in biology, the use of the microsocope led to new ideas about living things. The concept that tissues were composed of cells was clarified, the entire field of microbiology was born, and the ground was prepared for the germ theory of disease, an idea that helped bring the traditional practice of western [[medicine]] (sometimes called [[allopathy]]) into the field of [[health science]] and modern medicine.
 
 
+== Classification ==
+The evolutionary trees ([[phylogenetic tree]]s) of the organism being classified.  Classification is the province of the disciplines of [[systematics]] and [[alpha taxonomy|taxonomy]].   Taxonomy places organisms in groups called [[taxa]], while systematics seeks to define their relationships with each other. This classification technique has evolved to reflect advances in [[cladistics]] and [[genetics]], shifting the focus from physical similarities and shared characteristics to [[phylogenetics]].
 
+Traditionally, living things have been divided into five kingdoms:
+
+:[[Monera]] -- [[Protist]]a -- [[Fungus|Fungi]] -- [[Plant]]ae -- [[Animal]]ia
+
+However, many scientists now consider this five-kingdom system to be outdated. Modern alternative classification systems generally begin with the [[three-domain system]]:
+
+:[[Archaea]] (originally Archaebacteria) -- [[Bacterium|Bacteria]] (originally Eubacteria) -- [[Eukaryote|Eukaryota]]
+
+These domains reflect whether the cells have nuclei or not, as well as differences in the cell exteriors. 
+
+Further, each kingdom is broken down continuously until each species is separately classified. The order is 1) Kingdom, 2) Phylum, 3) Class, 4) Order, 5) Family, 6) Genus, 7) Species. The scientific name of an organism is obtained from its Genus and Species. For example, humans would be listed as ''Homo sapiens''. Homo would be the Genus and Sapiens is the species. Whenever writing the scientific name of an organism it is proper to capitalize the first letter in the genus and put all of the species in lowercase; in addition the entire term would be put in italics. The term used for classification is called Taxonomy.
+
+There is also a series of intracellular [[parasite]]s that are progressively "less alive" in terms of [[metabolism|metabolic]] activity:
+
+:[[virus (biology)|Viruses]] -- [[Viroid]]s -- [[Prion]]s
+
+
+==Main topics and discoveries==
+{{main|List of biology topics}}
+*[[Evolution]]
+*[[Common descent]]
+*[[Homeostasis]]
 Major discoveries in biology include:
 * [[Cell theory]]
 * [[Germ theory of disease]]
 * [[Genetics]]
 * [[Evolution]]
 * [[DNA]]
+
+[[Category:Biology| ]]
 
 ==Disciplines within biology ==
 {{main|List of biology disciplines}}
