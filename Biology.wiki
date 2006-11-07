@@ -29,13 +29,15 @@ As with every important technological advance in biology, the use of the microso
 
 
 == Classification ==
-The evolutionary trees ([[phylogenetic tree]]s) of the organism being classified.  Classification is the province of the disciplines of [[systematics]] and [[alpha taxonomy|taxonomy]].   Taxonomy places organisms in groups called [[taxa]], while systematics seeks to define their relationships with each other. This classification technique has evolved to reflect advances in [[cladistics]] and [[genetics]], shifting the focus from physical similarities and shared characteristics to [[phylogenetics]].
+Classification is the province of the disciplines of [[systematics]] and [[alpha taxonomy|taxonomy]].   Taxonomy places organisms in groups called [[taxa]], while systematics seeks to define their relationships with each other. This classification technique has evolved to reflect advances in [[cladistics]] and [[genetics]], shifting the focus from physical similarities and shared characteristics to [[phylogenetics]].
+
+The dominant classification system is called [[Linnaean taxonomy]], which includes ranks and [[binomial nomenclature]]. How organisms are named is governed by international agreements such as the [[International Code of Botanical Nomenclature]] (ICBN), the [[International Code of Zoological Nomenclature]] (ICZN), and the [[International Code of Nomenclature of Bacteria]] (ICNB). The PhyloCode is a formal set of rules governing phylogenetic nomenclature that is being established as an attempt to standardize naming in these three areas<ref>[http://www.ohiou.edu/phylocode/index.html Phylocode] outlines nomenclature that is designed to name the parts of the tree of life by explicit reference to phylogeny.</ref>.  The [[Virus classification|Virus cInternational Code of Virus Classification and Nomenclature]] (ICVCN) remains outside the BioCode.
 
 Traditionally, living things have been divided into five kingdoms:
 
 :[[Monera]] -- [[Protist]]a -- [[Fungus|Fungi]] -- [[Plant]]ae -- [[Animal]]ia
 
-However, many scientists now consider this five-kingdom system to be outdated. Modern alternative classification systems generally begin with the [[three-domain system]]:
+However, many scientists now consider this five-kingdom system to be outdated. Modern alternative classification systems generally begin with the [[three-domain system]]<ref>[http://tolweb.org/tree/phylogeny.html Tree of Life Web Project] (ToL) is a collaborative effort of biologists from around the world. </ref>:
 
 :[[Archaea]] (originally Archaebacteria) -- [[Bacterium|Bacteria]] (originally Eubacteria) -- [[Eukaryote|Eukaryota]]
 
@@ -46,7 +48,6 @@ Further, each kingdom is broken down continuously until each species is separate
 There is also a series of intracellular [[parasite]]s that are progressively "less alive" in terms of [[metabolism|metabolic]] activity:
 
 :[[virus (biology)|Viruses]] -- [[Viroid]]s -- [[Prion]]s
-
 
 ==Main topics and discoveries==
 {{main|List of biology topics}}
