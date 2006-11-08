@@ -41,7 +41,7 @@ Three native missionaries were returned by the ''Beagle'' to [[Tierra del Fuego]
 
 While on board the ship, Darwin suffered from seasickness. In October 1833 he caught a fever in Argentina, and in July 1834, while returning from the Andes down to [[Valparaíso]], he fell ill and spent a month in bed. From 1837 onwards Darwin was repeatedly incapacitated with episodes of stomach pains, vomiting, severe boils, palpitations, trembling and other symptoms. These symptoms particularly affected him at times of stress, such as when attending meetings or dealing with controversy over his theory. The cause of [[Charles Darwin's illness|Darwin's illness]] was unknown during his lifetime, and attempts at treatment had little success. Recent speculation has suggested he caught [[Chagas disease]] from insect bites in South America, leading to the later problems. Other possible causes include psychobiological problems and [[Ménière's disease]].
 
-=== Career in science, inception of theory ===
+===Career in science, inception of theory===
 {{main|Inception of Darwin's theory}}
 [[Image:Charles_Darwin_by_G._Richmond.jpg|thumb|left|While still a young man, Charles Darwin joined the scientific élite.]]
 
@@ -61,26 +61,26 @@ Fully recuperated, he returned home to Shrewsbury. Scientifically pondering his 
 
 Darwin considered [[Thomas Malthus|Malthus's]] argument that human population increases more quickly than food production, leaving people competing for food and making charity useless. He later formulated this in the terms of his biological theory as: "Man tends to increase at a greater rate than his means of subsistence; consequently he is occasionally subjected to a severe struggle for existence, and natural selection will have effected whatever lies within its scope." (''Descent of Man'', Ch.21) He related this to the findings about species relating to localities, his enquiries into animal breeding, and ideas of Natural "laws of harmony". Towards the end of November 1838 he compared breeders selecting traits to a Malthusian Nature selecting from variants thrown up by "chance" so that "every part of newly acquired structure is fully practised and perfected", and thought this "the most beautiful part of my theory" of how species originated. He went house-hunting and eventually found "Macaw Cottage" in Gower Street, London, then moved his "museum" in over Christmas. He was showing the stress, and Emma wrote urging him to get some rest, almost prophetically remarking "So don't be ill any more my dear Charley till I can be with you to nurse you." On [[24 January]] [[1839]] he was honoured by being elected as Fellow of the [[Royal Society]] and presented his paper on the Roads of Glen Roy.
 
-=== Marriage and children ===
+===Marriage and children===
 [[Image:Charles and William Darwin.jpg|thumb|185px|Darwin in 1842 with his eldest son, [[Darwin — Wedgwood family|William Erasmus Darwin]].]]
 
 On [[29 January]] [[1839]], Darwin married his cousin [[Emma Darwin|Emma Wedgwood]] at Maer in an [[Anglican]] ceremony arranged to also suit the [[Unitarian]]s.
 After first living in [[Gower Street (London)|Gower Street]], [[London]], the couple moved on [[17 September]] [[1842]] to [[Down House]] in [[Downe]]. The Darwins had ten children, three of whom died early.  Many of his surviving children and their grandchildren would later achieve notability themselves (see [[Darwin — Wedgwood family]])
 
-* William Erasmus Darwin ([[27 December]] [[1839]]&ndash;[[1914]])
-* [[Anne Darwin|Anne Elizabeth Darwin]] ([[2 March]] [[1841]]&ndash;[[22 April]] [[1851]])
-* Mary Eleanor Darwin ([[23 September]] [[1842]]&ndash;[[16 October]] [[1842]])
-* Henrietta Emma "Etty" Darwin ([[25 September]] [[1843]]&ndash;[[1929]])
-* [[George Darwin|George Howard Darwin]] ([[9 July]] [[1845]]&ndash;[[7 December]] [[1912]])
-* [[Darwin — Wedgwood family|Elizabeth "Bessy" Darwin]] ([[8 July]] [[1847]]&ndash;[[1926]])
-* [[Francis Darwin]] ([[6 August]] [[1848]]&ndash;[[19 September]] [[1925]])
-* [[Leonard Darwin]] ([[15 January]] [[1850]]&ndash;[[26 March]] [[1943]])
-* [[Horace Darwin]] ([[13 May]] [[1851]]&ndash;[[29 September]] [[1928]])
-* [[Charles Waring Darwin]] ([[6 December]] [[1856]]&ndash;[[28 June]] [[1858]])
+*William Erasmus Darwin ([[27 December]] [[1839]]&ndash;[[1914]])
+*[[Anne Darwin|Anne Elizabeth Darwin]] ([[2 March]] [[1841]]&ndash;[[22 April]] [[1851]])
+*Mary Eleanor Darwin ([[23 September]] [[1842]]&ndash;[[16 October]] [[1842]])
+*Henrietta Emma "Etty" Darwin ([[25 September]] [[1843]]&ndash;[[1929]])
+*[[George Darwin|George Howard Darwin]] ([[9 July]] [[1845]]&ndash;[[7 December]] [[1912]])
+*[[Darwin — Wedgwood family|Elizabeth "Bessy" Darwin]] ([[8 July]] [[1847]]&ndash;[[1926]])
+*[[Francis Darwin]] ([[6 August]] [[1848]]&ndash;[[19 September]] [[1925]])
+*[[Leonard Darwin]] ([[15 January]] [[1850]]&ndash;[[26 March]] [[1943]])
+*[[Horace Darwin]] ([[13 May]] [[1851]]&ndash;[[29 September]] [[1928]])
+*[[Charles Waring Darwin]] ([[6 December]] [[1856]]&ndash;[[28 June]] [[1858]])
 
 Several of their children suffered illness or weaknesses, and Charles Darwin's fear that this might be due to the closeness of his and Emma's lineage was expressed in his writings on the ill effects of inbreeding and advantages of crossing.
 
-=== Development of theory === 
+===Development of theory=== 
 {{main|Development of Darwin's theory}}
 
 Darwin was now an eminent geologist in the scientific élite of clerical naturalists, settled with a private income, while privately working on his theory. He had a vast amount of work to do, writing up all his findings and supervising the preparation of the multivolume ''Zoology'', which would describe his collections. He embarked on extensive experiments with plants and consultations with [[Animal husbandry|animal husbanders]], including pigeon and pig breeders, trying to find soundly based answers to all the arguments he anticipated when he presented his theory in public.
@@ -95,7 +95,7 @@ To try to deal with his illness, Darwin went to a spa in [[Great Malvern|Malvern
 
 He met the young freethinking naturalist [[Thomas Henry Huxley|Thomas Huxley]] who was to become a close friend and ally. Darwin's work on barnacles (''Cirripedia'') earned him the [[Royal Society]]'s Royal Medal in 1853, establishing his reputation as a [[biology|biologist]]. He completed this study in 1854 and turned his attention to his theory of species.
 
-=== Announcement and publication of theory ===
+===Announcement and publication of theory===
 [[Image:Charles Darwin aged 51.jpg|right|thumb|Darwin was forced into early publication of his theory of [[natural selection]].]]
 {{main|Publication of Darwin's theory}}
 Darwin found an answer to the problem of how [[genus|genera]] forked in an analogy with industrial ideas of division of labour, with specialised varieties each finding their niche so that species could diverge. He experimented with seeds, testing their ability to survive sea-water to transfer species to isolated islands, and bred pigeons to test his ideas of natural selection being comparable to the "artificial selection" used by pigeon breeders.
@@ -104,7 +104,7 @@ In the spring of 1856, Lyell read a paper on the ''Introduction'' of species by 
 
 The initial announcement of the theory gained little immediate attention. It was mentioned briefly in a few small reviews, but to most people it seemed much the same as other varieties of [[evolutionism|evolutionary thought]]. For the next thirteen months Darwin suffered from ill health and struggled to produce an abstract of his "big book on species". Receiving constant encouragement from his scientific friends, Darwin finally finished his abstract and Lyell arranged to have it published by [[John Murray (publisher)|John Murray]]. The title was agreed as ''[[The Origin of Species|On the Origin of Species by Means of Natural Selection]]'', and when the book went on sale to the trade on [[22 November]] [[1859]], the stock of 1,250 copies was oversubscribed. At the time "Evolutionism" implied creation without divine intervention, and Darwin avoided using the words "evolution" or "evolve", though the book ends by stating that "endless forms most beautiful and most wonderful have been, and are being, evolved." The book only briefly alluded to the idea that human beings, too, would evolve in the same way as other organisms. Darwin wrote in deliberate understatement that "light will be thrown on the origin of man and his history."
 
-=== Reaction ===
+===Reaction===
 {{main|Reaction to Darwin's theory}}
 [[image:Darwin_ape.jpg|thumb|left|A typical satire was the later caricature in ''Hornet'' magazine portraying Darwin as a non-human ape.]]
 
@@ -116,7 +116,7 @@ The most famous confrontation took place at a meeting of the [[British Associati
 
 Many people felt that Darwin's view of nature destroyed the important distinction between man and beast. Darwin himself did not personally defend his theories in public, though he read eagerly about the continuing debates. He was frequently very ill, and mustered support through [[Correspondence of Charles Darwin|letters and correspondence]]. A core circle of scientific friends &ndash; Huxley, Hooker, [[Charles Lyell]] and [[Asa Gray]] &ndash; actively pushed his work to the fore of the scientific and public stage, defending him against his many critics in this key scientific controversy of the era, and helping to gain him the honour of the [[Royal Society]]'s Copley Medal in 1864. Darwin's theory also resonated with various movements at the time and became a key fixture of popular culture. The book was translated into many languages and went through numerous reprints. It became a staple scientific text accessible both to a newly curious middle class and to "working men", and was hailed as the most controversial and discussed scientific book ever written.
 
-=== Further experiments, research and writing ===
+===Further experiments, research and writing===
 {{main|Darwin from Orchids to Variation|Darwin from Descent of Man to Emotions|Darwin from Insectivorous plants to Worms}}
 [[Image:Charles Darwin by Julia Margaret Cameron.jpg|thumb|right|200px|[[Julia Margaret Cameron]]'s portrait of Darwin.]]
 Despite repeated bouts of illness during the last twenty-two years of his life Darwin pressed on with his work. He had published an abstract of his theory, but more controversial aspects of his "big book" were still incomplete. These included explicit evidence of humankind's descent from earlier animals, and exploration of possible causes underlying the development of society and of human mental abilities. He had yet to explain features with no obvious utility other than decorative beauty. His experiments, research and writing continued.
@@ -130,7 +130,7 @@ His evolution-related experiments and investigations culminated in five books on
 
 Darwin died in Downe, [[Kent]], England, on [[19 April]] [[1882]]. He had expected to be buried in St Mary's churchyard at Downe, but at the request of Darwin's colleagues, [[William Spottiswoode]] ([[President]] of the [[Royal Society]]) arranged for Darwin to be given a [[state funeral]] and buried in [[Westminster Abbey]].
 
-== Religious views ==
+==Religious views==
 {{main|Charles Darwin's views on religion}}
 
 [[Image:Annie Darwin.jpg|frame|left|The 1851 death of Darwin's daughter, [[Anne Darwin|Annie]], was the final step in pushing an already doubting Darwin away from the idea of a beneficent God.]]
@@ -142,7 +142,7 @@ Upon his return, he investigated [[transmutation of species]]. He knew that his 
 Charles Darwin recounted in his biography of his grandfather [[Erasmus Darwin]] how false stories were circulated claiming that Erasmus had called for Jesus on his deathbed. Charles concluded by writing "Such was the state of Christian feeling in this country [in 1802].... We may at least hope that nothing of the kind now prevails." Despite this hope, very similar stories were circulated following Darwin's own death, most prominently the "[[Elizabeth Hope|Lady Hope Story]]", published in [[1915]] which claimed he had converted on his sickbed.<ref>[http://www.talkorigins.org/faqs/hope.html The Darwin Deathbed Conversion Question]</ref> Such stories have been propagated by some Christian groups, to the extent of becoming [[urban legend]]s, though the claims were refuted by Darwin's children and have been dismissed as false by historians. His daughter, Henrietta, who was at his deathbed, said that he did not convert to Christianity.<ref>{{cite web | url=http://members.aol.com/mjsawyer/darwin.html | title=Did Darwin Die as a Christian? | accessdate=2006-06-13}}</ref>
 <br clear="both" />
 
-== Legacy ==
+==Legacy==
 [[Image:Charles_Darwin_1881.jpg|thumb|right|200px|Charles Darwin's contributions to evolutionary thought had an enormous effect on many fields of science.]]
 Charles Darwin's theory that evolution occurred through [[natural selection]] changed the thinking of countless fields of study from [[biology]] to [[anthropology]].  His work established that "evolution" had occurred: not necessarily that it was by natural or sexual selection (this particular recognition would not become fully standard until the rediscovery of [[Gregor Mendel]]'s work in the early 20th century and the creation of the [[modern synthesis]]). Others before him had outlined the idea of natural selection: in his lifetime Darwin acknowledged the earlier writings of [[William Charles Wells]] and [[Patrick Matthew]] which he (and practically all other naturalists) had been unaware of when publishing his theory. However, it is clear that Darwin was the first to develop and publish a [[theory#Characteristics|scientific theory]] of natural selection, and that the alleged predecessors did not contribute to the development or success of natural selection as a theory in science.
 
@@ -157,10 +157,10 @@ As a humorous celebration of evolution, the annual [[Darwin Awards|Darwin Award]
 
 In [[2006]], he was featured in his own "Darwin" exhibition at the [[American Museum of Natural History]] in [[New York City]].
 
-===Eugenics ===
+===Eugenics===
 Following Darwin's publication of the ''Origin'' his cousin [[Francis Galton]] applied the concepts to human society, producing ideas to promote "hereditary improvement" starting in [[1865]] and elaborated at length in [[1869]]. In ''[[The Descent of Man]]'' Darwin agreed that Galton had demonstrated that "talent" and "genius" in humans were probably inherited, but thought that the social changes Galton proposed were too "utopian". Neither Galton nor Darwin supported government intervention and instead believed that, at most, heredity should be taken into consideration by people seeking potential mates. In [[1883]], after Darwin's death, Galton began calling his social philosophy ''[[Eugenics]]''. In the [[twentieth century]], eugenics movements gained popularity in a number of countries and became associated with reproduction control programmes such as [[compulsory sterilization|compulsory sterilisation]] laws, then were stigmatised after their usage in the rhetoric of [[Nazi Germany]] in its goals of genetic "purity".
 
-===Social Darwinism ===
+===Social Darwinism===
 {{main|Social Darwinism}}
 
 In [[1944]] the American historian [[Richard Hofstadter]] applied the term "[[Social Darwinism]]" to describe 19th- and 20th-century thinking developed from the ideas of [[Thomas Malthus]] and [[Herbert Spencer]], which applied ideas of evolution and "[[survival of the fittest]]" to societies or nations competing for survival in a hostile world. These ideas became discredited by association with [[racism]] and [[New Imperialism|imperialism]]. Though the term is anachronistic, in Darwin's day the difference between what was later called "Social Darwinism" and simple "[[Darwinism]]" was less clear. However, Darwin did not believe that his scientific theory mandated any particular theory of governance or social order. Indeed, he believed that sympathy should be extended to all races and nations.
@@ -212,7 +212,7 @@ Note: the dates given are generally the dates of the first editions. Darwin rewr
 *[http://books.google.com/books?vid=OCLC01005177&id=iodTqIRzVukC&printsec=titlepage&dq=%22+Letters+of+Charles+Darwin%22 Volume 1] [http://books.google.com/books?vid=0lCwwwUxl6wncv&id=iyYGZ4YBJsUC&printsec=titlepage&dq=%22+Letters+of+Charles+Darwin%22 Volume 2] - [[Google Books]]
 * 1903: ''More Letters of Charles Darwin'', (ed. [[Francis Darwin]] and A.C. Seward). [http://charles-darwin.classic-literature.co.uk/more-letters-of-charles-darwin-volume-i/ Volume I], [http://charles-darwin.classic-literature.co.uk/more-letters-of-charles-darwin-volume-ii/ Volume II]
 
-== References ==
+==References==
 *Charles Darwin, ''Voyage of the Beagle'', (including Robert FitzRoy's ''Remarks with reference to the Deluge''), (London: Penguin Books [[1989]]) ISBN 0-14-043268-X
 *[[E. Janet Browne]], ''Charles Darwin: vol. 1 Voyaging'' and ''vol. 2 The Power of Place'' (London: Jonathan Cape, 1995-2002). ISBN 1-8441-3314-1 and ISBN 0-7126-6837-3
 *Adrian Desmond and James Moore, ''Darwin'' (London: Michael Joseph, the Penguin Group, [[1991]]). ISBN 0-7181-3430-3
@@ -240,13 +240,13 @@ Note: the dates given are generally the dates of the first editions. Darwin rewr
 *[http://www.botanicus.org/creator.asp?creatorid=93 View digitized titles by Charles Darwin in ''Botanicus.org'']
 
 ==See also==
-* [[Darwin Awards]]
-* [[Shrewsbury]] Birthplace of Darwin
-* [[Evolution]]
-* [[Darwin's Frog]] &ndash; a species of Frog named after Charles Darwin.
-* [[Harriet]] &ndash; a Galápagos tortoise, possibly collected by Darwin; died [[23 June]] [[2006]] at an estimated age of 175.
-* [[Patrick Matthew]] &ndash; an amateur evolutionary theorist and contemporary of Darwin.
-* [[Randal Keynes]] &ndash; the great-great grandson of Charles Darwin who wrote a book about him, his daughter, and human evolution
+*[[Darwin Awards]]
+*[[Shrewsbury]] Birthplace of Darwin
+*[[Evolution]]
+*[[Darwin's Frog]] &ndash; a species of Frog named after Charles Darwin.
+*[[Harriet]] &ndash; a Galápagos tortoise, possibly collected by Darwin; died [[23 June]] [[2006]] at an estimated age of 175.
+*[[Patrick Matthew]] &ndash; an amateur evolutionary theorist and contemporary of Darwin.
+*[[Randal Keynes]] &ndash; the great-great grandson of Charles Darwin who wrote a book about him, his daughter, and human evolution
 
 {{Darwin}}
 {{evolution}}
@@ -260,7 +260,6 @@ Note: the dates given are generally the dates of the first editions. Darwin rewr
 |DATE OF DEATH=[[April 19]], [[1892]]
 |PLACE OF DEATH=[[Down House]], [[Downe]], [[Kent]], [[England]]
 }}
-
 
 [[Category:Charles Darwin|*]]
 [[Category:Evolutionary biologists|Darwin, Charles]]
@@ -282,76 +281,4 @@ Note: the dates given are generally the dates of the first editions. Darwin rewr
 [[Category:Natives of Shropshire|Darwin, Charles]]
 [[Category:1809 births|Darwin, Charles]]
 [[Category:1882 deaths|Darwin, Charles]]
-
-[[Category:CZ Live]]
-
-
-
-[[ar:تشارلز داروين]]
-[[ast:Charles Darwin]]
-[[az:Çarlz Robert Darvin]]
-[[bg:Чарлз Дарвин]]
-[[bn:চার্ল্‌স্‌ ডারউইন]]
-[[bs:Charles Darwin]]
-[[ca:Charles Robert Darwin]]
-[[cs:Charles Darwin]]
-[[cy:Charles Darwin]]
-[[da:Charles Darwin]]
-[[de:Charles Darwin]]
-[[et:Charles Darwin]]
-[[el:Κάρολος Δαρβίνος]]
-[[es:Charles Darwin]]
-[[eo:Charles Darwin]]
-[[eu:Charles Darwin]]
-[[fa:چارلز داروین]]
-[[fr:Charles Darwin]]
-[[fy:Charles Darwin]]
-[[ga:Charles Darwin]]
-[[gd:Charles Darwin]]
-[[gl:Charles Darwin]]
-[[ko:찰스 다윈]]
-[[hi:चार्ल्स डार्विन]]
-[[hr:Charles Darwin]]
-[[io:Charles Darwin]]
-[[id:Charles Darwin]]
-[[is:Charles Darwin]]
-[[it:Charles Darwin]]
-[[he:צ'ארלס דרווין]]
-[[kn:ಚಾರ್ಲ್ಸ್ ಡಾರ್ವಿನ್]]
-[[ku:Charles Darwin]]
-[[la:Carolus Darwin]]
-[[lv:Čārlzs Darvins]]
-[[lt:Čarlzas Darvinas]]
-[[lb:Charles Darwin]]
-[[hu:Charles Darwin]]
-[[mk:Чарлс Дарвин]]
-[[mr:चार्ल्स डार्विन]]
-[[ms:Charles Darwin]]
-[[nl:Charles Darwin]]
-[[ja:チャールズ・ダーウィン]]
-[[no:Charles Darwin]]
-[[nn:Charles Darwin]]
-[[oc:Charles Darwin]]
-[[pl:Charles Darwin]]
-[[pt:Charles Darwin]]
-[[ro:Charles Darwin]]
-[[ru:Дарвин, Чарлз Роберт]]
-[[sco:Charles Darwin]]
-[[sq:Charles Darwin]]
-[[sh:Čarls Darvin]]
-[[scn:Charles Darwin]]
-[[simple:Charles Darwin]]
-[[sk:Charles Robert Darwin]]
-[[sl:Charles Darwin]]
-[[sr:Чарлс Дарвин]]
-[[fi:Charles Darwin]]
-[[sv:Charles Darwin]]
-[[tl:Charles Darwin]]
-[[tg:Чарлз Дарвин]]
-[[ta:சார்லஸ் டார்வின்]]
-[[th:ชาลส์ ดาร์วิน]]
-[[vi:Charles Darwin]]
-[[tr:Charles Darwin]]
-[[uk:Дарвін Чарльз Роберт]]
-[[yi:טשארלס דארווין]]
-[[zh:查尔斯·罗伯特·达尔文]]
+[[Category:CZ Live|Darwin, Charles]]
