@@ -1,28 +1,6 @@
-'''History''' (from the Greek ἱστορία) is the record of past events, and the recorded events themselves. In its broader sense, "history" is a record of everything that happened, either to humans or in the natural world. With regards to human, the term mainly relates to the record of events in writing and to non-written records from places where written records are available. Events that happened to human before writing was adopted are generally considered [[prehistory]].
-
-==Classifications==
-{{main|Historical classification}}
-Because history is such a broad subject, organization is vital. While several writers, such as [[H.G. Wells]] and [[Will Durant|Will]] and [[Ariel Durant]], have written universal histories, most historians specialize.
-
-There are several different ways of classifying historical information:
-*Chronological (by date)
-*Geographical (by region)
-*National (by nation)
-*Ethnic (by ethnic group)
-*Topical (by subject or topic)
-
-Some people have criticized historical study, saying that it tends to be too narrowly focused on political events, armed conflicts, and famous people and that deeper and more significant changes in terms of ideas, technology, family life and culture warrant more attention. Recent developments in the practice of history have sought to address this.
-
-==History and prehistory==
-Traditionally, the study of history was limited to the written and spoken word. However, the rise of academic professionalism and the creation of new scientific fields in the 19th and 20th centuries brought a flood of new information that challenged this notion. [[Archaeology]], [[anthropology]] and other [[social science]]s were providing new information and even theories about human history. Some traditional historians questioned whether these new studies were really history, since they were not limited to the written word. A new term, ''[[prehistory]]'', was coined, to encompass the results of these new fields where they yielded information about times before the existence of written records.
-
-In the 20th century, the division between history and prehistory became problematic. Criticism arose because of history's implicit exclusion of certain civilizations, such as those of Sub-Saharan Africa and pre-Columbian America. Additionally, prehistorians such as [[Vere Gordon Childe]] and historical archaeologists like [[James Deetz]] began using archaeology to explain important events in areas that were traditionally in the field of history. Historians began looking beyond traditional political history narratives with new approaches such as economic, social and cultural history, all of which relied on various sources of evidence.  In recent decades, strict barriers between history and prehistory have thus largely disappeared.
-
-There are differing views for the definition of when history begins. For many, history has become a general term meaning the study of everything that is known about the human past (but even this barrier is being challenged by new fields such as [[Big History]]). Sources that can give light on this past, such as [[oral history]], [[linguistics]], and [[genetics]], have all become accepted by mainstream historians. Nevertheless, archaeologists distinguish between history and [[prehistory]] based on the appearance of written documents within the region in question. This distinction remains critical for archaeologists because the availability of a written record generates very different interpretive problems and potentials.
+'''History''' (from the Greek ἱστορία) is the discipline studying the record of past events, usually for the purpose of documenting them or examining and drawing conclusions and explanations for them. In its broadest sense, history studies everything that happened in the material world. With regards to humans, the term mainly applies to a critical examination of written and non-written source material from a time where written records are available or where a concrete dating of some events can be established. Events that happened to human before writing was adopted are generally considered [[prehistory]].
 
 ==Etymology==
-{{wiktionarypar|history}}
-
 The term ''history'' entered the [[English language]] in [[1390]] with the meaning of "relation of incidents, story" via the [[Old French]] ''historie'', from the [[Latin]] ''[[wikt:historia#Latin|historia]]'' "narrative, account." This itself was derived from the [[Ancient Greek]] {{Polytonic|ἱστορία}}, ''historía'', meaning "a learning or knowing by inquiry, history, record, narrative," from the [[verb]] {{Polytonic|ἱστορεῖν}}, ''historeîn'', "to inquire."
 
 This, in turn, was derived from {{polytonic|ἵστωρ}}, ''hístōr'' ("wise man," "witness," or "judge"). Early attestations of {{polytonic|ἵστωρ}} are from the [[Homeric Hymns]], [[Heraclitus]], the [[Athens|Athenian]] [[ephebe]]s' oath, and from [[Boeotia|Boiotic]] inscriptions (in a legal sense, either "judge" or "witness," or similar). The spirant is problematic, and not present in cognate Greek ''eídomai'' ("to appear").
@@ -31,10 +9,13 @@ This, in turn, was derived from {{polytonic|ἵστωρ}}, ''hístōr'' ("wise m
 
 In [[Middle English]], the meaning was "story" in general. The restriction to the meaning "record of past events" in the sense of [[Herodotus]] arises in the late [[15th century]]. In German, French, and indeed, most languages of the world other than English, this distinction was never made, and the same word is used to mean both "history" and "story". A sense of "systematic account" without a reference to time in particular was current in the [[16th century]], but is now obsolete. The adjective ''historical'' is attested from [[1561]], and ''historic'' from [[1669]]. ''Historian'' in the sense of a "researcher of history" in a higher sense than that of an [[Annals|annalist]] or [[chronicle]]r, who merely record events as they occur, is attested from [[1531]].
 
-==Historiography==
-{{main|Historiography}}
+==The beginning of history==
+Until recently, it was usually accepted that History began with the earliest recorded written language, the [[Sumerian language|Sumerian]] [[Cuneiform script]], late in the 4th millennium BC. Lately, the demarcation between history and prehistory blurred to some extent, especially with the more sophisticated dating methods for events and developments that occurred before the appearance of written records. A renewed interest in meta-historical and [[historicism|historicist]] descriptions, and works dealing with very long periods of time ("[[Big History]]") also contributed to weaken this distinction.
 
-Historiography has a number of related meanings. It can refer to the history of historical study, its [[Historical method|methodology]] and practices ('''the history of history'''). It can also refer to a specific body of historical writing (for example, "medieval historiography during the 1960s" means "medieval history written during the 1960s"). Historiography can also be taken to mean '''historical theory''' or the study of historical writing and memory. As a [[meta-level]] analysis of descriptions of the past, this third conception can relate to the first two in that the analysis usually focuses on the [[narrative]]s, [[interpretation]]s, [[worldview]], use of [[evidence]], or method of presentation of other [[historian]]s.
+==Source material==
+Historians, the writers of history, have always focused their attention on written sources documenting past events. Such sources were generally more readily available, and much easier to study. In the 19th century, with the advancement in historical research capabilities and techniques, and the appearance of new affiliated fields of study such as [[Archaeology]] and [[anthropology]], significantly broadened the array of sources available for hisrotical study. 
+
+Advances in historical research capabilities and techniques allowed historians to examine a wider variety of written and non-written sources, such as literary sources, coins, inscriptions, church records, legends and folk tales, songs, drawings, buildings, data on planting and harvest, and so on. Archaeology, and especially the more advanced dating techniques, allowed historians to examine and draw meaningful conclusions from source material such as human and animal bones, materials used in structures, sediments of materials in pots, jewellery, or virtually any type of source material that could be excavated and documented.
 
 ==Historical methods==
 {{main|Historical method}}
@@ -98,13 +79,7 @@ Such contrasts with regard to "history's value" serve as examples of history as 
 *[[Social change]]: changes in the nature, the social institutions, the social behavior, or the social relations of a society or community of people.
 *[[Historical drama film]] - The portrayal of history of film.
 
-''Lists''
-*[[List of historians]]
-*[[List of historians by area of study]]
-*[[List of history journals]]
-
 ==References==
-*Asimov, Isaac; ''Asimov's Chronology of the World''; Harper Collins, 1991
 *Durant, Will & Ariel; ''The Lessons of History''; MJF Books, 1997, ISBN 1-56731-024-9.
 *Durant, Will & Ariel; ''The Story of Civilization''; 11 vols., Simon & Schuster.
 *Evans, Richard J.; ''In Defence of History''; W. W. Norton (2000), ISBN 0-393-31959-8
