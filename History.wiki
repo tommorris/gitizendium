@@ -11,6 +11,17 @@ Historians, the writers of history, have always focused their attention on writt
 
 Advances in historical research capabilities and techniques allowed historians to examine a wider variety of written and non-written sources, such as literary sources, coins, inscriptions, church records, legends and folk tales, songs, drawings, buildings, data on planting and harvest, and so on. Archaeology, and especially the more advanced dating techniques, allowed historians to examine and draw meaningful conclusions from source material such as human and animal bones, materials used in structures, sediments of materials in pots, jewellery, or virtually any type of source material that could be excavated and documented.
 
+==Historical research methods==
+The historical research method almost invariably contains three distinct stages: gathering of source material, estimating the source material value to the issue at hand, and deciding what happened. 
+
+With the first stage, historians try to collect all the source material available. With the second, a decision is made as to the value of each source. Usually, [[primary source|primary sources]], such as a manuscript written at the time of the events, is considered more valuable than a [[secondary source|secondary]] (e.g., a book written by another historian) or [[tertiary source|tertiary]] (e.g., an encyclopaedia) source. 
+
+Most historians will also apply other considerations, such as the relevance of source material to the subject, the historian's estimation regarding the reliability of the sources, or the amount of new information the source material adds. For example, a book about the Shakespeare's ''[[Romeo and Juliet]]'' might be considered important by a historian dealing with the history of the English theatre, but will be of little importance to another historian, studying [[Verona]] in the 16th century. 
+
+The third and most crucial stage involves writing down the historical narrative, as the historian understands it. This stage almost always involves some type of decision on the part of the historian as to the degree of veracity of some depiction of the historical narrative, and rejection or playing down of alternative narratives. 
+
+Some historians, most especially in ancient historical account, tend to lay out or summarily describe the various narrative or contentions and usually determine, explain or hint which is truer in their view. Other historians just mention when relating some facts or opinions that are point in contention amongst sources or other historians. With some points, where making such a decision is hard or impossible, some historians may leave the point undecided or speculate as to what actually happened.
+
 ==Historical methods==
 {{main|Historical method}}
 
