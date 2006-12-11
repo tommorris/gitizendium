@@ -117,7 +117,8 @@ Many scientists who were ''not'' trained as philosophers have commented extensiv
 More recently, the battles over teaching [[evolution]] and [[intelligent design]] in the public schools have brought somephilosophical issues to the fore (most notably, "What makes an area of study scientific?"), and practicing biological and [[geology|geological]] scientists have found themselves being asked, along with philosophers, to comment on matters that are at least as much philosophy as biology.
 
 ==References==
-*Popper KR (1962) ''Conjectures and Refutations''
+*Popper KR  (1959) '[[The Logic of Scientific Discovery]]', (Translation of ''Logik der Forschung'')
+*Popper KR (1962) 'Conjectures and Refutations'
 [http://plato.stanford.edu/entries/popper/ Karl Popper] from [http://plato.stanford.edu/ Stanford Encyclopedia of Philosophy];
 [http://cla.calpoly.edu/~fotoole/321.1/popper.html Sir Karl Popper: Science: Conjectures and Refutations]
 *Kuhn TS (1962) '[[The Structure of Scientific Revolutions]]' Chicago: University of Chicago Press, ISBN 0-226-45808-3  
@@ -127,9 +128,12 @@ More recently, the battles over teaching [[evolution]] and [[intelligent design]
 *Lakatos I (1977) 'The Methodology of Scientific Research Programmes: Philosophical Papers Volume 1' Cambridge: Cambridge University Press; [http://www.lse.ac.uk/collections/lakatos/scienceAndPseudoscience.htm Science and Pseudoscience] - transcript and broadcast of talk by Imre Lakatos
 
 ==External links==
-* [http://plato.stanford.edu The Stanford Encyclopedia of Philosophy] 
-* [http://www.galilean-library.org/int6.html An introduction to the Philosophy of Science, aimed at beginners - Paul Newall.]
-* [http://www.galilean-library.org/hps.html Essays on concepts in the Philosophy of Science] at The Galilean Library.
+*[http://plato.stanford.edu The Stanford Encyclopedia of Philosophy] 
+*[http://www.galilean-library.org/int6.html An introduction to the Philosophy of Science, aimed at beginners - Paul Newall.]
+*[http://www.galilean-library.org/hps.html Essays on concepts in the Philosophy of Science] at The Galilean Library.
+*[http://www.univie.ac.at/wissenschaftstheorie/popper/ Karl Popper Institute] includes complete bibliography 1925-1999
+*[http://www.sveinbjorn.org/popper_audio_recordings Audio recordings of Karl Popper speaking]
+*[http://www.stephenjaygould.org/ctrl/gardner_popper.html "A Skeptical Look at Karl Popper"] by [[Martin Gardner]]
 
 [[Category:CZ Live]]
 [[Category:Philosophy Workgroup]]
