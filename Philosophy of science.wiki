@@ -127,14 +127,14 @@ Many scientists who were ''not'' trained as philosophers have commented extensiv
 More recently, the battles over teaching [[evolution]] and [[intelligent design]] in the public schools have brought somephilosophical issues to the fore (most notably, "What makes an area of study scientific?"), and practicing biological and [[geology|geological]] scientists have found themselves being asked, along with philosophers, to comment on matters that are at least as much philosophy as biology.
 
 ==References==
-*Popper KR (1962) [http://karws.gso.uri.edu/JFK/critical_thinking/Science_pseudo_falsifiability.html Science, Pseudo-Science, and Falsifiability]. ''Conjectures and Refutations'';
+*Popper KR (1962) ''Conjectures and Refutations''
 [http://plato.stanford.edu/entries/popper/ Karl Popper] from [http://plato.stanford.edu/ Stanford Encyclopedia of Philosophy];
 [http://cla.calpoly.edu/~fotoole/321.1/popper.html Sir Karl Popper: Science: Conjectures and Refutations]
 *Kuhn TS (1962) '[[The Structure of Scientific Revolutions]]' Chicago: University of Chicago Press, ISBN 0-226-45808-3  
 *Churchland P 'Matter and Consciousness: A Contemporary Introduction to the Philosophy of Mind' (1999) MIT Press [http://books.google.com/books?] 
-*Lakatos I (1970) 'Falsification and the Methodology of Scientific Research Programmes' in Lakatos I, Musgrave A (eds) 'Criticism and the Growth of Knowledge' Cambridge University Press pp 91-195</ref>
+*Lakatos I, Musgrave A (eds) 'Criticism and the Growth of Knowledge' Cambridge University Press 
 *Feyerabend P (1975) 'Against Method: Outline of an Anarchistic Theory of Knowledge' [http://www.marxists.org/reference/subject/philosophy/works/ge/feyerabe.htm] 
-*Lakatos I (1977) 'The Methodology of Scientific Research Programmes: Philosophical Papers Volume 1' Cambridge: Cambridge University Press; [http://www.lse.ac.uk/collections/lakatos/scienceAndPseudoscience.htm Science and Pseudoscience] - transcript and broadcast of talk by Imre Lakatos</ref> 
+*Lakatos I (1977) 'The Methodology of Scientific Research Programmes: Philosophical Papers Volume 1' Cambridge: Cambridge University Press; [http://www.lse.ac.uk/collections/lakatos/scienceAndPseudoscience.htm Science and Pseudoscience] - transcript and broadcast of talk by Imre Lakatos
 
 ==External links==
 * [http://plato.stanford.edu The Stanford Encyclopedia of Philosophy] - This contains many entries on different philosophy of science topics.
