@@ -17,11 +17,11 @@ A scientific method depends on observation, in defining the subject under invest
 
 Observation involves [[philosophy of perception |perception]] as well as a [[cognitive process]]: one does not make an observation passively, but is actively involved in distinguishing the thing being observed from surrounding sensory data. Therefore, observations depend on some underlying understanding of how the world functions, and that understanding may influence what is perceived, noticed, or deemed worthy of consideration. (See the [[Sapir-Whorf hypothesis]] for an early version of this understanding of the impact of cultural artifacts on our perceptions of the world.)
 
-Empirical observation is supposedly used to determine the acceptability of some hypothesis within a theory. When someone claims to have made an observation, it is reasonable to ask them to justify their claim. Such a justification must make reference to the theory - operational definitions and hypotheses - in which the observation is embedded. That is, the observation is a component of the theory that also contains the hypothesis it either verifies or falsifies. But this means that the observation cannot serve as a neutral arbiter between competing hypotheses. Observation could only do this "neutrally" if it were independent of the theory.
+Empirical observation is supposedly used to determine the acceptability of some hypothesis within a theory. When someone claims to have made an observation, it is reasonable to ask them to justify their claim. Such a justification must make reference to the theory - operational definitions and hypotheses - in which the observation is embedded. That is, the observation is a component of the theory that also contains the hypothesis it either verifies or falsifies. But this means that the observation cannot serve as a neutral arbiter between competing hypotheses. Observation could only do this 'neutrally' if it were independent of the theory.
 
-[[Thomas Kuhn]] denied that it is ever possible to isolate the theory being tested from the influence of the theory in which the observations are grounded. He argued that observations always rely on a specific paradigm, and that it is not possible to evaluate competing paradigms independently. By "paradigm" he meant, essentially, a logically consistent "portrait" of the world, one that involves no logical contradictions. More than one such logically consistent construct can each paint a usable likeness of the world, but it is pointless to pit them against each other, theory against theory. Neither is a standard by which the other can be judged. Instead, the question is which "portrait" is judged by some set of people to promise the most in terms of “puzzle solving”.
+[[Thomas Kuhn]] denied that it is ever possible to isolate the theory being tested from the influence of the theory in which the observations are grounded. He argued that observations always rely on a specific paradigm, and that it is not possible to evaluate competing paradigms independently. By "paradigm" he meant, essentially, a logically consistent 'portrait' of the world, one that involves no logical contradictions. More than one such logically consistent construct can each paint a usable likeness of the world, but it is pointless to pit them against each other, theory against theory. Neither is a standard by which the other can be judged. Instead, the question is which 'portrait' is judged by some set of people to promise the most in terms of 'puzzle solving'.
 
-For Kuhn, the choice of paradigm was sustained by, but not ultimately determined by, logical processes. The individual's choice between paradigms involves setting two or more “portraits" against the world and deciding which likeness is most promising. In the case of a general acceptance of one paradigm or another, Kuhn believed that it represented the consensus of the community of scientists. Acceptance or rejection of some paradigm is, he argued, more a social than a logical process.
+For Kuhn, the choice of paradigm was sustained by, but not ultimately determined by, logical processes. The individual's choice between paradigms involves setting two or more 'portraits' against the world and deciding which likeness is most promising. In the case of a general acceptance of one paradigm or another, Kuhn believed that it represented the consensus of the community of scientists. Acceptance or rejection of some paradigm is, he argued, more a social than a logical process.
 
 That observation is embedded in theory does not mean that observations are irrelevant to science. Scientific understanding derives from observation, but the acceptance of scientific statements is dependent on the related theoretical background or paradigm as well as on observation. [[Coherentism]] and [[skepticism]] offer alternatives to [[foundationalism]] for dealing with the difficulty of grounding scientific theories in something more than observations.
 
@@ -119,14 +119,20 @@ Many scientists who were ''not'' trained as philosophers have commented extensiv
 More recently, the battles over teaching [[evolution]] and [[intelligent design]] in the public schools have brought somephilosophical issues to the fore (most notably, "What makes an area of study scientific?"), and practicing biological and [[geology|geological]] scientists have found themselves being asked, along with philosophers, to comment on matters that are at least as much philosophy as biology.
 
 ==References==
-
+*Popper KR (1962) [http://karws.gso.uri.edu/JFK/critical_thinking/Science_pseudo_falsifiability.html Science, Pseudo-Science, and Falsifiability]. ''Conjectures and Refutations'';
+[http://plato.stanford.edu/entries/popper/ Karl Popper] from [http://plato.stanford.edu/ Stanford Encyclopedia of Philosophy];
+[http://cla.calpoly.edu/~fotoole/321.1/popper.html Sir Karl Popper: Science: Conjectures and Refutations]
+*Kuhn TS (1962) '[[The Structure of Scientific Revolutions]]' Chicago: University of Chicago Press, ISBN 0-226-45808-3  
+*Churchland P 'Matter and Consciousness: A Contemporary Introduction to the Philosophy of Mind' (1999) MIT Press [http://books.google.com/books?] 
+*Lakatos I (1970) 'Falsification and the Methodology of Scientific Research Programmes' in Lakatos I, Musgrave A (eds) 'Criticism and the Growth of Knowledge' Cambridge University Press pp 91-195</ref>
+*Feyerabend P (1975) 'Against Method: Outline of an Anarchistic Theory of Knowledge' [http://www.marxists.org/reference/subject/philosophy/works/ge/feyerabe.htm] 
+*Lakatos I (1977) 'The Methodology of Scientific Research Programmes: Philosophical Papers Volume 1' Cambridge: Cambridge University Press; [http://www.lse.ac.uk/collections/lakatos/scienceAndPseudoscience.htm Science and Pseudoscience] - transcript and broadcast of talk by Imre Lakatos</ref> 
 
 ==External links==
 * [http://plato.stanford.edu The Stanford Encyclopedia of Philosophy] - This contains many entries on different philosophy of science topics.
 * [http://www.galilean-library.org/int6.html An introduction to the Philosophy of Science, aimed at beginners - Paul Newall.]
 * [http://www.galilean-library.org/hps.html Essays on concepts in the Philosophy of Science] at The Galilean Library.
 * [http://www.davegentile.com/philosophy/knowledge.html Science and Knowledge] One view on the philosophy of science
-
 
 [[Category:CZ Live]]
 [[Category:Philosophy Workgroup]]
