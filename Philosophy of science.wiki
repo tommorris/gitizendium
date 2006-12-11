@@ -9,6 +9,14 @@
 
 Issues of scientific [[ethics]] are not usually considered to be part of the philosophy of science; they are studied in such fields as [[bioethics]] and [[science studies]].
 
+==History of philosophy of science ==
+
+{{main|History of philosophy of science}}
+
+Philosophy of science as has always been a part of philosophy and a part of the philosophy of several great philosophers during the ancient and middle ages. However in this time philosophy of science was quite premature.
+Modern science itself was highly induced by [[Roger Bacon]]'s philosophy, which was in a large part philosophy of science. After this, a main debate od the still premature philosophy of science was the [[rationalism]]-[[empiricism]] debate, which lasted approximatelly until lo[[gical positivism]] synthetised both rationalism and empiricism in its logical-empiricist view.
+Logical positivism was the branch of philosophy, which developed philosophy of science to the level of a spearate and mature brench of philosophy.
+
 ==Nature of scientific concepts and statements==
 Science draws conclusions about the way the world is and the way in which scientific theory relates to the world. Science draws upon evidence from experimentation, logical deduction, and rational thought in order to examine the world and the individuals that exist within society. In making observations of the nature of individuals and their surroundings, science seeks to explain the concepts that are entwined with everyday lives. Science in general is neither natural nor moral science.  It's simply ''science.''  It's ''the application of a logical frame of reference to a set of objects or situations.''  In other words, science is a ''method'' that is hard to define but is not to be confused with the content or subject matter of any particular science.
 
