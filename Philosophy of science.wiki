@@ -1,0 +1,335 @@
+'''Philosophy of science''' is the branch of [[philosophy]] that studies the philosophical assumptions, foundations, and implications of [[science]], including the [[formal science]]s, [[natural science]]s, and [[social sciences]].  In this respect, the philosophy of science is closely related to [[epistemology]] and the [[philosophy of language]].
+
+The philosophy of science includes a consideration of the following topics:
+
+:* The character and the development of concepts and terms, propositions and hypotheses, arguments and conclusions, as they function in science.
+
+:* The manner in which science explains natural phenomena and predicts natural occurrences.
+
+:* The types of reasoning that are used to arrive at scientific conclusions.
+
+:* The formulation, scope, and limits of [[scientific method]].
+
+:* The means that should be used for determining the validity of scientific information, in other words, the question of [[objectivity (philosophy)|objectivity]].
+
+:* The implications of scientific methods and models, along with the technology that arises from scientific knowledge, for the larger society.
+
+Note that issues of scientific [[ethics]] are not usually considered to be part of the philosophy of science; they are studied in such fields as [[bioethics]] and [[science studies]].
+
+
+__TOC__
+
+==Nature of scientific concepts and statements==
+Science draws conclusions about the way the world is and the way in which scientific theory relates to the world. Science draws upon evidence from experimentation, logical deduction, and rational thought in order to examine the world and the individuals that exist within society. In making observations of the nature of individuals and their surroundings, science seeks to explain the concepts that are entwined with everyday lives. Science in general is neither natural nor moral science.  It's simply ''science.''  It's ''the application of a logical frame of reference to a set of objects or situations.''  In other words, science is a ''method'' that is hard to define but is not to be confused with the content or subject matter of any particular science.
+
+===Theory-dependence of observation===
+A scientific method depends on observation, in defining the subject under investigation and in performing experiments.
+
+Observation involves [[philosophy of perception |perception]] as well as a [[cognitive process]]. That is, one does not make an observation passively, but is actively involved in distinguishing the thing being observed from surrounding sensory data. Therefore, observations depend on some underlying understanding of the way in which the world functions, and that understanding may influence what is perceived, noticed, or deemed worthy of consideration. (See the [[Sapir-Whorf hypothesis]] for an early version of this understanding of the impact of cultural artifacts on our perceptions of the world.)
+
+Empirical observation is supposedly used to determine the acceptability of some hypothesis within a theory. When someone claims to have made an observation, it is reasonable to ask them to justify their claim. Such a justification must make reference to the theory - operational definitions and hypotheses - in which the observation is embedded. That is, the observation is a component of the theory that also contains the hypothesis it either verifies or falsifies. But this means that the observation cannot serve as a neutral arbiter between competing hypotheses. Observation could only do this "neutrally" if it were independent of the theory.
+
+[[Thomas Kuhn]] denied that it is ever possible to isolate the theory being tested from the influence of the theory in which the observations are grounded. He argued that observations always rely on a specific paradigm, and that it is not possible to evaluate competing paradigms independently. By "paradigm" he meant, essentially, a logically consistent "portrait" of the world, one that involves no logical contradictions. More than one such logically consistent construct can each paint a usable likeness of the world, but it is pointless to pit them against each other, theory against theory. Neither is a standard by which the other can be judged. Instead, the question is which "portrait" is judged by some set of people to promise the most in terms of “puzzle solving”.
+
+For Kuhn, the choice of paradigm was sustained by, but not ultimately determined by, logical processes. The individual's choice between paradigms involves setting two or more “portraits" against the world and deciding which likeness is most promising. In the case of a general acceptance of one paradigm or another, Kuhn believed that it represented the consensus of the community of scientists. Acceptance or rejection of some paradigm is, he argued, more a social than a logical process.
+
+That observation is embedded in theory does not mean that observations are irrelevant to science. Scientific understanding derives from observation, but the acceptance of scientific statements is dependent on the related theoretical background or paradigm as well as on observation. [[Coherentism]] and [[skepticism]] offer alternatives to [[foundationalism]] for dealing with the difficulty of grounding scientific theories in something more than observations.
+
+===Indeterminacy of theory under empirical testing===
+The [[Duhem–Quine thesis]], after [[Pierre Duhem]] and [[W.V. Quine]], points out that any theory can be made compatible with any empirical observation by the addition of suitable ad hoc hypotheses. This is analogous to the way in which an infinite number of curves can be drawn through any finite set of data points on a graph.
+
+This thesis was accepted by [[Karl Popper]], leading him to reject [[Falsifiability#Naive Falsification|naïve falsification]] in favour of 'survival of the fittest', or most falsifiable, of scientific theories. In Popper's view, any hypothesis that does not make testable predictions is simply not science. Such a hypothesis may be useful or valuable, but it cannot be said to be science. [[Confirmation holism]], developed by [[W.V. Quine]], states that empirical data are not sufficient to make a judgement between theories. A theory can always be made to fit with the available empirical data.
+
+That empirical evidence does not serve to determine between alternate theories does not imply that all theories are of equal value. Rather than pretending to use a universally applicable methodological principle, the scientist is making a personal choice when choosing one particular theory over another (often using guiding principles such as [[Occam's Razor]]).
+
+One result of this is that specialists in the philosophy of science stress the requirement that observations made for the purposes of science be restricted to ''intersubjective'' objects. That is, science is restricted to those areas where there is general agreement on the nature of the observations involved. It is comparatively easy to agree on observations of physical phenomena, harder for them to agree on observations of social or mental phenomena, and difficult in the extreme to reach agreement on matters of theology or ethics.
+
+===Empiricism===
+A central concept in the philosophy of science is [[empiricism]], or dependence on evidence. Empiricism is the view that knowledge is derived from our experiences throughout our lives. In this sense, scientific statements are subject to and derived from our experiences or observations. Scientific [[hypotheses]] are developed and tested through [[empirical methods]] consisting of [[observation]]s and [[experiment]]s.  Once reproduced widely enough, the information resulting from our observations and experiments counts as the ''evidence'' upon which the scientific community develops [[theories]] that purport to explain [[facts]] about the [[world]].  
+
+Observations involve [[philosophy of perception|perception]], and so are themselves cognitive acts. That is, observations are themselves embedded in our [[understanding]] of the way in which the world works; as this understanding changes, the observations themselves may apparently change. More accurately, our interpretation of observations may change.  A well designed experiment will produce identical results when carried out in an identical fashion. Whenever the social context of the observer is a factor in an observation, objectivity is lost, and the observation is no longer useful in a scientific sense.
+
+Scientists attempt to use [[Inductive reasoning|induction]], [[deduction]] and [[quasi-empirical methods]], and invoke key [[conceptual metaphor]]s to work observations into a coherent, self-consistent structure.
+
+===Scientific realism and instrumentalism===
+[[Scientific realism]] is the view that the universe really is as explained by scientific statements. Realists hold that things like electrons and magnetic fields actually exist. 
+In contrast to realism, [[instrumentalism]] holds that our perceptions, scientific ideas and theories do not necessarily reflect the real world accurately, but are useful instruments to explain, predict and control our experiences. To an instrumentalist, electrons and magnetic fields are convenient ideas that may or may not actually exist. For instrumentalists, the empirical method is used to do no more than show that theories are consistent with observations. Instrumentalism is largely based on [[John Dewey]]'s philosophy and, more generally, [[pragmatism]], which was influenced by philosophers such as [[William James]] and [[Charles Peirce|Charles Sanders Peirce]].
+
+===Social constructivism===
+One area of interest among historians, philosophers, and sociologists of science is the extent to which scientific theories are shaped by their social and political context.  This approach is usually known as [[social construction|social constructivism]].  Social constructivism is in one sense an extension of instrumentalism that incorporates the social aspects of science. In its strongest form, it sees science as merely a discourse between scientists, with objective fact playing a small role if any.  A weaker form of the constructivist position might hold that social factors play a large role in the acceptance of new scientific theories.
+
+===Analysis and reductionism===
+[[wiktionary:Analysis|Analysis]] is  the activity of breaking an observation or theory down into simpler concepts in order to understand it. Analysis is as essential to science as it is to all rational enterprises. It would be impossible, for instance, to describe mathematically the motion of a [[projectile]] without separating out the force of [[gravity]], angle of projection and initial velocity. Only after this analysis is it possible to formulate a suitable theory of motion.
+
+[[Scientific reductionism|Reductionism]] in science can have several different senses. One type of reductionism is the belief that all fields of study are ultimately amenable to scientific explanation. Perhaps a historical event might be explained in sociological and psychological terms, which in turn might be described in terms of human physiology, which in turn might be described in terms of chemistry and physics. The historical event will have been reduced to a physical event.  This might be seen as implying that the historical event was 'nothing but' the physical event, denying the existence of emergent phenomena.
+
+[[Daniel Dennett]] invented the term  ''[[greedy reductionism]]'' to describe the assumption that such reductionism was possible. He claims that it is just '[[bad science]]', seeking to find explanations which are appealing or eloquent, rather than those that are of use in predicting natural phenomena. He also says that:
+:''There is no such thing as philosophy-free science; there is only science whose philosophical baggage is taken on board without examination.'' &mdash;[[Daniel Dennett]], ''[[Darwin's Dangerous Idea]]'', 1995.
+
+Arguments made against greedy reductionism through reference to [[emergence|emergent]] phenomena rely upon the fact that self-referential systems can be said to contain more [[information]] than can be described through individual analysis of their component parts. Examples include systems that contain [[strange loop]]s, [[fractal]] organisation and [[strange attractor]]s in [[phase space]]. Analysis of such systems is necessarily information-destructive because the observer must select a sample of the system that can be at best partially representative. [[Information theory]] can be used to calculate the magnitude of information loss and is one of the techniques applied by [[Chaos theory]].
+
+==Grounds of validity of scientific reasoning==
+The most powerful statements in science are those with the widest applicability.  Newton's Third Law &mdash; "for every action there is an opposite and equal reaction" &mdash; is a powerful statement because it applies to every action, anywhere, and at any time.
+
+But it is not possible for scientists to have tested every incidence of an action, and found a reaction. How is it, then, that they can assert that the Third Law is in some sense true? They have, of course, tested many, many actions, and in each one have been able to find the corresponding reaction. But can we be sure that the next time we test the Third Law, it will be found to hold true?
+
+===Induction===
+One solution to this problem is to rely on the notion of [[Inductive reasoning|induction]]. Inductive reasoning maintains that if a situation holds in all ''observed'' cases, then the situation holds in ''all'' cases. So, after completing a series of experiments that support the Third Law, one is justified in maintaining that the Law holds in all cases.
+
+Explaining why induction commonly works has been somewhat problematic. One cannot use [[Deductive reasoning|deduction]], the usual process of moving logically from premise to conclusion, because there is simply no [[syllogism]] that will allow such a move. No matter how many times 17th Century biologists observed white [[swan|swans]], and in how many different locations, there is no deductive path that can lead them to the conclusion that all swans are white. This is just as well, since, as it turned out, that conclusion would have been wrong. Similarly, it is at least possible that an observation will be done tomorrow that shows an occasion in which an action is not accompanied by a reaction; the same is true of any scientific law. 
+
+One answer has been to conceive of a different form of rational argument, one that does not rely on deduction. Deduction allows one to formulate a specific truth from a general truth: all [[crows]] are black; this is a crow; therefore this is black. Induction somehow allows one to formulate a general truth from some series of specific observations: this is a crow and it is black; that is a crow and it is black; therefore all crows are black. 
+
+The [[problem of induction]] is one of considerable debate and importance in the philosophy of science: is induction indeed justified, and if so, how?
+
+===Falsifiability===
+{{main|Falsifiability}}
+
+Another way to distinguish [[science]] from [[pseudoscience]] (e.g. [[astronomy]] from [[astrology]]), first formally discussed by [[Karl Popper]] in 1919-20 and reformulated by him in the [[1960s]], is [[falsifiability]].  This principle states that in order to be useful (or even scientific at all), a scientific statement ('fact', theory, 'law', principle, etc) must be ''falsifiable'', that is, able to be tested and proven wrong. 
+
+Popper described falsifiability using the following observations, paraphrased from a 1963 essay on "Conjectures and Refutations":
+# It is easy to confirm or verify nearly every theory — if we look for confirmations.
+# Confirmations are significant only if they are the result of risky predictions; that is, if, unenlightened by the theory, we should have expected an event which was incompatible with the theory — an event which would have refuted the theory.
+# "Good" scientific theories include prohibitions which forbid certain things to happen. The more a theory forbids, the better it is.
+# A theory which is not refutable by any conceivable event is non-scientific. Irrefutability is not a virtue of a theory.
+# Every genuine test of a theory is an attempt to falsify or refute it. Theories that take greater "risks" are more testable, more exposed to refutation.
+# Confirming or corroborating evidence is only significant when it is the result of a genuine test of the theory; "genuine" in this case means that it comes out of a serious but unsuccessful attempt to falsify the theory.
+# Some genuinely testable theories, when found to be false, are still upheld by their advocates — for example by introducing ''[[ad hoc]]'' some auxiliary assumption, or by reinterpreting the theory ad hoc in such a way that it escapes refutation. Such a procedure is always possible, but it rescues the theory from refutation only at the price of destroying, or at least lowering, its scientific status.
+
+These observations are part of Popper's case for defending the idea that what makes a theory scientific is its falsifiability, or refutability.  Despite criticisms of falsifiability by philosophers, it remains a cornerstone of the personal philosophy of many working scientists, [[Stephen Hawking]] for one.
+
+===Coherentism===
+Induction and falsification both attempt to justify scientific statements by reference to other specific scientific statements. Both must avoid the [[problem of the criterion]], in which any justification must in turn be justified, resulting in an infinite regress. The [[regress argument]] has been used to justify one way out of the infinite regress, [[foundationalism]]. Foundationalism claims that there are some basic statements that do not require justification. Both induction and falsification are forms of foundationalism in that they rely on basic statements that derive directly from observations.  
+
+The way in which basic statements are derived from observation complicates the problem. Observation is a cognitive act; that is, it relies on our existing understanding, our set of beliefs. An observation of a [[transit of Venus]] requires a huge range of auxiliary beliefs, such as those that describe the optics of telescopes, the mechanics of the telescope mount, and an understanding of celestial mechanics. At first sight, the observation does not appear to be 'basic'. 
+
+[[Coherentism]] offers an alternative by claiming that statements can be justified by their being a part of a coherent system. In the case of science, the system is usually taken to be the complete set of beliefs of an individual or of the community of scientists. [[W. V. Quine]] argued for a Coherentist approach to science. An observation of a transit of Venus is justified by its being coherent with our beliefs about optics, telescope mounts and celestial mechanics. Where this observation is at odds with one of these auxiliary beliefs, an adjustment in the system will be required to remove the contradiction.
+
+===Ockham's razor===
+<blockquote>
+William Ockham (''c''. 1295–1349) … is remembered as an influential nominalist, but his popular fame as a great logician rests chiefly on the maxim known as Ockham's razor:  ''Entia non sunt multiplicanda praeter necessitatem''.  No doubt this represents correctly the general tendency of his philosophy, but it has not so far been found in any of his writings.  His nearest pronouncement seems to be ''Numquam ponenda est pluralitas sine necessitate'', which occurs in his theological work on the ''Sentences'' of Peter Lombard (''Super Quattuor Libros Sententiarum'' (ed. Lugd., 1495), i, dist. 27, qu. 2, K).  In his ''Summa Totius Logicae'', i. 12, Ockham cites the principle of economy, ''Frustra fit per plura quod potest fieri per pauciora''.  (Kneale and Kneale, 1962, p. 243).
+</blockquote>
+
+The practice of scientific inquiry typically involves a number of [[heuristic]] principles that serve as rules of thumb for guiding the work.  Prominent among these are the principles of conceptual economy or theoretical [[parsimony]] that are customarily placed under the rubric of [[Ockham's razor]], named after the 14th Century Franciscan friar [[William of Ockham]] who is credited with giving the maxim many pithy expressions, not all of which have yet to be found among his extant works.  The motto is most commonly cited in the form "entities should not be multiplied beyond necessity", generally taken to suggest that the simplest explanation tends to be the correct one.  As interpreted in contemporary scientific practice, it advises opting for the simplest theory among a set of competing theories that have a comparable explanatory power, discarding assumptions that do not improve the explanation.  The "other things being equal" clause is a critical qualification, which rather severely limits the utility of Ockham's razor in real practice, as theorists rarely if ever find themselves presented with competent theories of exactly equal explanatory adequacy.
+
+Among the many difficulties that arise in trying to apply Ockham's razor is the problem of formalizing and quantifying the "measure of simplicity" that is implied by the task of deciding which of several theories is the simplest.  Although various measures of simplicity have been brought forward as potential candidates from time to time, it is generally recognized that there is no such thing as a theory-independent measure of simplicity.  In other words, there appear to be as many different measures of simplicity as there are theories themselves, and the task of choosing between measures of simplicity appears to be every bit as problematic as the job of choosing between theories.  Moreover, it is extremely difficult to identify the hypotheses or theories that have "comparable explanatory power", though it may be readily possible to rule out some of the extremes.  Ockham's razor also does not say that the simplest account is to be preferred regardless of its capacity to explain outliers, exceptions, or other phenomena in question.  The principle of falsifiability requires that any exception that can be reliably reproduced should invalidate the simplest theory, and that the next-simplest account which can actually incorporate the exception as part of the theory should then be preferred to the first.  As [[Einstein|Albert Einstein]] puts it, "The supreme goal of all theory is to make the irreducible basic elements as simple and as few as possible without having to surrender the adequate representation of a single datum of experience".
+
+==Social accountability==
+===Scientific Openness===	 
+A very broad issue affecting the neutrality of science, concerns the areas over which science chooses to explore, what part of the world and man, is studied by science. 
+
+By prefering certain areas with large funding (eg, energy physics) it becomes clear that science is not as neutral as it would like to appear and has clear biases toward areas such as [[physics]] and [[chemistry]] or [[computer science]].	 
+
+More broadly, the areas for science to investigate are possible infinite, the issue then arises as to what should science attempt to question or find out.
+
+[[Philip Kitcher]] in his "Science, Truth, and Democracy" <ref>Kitcher, P. Science, Truth, and Democracy, Ocford: OUP, 2001 </ref> makes an important point about openness in science suggesting that scientific studies that attempt to show one segment of the population as being less intelligent, successful or emotionally backward compared to others, has a political feedback effect which further excludes such groups from access to science. Thus such studies undermine the broad consensus required for good science by excluding certain people, and so proving itself in the end to be unscientific.	 
+		 
+See also [[The Mismeasure of Man]], [[nazi science]].
+
+===Scientific infallibility===
+A critical question in science is, to what degree the current body of scientific knowledge can be taken as an indicator of what is actually 'true' about the physical world in which we live? The acceptance of such knowledge as if it were absolutely true and unquestionable (in the sense of [[theology]] or [[ideology]]) has been called [[scientism]].
+
+However, it is common for members of the public to have the opposite view of science &mdash; many lay people believe that scientists ''are'' making claims of infallibility.  Science serves in the process of [[consensus decision making]] by which people of varying moral and ethical views come to agree on 'what is real'.  In secular and technological societies, without any stronger conception of reality based on other shared ethical or moral or religious grounds, science has come to serve as the primary arbiter in disputes. This leads to the abuse of scientific dialogue for political or commercial ends. 
+
+Concern about the wide disparity between how scientists work and how their work is perceived has led to public campaigns to educate lay people about scientific [[skepticism]] and the [[scientific method]].
+
+===Critiques of science===
+[[Paul Feyerabend]] argued that no description of scientific method could possibly be broad enough to encompass all the approaches and methods used by scientists. Feyerabend objected to prescriptive scientific method on the grounds that any such method would stifle and cramp scientific progress. Feyerabend claimed, "the only principle that does not inhibit progress is: ''anything goes''."
+
+== Sociology and anthropology of science ==
+In his book ''[[The Structure of Scientific Revolutions]]'' Kuhn argues that the process of observation and evaluation take place within a paradigm. 'A paradigm is what the members of a community of scientists share, and, conversely, a scientific community consists of men who share a paradigm' (postscript, part 1). On this account, science can be done only as a part of a community, and is inherently a communal activity.
+
+For Kuhn the fundamental difference between science and other disciplines is in the way in which the communities function. Others, especially Feyerabend and some post-modernist thinkers, have argued that there is insufficient difference between social practices in science and other disciplines to maintain this distinction. It is apparent that social factors play an important and direct role in scientific method, but that they do not serve to differentiate science from other disciplines. Furthermore, although on this account science is socially constructed, it does not follow that reality is a social construct. (See [[Science studies]] and the links there.) Kuhn’s ideas are equally applicable to both realist and anti-realist ontologies. 
+
+(There ''are'', however, those who maintain that scientific reality is indeed a social construct. This idea is associated with certain proponents of [[cultural studies]]. See for example the [[Sokal Affair]] entry.)
+
+A major development in recent decades has been the study of the formation, structure, and evolution of scientific communities by sociologists and anthropologists including [[Michel Callon]], [[Elihu Gerson]], [[Bruno Latour]], [[John Law]], [[Susan Leigh Star]], [[Anselm Strauss]], [[Lucy Suchman]], and others.  Some of their work has been previously loosely gathered in [[actor network theory]].  Here the approach to the philosophy of science is to study how scientific communities actually operate.
+
+More recently Gibbons and colleagues (1994) have introduced the notion of [[mode 2]] knowledge production.
+
+Researchers in [[Information science]] have also made contributions, e.g., the [[Scientific Community Metaphor]].
+
+==Continental philosophy of science==
+In the [[continental philosophy|Continental philosophical tradition]], science is viewed from a world-historical perspective.  One of the first philosophers who supported this view was [[Georg Wilhelm Friedrich Hegel]]. Philosophers such as [[Ernst Mach]], [[Pierre Duhem]] and [[Gaston Bachelard]] also wrote their works with this world-historical approach to science. [[Nietzsche]] advanced the thesis in his "The Genealogy of Morals" that science was a new form of religion.
+
+All of these approaches involve a historical and sociological turn to science, with a special emphasis on lived experience (a kind of Husserlian "life-world"), rather than a progress-based or anti-historical approach as done in the analytic tradition. Two other approaches to science include [[Edmund Husserl]]'s [[phenomenology]] and [[Martin Heidegger]]'s [[hermeneutics]].
+
+The largest effect on the continental tradition with respect to science was [[Martin Heidegger]]'s assault on the [[present-at-hand|theoretical attidude]] in general which of course includes the scientific attitude.  For this reason one could suggest that the philosophy of science, in the Continental tradition, has not developed much further due to its inability to overcome Heidegger's criticism.
+
+Notwithstanding, there have been a number of important works: especially a Kuhnian precursor, [[Alexandre Koyré]].  Another important development was that of [[Foucault]]'s analysis of the historical and scientific thought in [[The Order of Things]] and his study of power and corruption within the "science" of [[madness]]. His works were considered a great work of art and the science of madness was a significant achievement. In involved explaining madness as a science (knowledge) and therefore must be gratified.
+
+==Traditional Chinese philosophy of science==
+In ancient China, science and technology were subordinate to value. The formless and personal Tao of [[Confucianism]] was holistically mingled with forms and usefulness. Therefore, its philosophy of science and values like moral and pragmatic considerations was a single entity.  Together with its holistic health and pacifism, skepticism of the totalitarianism of [[Taoism]] also formed part of its characteristics.
+
+==Philosophy of science by scientists==
+Many scientists who were ''not'' trained as philosophers have commented extensively on the philosophy of science as it relates to their particular discipline. [[Albert Einstein]], for example, wrote a number of popular works that included speculations on the nature of science, its relationship to theology, and so on. [[Stephen Jay Gould]] commented on similar issues regarding [[biology]]. In some cases, philosophers will take inspiration from such writings and provide more careful analyses of them. For many scientists, the philosophical musings of well-known and eloquent scientists are more accessible and more relevant to their work than that of philosophers, who generally write for an audience of fellow philosophers. 
+
+More recently, the battles over teaching [[evolution]] and [[intelligent design]] in the public schools have brought certain philosophical issues to the fore (most notably, "What makes an area of study scientific?"), and practicing biological and [[geology|geological]] scientists have found themselves being asked, along with philosophers, to comment on matters that are at least as much philosophy as biology.
+
+==References==
+
+* Bovens, L. and Hartmann, S. (2003), ''Bayesian Epistemology'', Oxford University Press, Oxford.
+
+* Boyd, R., Gasper, P., and Trout, J.D. (eds., 1991), ''The Philosophy of Science'', Blackwell Publishers, Cambridge, MA.
+
+* Glazebrook, Trish (2000), ''Heidegger's Philosophy of Science'', Fordham University Press.
+
+* Gutting, Gary (2004), ''Continental Philosophy of Science'', Blackwell Publishers, Cambridge, MA.
+
+* [[Stephen Hawking|Hawking, Stephen]]. (2001), ''The Universe in a Nutshell'', Bantam Press. 
+
+* Harre, R. (1972), ''The Philosophies of Science: An Introductory Survey'', Oxford University Press, London, UK. 
+
+* Heelan, Patrick A. (1983), ''Space-Perception and the Philosophy of Science'', University of California Press, Berkeley, CA.
+
+* Kearney, R. (1994), ''Routledge History of Philosophy'', Routledge Press. See Vol. 8.
+
+* Klemke, E., et al. (eds., 1998), ''Introductory Readings in The Philosophy of Science'', Prometheus Books, Amherst, New York, NY.
+
+* [[William Kneale|Kneale, William]], and [[Martha Kneale|Kneale, Martha]] (1962), ''The Development of Logic'', Oxford University Press, London, UK.
+
+* Kuipers, T.A.F. (2001), ''Structures in Science, An Advanced Textbook in Neo-Classical Philosophy of Science'', Synthese Library, Springer-Verlag.
+
+* Ladyman, J. (2002), ''Understanding Philosophy of Science'', Routledge, London, UK.
+
+* Losee, J. (1998), ''A Historical Introduction to the Philosophy of Science'', Oxford University Press, Oxford, UK.
+
+* [[William Newton-Smith|Newton-Smith, W.H.]] (ed., 2001), ''A Companion to the Philosophy of Science'', Blackwell Publishers, Malden, MA.
+
+* Niiniluoto, I. (2002), ''Critical Scientific Realism'', Oxford University Press, Oxford, UK.
+
+* Pap, A. (1962), ''An Introduction to the Philosophy of Science'', The Free Press, New York, NY.
+
+* Papineau, D. (ed., 1997), ''The Philosophy of Science'', Oxford University Press, Oxford, UK.
+
+* Piattelli-Palmarini, Massimo (ed., 1980), ''Language and Learning, The Debate between Jean Piaget and Noam Chomsky'', Harvard University Press, Cambridge, MA.
+* Rosenberg, A. (2000), ''Philosophy of Science: A Contemporary Introduction'', Routledge, London, UK.
+
+* [[Dagobert D. Runes|Runes, D.D.]] (ed.), ''Dictionary of Philosophy'', Littlefield, Adams, and Company, Totowa, NJ, 1962.
+
+* Salmon, M.H., et al. (1999), ''Introduction to the Philosophy of Science: A Text By Members of the Department of the History and Philosophy of Science of the University of Pittsburgh'', Hacket Publishing Company, Indianapolis, IN.
+
+* Snyder, Paul (1977), ''Toward One Science: The Convergence of Traditions'', St Martin's Press.
+
+* van Fraassen, Bas C. (1980), ''The Scientific Image'', Oxford University Press, Oxford, UK.
+
+* van Luik, James, ''The Energy of Ideas'', Crow Hill Press, Cambridge, MA. 2000
+
+* [[Benjamin Walker|Walker, Benjamin]], ''Caesar's Church: The Irrational in Science & Philosophy,'' Book Guild, Lewes, Sussex, 2001, ISBN 1857766253
+
+==See also==
+{{col-begin}}
+{{col-break}}
+* [[Epistemology]]
+* [[History and philosophy of science]]
+* [[History of science]]
+* [[Inquiry]]
+* [[Objectivity (philosophy)|Objectivity]]
+* [[Philosophy of language]]
+* [[Philosophy of mathematics]]
+* [[Positivism (philosophy)|Positivism]]
+{{col-break}}
+* [[List of publications in philosophy#Philosophy of science|Publications in philosophy of science]]
+* [[Science studies]]
+* [[Scientific materialism]]
+* [[Scientific method]]
+* [[Scientism]]
+* [[Social construction]]
+* [[Sociology of scientific knowledge]]
+* [[Sociology of science]]
+{{col-end}}
+
+===Major contributors to the philosophy of science===
+{{col-begin}}
+{{col-break}}
+* [[Francis Bacon (philosopher)|Sir Francis Bacon]]
+* [[Roger Bacon]]
+* [[Roy Bhaskar]]
+* [[Niels Bohr]]
+* [[Michel Callon]]
+* [[Rudolph Carnap]]
+* [[Auguste Comte]]
+* [[René Descartes]]
+* [[Pierre Duhem]]
+* [[Albert Einstein]]
+* [[Empedocles]]
+* [[Paul Feyerabend]]
+* [[Richard Feynman]]
+* [[Galileo Galilei]]
+* [[Robert Grosseteste]]
+* 
+{{col-break}}
+* [[Edmund Husserl]]
+* [[Immanuel Kant]]
+* [[Thomas Kuhn]]
+* [[Imre Lakatos]]
+* [[Bruno Latour]]
+* [[Ernst Mach]]
+* [[Isaac Newton]]
+* [[Charles Peirce]]
+* [[Henri Poincaré]]
+* [[Michael Polanyi]]
+* [[Karl Popper|Sir Karl Popper]]
+* [[Bertrand Russell]]
+* [[David Stove]]
+* [[William Whewell]]
+{{col-end}}
+
+===Philosophy of the special sciences===
+
+* [[Philosophy of biology]]
+* [[Philosophy of chemistry]]
+* [[Philosophy of physics]]
+
+===Philosophy of science topics===
+{{col-begin}}
+{{col-break}}
+* [[Causality]] 
+* [[Curve fitting]]
+* [[Demarcation problem]]
+* [[Dualism]] 
+* [[Faith and rationality]] 
+* [[Free will and determinism]] 
+{{col-break}}
+* [[Philosophy of mathematics]]
+* [[Philosophy of space and time]]
+* [[Problem of the criterion]] 
+* [[Simplicity]]
+* [[Uniformitarianism (science)|Uniformity]]
+* [[Unobservables]]
+* [[Rhetoric of science]]
+{{col-end}}
+
+==External links==
+* [http://plato.stanford.edu The Stanford Encyclopedia of Philosophy] - This contains many entries on different philosophy of science topics.
+* [http://www.galilean-library.org/int6.html An introduction to the Philosophy of Science, aimed at beginners - Paul Newall.]
+* [http://www.galilean-library.org/hps.html Essays on concepts in the Philosophy of Science] at The Galilean Library.
+* [http://www.davegentile.com/philosophy/knowledge.html Science and Knowledge] One view on the philosophy of science
+* [http://www.observacionesfilosoficas.net/epistemologia.htm Philosophy of Science | In Revista Observaciones Filosoficas | In spanish]
+{{Philosophy (navigation)}}
+
+[[Category:Philosophy of science| ]] [[Category:Logical positivism ]] 
+
+[[cs:Filozofie vědy]]
+[[da:Videnskabsfilosofi]]
+[[de:Wissenschaftstheorie]]
+[[es:Filosofía de la ciencia]]
+[[eo:Filozofio de scienco]]
+[[et:Teadusfilosoofia]]
+[[fa:فلسفه علم]]
+[[fi:Tieteenfilosofia]]
+[[fr:Philosophie des sciences]]
+[[he:פילוסופיה של המדע]]
+[[id:Filsafat sains]]
+[[io:Epistemologio]]
+[[ja:科学哲学]]
+[[ko:과학 철학]]
+[[lt:Mokslo filosofija]]
+[[nl:Wetenschapsfilosofie]]
+[[no:Vitenskapsteori]]
+[[pl:Filozofia nauki]]
+[[pt:Filosofia da ciência]]
+[[ru:Философия науки]]
+[[sr:Филозофија науке]]
+[[sv:Vetenskapsfilosofi]]
+[[zh:科学哲学]]
