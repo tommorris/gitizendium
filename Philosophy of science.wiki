@@ -9,17 +9,13 @@
 
 Issues of scientific [[ethics]] are not usually considered to be part of the philosophy of science; they are studied in such fields as [[bioethics]] and [[science studies]].
 
-==History of philosophy of science ==
-{{main|History of philosophy of science}}
-Modern science itself was highly induced by [[Roger Bacon]]'s philosophy, which was in a large part philosophy of science. After this, a main debate od the still premature philosophy of science was the [[rationalism]]-[[empiricism]] debate, which lasted approximatelly until lo[[gical positivism]] synthetised both rationalism and empiricism in its logical-empiricist view. Logical positivism was the branch of philosophy, which developed philosophy of science to the level of a spearate and mature brench of philosophy.
-
 ==Nature of scientific concepts and statements==
 Science draws conclusions about the way the world is and the way in which scientific theory relates to the world. Science draws upon evidence from experimentation, logical deduction, and rational thought in order to examine the world and the individuals that exist within society. In making observations of the nature of individuals and their surroundings, science seeks to explain the concepts that are entwined with everyday lives. Science in general is neither natural nor moral science.  It's simply ''science.''  It's ''the application of a logical frame of reference to a set of objects or situations.''  In other words, science is a ''method'' that is hard to define but is not to be confused with the content or subject matter of any particular science.
 
 ===Theory-dependence of observation===
 A scientific method depends on observation, in defining the subject under investigation and in performing experiments. 
 
-Observation involves [[philosophy of perception |perception]] as well as a [[cognitive process]]. That is, one does not make an observation passively, but is actively involved in distinguishing the thing being observed from surrounding sensory data. Therefore, observations depend on some underlying understanding of how the world functions, and that understanding may influence what is perceived, noticed, or deemed worthy of consideration. (See the [[Sapir-Whorf hypothesis]] for an early version of this understanding of the impact of cultural artifacts on our perceptions of the world.)
+Observation involves [[philosophy of perception |perception]] as well as a [[cognitive process]]: one does not make an observation passively, but is actively involved in distinguishing the thing being observed from surrounding sensory data. Therefore, observations depend on some underlying understanding of how the world functions, and that understanding may influence what is perceived, noticed, or deemed worthy of consideration. (See the [[Sapir-Whorf hypothesis]] for an early version of this understanding of the impact of cultural artifacts on our perceptions of the world.)
 
 Empirical observation is supposedly used to determine the acceptability of some hypothesis within a theory. When someone claims to have made an observation, it is reasonable to ask them to justify their claim. Such a justification must make reference to the theory - operational definitions and hypotheses - in which the observation is embedded. That is, the observation is a component of the theory that also contains the hypothesis it either verifies or falsifies. But this means that the observation cannot serve as a neutral arbiter between competing hypotheses. Observation could only do this "neutrally" if it were independent of the theory.
 
@@ -108,7 +104,7 @@ However, it is common for members of the public to have the opposite view of sci
 == Sociology and anthropology of science ==
 In his book ''[[The Structure of Scientific Revolutions]]'' Kuhn argues that observation and evaluation always take place within a paradigm. "A paradigm is what the members of a community of scientists share, and, conversely, a scientific community consists of men who share a paradigm". For Kuhn the fundamental difference between science and other disciplines is in the way in which the communities function. Others, especially Feyerabend and some post-modernist thinkers, have argued that there is insufficient difference between social practices in science and other disciplines to maintain this distinction. It is apparent that social factors play an important and direct role in scientific method, but that they do not serve to differentiate science from other disciplines. 
 
-A major development in recent decades has been the study of the formation, structure, and evolution of scientific communities by sociologists and anthropologists including [[Michel Callon]], [[Elihu Gerson]], [[Bruno Latour]], [[John Law]], [[Susan Leigh Star]], [[Anselm Strauss]], [[Lucy Suchman]], and others.  Some of their work has been previously loosely gathered in [[actor network theory]].  Here the approach to the philosophy of science is to study how scientific communities actually operate. More recently Gibbons and colleagues (1994) have introduced the notion of [[mode 2]] knowledge production. Researchers in [[Information science]] have also made contributions, e.g., the [[Scientific Community Metaphor]].
+A major development in recent decades has been the study of the formation, structure, and evolution of scientific communities by sociologists and anthropologists including [[Michel Callon]], [[Elihu Gerson]], [[Bruno Latour]], [[John Law]], [[Susan Leigh Star]], [[Anselm Strauss]], [[Lucy Suchman]], and others.  Some of their work has been previously loosely gathered in [[actor network theory]]. Here the approach to the philosophy of science is to study how scientific communities actually operate. More recently Gibbons and colleagues (1994) have introduced the notion of [[mode 2]] knowledge production. Researchers in [[Information science]] have also made contributions, e.g., the [[Scientific Community Metaphor]].
 
 ==Continental philosophy of science==
 In the [[continental philosophy|Continental philosophical tradition]], science is viewed from a world-historical perspective. One of the first philosophers who supported this view was [[Georg Wilhelm Friedrich Hegel]], and [[Ernst Mach]], [[Pierre Duhem]] and [[Gaston Bachelard]] also adopted this approach to science. [[Nietzsche]] advanced the thesis in his "The Genealogy of Morals" that science was a new form of religion. All of these approaches involve a historical and sociological turn to science, with emphasis on lived experience (a kind of Husserlian "life-world"), rather than a progress-based or anti-historical approach as done in the analytic tradition. Two other approaches to science include [[Edmund Husserl]]'s [[phenomenology]] and [[Martin Heidegger]]'s [[hermeneutics]].
@@ -123,38 +119,14 @@ Many scientists who were ''not'' trained as philosophers have commented extensiv
 More recently, the battles over teaching [[evolution]] and [[intelligent design]] in the public schools have brought somephilosophical issues to the fore (most notably, "What makes an area of study scientific?"), and practicing biological and [[geology|geological]] scientists have found themselves being asked, along with philosophers, to comment on matters that are at least as much philosophy as biology.
 
 ==References==
-* Bovens, L. and Hartmann, S. (2003), ''Bayesian Epistemology'', Oxford University Press, Oxford.
-* Boyd, R., Gasper, P., and Trout, J.D. (eds., 1991), ''The Philosophy of Science'', Blackwell Publishers, Cambridge, MA.
-* Glazebrook, Trish (2000), ''Heidegger's Philosophy of Science'', Fordham University Press.
-* Gutting, Gary (2004), ''Continental Philosophy of Science'', Blackwell Publishers, Cambridge, MA.
-* [[Stephen Hawking|Hawking, Stephen]]. (2001), ''The Universe in a Nutshell'', Bantam Press. 
-* Harre, R. (1972), ''The Philosophies of Science: An Introductory Survey'', Oxford University Press, London, UK. 
-* Heelan, Patrick A. (1983), ''Space-Perception and the Philosophy of Science'', University of California Press, Berkeley, CA.
-* Kearney, R. (1994), ''Routledge History of Philosophy'', Routledge Press. See Vol. 8.
-* Klemke, E., et al. (eds., 1998), ''Introductory Readings in The Philosophy of Science'', Prometheus Books, Amherst, New York, NY.
-* [[William Kneale|Kneale, William]], and [[Martha Kneale|Kneale, Martha]] (1962), ''The Development of Logic'', Oxford University Press, London, UK.
-* Kuipers, T.A.F. (2001), ''Structures in Science, An Advanced Textbook in Neo-Classical Philosophy of Science'', Synthese Library, Springer-Verlag.
-* Ladyman, J. (2002), ''Understanding Philosophy of Science'', Routledge, London, UK.
-* Losee, J. (1998), ''A Historical Introduction to the Philosophy of Science'', Oxford University Press, Oxford, UK.
-* [[William Newton-Smith|Newton-Smith, W.H.]] (ed., 2001), ''A Companion to the Philosophy of Science'', Blackwell Publishers, Malden, MA.
-* Niiniluoto, I. (2002), ''Critical Scientific Realism'', Oxford University Press, Oxford, UK.
-* Pap, A. (1962), ''An Introduction to the Philosophy of Science'', The Free Press, New York, NY.
-* Papineau, D. (ed., 1997), ''The Philosophy of Science'', Oxford University Press, Oxford, UK.
-* Piattelli-Palmarini, Massimo (ed., 1980), ''Language and Learning, The Debate between Jean Piaget and Noam Chomsky'', Harvard University Press, Cambridge, MA.
-* Rosenberg, A. (2000), ''Philosophy of Science: A Contemporary Introduction'', Routledge, London, UK.
-* [[Dagobert D. Runes|Runes, D.D.]] (ed.), ''Dictionary of Philosophy'', Littlefield, Adams, and Company, Totowa, NJ, 1962.
-* Salmon, M.H., et al. (1999), ''Introduction to the Philosophy of Science: A Text By Members of the Department of the History and Philosophy of Science of the University of Pittsburgh'', Hacket Publishing Company, Indianapolis, IN.
-* Snyder, Paul (1977), ''Toward One Science: The Convergence of Traditions'', St Martin's Press.
-* van Fraassen, Bas C. (1980), ''The Scientific Image'', Oxford University Press, Oxford, UK.
-* van Luik, James, ''The Energy of Ideas'', Crow Hill Press, Cambridge, MA. 2000
-* [[Benjamin Walker|Walker, Benjamin]], ''Caesar's Church: The Irrational in Science & Philosophy,'' Book Guild, Lewes, Sussex, 2001, ISBN 1857766253
+
 
 ==External links==
 * [http://plato.stanford.edu The Stanford Encyclopedia of Philosophy] - This contains many entries on different philosophy of science topics.
 * [http://www.galilean-library.org/int6.html An introduction to the Philosophy of Science, aimed at beginners - Paul Newall.]
 * [http://www.galilean-library.org/hps.html Essays on concepts in the Philosophy of Science] at The Galilean Library.
 * [http://www.davegentile.com/philosophy/knowledge.html Science and Knowledge] One view on the philosophy of science
-* [http://www.observacionesfilosoficas.net/epistemologia.htm Philosophy of Science | In Revista Observaciones Filosoficas | In spanish]
-{{Philosophy (navigation)}}
 
-[[Category:Philosophy of science| ]]
+
+[[Category:CZ Live]]
+[[Category:Philosophy Workgroup]]
