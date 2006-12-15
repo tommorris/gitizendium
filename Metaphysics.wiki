@@ -51,7 +51,7 @@ One of the most necessary abstract objects is a definition of terms. If "the sam
 
 ==Criticism==
 Metaphysics has been attacked, at different times in history, as being futile and overly vague. [[David Hume]] and [[Immanuel Kant]] both prescribed a limited role to the subject and argued against knowledge progressing beyond the world of our representations (except, in the case of Kant, to knowledge that the ''[[Noumenon|noumena]]'' exist).{{Citation needed}}
-[[Alfred Ayer|A.J. Ayer]] is famous for leading a "revolt against metaphysics," where he claimed that its propositions were meaningless.{{Citation needed}} This was the viewpoint not only of Ayer, but of the whole branch of [[logical positivism]].
+[[Alfred Ayer|A.J. Ayer]] is famous for leading a "revolt against metaphysics," where he claimed that its propositions were meaningless.{{Citation needed}} This was the viewpoint not only of Ayer, but of the whole branch of [[The elimination of metaphysics|logical positivism]].
 
 [[Martin Heidegger]] often criticised metaphysics, yet his early work dealt with questions that many would consider metaphysical.{{Citation needed}} British universities became less concerned with the area for much of the 20th century; the later work of [[Wittgenstein]] discredited metaphysical questions as nonsense on purely linguistic grounds.{{Citation needed}} However, metaphysics has seen a reemergence in recent times amongst philosophy departments.
 
