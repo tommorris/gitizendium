@@ -8,7 +8,7 @@ Popularly, the word "philosophy" is often used to mean any form of wisdom, or an
 
 For further considerations about the very notion of philosophy, please see [[definition of philosophy]].
 
-'''[[History of philosophy]]'''
+== [[History of philosophy]] ==
 
 Philosophy has a long history.  Generally, philosophers divide the history of Western philosophy into [[ancient philosophy]], [[medieval philosophy]], [[modern philosophy]], and [[contemporary philosophy]].  [[Ancient philosophy]] was dominated by the trio of [[Socrates]], [[Plato]], and [[Aristotle]].  In [[medieval philosophy]], topics in metaphysics and philosophy of religion held sway, and the most important names included [[Augustine of Hippo|Augustine]], [[Peter Abelard]] and [[Aquinas]].  [[Modern philosophy]], generally means philosophy from 1600 until about 1900, and which includes many distinguished [[Early modern philosophy|early modern philosophers]], such as [[Rene Descartes|Ren&eacute; Descartes]], [[John Locke]], [[David Hume]], and [[Immanuel Kant]].  [[Nineteenth-century philosophy]] is often treated as its own period, as it was dominated by post-Kantian German and idealist philosophers like [[Georg Wilhelm Friedrich Hegel]], [[Karl Marx]], and [[F. H. Bradley]]; two other important thinkers were [[John Stuart Mill]] and [[Friedrich Nietzsche]].
 
@@ -20,7 +20,7 @@ On the [[Continental philosophy|continent of Europe]] (especially Germany and Fr
 
 Please see our more exhaustive list of [[Philosopher|philosophers]] as well as the [[history of philosophy]] article, from which the above was taken.
 
-'''[[Philosophical subdisciplines]]'''
+== [[Philosophical subdisciplines]] ==
 
 As with any field of academic study, philosophy has a number of subdisciplines.  Philosophy in fact seems to have a huge number of subdisciplines, in no small part due to the fact that there tends to be a "philosophy of" nearly everything else that is studied.  The beginner is invited particularly to pay attention to [[logic]], [[metaphysics]], [[philosophy of mind]], [[philosophy of language]], [[epistemology]], [[philosophy of science]], [[ethics]], and [[political philosophy]] as--arguably, of course--the "central disciplines" of philosophy.
 
@@ -44,11 +44,11 @@ As with any field of academic study, philosophy has a number of subdisciplines. 
 *[[Political philosophy]]: the study of basic topics concerning [[government]], including the purpose of [[the state]], political [[justice]], [[political freedom]], the nature of law, and [[the justification of punishment]].
 ''There are quite a few others; feel free to complete the list.''
 
-'''How to get started in philosophy'''
+== How to get started in philosophy ==
 
 It is a platitude (at least among people who write introductions to philosophy) that everybody has a philosophy, though they might not all realize it or be able to defend it.  If you're already interested in studying philosophy, your reason might be to improve the way you live or think somehow, or you simply wish to get acquainted with one of the most ancient areas of human thought.  On the other hand, if you don't see what all the fuss is about, it might help to read [[the motivation to philosophize]], which explains what motivates many people to "do philosophy," and get an [[Philosophical method/Introduction|introduction to philosophical method]], which is important to understanding how philosophers think.  It might also help to acquaint yourself with some considerations about [[definition of philosophy|just what philosophy is]].
 
-'''Applied philosophy'''
+== Applied philosophy ==
 
 Philosophy has applications.  The most obvious applications are those in [[ethics]]--[[applied ethics]] in particular--and in [[political philosophy]].  The political philosophies of [[John Locke]], [[Jean-Jacques Rousseau]], [[Karl Marx]], and [[John Stuart Mill]] have shaped and been used to justify governments and their actions.  [[Philosophy of education]] deserves special mention, as well; [[progressive education]] as championed by [[John Dewey]] has had a profound impact on educational practices in the United States in the twentieth century.
 
@@ -56,12 +56,8 @@ Other important, but less immediate applications can be found in [[epistemology]
 
 Moreover, recently, there has been developing a burgeoning profession devoted to applying philosophy to the problems of ordinary life: [[philosophical counseling]].
 
-----
-
-''Eventually, we would like the following lists introduced properly as separate sections of this article (which is an article-in-progress, of course!).''
-
-'''[[Philosophical theories]]'''
+== [[Philosophical theories]] ==
 
 [[altruism]] -- [[anti-realism]] -- [[Buddhist philosophy]] -- [[coherentism]] -- [[Confucianism]] -- [[consequentialism]] -- [[constructivism]] -- [[deconstructionism]] -- [[egoism]] -- [[eudaimonism]] -- [[foundationalism]] -- [[hedonism]] -- [[historical materialism]] -- [[irrealism]] -- [[justified true belief]] -- [[nominalism]] -- [[Objectivism]] -- [[psychological egoism]] -- [[Platonism]] -- [[realism]] -- [[reliabilism]] -- [[Taoism]] -- [[Transcendentalism]] [[utilitarianism]] --  [[Populism and Nationalism]] -- [[Irrationalism and Aestheticism]] -- [[Stoicism]] -- [etc. continue the list please]
 
-''This article was taken from a very early version of the Wikipedia article about philosophy.''
+''This article was taken from a [http://web.archive.org/web/20011024125006/www.wikipedia.com/wiki/Philosophy very early version] of the Wikipedia article about philosophy.  [http://en.wikipedia.org/wiki/Philosophy Current version.]''
