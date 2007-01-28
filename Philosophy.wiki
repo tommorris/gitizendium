@@ -1,0 +1,65 @@
+<i>Philosophy,</i> both the field and the concept, is notoriously [[definition of philosophy|hard to define]].  The study of the meaning and justification of beliefs about the most general, or universal, aspects of things--a study which is carried out not by experimentation or careful observation, but instead typically by formulating problems carefully, offering solutions to them, giving arguments for the solutions, and engaging in dialectic about all of the above.  Philosophy studies such concepts as [[existence]], [[goodness]], [[knowledge]], and [[beauty]].  It asks questions such as "What is goodness, in general?" and "Is knowledge even possible?"  Some famous [[philosopher]]s include [[Plato]], [[Aristotle]], [[Rene Descartes]], [[John Locke]], and [[Immanuel Kant]].
+
+Probably the best way to understand the meaning of the word "philosophy" is to examine its historical development.  "Philo-" comes from the Greek word <i>philein</i>, meaning to love, and "-sophy" comes from the Greek <i>sophia</i>, or wisdom.  Originally the scope of philosophy was <i>all</i> intellectual endeavor.  It has long since come to mean the study of an especially abstract, nonexperimental intellectual endeavor.  In fact, ''philosophy'' is itself a notoriously difficult word to define; the question "What is philosophy?" is itself, famously, a vexing philosophical question.  It is often observed that philosophers are unique in the extent to which they disagree about what their field even ''is''.
+
+Popularly, the word "philosophy" is often used to mean any form of wisdom, or any person's perspective on life (as in "philosophy of life") or basic principles behind or method of achieving something (as in "my philosophy about driving on highways").  That is different from the academic meaning, and it is the academic meaning which is used here.
+
+For further considerations about the very notion of philosophy, please see [[definition of philosophy]].
+
+'''[[History of philosophy]]'''
+
+Philosophy has a long history.  Generally, philosophers divide the history of Western philosophy into [[ancient philosophy]], [[medieval philosophy]], [[modern philosophy]], and [[contemporary philosophy]].  [[Ancient philosophy]] was dominated by the trio of [[Socrates]], [[Plato]], and [[Aristotle]].  In [[medieval philosophy]], topics in metaphysics and philosophy of religion held sway, and the most important names included [[Augustine of Hippo|Augustine]], [[Peter Abelard]] and [[Aquinas]].  [[Modern philosophy]], generally means philosophy from 1600 until about 1900, and which includes many distinguished [[Early modern philosophy|early modern philosophers]], such as [[Rene Descartes|Ren&eacute; Descartes]], [[John Locke]], [[David Hume]], and [[Immanuel Kant]].  [[Nineteenth-century philosophy]] is often treated as its own period, as it was dominated by post-Kantian German and idealist philosophers like [[Georg Wilhelm Friedrich Hegel]], [[Karl Marx]], and [[F. H. Bradley]]; two other important thinkers were [[John Stuart Mill]] and [[Friedrich Nietzsche]].
+
+In the [[twentieth-century philosophy|twentieth century]], philosophers in Europe and the United States took diverging paths.  The so-called [[analytic philosophy|analytic philosophers]], including [[Bertrand Russell]], [[G. E. Moore]], and [[Ludwig Wittgenstein]], were centered in [[Oxford]] and [[Cambridge]], and were joined by logical empiricists emigrating from Austria and Germany (e.g., [[Rudolph Carnap]]) and their students and others in the United States (e.g., [[W. V. Quine]]) and other English-speaking countries.
+
+[[John Dewey]] was an American philosopher and founder of the school of philosophy known as pragmatism. He had an enormous influence on American education - indeed, he is sometimes referred to as the ?father of American education?. 
+
+On the [[Continental philosophy|continent of Europe]] (especially Germany and France), the [[phenomenology|phenomenologist]] Germans [[Edmund Husserl]] and [[Martin Heidegger]] led the way, followed soon by [[Jean-Paul Sartre]] and other [[existentialism|existentialists]]; this led via other "[[isms]]" to [[postmodernism]], which dominates schools of [[Critical Theory]] as well as philosophy departments in France and Germany.
+
+Please see our more exhaustive list of [[Philosopher|philosophers]] as well as the [[history of philosophy]] article, from which the above was taken.
+
+'''[[Philosophical subdisciplines]]'''
+
+As with any field of academic study, philosophy has a number of subdisciplines.  Philosophy in fact seems to have a huge number of subdisciplines, in no small part due to the fact that there tends to be a "philosophy of" nearly everything else that is studied.  The beginner is invited particularly to pay attention to [[logic]], [[metaphysics]], [[philosophy of mind]], [[philosophy of language]], [[epistemology]], [[philosophy of science]], [[ethics]], and [[political philosophy]] as--arguably, of course--the "central disciplines" of philosophy.
+
+*[[Aesthetics]]: the study of basic philosophical questions about [[art]] and [[beauty]].
+*[[Epistemology]]: the study of [[knowledge]], its nature, [[skepticism|possibility]], and [[epistemic justification|justification]].
+*[[Ethics]]: the study of what makes actions right or wrong, and of how theories of [[right action]] can be applied to special moral problems.  Subdisciplines include [[meta-ethics]], [[value theory]], [[theory of conduct]], and [[applied ethics]].
+*[[History of philosophy]]: the study of what dead philosophers have written, its interpretation, and who influenced whom.
+*[[Logic]]: the study of the standards of correct [[argument|argumentation]].
+*[[Meta-philosophy]]: the study of [[philosophical method]] and the goals of philosophy.
+*[[Metaphysics]]: the study of the most basic [[category|categories]] of things, such as [[existence]], [[object]]s, [[property|properties]], [[causality]], and so forth.
+*[[Philosophy of biology]]: the philosophical study of some basic concepts of biology, including the notion of a [[species]].
+*[[Philosophy of education]]: the study of the purpose and most basic methods of education or learning.
+*[[Philosophy of language]]: the study of the concepts of [[meaning]] and [[truth]].
+*[[Philosophy of mind]]: the study of the nature of the [[mind]], and its relation to the [[body]] and the rest of the world.
+*[[Philosophy of perception]]: the philosophical study of topics related to perception, especially the question what the "immediate objects" of perception are.
+*[[Philosophy of physics]]: the philosophical study of some basic concepts of physics, including [[space]], [[time]], and [[force]].
+*[[Philosophy of psychology]]: the study of some fundamental questions about the methods and concepts of psychology and psychiatry, such as the meaningfulness of [[Sigmund Freud|Freudian]] concepts; this is sometimes treated as including philosophy of mind.
+*[[Philosophy of religion]]: the study of the meaning of the concept of [[God]] and of the rationality of belief in the existence of God.
+*[[Philosophy of science]]: includes not only, as subdisciplines, the "philosophies of" the special sciences (i.e., physics, biology, etc.), but also questions about induction, [[scientific method]], scientific progress, etc.
+*[[Philosophy of social sciences]]: the philosophical study of some basic concepts, methods, and presuppositions of social sciences such as sociology and economics.
+*[[Political philosophy]]: the study of basic topics concerning [[government]], including the purpose of [[the state]], political [[justice]], [[political freedom]], the nature of law, and [[the justification of punishment]].
+''There are quite a few others; feel free to complete the list.''
+
+'''How to get started in philosophy'''
+
+It is a platitude (at least among people who write introductions to philosophy) that everybody has a philosophy, though they might not all realize it or be able to defend it.  If you're already interested in studying philosophy, your reason might be to improve the way you live or think somehow, or you simply wish to get acquainted with one of the most ancient areas of human thought.  On the other hand, if you don't see what all the fuss is about, it might help to read [[the motivation to philosophize]], which explains what motivates many people to "do philosophy," and get an [[Philosophical method/Introduction|introduction to philosophical method]], which is important to understanding how philosophers think.  It might also help to acquaint yourself with some considerations about [[definition of philosophy|just what philosophy is]].
+
+'''Applied philosophy'''
+
+Philosophy has applications.  The most obvious applications are those in [[ethics]]--[[applied ethics]] in particular--and in [[political philosophy]].  The political philosophies of [[John Locke]], [[Jean-Jacques Rousseau]], [[Karl Marx]], and [[John Stuart Mill]] have shaped and been used to justify governments and their actions.  [[Philosophy of education]] deserves special mention, as well; [[progressive education]] as championed by [[John Dewey]] has had a profound impact on educational practices in the United States in the twentieth century.
+
+Other important, but less immediate applications can be found in [[epistemology]], which might help one to regulate one's notions of what knowledge, evidence, and justified belief are.  [[Philosophy of science]] discusses the underpinnings of the [[scientific method]], among other topics sometimes useful to scientists.  [[Aesthetics]] can help to interpret discussions of art.  Even [[ontology]], surely the most abstract and least practical-seeming branch of philosophy, has had important consequences for [[logic]] and [[computer science]].  In general, the various "philosophies of," such as [[philosophy of law]], can provide workers in their respective fields with a deeper understanding of the theoretical or conceptual underpinnings of their fields.  
+
+Moreover, recently, there has been developing a burgeoning profession devoted to applying philosophy to the problems of ordinary life: [[philosophical counseling]].
+
+----
+
+''Eventually, we would like the following lists introduced properly as separate sections of this article (which is an article-in-progress, of course!).''
+
+'''[[Philosophical theories]]'''
+
+[[altruism]] -- [[anti-realism]] -- [[Buddhist philosophy]] -- [[coherentism]] -- [[Confucianism]] -- [[consequentialism]] -- [[constructivism]] -- [[deconstructionism]] -- [[egoism]] -- [[eudaimonism]] -- [[foundationalism]] -- [[hedonism]] -- [[historical materialism]] -- [[irrealism]] -- [[justified true belief]] -- [[nominalism]] -- [[Objectivism]] -- [[psychological egoism]] -- [[Platonism]] -- [[realism]] -- [[reliabilism]] -- [[Taoism]] -- [[Transcendentalism]] [[utilitarianism]] --  [[Populism and Nationalism]] -- [[Irrationalism and Aestheticism]] -- [[Stoicism]] -- [etc. continue the list please]
+
+''This article was taken from a very early version of the Wikipedia article about philosophy.''
