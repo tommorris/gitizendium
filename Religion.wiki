@@ -1,10 +1,14 @@
-A <b>religion</b> can be defined as a system of [[belief]]s, values, principles, [[philosophy]], [[mythos]], and [[ritual]]s that deal with the ultimate concern of a person or society.  Common (but not universal) elements of religion include organized [[worship]] (possibly including a place of worship, commonly called a [[temple]], [[church]], or [[shrine]]), beliefs regarding the [[supernatural]], and respect for a high figure (who may or may not be [[divine]]).
+A <b>religion</b> is an apparently-universal human social phenomenon involving beliefs, values, practices, and identity. Scholars typically characterize religion as concerned with the supernatural; the sacred; or with subjects of ultimate concern (such as birth and death).
 
-The meaning and scope of the word "religion" (and its other-language equivalents) are the subjects of much disagreeement. A few borderline examples will serve as illustrations. Textbooks on religion often include Confucianism, but its adherents often disagree, pointing to Confucius' reluctance to discuss the supernatural. Freemasonry claims not to be a religion (since members of any religion may join); however others consider its tradition of texts, rituals, ethics, and group solidarity to qualify it as religious. And for all its anti-religious rhetoric, Soviet Communism boasted "sacred" texts, condemned "heretics", revered founders, conducted rituals, and promoted an elaborate eschatological prophecy in the form of the future workers' utopia. 
+Some religions are implicit, and consist of inherited ancestral traditions (a "way of life"). Others are organized, in conscious contrast to alternatives within the wider society. We may also distinguish between personal religious beliefs and experiences, and those which may be socially prescribed.
 
-Finally, many traditional societies make no clear distinction between "religious" and "nonreligious" aspects of daily life. How are we to decide, for example, whether a particular people's understanding of their place in the cosmos qualifies as a belief to which they adhere (in this connection we might consider scientific worldviews prevailing in industrialized societies); or whether a custom or practice is best described under the heading of religious rules, or etiquette? 
+The word "religion" may also be used to indicate a certain minimum level of spiritual independence. For example, Methodists generally do not describe Methodism as a "religion" in its own right, but as a denomination within the religion of Christianity.  Sikhs, however, insist that they are a "religion," and not, for example, merely a sect of Hinduism (despite their many similarities). 
 
-That said, elements which are often associated with "religion" include: 
+==The word "religion"==
+
+==Debate over meaning and scope==
+
+Elements which are often associated with "religion" include: 
 
 :*a distinctive worldview or belief-system
 :*group identity
@@ -13,6 +17,9 @@ That said, elements which are often associated with "religion" include:
 :*rules or behavioral expectations
 :*a focus on the supernatural
 
+However, there is no agreement as to which of these criteria ought to be the deciding ones in case of borderline cases. For example, textbooks on religion often include Confucianism, but its adherents often disagree, pointing to Confucius' reluctance to discuss the supernatural. Freemasonry claims not to be a religion (since members of any religion may join); however others consider its tradition of texts, rituals, ethics, and group solidarity to qualify it as religious. And for all its anti-religious rhetoric, Soviet Communism boasted "sacred" texts, condemned "heretics", revered founders, conducted rituals, and promoted an elaborate eschatological prophecy in the form of the future workers' utopia. 
+
+Finally, many traditional societies make no clear distinction between "religious" and "nonreligious" aspects of daily life. How are we to decide, for example, whether a particular people's understanding of their place in the cosmos qualifies as a belief to which they adhere (in this connection we might consider scientific worldviews prevailing in industrialized societies); or whether a custom or practice is best described under the heading of religious rules, or etiquette? 
 
 == Organizing Religions ==
 
@@ -32,13 +39,48 @@ However, there are some common divisions that many scholars agree to:
 
 == Major religions of the world ==
 
+The question of which religions qualify as "major" is not always a straightforward one. If we decide to judge by population size, we would still be faced with the perhaps arbitrary choices of a cutoff figure (ten million? 100 million?) and definitional criteria (self-identification? attendance at worship services?). And this would still leave us with the uncomfortable conclusion that Judaism is less important than Christianity, Islam, Hinduism, Buddhism, or even Sikhism. 
 
+If we decide to consider the age of the religion as well, similar problems arise. Would a century suffice to render a religion venerable? A millennium? And how are we to compute age, in the case of uncertainty or disagreement? For example, the International Society for Krishna Consciousness could with some justification be traced back to the 1960's activity of A.C. Bhaktivedanta Swami Prabhupada; to the career of the fifteenth-century Bengali saint Caitanya; to the composition of the ''Bhagavadgita'' some two thousand years ago; or to the life of Krishna himself (if he in fact existed as a historical figure)?
 
+Some religious movements are influential out of proportion to their size or age. An example would be the Quakers. And the Sandemanians are noteworthy mainly for being the church of Michael Faraday.
+
+That said, here are the religions which are invariably included on the shortest of short-lists:
+
+[[Judaism]] is the religion associated with the Hebrew Bible, including the "written and oral Torahs"; and with the "people of Israel" represented today by ethnic Jews. Its sacred history recognizes Abraham as its greatest ancestors; Moses as its greatest prophet and lawgiver; and David as its greatest king. From its sacred homeland of Israel, Judaism has been indelibly shaped by its history of exile, and experience of anti-Semitism. Major divisions include
+
+:Orthodox Judaism
+:Conservative Judaism
+:Reform Judaism
+
+[[Christianity]] recognizes Jesus Christ as its founder and object of worship. Its major divisions include
+
+:The Oriental churches
+::The Assyrian Church of the East
+::The Armenian Apostolic Church
+::The Coptic church
+:Eastern Orthodox Christianity
+:Roman Catholicism
+:Protestantism
+::Lutheranism
+::Calvinism
+::The Anglican Communion
+::Evangelical Christianity
+::Pentecostalism
+::"Restoration" churches
+:::Mormonism
+::::Utah Mormonism
+::::Missouri Mormonism
+:::Adventism
+:::Jehovah's Witnesses
+
+[[Islam]] is 
+
+[[Hinduism]] encompasses a variety of Indian deity-cults (the most popular being those of Vishnu and Shiva) united through their shared veneration of the Vedas and other sacred texts. It is perhaps most crucially associated with a social
 
 [[Buddhism]] is ultimately derived from the life and teachings of [[Siddhartha Gautama]] (c. [big dating problem here]. It may be divided (according to culture, geography, and the language of sacred texts) into South Asian Buddhism, Tibeto-Mongolian Buddhism, and East Asian Buddhism; or (according to thelogy) into Theravada and Mahayana branches. "Vajrayana" or "Tantric Buddhism" is a special subset of Mahayana Buddhism.
 
-[[Hinduism]] encompasses a variety of Indian deity-cults (the most popular being those of Vishnu and Shiva) united through their shared veneration of the Vedas and other sacred texts and t
-
+[[Chinese religions]] include 
 
 ==Other religions==
 
