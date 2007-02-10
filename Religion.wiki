@@ -2,7 +2,7 @@ A <b>religion</b> is an apparently-universal human social phenomenon involving b
 
 Some religions are implicit, and consist of inherited ancestral traditions (a "way of life"). Others are organized, and promote themselves in conscious contrast to alternatives within the wider society. We may also distinguish between personal religious beliefs and experiences, and those which may be socially prescribed.
 
-The word "religion" may also be used to indicate a certain minimum level of spiritual independence. For example, Methodists generally do not describe Methodism as a "religion" in its own right, but as a denomination within the religion of Christianity.  Sikhs, however, insist that they are a "religion," and not, for example, merely a sect of Hinduism (despite their many similarities). 
+In the case of religions which are divided into sects or denominations, the word "religion" is generally reserved for the most fundamental level of spiritual identity. For example, Methodists generally do not describe Methodism as a "religion" in its own right, but as a denomination within the religion of Christianity.  Sikhs, however, insist that they are a "religion," and not, for example, merely a sect of Hinduism (despite their many similarities). 
 
 ==The word "religion"==
 
@@ -37,6 +37,8 @@ However, there are some common divisions that many scholars agree to:
 
 '''"Tribal religions."''' Include a wide variety of small-scale religions found in pre-modern societies. "Shamanism" describes one common religious-specialist role within many such societies (but neither exhausts the categeory, nor is limited to it).
 
+'''"New Religious Movements."'''
+
 == Major religions of the world ==
 
 
@@ -49,9 +51,9 @@ However, there are some common divisions that many scholars agree to:
 
 [[Hinduism]] encompasses a variety of Indian deity-cults (the most popular being those of Vishnu and Shiva) united through their shared veneration of the Vedas and other sacred texts. It is perhaps most crucially associated with a social
 
-[[Buddhism]] is ultimately derived from the life and teachings of [[Siddhartha Gautama]] (c. [big dating problem here]. It may be divided (according to culture, geography, and the language of sacred texts) into Southern Buddhism, Tibeto-Mongolian Buddhism, and East Asian Buddhism; or (according to theology) into Theravada and Mahayana branches. "Vajrayana" or "Tantric Buddhism" is a special subset of Mahayana Buddhism.
+[[Chinese religions]]
 
-[[Chinese religions]] include
+[[Buddhism]] is ultimately derived from the life and teachings of [[Siddhartha Gautama]] (c. [big dating problem here]. It may be divided (according to culture, geography, and the language of sacred texts) into Southern Buddhism, Tibeto-Mongolian Buddhism, and East Asian Buddhism; or (according to theology) into Theravada and Mahayana branches. "Vajrayana" or "Tantric Buddhism" is a special subset of Mahayana Buddhism.
 
 ===Over 10 million followers===
 
@@ -67,9 +69,21 @@ However, there are some common divisions that many scholars agree to:
 
 [[Jainism]]
 
+[[Tenrikyo]]
+
 [[Baha'i religion]]
 
+[[Caodaism]]
+
+[[Yikuandao]]
+
+[[Chondogyo]]
+
 ===Less than one million followers===
+
+[[Oomoto]]
+
+[[
 
 [[Neopaganism]] includes a variety of revivals of 
 
