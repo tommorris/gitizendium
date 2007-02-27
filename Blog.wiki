@@ -1,4 +1,4 @@
-A '''blog''' is a journal site where the blogger (the blog's administrator) posts entries.  Often, entries are displayed in reverse-[[chronological order]].  
+A '''blog''' is a journalistic [[website]] in which the "blogger" (site administrator) posts entries.  Often, entries are displayed in reverse-[[chronological order]].  
 
 ==Etymology==
 "Blog" is a shortening of "we'''b log'''".  Blog can also be used as a verb to refer to adding an entry about a topic to a blog, as in "I blogged about that".  The originator of the word is disputed, but it originated in the late 1990s.
