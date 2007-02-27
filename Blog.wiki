@@ -1,7 +1,7 @@
 A '''blog''' is a journal site where the blogger (the blog's administrator) posts entries.  Often, entries are displayed in reverse-[[chronological order]].  
 
 ==Etymology==
-"Blog" is a shortening of "we'''b log'''".  Blog can also be used as a verb to refer to adding an entry about a topic to a blog, as in "I blogged about that".  
+"Blog" is a shortening of "we'''b log'''".  Blog can also be used as a verb to refer to adding an entry about a topic to a blog, as in "I blogged about that".  The originator of the word is disputed, but it originated in the late 1990s.
 
 ==How It Works==
 Many bloggers use a [[hosted blogging service]], like [[Blogger]] or [[TypePad]] or [[LiveJournal]], which allow the blogger to get started without installing any software on their computer.  Some of these are ad-supported, and some offer paid ad-free models.
@@ -20,5 +20,6 @@ Finally, some bloggers with a large enough audience can make money off of [[pay-
 ==Accomplishments of Bloggers==
 
 ==Integration with other Web 2.0 stuff==
+Bloggers make use of other collaborative web tools in their blogs.  For instance, many bloggers store videos related to their posts on [[Youtube]] or [[Google Video]] and some photos on [[Photobucket]] and [[Flickr]].  They link to other blogs, and find many of their stories on other collaborative websites like [[Digg]], which in turn finds and highlights interesting blog stories.
 
 [[Category:Computers Workgroup]]
