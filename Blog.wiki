@@ -9,6 +9,13 @@ Many bloggers use a [[hosted blogging service]], like [[Blogger]] or [[TypePad]]
 There are also dozens of blogging programs you can install on your own computer, using a personal machine as your blog's server.  These allow the blogger to decide whether or not to allow advertising to cover costs, but makes the blogger responsible for hardware and bandwidth costs.
 
 ==Business Model==
+Although most blogging is done for fun or for informational purposes, some blogging is done for monetary reasons.
+
+Some businesses run blogs, where their [[Chief Executive Officer|CEOs]] or other ranking officials can write to the public, their customers, and to shareholders.  Some of these blogs are actually written by the executive, but many are ghostwritten by staffers or assistants.  This model is also followed by political candidates.
+
+Some bloggers accept money to do promotion for a company or its products without disclosing the arrangement.  For instance, a blogger working for a company or a PR firm might write a favorable review of a product or refute accusations against a company or smear rivals in exchange for money.  Such actions are called [[astroturfing]], and are generally discouraged in the online community, as they represent an attempt to create "fake [[grassroots (politics)|grassroots]]", and astroturfers are denounced if and when discovered.
+
+Finally, some bloggers with a large enough audience can make money off of [[pay-per-click advertising]] and selling merchandise.
 
 ==Accomplishments of Bloggers==
 
