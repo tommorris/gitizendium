@@ -11,7 +11,39 @@ A fourth approach offers more promise.  Instead of a list of practitioners and t
 Popularly, the word "philosophy" is often used to mean any form of wisdom, or any person's perspective on life (as in "philosophy of life") or basic principles behind or method of achieving something (as in "my philosophy about driving on highways").  That is different from the academic meaning, and it is the academic meaning which is used here.
 
 
-== A brief introduction to some leading problems of philosophy ==
+== A brief historical introduction to some leading problems of philosophy ==
+
+Western philosophy is generally said to have begun with [[Thales of Miletus|Thales]] (''dates?''), the first thinker on record to offer a secular answer to a very general question, "What is the first principle, or essential nature, of all things?"  We might find Thales' answer--''water''--to be strange or amusing, but his achievement lies in asking a general question, and offering a secular answer.  This began a debate--a strand of what is known as [[pre-Socratic philosophy]], because it predates Socrates--about the ultimate nature (Gk. ''phusis,'' &phi;&upsilon;&sigma;&iota;&sigmaf;) of things.  For instance, [[Anaximander of Miletus|Anaximander]] held this ultimate nature to be the Indefinite; [[Anaximenes of Miletus|Anaximenes]] held it to be Air.  Such one-word answers 
+
+Socrates: ''ti esti'' questions
+
+Plato on the nature of the Good
+
+Aristotle's empiricism and rejection of idealism; his account of definitions and his definition of virtue
+
+The Hellenistic philosophers (focus on the development of schools/moral doctrine)
+
+Anselm and Aquinas on God
+
+The medieval problem of universals
+
+Descartes: skepticism and innate knowledge
+
+Locke: empiricism as a rejection of innatism
+
+Hume: skeptical consequences of the theory of ideas
+
+Reid and the Scottish School reject the theory of ideas
+
+Kant and later philosophers mostly embrace it and move toward 19th century idealism
+
+Kierkegaard, Nietzsche, and later existentialists
+
+Frege and Russell: the rise of formal logic
+
+Moore and Wittgenstein: back to common sense and the constraints of our language games
+
+The great divide: analytic vs. continental
 
 == History of philosophy ==
 
