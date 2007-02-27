@@ -13,3 +13,5 @@ There are also dozens of blogging programs you can install on your own computer,
 ==Accomplishments of Bloggers==
 
 ==Integration with other Web 2.0 stuff==
+
+[[Category:Computers Workgroup]]
