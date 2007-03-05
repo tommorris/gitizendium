@@ -22,6 +22,9 @@ Finally, some bloggers with a large enough audience can make money off of [[pay-
 ==Integration with other Web 2.0 stuff==
 Bloggers make use of other collaborative web tools in their blogs.  For instance, many bloggers store videos related to their posts on [[Youtube]] or [[Google Video]] and some photos on [[Photobucket]] and [[Flickr]].  They link to other blogs, and find many of their stories on other collaborative websites like [[Digg]], which in turn finds and highlights interesting blog stories.
 
+==Further reading==
+* [Josh Hallett's take http://hyku.com/blog/archives/000238.html]
+
 [[Category:Computers Workgroup]]
 [[Category:CZ Live]]
 [[Category:Big Write]] <!--OK, it's kinda short, but it'll get there--!>
