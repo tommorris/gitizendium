@@ -3,27 +3,27 @@ A '''blog''' is a journalistic [[website]] in which a "blogger" (web author, or 
 ==Etymology==
 "Blog" is a shortening of "we'''b log'''".  Blog can also be used as a verb to refer to adding an entry about a topic to a blog, as in "I blogged about that".  The originator of the word is disputed, but it originated in the late 1990s.
 
-==How It Works==
+==Technical Preconditions==
 Many bloggers use a [[hosted blogging service]], like [[Blogger]] or [[TypePad]] or [[LiveJournal]], which allow the blogger to get started without installing any software on their computer.  Some of these are ad-supported, and some offer paid ad-free models.
 
-There are also dozens of blogging programs you can install on your own computer, using a personal machine as your blog's server.  These allow the blogger to decide whether or not to allow advertising to cover costs, but makes the blogger responsible for hardware and bandwidth costs.
+There are also dozens of blogging programs a user can install on his own computer, using a personal machine as his blog's [[server]].  These allow the blogger to decide whether or not to allow [[advertising]] for income but require the blogger to shoulder his hardware and bandwidth costs.
 
 ==Business Model==
 Although most blogging is done for fun or for informational purposes, some blogging is done for monetary reasons.
 
-Some businesses run blogs, where their [[Chief Executive Officer|CEOs]] or other ranking officials can write to the public, their customers, and to shareholders.  Some of these blogs are actually written by the executive, but many are ghostwritten by staffers or assistants.  This model is also followed by political candidates.
+Some businesses run blogs, where their [[Chief Executive Officer|CEOs]] or other ranking officials can write to the public, their customers, and to [[shareholder]]s.  Some of these blogs are actually written by the executive, but many are [[ghostwriter|ghostwritten]] by staffers or assistants.  This model is also followed by political candidates.
 
-Some bloggers accept money to do promotion for a company or its products without disclosing the arrangement.  For instance, a blogger working for a company or a PR firm might write a favorable review of a product or refute accusations against a company or smear rivals in exchange for money.  Such actions are called [[astroturfing]], and are generally discouraged in the online community, as they represent an attempt to create "fake [[grassroots (politics)|grassroots]]", and astroturfers are denounced if and when discovered.
+Some bloggers accept money to do [[promotion]] for a company or its products without disclosing the arrangement.  For instance, a blogger working for a company or a [[PR]] firm might write a favorable review of a product, refute accusations against the company, or smear rivals in exchange for money.  Such actions are called [[astroturfing]], and are generally discouraged in the online community, as they represent an attempt to create "fake [[grassroots (politics)|grassroots]]", and astroturfers are denounced if and when discovered.
 
 Finally, some bloggers with a large enough audience can make money off of [[pay-per-click advertising]] and selling merchandise.
 
 ==Accomplishments of Bloggers==
 
-==Integration with other Web 2.0 stuff==
-Bloggers make use of other collaborative web tools in their blogs.  For instance, many bloggers store videos related to their posts on [[Youtube]] or [[Google Video]] and some photos on [[Photobucket]] and [[Flickr]].  They link to other blogs, and find many of their stories on other collaborative websites like [[Digg]], which in turn finds and highlights interesting blog stories.
+==Integrating Web 2.0 services==
+Bloggers may make use of collaborative web tools in their blogs.  For instance, many bloggers store videos related to their posts on [[Youtube]] or [[Google Video]] and photos on [[Photobucket]] or [[Flickr]].  They link to other blogs, and find many of their stories on other collaborative websites like [[Digg]], which in turn finds and highlights interesting blog stories.
 
 ==Further reading==
-* [http://hyku.com/blog/archives/000238.html Josh Hallett's take]
+* [http://hyku.com/blog/archives/000238.html Josh Hallett's research on appearance of the word "blog"]
 
 [[Category:Computers Workgroup]]
 [[Category:CZ Live]]
