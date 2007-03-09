@@ -34,7 +34,9 @@ The originality of Ibn Khaldun was to see that the cultural difference of anothe
 
 Ibn Khaldun advises that historians rely on the past for understanding the present, that they use their own experience to understand the underlying conditions of their society and the principles governing them. In studying the past, they must discover the underlying conditions of those times and decide whether and how far the apparent principles of their own age are applicable. The understanding of the past, thus, becoming the tool by which to evaluate the present. Ultimately, once they fully understand the laws of human society, they can apply them directly to any new body of historical information they confront,  which exactly fits in with the opening statement made at the start of the essay by De Somogyi (De Somogyi, J. ( 1958), ‘The Development of Arab Historiography, in The Journal of Semitic Studies, Vol 3). 
 
-Other historians of note who have advanced the historical methods of study include [[Leopold von Ranke]], [[Lewis Bernstein Namier]], [[Geoffrey Rudolph Elton]], [[G.M. Trevelyan]] and [[A.J.P. Taylor]]. In the 20th century, historians focused less on epic nationalistic narratives, which often tended to glorify the nation or individuals, to more realistic chronologies. French historians introduced quantitative history, using broad data to track the lives of typical individuals, and were prominent in the establishment of [[cultural history]] (cf. [[histoire des mentalités]]). American historians, motivated by the civil rights era, focused on formerly overlooked ethnic, racial, and socio-economic groups. In recent years, [[postmodernism|postmodernists]] have challenged the validity and need for the study of history on the basis that all history is based on the personal interpretation of sources. In his book ''In Defence of History'', [[Richard J. Evans]], a professor of modern history at [[University of Cambridge|Cambridge University]], defended the worth of history.
+Other historians of note who have advanced the historical methods of study include [[Leopold von Ranke]], [[Lewis Bernstein Namier]], [[Frederick Jackson Turner]] and [[Charles Beard]] 
+
+In the 20th century, historians avoided epic nationalistic narratives, favoring more specialized studies looking as social, economic, political or intellectual forces.  French demographic historians introduced quantitative history, using broad data to track the lives of average groupigs. Other French historians were prominent in the establishment of [[cultural history]] (cf. [[histoire des mentalités]]). American historians following [[Frederick Jackson Turner]] emphasized the frontier and sectionaism, while [[Charles beard]] and [[C. Vann Woodward]] looked for conflicts of economic interest. After 1960 [[neoabolitionist]] historians inspired by the American civil rights movement emphasized moralistic stories, with racism as the evil that trimphed or was defeated.  The "new social history" took a comprehensive approach to include every man, woman and child, often using census, court and tax records. After the 1970s [[postmodernism|postmodernists]] have challenged the validity and need for the study of history on the basis that all history is based on the personal interpretation of sources. In his book ''In Defence of History'', [[Richard J. Evans]], a professor of modern history at [[University of Cambridge|Cambridge University]], defended the worth of history.
 
 ==Value==
 Historians often claim that the study of history teaches valuable lessons with regard to past successes and failures of leaders, military strategy and tactics, economic systems, forms of government, and other recurring themes in the human story. From history we may learn factors that result in the rise and fall of [[nation-state]]s or [[civilization]]s, the strengths and weaknesses of various political, economic, and social systems, and the effects of factors such as [[trade]] and [[technology]].
@@ -53,13 +55,10 @@ Such contrasts with regard to "history's value" serve as examples of history as 
 
 ''Methods and tools''
 *[[Contemporaneous corroboration]]: A method historians use to establish facts beyond their limited lifespan.
-*[[Prosopography]]: A methodological tool for the collection of all known information about individuals within a given period.
-*[[Historical revisionism]]: Traditionally been used in a completely neutral sense to describe the work or ideas of a historian who has revised a previously accepted view of a particular topic.
+*[[Prosopography]]: A methodological tool for the statistical or systematic collection of facts about all the individuals in a given leadership group. 
+*[[Historical revisionism]]: A new interpretation based not on new facts but on a new moral judgment, reversing the previous "orthodox" interpretation. Originally used to discuss who was "guilty" of starting World War I.
 
 ''Particular studies and fields''
-*[[Archaeology]]: study of prehistoric and historic human cultures through the recovery, documentation and analysis of material remains and environmental data.
-*[[Archontology]]: study of historical offices and important positions in state, international, political, religious and other organizations and societies.
-*[[Art History]]: the study of changes in and social context of art.
 *[[Big History]]: study of history on a large scale across long time frames (since the [[Big Bang]] and up to the future) through a multi-disciplinary approach.
 *[[Chronology]]: science of localizing historical events in time.
 *[[Cultural history]]: the study of culture in the past.
@@ -71,26 +70,28 @@ Such contrasts with regard to "history's value" serve as examples of history as 
 *[[Paleography]]: study of ancient texts.
 *[[Political history]]: the study of politics in the past.
 *[[Psychohistory]]: study of the psychological motivations of historical events.
-*[[Historiography of science]]: study of the structure and development of science.
 **[[Science History]] - History of Science
 ***[[History of Biology]] - History of Science of Life
 ***[[History of Medicine (Human Biology)]] - History of modern Medicine
+***[[Historiography of science]]: study of the structure and development of science.
 *[[Social History]]: the study of societies in the past.
 *[[World History]]: the study of history from a global perspective.
 
 ''Other''
-*[[Changelog]]: log or record of changes made to a project, such as a website or software project.
-*[[Human evolution]]: process of change and development, or evolution, by which human beings emerged as distinct species.
 *[[Social change]]: changes in the nature, the social institutions, the social behavior, or the social relations of a society or community of people.
 *[[Historical drama film]] - The portrayal of history of film.
 
 ==References==
-*Durant, Will & Ariel; ''The Lessons of History''; MJF Books, 1997, ISBN 1-56731-024-9.
-*Durant, Will & Ariel; ''The Story of Civilization''; 11 vols., Simon & Schuster.
+* Ernst Breisach. ''Historiography: Ancient, Medieval, and Modern'' (2007) 
+* M. Bentley. ''Modern Historiography: An Introduction.'' (1999) 
+* M. Bentley. ''Companion to Historiography'' (2003) 
+* Peter Burke. ''French Historical Revolution: The Annales School, 1929-89'' (1991) 
 *Evans, Richard J.; ''In Defence of History''; W. W. Norton (2000), ISBN 0-393-31959-8
-*Gonick, Larry; ''The Cartoon History of the Universe''; Doubleday, vol. 1 (1990) ISBN 0-385-26520-4, vol. II (1994) ISBN 0-385-42093-5, W. W. Norton, vol. III (2002) ISBN 0-393-05184-6.
-*Wells, H. G.; ''An Outline of History''; Reprint Services Corporation (1920), ISBN 0-7812-0661-8.
-*''The World Almanac and Book of Facts'' (annual); World Almanac Education Group; 2004 ISBN 0-9968791-0-8.
+*  Eric Foner, ed. ''New American History'' (1997)
+* Richard Hofstadter. ''Progressive Historians: Turner Beard Parrington'' (1969) 
+* Georg G. Iggers. ''Historiography in the Twentieth Century: From Scientific Objectivity to the Postmodern Challenge'' (2005) 
+* Q. Edward Wang and Georg G. Iggers, eds. ''Turning Points in Historiography: A Cross-Cultural Perspective. '' (2005)
+ 
 
 [[Category:CZ Live]]
 [[Category:History| ]]
