@@ -13,6 +13,8 @@ Popularly, the word "philosophy" is often used to mean any form of wisdom, or an
 
 The history of philosophy is vast.  There is no way to make sense of it in a few paragraphs.  But it is possible to give an abbreviated narrative of a few important strands in the history of philosophy.  This will perhaps give the reader some sense of who some major thinkers were, and what some important philosophical problems were like.
 
+=== Ancient philosophy: what things are, and a focus on virtue ===
+
 Western philosophy is generally said to have begun with [[Thales of Miletus|Thales]] (sixth century B.C.), the first thinker on record to offer a secular answer to a very general question, "What is the first principle, or essential nature, of all things?"  We might find Thales' answer, ''Water,'' to be strange or amusing, but his achievement lay in asking a general question, and offering a secular answer.  This began a debate--a strand of what is known as '''[[pre-Socratic philosophy]],''' because it predates Socrates--about the ultimate nature (Gk. ''phusis,'' &phi;&upsilon;&sigma;&iota;&sigmaf;) of things.  For instance, [[Anaximander of Miletus|Anaximander]] held this ultimate nature to be The Indefinite; [[Anaximenes of Miletus|Anaximenes]] held it to be Air.  Such one-word answers are useless as summaries of their views, but what they indicate is that thinkers ''did'' have competing notions of what everything ''is,'' ultimately, or in other words, what the ultimate origin and substance of things is.  This tradition marked the beginnings of what we call physics and of philosophy.
 
 Many philosophers accord '''[[Socrates]]''' (469–399 B.C.) pride of place as the first great Western philosopher.  His great achievement, like that of the pre-Socratics, lay not in any particular doctrine, but instead a type of question, and a method of answering it.  Socrates reportedly made a habit of questioning the leading Athenian intellects of the day, asking them for a definition or account (the ''logos'') of what they purportedly knew about.  For example, he asked a famous general, Laches, "What is courage?"  Laches offered up a definition, to which Socrates would offer a [[counterexample]]; the process would repeat until the expert gave up.  Socrates, then, would conclude that the person lacked the knowledge that he claimed to have, because genuine knowledge of a thing required the ability to give an account of it.  Thus began the central concern of philosophers with the analysis, or offering definitions, of "big" concepts such as virtue and knowledge.  The idea is that if we could limn our basic concepts, we might gain a deep understanding of the way the world really is.
@@ -23,11 +25,15 @@ Plato in turn was the teacher of '''[[Aristotle]]''' (384-322 B.C.), who had a d
 
 Plato and Aristotle each established schools of philosophy--Plato, the famous Academy, members of which were called Academics, and Aristotle, the Lyceum, members of which were called Peripatetics.  Other schools arose as well: [[Epicureanism]] and [[Stoicism]], which flourished in Rome, and which included a strand called [[Cynicism]].  There is no way to explain the differences between these schools in the short time we have, but we can show how themes already raised were played out in the centuries that followed.  ''Next: the Hellenistic philosophers, focus the discussion on skepticism as a moral doctrine, and the Epicurean and Stoic concern with the virtues.''
 
-The Christianization of philosophy: Anselm and Aquinas on God
+=== Medieval philosophy: secular methods meet theological puzzles ===
+
+Anselm and Aquinas on God
 
 Aquinas and Bonaventura on the beginning of the world
 
 The medieval problem of universals
+
+=== Early modern philosophy: the origins of knowledge ===
 
 Descartes: skepticism and innate knowledge
 
@@ -38,6 +44,8 @@ Hume: skeptical consequences of the theory of ideas
 Reid and the Scottish School reject the theory of ideas
 
 Kant and later philosophers mostly embrace it and move toward 19th century idealism
+
+=== 19th and 20th century philosophy: the rise of the great divide ===
 
 Kierkegaard, Nietzsche, and later existentialists
 
