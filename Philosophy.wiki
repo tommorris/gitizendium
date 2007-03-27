@@ -68,18 +68,18 @@ As with any field of academic study, philosophy has a number of subdisciplines. 
 *[[Logic]]: the study of the standards of correct [[argument|argumentation]].
 *[[Meta-philosophy]]: the study of [[philosophical method]] and the goals of philosophy.
 *[[Metaphysics]]: the study of the most basic [[category|categories]] of things, such as [[existence]], [[object]]s, [[property|properties]], [[causality]], and so forth.
-*[[Philosophy of biology]]: the philosophical study of some basic concepts of biology, including the notion of a [[species]].
+*[[Philosophy of biology]]: the study of some basic concepts of biology, including the notion of a [[species]].
 *[[Philosophy of education]]: the study of the purpose and most basic methods of education or learning.
 *[[Philosophy of language]]: the study of the concepts of [[meaning]] and [[truth]].
 *[[Philosophy of law]] and [[Jurisprudence]]: are the study of the basis of law (authority and relevance), and its link with morality.
 *[[Philosophy of mind]]: the study of the nature of the [[mind]], and its relation to the [[body]] and the rest of the world.
-*[[Philosophy of perception]]: the philosophical study of topics related to perception, especially the question what the "immediate objects" of perception are.
-*[[Philosophy of physics]]: the philosophical study of some basic concepts of physics, including [[space]], [[time]], and [[force]].
+*[[Philosophy of perception]]: the study of topics related to perception, especially the question what the "immediate objects" of perception are.
+*[[Philosophy of physics]]: the  study of some basic concepts of physics, including [[space]], [[time]], and [[force]].
 *[[Philosophy of psychology]]: the study of some fundamental questions about the methods and concepts of psychology and psychiatry, such as the meaningfulness of [[Sigmund Freud|Freudian]] concepts; this is sometimes treated as including philosophy of mind.
 *[[Philosophy of religion]]: the study of the meaning of the concept of [[God]] and of the rationality of belief in the existence of God.
 *[[Philosophy of science]]: includes not only, as subdisciplines, the "philosophies of" the special sciences (i.e., physics, biology, etc.), but also questions about induction, [[scientific method]], scientific progress, etc.
 *[[Philosophy of social sciences]]: the philosophical study of some basic concepts, methods, and presuppositions of social sciences such as sociology and economics.
-*[[Political philosophy]]: the philosophical study of questions about societies and social interaction, including the nature and justification of [[the state]], [[justice]], [[freedom]], [[law]], and [[punishment]].
+*[[Political philosophy]]: the study of questions about societies and social interaction, including the nature and justification of [[the state]], [[justice]], [[freedom]], [[law]], and [[punishment]].
 ''There are quite a few others; feel free to complete the list.''
 
 == How to get started in philosophy ==
