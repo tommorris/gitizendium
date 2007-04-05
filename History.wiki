@@ -11,7 +11,7 @@ With the first stage, historians try to collect all the source material availabl
 
 The third and most crucial stage involves writing down the historical narrative, as the historian understands it. This stage almost always involves some type of decision on the part of the historian as to the degree of veracity of some depiction of the historical narrative, and rejection or playing down of alternative narratives. 
 
-Some historians, most especially in ancient historical account, tend to lay out or summarily describe the various narrative or contentions and usually determine, explain or hint which is truer in their view. Other historians just mention when relating some facts or opinions that are point in contention amongst sources or other historians. With some points, where making such a decision is hard or impossible, some historians may leave the point undecided or speculate as to what actually happened.
+Some historians, most especially in ancient historical account, tend to lay out or summarily describe the various narrative or contentions and usually determine, explain or hint which is truer in their view. Other historians just mention when relating some facts or opinions that are point in contention among sources or other historians. With some points, where making such a decision is hard or impossible, some historians may leave the point undecided or speculate as to what actually happened.
 
 ==Historical methods==
 {{main|Historical method}}
@@ -22,7 +22,7 @@ The '''historical method''' comprises the techniques and guidelines by which [[h
 
 Historians of note who have advanced the historical methods of study include [[Leopold von Ranke]], [[Lewis Bernstein Namier]], [[Frederick Jackson Turner]], [[Charles Beard]] and E.P. Thompson.
  
-In the 20th century, historians avoided epic nationalistic narratives, favoring more specialized studies looking as social, economic, political or intellectual forces.  French demographic historians introduced quantitative history, using broad data to track the lives of average groupigs. Other French historians were prominent in the establishment of [[cultural history]] (cf. [[histoire des mentalités]]). In the U.S. "Progressive" historians following [[Frederick Jackson Turner]] emphasized the frontier and sectionaism, while those following [[Charles Beard]] and [[C. Vann Woodward]] looked for conflicts of economic interest. After 1950 intellectual history replaced the older Progressive models. After 1960 [[neoabolitionist]] historians inspired by the American civil rights movement emphasized moralistic stories, with racism as the evil that trimphed or was defeated.  The "new social history" in the 1970s took a comprehensive approach to include every man, woman and child, often using census, court and tax records. After the 1970s [[postmodernism|postmodernists]] have challenged the validity and need for the study of history on the basis that all history is based on the personal interpretation of sources. This approach came under blistering attack by historians such as Granatstein (1998) in Canada, and Windschuttle (2000) in Australia, leading to lively debates.
+In the 20th century, historians avoided epic nationalistic narratives, favoring more specialized studies looking as social, economic, political or intellectual forces.  French demographic historians introduced quantitative history, using broad data to track the lives of average groupings. Other French historians were prominent in the establishment of [[cultural history]] (cf. [[histoire des mentalités]]). In the U.S. "Progressive" historians following [[Frederick Jackson Turner]] emphasized the frontier and sectionalism, while those following [[Charles Beard]] and [[C. Vann Woodward]] looked for conflicts of economic interest. After 1950 intellectual history replaced the older Progressive models. After 1960 [[neoabolitionist]] historians inspired by the American civil rights movement emphasized moralistic stories, with racism as the evil that triumphed or was defeated.  The "new social history" in the 1970s took a comprehensive approach to include every man, woman and child, often using census, court and tax records. After the 1970s [[postmodernism|postmodernists]] have challenged the validity and need for the study of history on the basis that all history is based on the personal interpretation of sources. This approach came under blistering attack by historians such as Granatstein (1998) in Canada, and Windschuttle (2000) in Australia, leading to lively debates.
 
 ==Value==
 Historians often claim that the study of history teaches valuable lessons with regard to past successes and failures of leaders, military strategy and tactics, economic systems, forms of government, and other recurring themes in the human story. From history we may learn factors that result in the rise and fall of [[nation-state]]s or [[civilization]]s, as explored by [[Arnold Toynbee]]. Other historians have explored various political, economic, and social systems, and the effects of factors such as religion, disease, warfare, trade and technology.
@@ -35,29 +35,27 @@ Yet another view is that history does not repeat itself because of the uniquenes
 
 Such contrasts with regard to "history's value" serve as examples of history as an outlet for intellectual debate, and indeed many, both in and outside of academia, would argue that at least part of history's value lies simply in its ability to provoke such discussion. In turn, this can be seen as cultivating further intellectual interest.
 
-==See also==
-*[[Historian]]: A person who studies history.
-*[[Pseudohistory]]: term for information about the past that falls outside the domain of mainstream history (sometimes it is an equivalent of [[pseudoscience]]).
 
 ''Methods and tools''
-*[[Contemporaneous corroboration]]: A method historians use to establish facts beyond their limited lifespan.
-*[[Prosopography]]: A methodological tool for the statistical or systematic collection of facts about all the individuals in a given leadership group. 
 *[[Historical revisionism]]: A new interpretation based not on new facts but on a new moral judgment, reversing the previous "orthodox" interpretation. Originally used to discuss who was "guilty" of starting World War I.
 
 ''Particular studies and fields''
 *[[Big History]]: study of history on a large scale across long time frames through a multi-disciplinary approach.
-*[[Cultural history]]: the study of culture in the past.
+*[[Cultural history]]: the study of culture in the past, or the use of cultural sources
+* [[Demographic history]], studies entire populations with census data and demographic models; emphasis on births, deaths, family structure and dynamic trends
 *[[Diplomatic history]]: the study of international relations in the past.
-*[[Economic History]]: the study of economies in the past.
-*[[Military History]]: The study of warfare; also [[Naval History]].
-* [[Oral history]]: a research technique based on structured interviews with participants
+*[[Economic History]]: the study of economic structures and behavior, especially with use of modern economic models
+*[[Family history]], studies the structure and behavior of ordinary families, with emphasis on the strategies for survival and success; includes studies of marriage, childhood, and old age; closely tied to [[demographic history]]
+*[[Military History]]: The study of military practice and  theory; wars and battles; technology; organization of armies, leadership and soldiers; also [[Naval History]].
+* [[Oral history]]: creating new information by structured interviews with participants
 *[[Paleography]]: study of ancient texts.
-*[[Political history]]: the study of politics in the past.
+*[[Political history]]: the study of political institutions, theories, leadership and practical politics.
 *[[Psychohistory]]: study of the psychological motivations of historical actors, often with emphasis on childhood
-**[[Science History]] - History of Science
-***[[History of Biology]] - 
+*[[Quantitative history]] use of statistical data and methods, especially in demographic, economic and political history
+**[[Prosopography]]: the statistical or systematic collection of facts about all the individuals in a given leadership group. 
+*[[Science History]] - History of scientists and their theories
+***[[History of Biology]] 
 ***[[History of Medicine]]
- - ***[[Historiography of science]]: study of the structure and development of science.
 *[[Social History]]: the study of ordinary individuals 
 *[[World History]]: the study of history from a global perspective.
 
