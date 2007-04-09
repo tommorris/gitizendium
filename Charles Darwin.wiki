@@ -248,39 +248,4 @@ Note: the dates given are generally the dates of the first editions. Darwin rewr
 *[[Patrick Matthew]] &ndash; an amateur evolutionary theorist and contemporary of Darwin.
 *[[Randal Keynes]] &ndash; the great-great grandson of Charles Darwin who wrote a book about him, his daughter, and human evolution
 
-{{Darwin}}
-{{evolution}}
-
-{{Persondata
-|NAME=Darwin, Charles Robert
-|ALTERNATIVE NAMES=
-|SHORT DESCRIPTION=English naturalist, evolutionary biologist
-|DATE OF BIRTH=[[February 12]], [[1809]]
-|PLACE OF BIRTH=[[Mount House]], [[Shrewsbury]], [[Shropshire]], [[England]]
-|DATE OF DEATH=[[April 19]], [[1892]]
-|PLACE OF DEATH=[[Down House]], [[Downe]], [[Kent]], [[England]]
-}}
-
-[[Category:Charles Darwin|*]]
-[[Category:Evolutionary biologists|Darwin, Charles]]
-[[Category:English naturalists|Darwin, Charles]]
-[[Category:English geologists|Darwin, Charles]]
-[[Category:Carcinologists|Darwin, Charles]]
-[[Category:Coleopterists|Darwin, Charles]]
-[[Category:Ethologists|Darwin, Charles]]
-[[Category:English scientists|Darwin, Charles]]
-[[Category:English travel writers|Darwin, Charles]]
-[[Category:Fellows of the Royal Society|Darwin, Charles]]
-[[Category:Old Salopians|Darwin, Charles]]
-[[Category:University of Edinburgh alumni|Darwin, Charles]]
-[[Category:Alumni of Christ's College, Cambridge|Darwin, Charles]]
-[[Category:English agnostics|Darwin, Charles]]
-[[Category:English Anglicans|Darwin, Charles]]
-[[Category:English Unitarians|Darwin, Charles]]
-[[Category:Darwin — Wedgwood family|Darwin, Charles]]
-[[Category:Natives of Shropshire|Darwin, Charles]]
-[[Category:1809 births|Darwin, Charles]]
-[[Category:1882 deaths|Darwin, Charles]]
-
 [[Category:Biology Workgroup]]
-[[Category:CZ Live|Darwin, Charles]]
