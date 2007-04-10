@@ -3,6 +3,8 @@ A '''blog''' is a journalistic [[website]] in which a "blogger" (web author, or 
 ==Etymology==
 "Blog" is a shortening of "we'''b log'''".  Blog can also be used as a verb to refer to adding an entry about a topic to a blog, as in "I blogged about that".  The originator of the word is disputed, but it originated in the late 1990s.
 
+According to the [[Oxford English Dictionary]] (OED), the earliest known appearance of "blog" in print or electronic format was in late May 1999.  It attributes the abbreviated word to Peter Merholz.  According to the OED, the full word, "weblog," originated in 1993 to describe "a file storing a detailed record of requests handled ... by a web server."  Later, in December 1997, Jorn Barger first used the word as the filename of a web page containing a list of (and links to) other interesting web sites.  The OED's first example of the use of the term as a word, rather than as a file name, in this sense is from the Sept. 8, 1998, ''Village Voice'' newspaper (spelled "WebLog").
+
 ==Technical Preconditions==
 Many bloggers use a [[hosted blogging service]], like [[Blogger]] or [[TypePad]] or [[LiveJournal]], which allow the blogger to get started without installing any software on their computer.  Some of these are ad-supported, and some offer paid ad-free models.
 
