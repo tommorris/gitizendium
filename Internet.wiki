@@ -9,3 +9,6 @@ The '''Internet''' is a global communications network originally designed for mi
 ==Related Topics==
 * The [[ARPANET]] was the Advanced Research Projects Agency network that evolved into today's Internet
 * The article on [[Computer networks]] for a general overview of computer networking
+
+[[Category:CZ Live]]
+[[Category:Computers Workgroup]]
