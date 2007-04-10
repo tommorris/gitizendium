@@ -1,0 +1,8 @@
+The '''Internet''' is a global communications network originally designed for military use during the [[Cold War]], that has sine evolved into a publicly accessible interconnected network of computers.
+
+==History==
+
+==Impact on Society==
+
+==See Also==
+The [[ARPANET]] was the Advanced Research Projects Agency network that evolved into today's Internet
