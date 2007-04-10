@@ -7,4 +7,5 @@ The '''Internet''' is a global communications network originally designed for mi
 ==Impact on Society==
 
 ==See Also==
-The [[ARPANET]] was the Advanced Research Projects Agency network that evolved into today's Internet
+* The [[ARPANET]] was the Advanced Research Projects Agency network that evolved into today's Internet
+* The article on [[Computer networks]] for a general overview of computer networking
