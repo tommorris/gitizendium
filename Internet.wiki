@@ -1,3 +1,5 @@
+[[Image:Internet map 1024.jpg|right|thumb|250px|A map graphically displaying interconnections on the Internet (known as [[Router|routes]])]]
+
 The '''Internet''' is a global communications network originally designed for military use during the [[Cold War]], that has sine evolved into a publicly accessible interconnected network of computers.
 
 ==History==
