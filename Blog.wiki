@@ -5,6 +5,43 @@ A '''blog''' is a journalistic [[website]] in which a "blogger" (web author, or 
 
 According to the [[Oxford English Dictionary]] (OED), the earliest known appearance of "blog" in print or electronic format was in late May 1999.  It attributes the abbreviated word to Peter Merholz.  According to the OED, the full word, "weblog," originated in 1993 to describe "a file storing a detailed record of requests handled ... by a web server."  Later, in December 1997, Jorn Barger first used the word as the filename of a web page containing a list of (and links to) other interesting web sites.  The OED's first example of the use of the term as a word, rather than as a file name, in this sense is from the Sept. 8, 1998, ''Village Voice'' newspaper (spelled "WebLog").
 
+==Typology of blogs==
+
+Blogs can be used for purposes such as:
+
+* Personal diary
+
+Day-to-day stories of personal lives, this kind of blogs raise the issue of privacy and sharing of inner thoughts in a totally new way. 
+
+* Thematic blog
+
+People decide to blog only on specific issues: politics, environment, technology, TV shows...
+
+
+* Collective blog
+
+Although a blog is above all a means of personal expression, some are open to contribution by a collectivity. They offer a more diverse view on a topic, are more often updated and can rely on precise editorial rules.
+
+
+* Brand blog
+
+Brands have seen in blogs an advertising opportunity. In this case, they publish posts on the latest brand's news, allowing Web surfers (and potential customers) to comment on them. These blogs are an efficient way to get a feeling of what the market wants and can establish a new, fresher kind of dialog between manufacturers and customers.
+
+
+* Corporate internal blog
+
+Companies use blogs for project management purposes. A department manager or team members can share ideas and information on the project's progress. These blogs are private by nature, accessible only on the company's intranet.
+
+
+* Travelog
+
+Travelling people can write articles and publish photos to share their discoveries and keep in touch with their loved ones.
+
+
+* Private vs public blog
+
+Blogs are not necessarily public. Many of them are private, password-protected. Among them, family blogs allow people to stay tuned with what happens in the family circle.
+
 ==Technical Preconditions==
 Many bloggers use a [[hosted blogging service]], like [[Blogger]] or [[TypePad]] or [[LiveJournal]], which allow the blogger to get started without installing any software on their computer.  Some of these are ad-supported, and some offer paid ad-free models.
 
