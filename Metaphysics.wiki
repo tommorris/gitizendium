@@ -1,12 +1,8 @@
-[[Ima''Italic text''ge:Sanzio 01 Plato Aristotle.jpg|thumb|250px|[[Plato]] and [[Aristotle]], by [[Raphael]] (Stanza della Segnatura, [[Rome]]). Aristotle is regarded as the "father" of metaphysics.]]
-
 '''Metaphysics''' (from [[Greek language|Greek]]: ''μετά (meta)'' = "after", ''φύσις (phúsis)'' = "nature") is the branch of [[philosophy]] concerned with explaining the nature of the [[World_(philosophy)|world]]. It is the study of [[being]] or [[reality]].<ref name ="BECA">Geisler, Norman L. "Baker Encyclopedia of Christian Apologetics" page 446. Baker Books, 1999</ref> It addresses questions such as: What is the nature of [[reality]]? [[Existence of God|Is there a]] [[God]]? What is man's place in the [[universe]]?
 
 A central branch of metaphysics is [[ontology]], the investigation into what [[category of being|categories]] of things are in the world and what relations these things bear to one another. The metaphysician also attempts to clarify the notions by which people understand the world, including [[existence]], [[object (philosophy)|objecthood]], [[property (philosophy)|property]], [[space]], [[time]], [[causality]], and [[possibility]].
 
-More recently, the term "metaphysics" has also been used to refer to "subjects which are beyond the physical world". A "metaphysical bookstore," for instance, is not one that sells books on ontology, but rather one that sells books on [[spirit]]s, [[faith healing]], [[crystal power]], [[occultism]], and other such topics.  
-
-{{contents}}
+More recently, the term "metaphysics" has also been used to refer to "subjects which are beyond the physical world". A "metaphysical bookstore," for instance, is not one that sells books on ontology, but rather one that sells books on [[spirit]]s, [[faith healing]], [[crystal power]], [[occultism]], and other such topics.
 
 ==History of metaphysics==
 The word "metaphysics" is generally held to have come from the title given to one of Aristotle's works by the editor of his works Andronicus of Rhodes: ''Metaphysics'', or in [[Greek language|Greek]], τα μετα τα φυσικά (i.e. the books after the books on physics).
@@ -46,8 +42,6 @@ Metaphysicians investigate questions about the ways the world could have been.  
 Apart from Universals, some philosophers endorse views according to which there are abstract particulars.  Mathematical objects and objects in fictions are often given as examples of abstract objects. The view that there really are no abstract objects is called materialism.
 
 One of the most necessary abstract objects is a definition of terms. If "the same quality should both belong and not belong to the same thing," there must be conflicting definitions. This renders ''definition'' abstract, and further discusion is irrelevant until the ''contradiction'' between definitions is resolved.
-
-{{Sectstub}}
 
 ==Criticism==
 Metaphysics has been attacked, at different times in history, as being futile and overly vague. [[David Hume]] and [[Immanuel Kant]] both prescribed a limited role to the subject and argued against knowledge progressing beyond the world of our representations (except, in the case of Kant, to knowledge that the ''[[Noumenon|noumena]]'' exist).{{Citation needed}}
@@ -124,7 +118,7 @@ A more nuanced view is that metaphysical statements are not ''meaningless'' stat
 |}
 
 ==See also==
-{{top}}
+
 * [[Advaita]]
 * [[Dvaita]]
 * [[Aesthetics]]
@@ -141,7 +135,6 @@ A more nuanced view is that metaphysical statements are not ''meaningless'' stat
 * [[Logical positivism]]
 * [[Metaphysics of Quality]]
 * [[Monism]]
-{{mid}}
 * [[Mysticism]]
 * [[New Thought Movement]]
 * [[Ontology]]
@@ -156,7 +149,6 @@ A more nuanced view is that metaphysical statements are not ''meaningless'' stat
 * [[Theology]]
 * [[Theory of everything (philosophy)|Theory of everything]]
 * [[Transcendence (religion)|Transcendence]]
-{{bottom}}
 
 ==References==
 <references/>
@@ -176,47 +168,5 @@ A more nuanced view is that metaphysical statements are not ''meaningless'' stat
 * [http://plato.stanford.edu/entries/object/ Stanford Encyclopedia of Philosophy, entry under OBJECT, by Henry Laycock]
 * [http://waysofseeing.net/ Ways of Seeing: A common sense exploration of modern metaphysics.]
 
-{{Philosophy (navigation)}}
-
-[[Category:Metaphysics| ]]
-[[Category:Philosophy| ]]
-[[Category:Branches of philosophy]]
-
-[[af:Metafisika]]
-[[bg:Метафизика]]
-[[bn:অধিবিদ্যা]]
-[[zh-min-nan:Hêng-jî-siōng-ha̍k]]
-[[ca:Metafísica]]
-[[cs:Metafyzika]]
-[[da:Metafysik]]
-[[de:Metaphysik]]
-[[et:Metafüüsika]]
-[[es:Metafísica]]
-[[eo:Metafiziko]]
-[[fr:Métaphysique]]
-[[gl:Metafísica]]
-[[ko:형이상학]]
-[[io:Metafiziko]]
-[[it:Metafisica]]
-[[he:מטאפיזיקה]]
-[[la:Metaphysica]]
-[[lt:Metafizika]]
-[[hu:Metafizika]]
-[[nl:Metafysica]]
-[[ja:形而上学]]
-[[no:Metafysikk]]
-[[pl:Metafizyka]]
-[[pt:Metafísica]]
-[[ro:Metafizică]]
-[[ru:Метафизика]]
-[[sk:Metafyzika]]
-[[fi:Metafysiikka]]
-[[sq:Metafizika]]
-[[sv:Metafysik]]
-[[tl:Metapisika]]
-[[tr:Metafizik]]
-[[ur:مابعدالطبیعیات]]
-[[zh:形而上学]]
-[[zh-yue:形而上學]]
 [[Category:Philosophy Workgroup]]
 [[Category:CZ Live]]
