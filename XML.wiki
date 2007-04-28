@@ -1,0 +1,29 @@
+'''eXtensible Markup Language''' ('''XML''') is a [[W3C]] markup language derived from [[SGML]] (ISO8879) used in a wide variety of applications for the storage and representation of textual data. The extensible nature of XML comes from its lack of predefined tags. This lack of predefined tags allows the author of a markup language to describe the data in a schema and fit the language to their needs.
+
+== Usage Example ==
+
+Example: 
+
+Thomas needs to make a simple address book program and decides to use XML to store the names, addresses, and other important things.
+
+So first he must know how the data is organized.
+
+*Person
+**Name
+**Telephone Number
+**Address
+**Other Notes
+
+
+The program that Thomas writes must be able to understand the markup, since there are no pre-defined tags, the program doesn't know whether or not there's a fault in the data it has been given. At this stage a schema is developed so that the program can verify that the structure it is being given isn't faulty. (See XML Schemata)
+
+This then translates to the following, or something close to it, in XML:
+
+<pre>
+<?xml version="1.0">
+<person name="Thomas Paine">
+    <telephone>555-555-5555</telephone>
+    <address>8932 Dry Creek</address>
+    <notes>He likes cookies</notes>
+</person>
+</pre>
