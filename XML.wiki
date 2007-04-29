@@ -1,29 +1,48 @@
-'''eXtensible Markup Language''' ('''XML''') is a [[W3C]] markup language derived from [[SGML]] (ISO8879) used in a wide variety of applications for the storage and representation of textual data. The extensible nature of XML comes from its lack of predefined tags. This lack of predefined tags allows the author of a markup language to describe the data in a schema and fit the language to their needs.
+'''eXtensible Markup Language''' ('''XML''') is a [[W3C]] markup language derived from [[SGML]] (ISO8879) used in a wide variety of applications for the storage and representation of textual data.
 
-== Usage Example ==
+== Usage Examples ==
+=== Data Storage ===
+==== Address Book Example ====
 
-Example: 
+Suppose Thomas wants to write a simple address book program that stores his addresses and phone numbers in a simple structured manner. He decides his best option is to use XML to store his information because he can define what information he wishes to store. XML works best when the information has a hierarchical arrangement, so Thomas designs the '''schema''' of how his information will be held.
 
-Thomas needs to make a simple address book program and decides to use XML to store the names, addresses, and other important things.
+*Person or Company Name
+**Addresses
+***Mailing Address
+***E-mail Address
+**Phone Numbers
+***Fax Number
+***Cell/Mobile Number
+**Note
 
-So first he must know how the data is organized.
-
-*Person
-**Name
-**Telephone Number
-**Address
-**Other Notes
-
-
-The program that Thomas writes must be able to understand the markup, since there are no pre-defined tags, the program doesn't know whether or not there's a fault in the data it has been given. At this stage a schema is developed so that the program can verify that the structure it is being given isn't faulty. (See XML Schemata)
-
-This then translates to the following, or something close to it, in XML:
+This arrangement of data is then transformed into XML, one possible arrangement is below:
 
 <pre>
 <?xml version="1.0">
 <person name="Thomas Paine">
-    <telephone>555-555-5555</telephone>
-    <address>8932 Dry Creek</address>
-    <notes>He likes cookies</notes>
+    <addresses>
+        <mailing>812 Juniper Road</mailing>
+        <email>tpaine@foo.net</email>
+    <telephone>
+        <primary>987-654-4321</primary>
+        <fax>555-555-5555</fax>
+        <cell>123-456-7890</cell>
+    <note>Me.</note>
 </person>
 </pre>
+
+==== SOAP ====
+=== Data Formatting ===
+==== XHTML ====
+==== MathML ====
+==== SVG ====
+=== Data Description ===
+==== RDF ====
+==== Schema ====
+
+== References ==
+
+== See Also ==
+*[[Standard Generalized Markup Language|SGML]]
+*[[HyperText Markup Language|HTML]]
+*[[Scalable Vector Graphics|SVG]]
