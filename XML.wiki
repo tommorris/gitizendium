@@ -18,18 +18,30 @@ Suppose Thomas wants to write a simple address book program that stores his addr
 This arrangement of data is then transformed into XML, one possible arrangement is below:
 
 <pre>
-<?xml version="1.0">
-<person name="Thomas Paine">
-    <addresses>
-        <mailing>812 Juniper Road</mailing>
-        <email>tpaine@foo.net</email>
-    <telephone>
-        <primary>987-654-4321</primary>
-        <fax>555-555-5555</fax>
-        <cell>123-456-7890</cell>
-    <note>Me.</note>
-</person>
+<?xml version="1.0"?>
+<address-book>
+    <person name="Thomas Paine">
+        <addresses>
+            <mailing>812 Juniper Road</mailing>
+            <email>tpaine@foo.net</email>
+        <telephone>
+            <primary>987-654-4321</primary>
+            <fax>555-555-5555</fax>
+            <cell>123-456-7890</cell>
+        <note>Me.</note>
+    </person>
+</address-book>
 </pre>
+
+Let's dissect this example and see what the different components of this structure do.
+
+<code><?xml version="1.0"?></code>
+
+The first line of the example is known as the '''prolog''', it tells the '''parser''' that the file it's about to parse is indeed XML. The version '''attribute''' is the version of the XML specification the document represents. In order for an XML document to be '''well-formed''' it must contain this prolog. "Well-formed"ness and validity will be discussed later.
+
+The '''root element''' in this structure is <code><address-book></code> The root element is the top of the hierarchical tree that XML documents typically represent. In this case it represents the address book as a whole. There are ways of specifying whether or not an element can contain multiple sub-elements with the same tag however that will not be covered in this example just yet.
+
+The first sub-element in the tree is <code><person name="Thomas Paine"></code>. Obviously this element represents a person within the address book. The <code>name</code> attribute is the name of the person or entity that the <code><person></code> element will represent.
 
 ==== SOAP ====
 === Data Formatting ===
