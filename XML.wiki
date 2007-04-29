@@ -46,7 +46,7 @@ The '''root element''' in this structure is <code><address-book></code> The root
 The first sub-element in the tree is <code><person name="Thomas Paine"></code>. Obviously this element represents a person within the address book. The <code>name</code> attribute is the name of the person or entity that the <code><person></code> element will represent. Each of the other sub-elements are embedded inside the first a little like Russian stacking dolls, each one defines a more specific entity within the larger entity.
 
 ==== SOAP ====
-=== Data Presentation ===
+=== Data Formatting ===
 ==== XHTML ====
 ==== MathML ====
 ==== SVG ====
