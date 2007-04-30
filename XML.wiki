@@ -61,3 +61,7 @@ The first sub-element in the tree is <code><person name="Thomas Paine"></code>. 
 *[[Standard Generalized Markup Language|SGML]]
 *[[HyperText Markup Language|HTML]]
 *[[Scalable Vector Graphics|SVG]]
+
+
+[[Category:Computers Workgroup]]
+[[Category: CZ Live]]
