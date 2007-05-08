@@ -1,4 +1,4 @@
-'''Epistemology''' deals with the questions "What is knowledge?" and "How do we know this?".
+'''Epistemology''' deals with questions like "What is knowledge?" and "How do we know this?".
 
 == Etymology ==
 "Epistemology" from "ἐπιστήμη" (knowledge) and "λόγος" (logos) was introduced into English by the Scottish philosopher James Frederick Ferrier.
