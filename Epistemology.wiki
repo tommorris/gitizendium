@@ -19,5 +19,5 @@ Reason and observation are important for knowledge to all philosophers, but are 
 === Ratonalism ===
 [[Rationalists]] like [[René Descartes]] stress reason to arrive at knowledge since one can not always trust the senses.
 
-== Modern ==
-[[Immanuel Kant]] tries to resolve many issues, uses his twelve categories of knowledge and argues, as Plato did before, that there has to be something in man already there to let observation into the mind. That which is already there before is ''a priori'' and gives a rational basis for handling the empirical knowledge, which is ''a posteriori'' knowledge.
+== Modern times ==
+[[Immanuel Kant]] tries to resolve many issues, among them the contention between rationalism and empiricism. He uses twelve categories of knowledge and he argues, as Plato did before, that there has to be something in man already there to let observation into the mind. That which is already there before is ''a priori'' and gives a rational basis for handling the empirical knowledge, which is ''a posteriori'' knowledge. Reason corresponds to ''a priori'' and observation to ''a posteriori'' knowledge, thus reconciling rationalism and empiricism.
