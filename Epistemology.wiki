@@ -1,3 +1,12 @@
 '''Epistemology''' deals with the questions "What is knowledge?" and "How do we know this?".
 
 The questions are as old as [[Philosophy]] itself, and the search for answers continues today.
+
+
+Plato's viewed knowledge as universal unchanging Ideas. One dialogue even shows how all knowledge is inherent in everyone.
+
+Aristotle tried to divide the types of knowledge, that which can be said of knowledge, into ten Categories.
+
+[[Empiricists]], like [[John Locke]] later stresses the importance of observation and experiments to obtain knowledge whereas [[Rationalists]], Like [[René Descartes]], like stresses reason to arrive at knowledge.
+
+[[Immanuel Kant]] tries to resolve many issues, uses his twelve categories of knowledge and argues, as Plato did before, that there has to be something in man already there to let observation into the mind. That which is already there before is ''a priori'' and gives a rational basis for handling the empirical knowledge, which is ''a posteriori'' knowledge.
