@@ -1,0 +1,3 @@
+'''Epistemology''' deals with the questions "What is knowledge?" and "How do we know this?".
+
+The questions are as old as [[Philosophy]] itself, and the search for answers continues today.
