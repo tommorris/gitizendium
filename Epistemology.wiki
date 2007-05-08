@@ -11,7 +11,7 @@ The questions are as old as [[Philosophy]] itself, and the search for answers co
 [[Aristotle]] tried to divide the types of knowledge, that which can be said of knowledge, into ten Categories. He further attempts to classify knowledge in books named [[physics]], [[metaphysics]], [[poetry]] (including theater), [[biology]] and [[zoology]], [[logic]], [[rhetoric]], [[politics]], [[government]], and [[ethics]]. These areas of knowledge retain his names today.
 
 == Scientific revolution: reason and experiment ==
-Reason and observation are important to all knowledge, but are viewed differently from different vantage points.
+Reason and observation are important for knowledge to all philosophers, but are viewed differently from different vantage points.
 
 === Empiricims ===
 [[Empiricists]], like [[John Locke]] later stresses the importance of observation and experiments to obtain knowledge, even to the point of assuming that a new born child has a [[tabula rasa]].
