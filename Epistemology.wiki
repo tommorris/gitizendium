@@ -13,7 +13,7 @@ The questions are as old as [[Philosophy]] itself, and the search for answers co
 == Scientific revolution: reason and experiment ==
 Reason and observation are important to all knowledge, but are viewed differently from different vantage points.
 
-=== Emiricims ===
+=== Empiricims ===
 [[Empiricists]], like [[John Locke]] later stresses the importance of observation and experiments to obtain knowledge, even to the point of assuming that a new born child has a [[tabula rasa]].
 
 === Ratonalism ===
