@@ -2,11 +2,13 @@
 
 The questions are as old as [[Philosophy]] itself, and the search for answers continues today.
 
+== Hellenistic views ==
+Plato's viewed knowledge as universal unchanging Ideas. One dialogue even shows how all knowledge is inherent in everyone, whereas another says that that which must be there already to be able to percieve   the world around him.
 
-Plato's viewed knowledge as universal unchanging Ideas. One dialogue even shows how all knowledge is inherent in everyone.
+Aristotle tried to divide the types of knowledge, that which can be said of knowledge, into ten Categories. He further attempts to classify knowledge in books, physics, metaphysics, poetry (including theater), biology and zoology, logic, rhetoric, politics, government, and ethics and these terms are still in use today.  
 
-Aristotle tried to divide the types of knowledge, that which can be said of knowledge, into ten Categories.
-
+== Scientific revolution: Reason and experiment ==
 [[Empiricists]], like [[John Locke]] later stresses the importance of observation and experiments to obtain knowledge whereas [[Rationalists]], Like [[René Descartes]], like stresses reason to arrive at knowledge.
 
+== Modern ==
 [[Immanuel Kant]] tries to resolve many issues, uses his twelve categories of knowledge and argues, as Plato did before, that there has to be something in man already there to let observation into the mind. That which is already there before is ''a priori'' and gives a rational basis for handling the empirical knowledge, which is ''a posteriori'' knowledge.
