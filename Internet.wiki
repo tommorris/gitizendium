@@ -1,10 +1,21 @@
 [[Image:Internet map 1024.jpg|right|thumb|250px|A map graphically displaying interconnections on the Internet (known as [[Router|routes]])]]
 
-The '''internet''' is a network of [[computer network|computer networks]] used to transport documents over the [[world wide web]].  The research which led to the internet was funded initially by the United States' [[Defense Advanced Research Projects Agency]] (DARPA), which was established in 1958 as the first U.S. response to the Soviet launching of [[Sputnik]]<ref name="DARPA1">{{cite web|url=http://www.darpa.mil/body/overtheyears.html|title=Defense Advanced Research Projects Agency|publisher=United States government|year=2003|accessdate=2007-05-12}}</ref>.  The first functional networks between individual computers were created in the early 1970's.  Many educational institutions and corporations began joining the network, and on a day in 1983, all computers on the so-called DARPA-net changed over at once to a new [[protocol]], TCP/IP, which is still in use on the internet today.  The fundamental transport [[protocol]] for the internet has not changed substantially in more than twenty years.  However, it is on the verge of changing in the near future, with a movement from version 4 to version 6 of TCP/IP.
+The '''Internet''' is a network of [[computer network|computer networks]] which serves as the underlying network the servers that power the [[World Wide Web]] is run on. The Web is the Internet's best known service, however there are literally hundreds of different [[protocols]], applications and services that run over the Internet.
+
+The research which led to the internet was funded initially by the United States' [[Defense Advanced Research Projects Agency]] (DARPA), which was established in 1958 as the first U.S. response to the Soviet launching of [[Sputnik]]<ref name="DARPA1">{{cite web|url=http://www.darpa.mil/body/overtheyears.html|title=Defense Advanced Research Projects Agency|publisher=United States government|year=2003|accessdate=2007-05-12}}</ref>.  The first functional networks between individual computers were created in the early 1970s.  Many educational institutions and corporations began joining the network, and in 1983 all nodes on the so-called DARPA-net changed over at once to a new [[protocol]], TCP/IP, which is still in use on the internet today.  The fundamental transport [[protocol]] for the internet has not changed substantially in more than twenty years.  However, it is on the verge of being "upgraded" in the near future, with a movement from version 4 (IPv4) to version 6 (IPv6) of TCP/IP.
 
 ==History==
+===1950s to 1970s===
+*[[DARPA]]
+*[[BBN]] - Bolt, Barenek and Newman
+*[[NCP]]
+===1975 to 1980===
+===1980 to 1990===
 
 ==Impact on Society==
+
+==External Links==
+*"History of the Internet" sites abound in various places on the Internet, as seen by this [http://www.google.com/search?q=%22History+of+the+Internet%22 Google search]
 
 ==Related Topics==
 * The [[ARPANET]] was the Advanced Research Projects Agency network that evolved into today's Internet
