@@ -1,6 +1,6 @@
 [[Image:Internet map 1024.jpg|right|thumb|250px|A map graphically displaying interconnections on the Internet (known as [[Router|routes]])]]
 
-The '''Internet''' is a global communications network originally designed for military use during the [[Cold War]], that has since evolved into a publicly accessible interconnected "network of networks."
+The '''internet''' is a network of [[computer networks]] used as transport mechanism for documents sent over the world wide web.  The research which resulted in the creation of the internet was initially funded by the Defense Advanced Research Projects Agency (DARPA), which was established in 1958 as the first U.S. response to the Soviet launching of Sputnik<ref name="DARPA1">{{cite web|url=http://www.darpa.mil/body/overtheyears.html|title=Defense Advanced Research Projects Agency|publisher=United States government|year=2003|accessdate=2007-05-12}}</ref>.
 
 ==History==
 
