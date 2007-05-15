@@ -4,8 +4,6 @@ The '''Internet''' is a "network of [[computer network|networks]]" best known as
 
 The research which led to the Internet was funded initially by the United States' [[Defense Advanced Research Projects Agency]] (DARPA), which was established in 1958 as the first U.S. response to the Soviet launching of [[Sputnik]]<ref name="DARPA1">{{cite web|url=http://www.darpa.mil/body/overtheyears.html|title=Defense Advanced Research Projects Agency|publisher=United States government|year=2003|accessdate=2007-05-12}}</ref>.  The first functional networks between individual computers were created in the early 1970s.  Many educational institutions and corporations began joining the network, and in 1983 all nodes on the so-called DARPA-net changed over at once to a new [[protocol]], TCP/IP, which is still in use on the internet today.  The fundamental transport [[protocol]] for the internet has not changed substantially in more than twenty years.  However, it is on the verge of being "upgraded" in the near future, with a movement from version 4 (IPv4) to version 6 (IPv6) of TCP/IP.
 
-The "disruptive technology" and popularity of the Internet has precipitated a paradigm shift in global mass communication much the same as earlier technologies such as the [[Telephone]] and American [[Bell system]] did, as people around the world can communicate seamlessly over vast distances via many different means. Because of technologies like the Internet, it is said that everyone lives as neighbors in the "global village."
-
 ==History==
 ===1950s to 1970s===
 *[[DARPA]]
