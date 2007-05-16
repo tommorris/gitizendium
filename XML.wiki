@@ -1,1 +1,1 @@
-'''eXtensible Markup Language''' ('''XML''') is a [[W3C]] markup language derived from [[SGML]] (ISO8879-1986) used in a wide variety of applications for the storage and representation of textual data.
+'''eXtensible Markup Language''' ('''XML''') is a [[W3C]] markup language derived from [[SGML]] (ISO8879-1986) used in a wide variety of applications for the storage and representation of textual data in a consistent, hierarchical, and well-formed structure.
