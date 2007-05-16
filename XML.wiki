@@ -1,7 +1,35 @@
 '''eXtensible Markup Language''' ('''XML''') is a [[W3C]] markup language derived from [[SGML]] (ISO8879-1986) used in a wide variety of applications for the storage and representation of textual data.
 
 == Features and Syntax ==
-XML consists of a hierarchical tree of '''elements''' that contain '''attributes''' to express the structure of data.
+
+=== W3C Definitions ===
+
+==== Documents and Well-formedness ====
+XML consists of a hierarchical tree of '''elements''' that contain '''attributes''' to express the structure of data. Ideally, all XML documents are '''well-formed''' as defined in the specifications provided by the W3C. As of version 1.0 the definition is this:
+
+<!-- http://www.w3.org/TR/2006/REC-xml-20060816/ -->
+
+<blockquote>
+# Taken as a whole, it matches the production labeled document.
+# It meets all the well-formedness constraints given in this specification.
+# Each of the parsed entities which is referenced directly or indirectly within the document is well-formed.
+</blockquote>
+
+===== Tags and Elements =====
+
+There are some initial ambiguities in this definition such as what a ''document'' is exactly. The XML specification defines a document as a text object that contains a prolog and one or more elements. A document must have one and only one root element, and any other elements must nest inside of it delimited by start and end tags 
+<pre>
+<?xml version="1.0"?>
+<root-element>
+    <child-element>
+    ...
+    </child-element>
+</root-element>
+</pre>
+
+<code><element></code> is a start tag, notice that it does not have a forward slash in front of the name of the element.
+<code></element></code> is an end tag, notice that it '''does''' have a forward slash ''in front'' of the name of the element. There are also '''single tag''' elements which also have a forward slash but are ''behind'' the name of the element:
+<code><single-tag-element /></code>. By convention there is a space between the forward slash and the element name. This single tag element appears in the XHTML definition for a line break <code><br /></code>.
 
 == Usage Examples ==
 === Data Storage ===
