@@ -1,1 +1,35 @@
-'''eXtensible Markup Language''' ('''XML''') is a [[W3C]] markup language derived from [[SGML]] (ISO8879-1986) used in a wide variety of applications for the storage and representation of textual data in a consistent, hierarchical, and well-formed structure.
+'''eXtensible Markup Language''' ('''XML''') is a [[W3C]] markup language derived from [[SGML]] (ISO8879-1986) used in a wide variety of applications for the storage and representation of textual data in a consistent, hierarchical, and well-formed structure.<ref>Bray, Tim, Jean Paoli, C. M. Sperberg-McQueen, Eve Maler, and François Yergeau, eds. "Extensible Markup Language (XML) 1.0 (Fourth Edition)." World Wide Web Consortium Recommendations. 29 Sept. 2006. 18 May 2007 <http://www.w3.org/TR/2006/REC-xml-20060816/#sec-intro>.</ref>
+
+== XML Specification and Origin ==
+
+The XML specification was developed in 1996 by the SGML Editorial Review Board chaired by John Bosak of Sun Microsystems and the XML Special Interest Group in an attempt to create a subset of the Standard Generalized Markup Language. The group, also known as the XML Working Group  laid out a set of guidelines that defined the design goals of the markup language:
+<blockquote>
+
+#''XML shall be straightforwardly usable over the Internet.''
+#''XML shall support a wide variety of applications.''
+#''XML shall be compatible with SGML.''
+#''It shall be easy to write programs which process XML documents.''
+#''The number of optional features in XML is to be kept to the absolute minimum, ideally zero.''
+#''XML documents should be human-legible and reasonably clear.''
+#''The XML design should be prepared quickly.''
+#''The design of XML shall be formal and concise.''
+#''XML documents shall be easy to create.''
+#''Terseness in XML markup is of minimal importance.''
+
+<ref>Bray, Tim, Jean Paoli, C. M. Sperberg-McQueen, Eve Maler, and François Yergeau, eds. "Extensible Markup Language (XML) 1.0 (Fourth Edition)." World Wide Web Consortium Recommendations. 29 Sept. 2006. 18 May 2007 <http://www.w3.org/TR/2006/REC-xml-20060816/#sec-origin-goals>.</ref>
+
+</blockquote>
+
+=== Grammar and Terms ===
+
+=== Structure ===
+
+==== Tags ====
+
+===== Elements =====
+
+===== Attributes =====
+
+
+== Notes ==
+<references/>
