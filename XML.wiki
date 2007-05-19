@@ -26,8 +26,6 @@ The XML specification was developed in 1996 by the SGML Editorial Review Board c
 
 '''Prolog''' - A prolog is a sort of 'announcement' to the XML parser as to what version the following XML object is written in. The prolog also contains other information pertinent to the XML document (discussed later.)
 
-'''Document''' - A document is any XML object that contains a prolog and one or more elements excluding the root element.
-
 '''Tag''' - A tag denotes the beginning, end, or existence of an XML object.
 
 ''Example''
@@ -37,7 +35,7 @@ The XML specification was developed in 1996 by the SGML Editorial Review Board c
 </class> <-- End Tag
 </pre>
 
-Start tags never have a forward slash '''/''' in them. End Tags always have a forward slash before the name of the tag. Single tags always have a forward slash after a space after the name of the tag.
+Start Tags never have a forward slash '''/''' in them. End Tags always have a forward slash before the name of the tag. Single tags always have a forward slash after a space after the name of the tag.
 
 '''Element''' - An element is an XML object composed of a start tag and a stop tag or a single tag.
 
@@ -52,6 +50,8 @@ Start tags never have a forward slash '''/''' in them. End Tags always have a fo
     </child-element>
 </root-element>
 </pre>
+
+'''Document''' - A document is any XML object that contains a prolog and one or more elements excluding the root element.
 
 === Structure ===
 
