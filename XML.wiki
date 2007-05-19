@@ -2,7 +2,7 @@
 
 == XML Specification and Origin ==
 
-The XML specification was developed in 1996 by the SGML Editorial Review Board chaired by John Bosak of Sun Microsystems and the XML Special Interest Group in an attempt to create a subset of the Standard Generalized Markup Language. The group, also known as the XML Working Group  laid out a set of guidelines that defined the design goals of the markup language:
+The XML specification was developed in 1996 by the SGML Editorial Review Board chaired by John Bosak of Sun Microsystems and the XML Special Interest Group in an attempt to create a subset of the Standard Generalized Markup Language. The group, also known as the XML Working Group  laid out a set of guidelines that defined the design goals of the markup language, these requirements are intended to make XML into a straightforward, consistent and portable mark up language:
 <blockquote>
 
 #''XML shall be straightforwardly usable over the Internet.''
@@ -18,9 +18,28 @@ The XML specification was developed in 1996 by the SGML Editorial Review Board c
 
 <ref>Bray, Tim, Jean Paoli, C. M. Sperberg-McQueen, Eve Maler, and François Yergeau, eds. "Extensible Markup Language (XML) 1.0 (Fourth Edition)." World Wide Web Consortium Recommendations. 29 Sept. 2006. 18 May 2007 <http://www.w3.org/TR/2006/REC-xml-20060816/#sec-origin-goals>.</ref>
 
+
+
 </blockquote>
 
-=== Grammar and Terms ===
+=== Grammar and Definitions ===
+
+'''Prolog''' - A prolog is a sort of 'announcement' to the XML parser as to what version the following XML object is written in. The prolog also contains other information pertinent to the XML document (discussed later.)
+
+'''Document''' - A document is any XML object that contains a prolog and one or more elements excluding the root element.
+
+'''Tag''' - A tag denotes the beginning, end, or existence of an XML object.
+
+''Example''
+<pre>
+<class> <-- Start Tag
+    <var /> <-- Single Tag
+</class> <-- End Tag
+</pre>
+
+Start tags never have a forward slash '/' in them. End Tags always have a forward slash before the name of the tag. Single tags always have a forward slash after a space after the name of the tag.
+
+'''Element''' - An element is an XML object composed of a start tag and a stop tag or a single tag.
 
 === Structure ===
 
@@ -29,7 +48,6 @@ The XML specification was developed in 1996 by the SGML Editorial Review Board c
 ===== Elements =====
 
 ===== Attributes =====
-
 
 == References ==
 <references/>
