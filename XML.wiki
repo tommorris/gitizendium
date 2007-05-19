@@ -31,5 +31,5 @@ The XML specification was developed in 1996 by the SGML Editorial Review Board c
 ===== Attributes =====
 
 
-== Notes ==
+== References ==
 <references/>
