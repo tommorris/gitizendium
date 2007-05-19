@@ -24,6 +24,8 @@ The XML specification was developed in 1996 by the SGML Editorial Review Board c
 
 === Grammar and Definitions ===
 
+This section contains a brief over view of the components that define XML, for a more in-depth examination of those components read the individual sections under the heading '''''Structure'''''
+
 '''Prolog''' - A prolog is a sort of 'announcement' to the XML parser as to what version the following set of XML objects is written in. The prolog also contains other information pertinent to the XML document (discussed later.)
 
 '''Tag''' - A tag denotes the beginning, end, or existence of an XML object.
