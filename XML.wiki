@@ -37,9 +37,21 @@ The XML specification was developed in 1996 by the SGML Editorial Review Board c
 </class> <-- End Tag
 </pre>
 
-Start tags never have a forward slash '/' in them. End Tags always have a forward slash before the name of the tag. Single tags always have a forward slash after a space after the name of the tag.
+Start tags never have a forward slash '''/''' in them. End Tags always have a forward slash before the name of the tag. Single tags always have a forward slash after a space after the name of the tag.
 
 '''Element''' - An element is an XML object composed of a start tag and a stop tag or a single tag.
+
+''Example''
+<pre>
+<?xml version="1.0" standalone="no"?>
+<root-element>
+    <child-element>
+        ...
+        <singular-element />
+        ...
+    </child-element>
+</root-element>
+</pre>
 
 === Structure ===
 
