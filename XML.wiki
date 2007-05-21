@@ -79,9 +79,12 @@ The XML prolog is a mandatory object present at the beginning of the document.
 
 '''version''' equals the version of XML the document was written to.
 
-''(Optional)'' '''encoding''' equals the character codebook the document was written to. The default is '''UTF-8'''. The character encoding declaration must be written using latin characters only.
+''(Optional)'' '''encoding''' equals the character codebook the document was written to. The default is '''UTF-8'''. The character encoding declaration must be written using latin characters only.<ref>Bray, Tim, Jean Paoli, C. M. Sperberg-McQueen, Eve Maler, and François Yergeau, eds. "Extensible Markup Language (XML) 1.0 (Fourth Edition)." World Wide Web Consortium Recommendations. 29 Sept. 2006. 18 May 2007 <http://www.w3.org/TR/2004/REC-xml-20040204/#NT-EncodingDecl> §4.3.3 Character Encoding in Entities.</ref>
 
-<pre>EncName    ::=    [A-Za-z] ([A-Za-z0-9._] | '-')* </pre>.<ref>Bray, Tim, Jean Paoli, C. M. Sperberg-McQueen, Eve Maler, and François Yergeau, eds. "Extensible Markup Language (XML) 1.0 (Fourth Edition)." World Wide Web Consortium Recommendations. 29 Sept. 2006. 18 May 2007 <http://www.w3.org/TR/2004/REC-xml-20040204/#NT-EncodingDecl> §4.3.3 Character Encoding in Entities.</ref>
+
+<pre>EncName    ::=    [A-Za-z] ([A-Za-z0-9._] | '-')* </pre>
+The encoding name must begin with an alphabetic character and all other characters must be alphanumeric, the underscore ( _ ), the decimal ( . ), or a dash ( - ).
+
 
 ''(Optional)'' '''standalone''' is either ''yes'' or ''no''. ''Yes'' in the instance that the XML document does not have an external DTD or Schema. ''No'' if the XML document does have an external DTD or Schema.
 
