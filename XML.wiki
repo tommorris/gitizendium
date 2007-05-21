@@ -57,6 +57,15 @@ Start Tags never have a forward slash '''/''' in them. End Tags always have a fo
 
 '''Document''' - A document is any XML object that contains a prolog and one or more elements excluding the root element.
 
+<pre>
+<?xml version="1.0" standalone="no"?>
+<root-element>
+    <lots-of-elements>
+    ...
+    </lots-of-elements>
+</root-element>
+</pre>
+
 === Structure ===
 
 ==== Tags ====
