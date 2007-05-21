@@ -69,11 +69,21 @@ Start Tags never have a forward slash '''/''' in them. End Tags always have a fo
 === Structure ===
 
 
-==== Tags ====
+==== Prolog ====
 
-===== Elements =====
+The XML prolog is a mandatory object present at the beginning of the document. 
 
-===== Attributes =====
+<pre>
+<?xml version="###" {encoding="???" standalone='y/n'} ?>
+</pre>
+
+'''version''' equals the version of XML the document was written to.
+
+''(Optional)'' '''encoding''' equals the character codebook the document was written to. The default is '''UTF-8'''. The character encoding declaration must be written using latin characters only.
+
+<pre>EncName    ::=    [A-Za-z] ([A-Za-z0-9._] | '-')* </pre>
+
+''(Optional)'' '''standalone''' is either ''yes'' or ''no''. ''Yes'' in the instance that the XML document does not have an external DTD or Schema. ''No'' if the XML document does have an external DTD or Schema.
 
 == References ==
 <references/>
