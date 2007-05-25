@@ -1,24 +1,17 @@
-'''History''' (from the Greek ἱστορία) is the study of past events.  Academic studies of history attempt to document past events, as well as interpret or explain them according to various methodologies.  People involved in academic studies of history are called historians.  Events that occurred in human history before writing was invented are generally considered [[prehistory]] and may be studied as part of [[Archaeology]] or [[Linguistics]] (due to oral traditions which were later written down).  This article discusses '''historiography''', the writing of history by scholars and specialists.
+'''History''' (from the Greek ἱστορία) is the study of past human  events based on written documents.  Academic studies of history attempt to document past events, as well as interpret or explain them according to various methodologies.  '''Prehistory''' deals with mankind before written records. and is part of [[Archaeology]].  Popular history (or "heritage") is related to folklore and concerns memories of the past constructed by a group.  Sacred history concerns divinely inspired events and is handled by religion scholars. This article discusses '''historiography''', the writing of history by scholars and specialists.
 
 ==Source material==
-Historians, the writers of history, have always focused their attention on written sources documenting past events. 
+Historians depend upon "primary sources" (written sources cerated by participants) using an interpretive framework developed in "secondary sources" (usually the writings of other scholars.) They help create tertiary sources (like encyclopedias) but do not fully rely upon them. 
 
-Advances in historical research capabilities and techniques allowed historians to examine a wider variety of written and non-written sources, such as literary sources, coins, inscriptions on buildings and monuments. 
 ==Historical research methods==
-The historical research method takes three distinct stages: gathering of source material, estimating the source material value to the issue at hand, and deciding what happened. 
+The historical research method uses an interpretive framework to gather and evaluate source materials then to create a '''narrative''' (story) describing what happened, or an '''analysis''' using historiographical concepts to interpret what happened in terms of an overall conceptual framework. Books and articles on history focus on what happened long ago, studies of historiography focus on how historians use an interpretive framework. In practice, academic historians usually combine history and historiography, while "popular" historians writing for non-scholars typically do not discuss the historiography.
 
-With the first stage, historians try to collect all the source material available. With the second, a decision is made as to the value of each source. Usually, [[primary source|primary sources]], such as a manuscript written at the time of the events, is considered more valuable than a [[secondary source|secondary]] (e.g., a book written by another historian) or [[tertiary source|tertiary]] (e.g., an encyclopaedia) source. 
-
-The third and most crucial stage involves writing down the historical narrative, as the historian understands it. This stage almost always involves some type of decision on the part of the historian as to the degree of veracity of some depiction of the historical narrative, and rejection or playing down of alternative narratives. 
-
-Some historians, most especially in ancient historical account, tend to lay out or summarily describe the various narrative or contentions and usually determine, explain or hint which is truer in their view. Other historians just mention when relating some facts or opinions that are point in contention among sources or other historians. With some points, where making such a decision is hard or impossible, some historians may leave the point undecided or speculate as to what actually happened.
 
 ==Historical methods==
-{{main|Historical method}}
 
 The '''historical method''' comprises the techniques and guidelines by which [[historian]]s use [[primary source]]s and other evidence to research and then to write [[historiography|history]].
 
-[[Ibn Khaldun]] laid down the principles for the historical method in his book [[Muqaddimah]], but was lost to scholars and not rediscovered until the 19th century.  
+[[Ibn Khaldun]] laid down the principles for the historical method in his book [[Muqaddimah]], but was unknown to scholars and not rediscovered until the 19th century.  
 
 Historians of note who have advanced the historical methods of study include [[Leopold von Ranke]], [[Lewis Bernstein Namier]], [[Frederick Jackson Turner]], [[Charles Beard]] and E.P. Thompson.
  
