@@ -42,7 +42,7 @@ This section contains a brief over view of the components that define XML, for a
 <ninja>
     <inventory>
         <nunchucks />
-        <munchies />
+        <cookies />
     </inventory>
 </ninja>
 </pre>
