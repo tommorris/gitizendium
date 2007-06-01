@@ -30,29 +30,37 @@ This section contains a brief over view of the components that define XML, for a
 
 '''Prolog''' - A prolog is a sort of 'announcement' to the XML parser as to what version the following set of XML objects is written in. The prolog also contains other information pertinent to the XML document (discussed later.)
 
-'''Tag''' - A tag denotes the beginning, end, or existence of an XML object.
+<pre>
+<?xml version="1.0" standalone="no"?>
+</pre>
+
+
+'''Tag''' - A tag denotes the beginning, end, or existence of an XML object. They consist of the '''<''' character followed by the name of the tag, and, in the case of an opening tag, just a '''>''' at the end. The exception is with end tags and single tags. End Tags always have a '''<''' then a forward slash before the name of the tag with a '''>''' at the end. Single tags always have a space after the name of the tag followed by a forward slash and then end with the '''>'''.
 
 ''Example''
 <pre>
-<class> <-- Start Tag
-    <var /> <-- Single Tag
-</class> <-- End Tag
+<ninja>
+    <inventory>
+        <nunchucks />
+        <munchies />
+    </inventory>
+</ninja>
 </pre>
 
-Start Tags never have a forward slash '''/''' in them. End Tags always have a forward slash before the name of the tag. Single tags always have a forward slash after a space after the name of the tag.
+
 
 '''Element''' - An element is an XML object composed of a start tag and a stop tag or a single tag.
 
 ''Example''
 <pre>
 <?xml version="1.0" standalone="no"?>
-<root-element>
-    <child-element>
-        ...
-        <singular-element />
-        ...
-    </child-element>
-</root-element>
+<family>
+    <member>
+        <name>dad</name>
+        <favorite-food>pancakes</favorite-food>
+        <favorite-animal>wombats</favorite-animal>
+    </member>
+</family>
 </pre>
 
 '''Document''' - A document is any XML object that contains a prolog and one or more elements excluding the root element.
