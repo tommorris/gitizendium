@@ -114,3 +114,6 @@ The encoding name '''must''' begin with an alphabetic character and all other ch
 *[[XPointer|XPointer]]
 *[[XLink|XLink]]
 *[[WSDL|Web Services Description Language]]
+
+[[Category:CZ Live]]
+[[Category:Computers Workgroup]]
