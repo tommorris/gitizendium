@@ -97,6 +97,21 @@ The encoding name '''must''' begin with an alphabetic character and all other ch
 ''(Optional)'' '''standalone''' is either ''yes'' or ''no''. ''Yes'' in the instance that the XML document does not have an external DTD or Schema. ''No'' if the XML document does have an external DTD or Schema.
 
 ====Elements====
+An '''element''' is an XML object defined by the accompanying DTD or Schema that is described by the use of tags, parsed text, attributes, and entities. An element may consist of a start tag and a end tag or a single tag.
+
+<pre>
+<?xml version="1.0" standalone="no" ?>
+<army>
+    <ninja name="woody">
+        <inventory>
+            <nunchucks count="2" />
+            <cookies count="15" />
+        </inventory>
+    </ninja>
+</army>
+</pre>
+
+In this case, '''<army>''' represents a root element that contains a series of elements, in this example the element shown is a '''<ninja>'''. A ninja has an inventory that contains a certain number of nunchucks and a certain number of cookies. The number of cookies and nunchucks are defined by the attribute '''count'''. Note, the attribute values are in quotation marks, all well formed XML documents have their attributes quoted in that fashion either with single quotes ''' ' '''or double quotes '''"'''.
 
 == References ==
 <references/>
