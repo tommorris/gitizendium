@@ -509,36 +509,12 @@
 |}
 '''Source:''' Voter News Service exit poll, reported in ''[[The New York Times]]'', [[November 10]], [[1996]], 28.
 ==Bibliography==
-== Further reading ==
-===Primary sources===
-* Clinton, Bill. ''[[My Life (Bill Clinton autobiography)|My Life]]''. (2004). ISBN 0-375-41457-6.
-*--- (with [[Al Gore]]). ''[http://eric.ed.gov/ERICDocs/data/ericdocs2/content_storage_01/0000000b/80/22/4f/40.pdf Science in the National Interest].'' Washington, DC: The White House, August 1994.
-*--- (with [[Al Gore]]). ''[http://www.gcrio.org/USCCAP/toc.html The Climate Change Action Plan].'' Washington, DC: The White House, October, 1993.
-* --- (with Al Gore). ''[http://www.itsdocs.fhwa.dot.gov/JPODOCS/BRIEFING/7423.pdf Technology for America’s economic growth, a new direction to build economic strength].'' Washington, DC: The White House, February 22, 1993.
-* [[Sidney Blumenthal]] ''The Clinton Wars''. (2003). ISBN 0-374-12502-3
-* [[Kenneth Starr]] ''The [[Starr Report]]: The Findings of Independent Counsel Kenneth W. Starr on President Clinton and the Lewinsky Affair'' (1998) ISBN 1-891620-24-X
-* [[George Stephanopoulos]] ''All Too Human: A Political Education'' (1998) ISBN 0-316-92919-0
-* [[S. Daniel Abraham]] ''[[Peace is Possible (book)|Peace is Possible]]'', foreword by Bill Clinton
-
-===Popular books===
-* Peter Baker ''The Breach: Inside the Impeachment and Trial of William Jefferson Clinton'' (2000) ISBN 0-684-86813-X
-* [[James Bovard]] ''Feeling Your Pain: The Explosion and Abuse of Government Power in the Clinton-Gore Years'' (2000) ISBN 0-312-23082-6
-* [[Joe Conason]] and [[Gene Lyons]] ''The Hunting of the President: The Ten-Year Campaign to Destroy Bill and Hillary Clinton'' (2003) ISBN 0-312-27319-3
-* [[Elizabeth Drew]] ''On the Edge: The Clinton Presidency'' (1994) ISBN 0-671-87147-1
-* Nigel Hamilton ''Bill Clinton: An American Journey'' (2003) ISBN 0-375-50610-1
-* [[John F. Harris]] ''The Survivor: Bill Clinton in the White House'' (2005) ISBN 0-375-50847-3
-* [[Christopher Hitchens]] ''No One Left to Lie to: The Triangulations of William Jefferson Clinton'' (1999) ISBN 1-85984-736-6
-* [[Michael Isikoff]] ''Uncovering Clinton: A Reporter's Story'' (1999) ISBN 0-609-60393-0
-* [[Mark Katz]] ''Clinton and Me: A Real-Life Political Comedy'' (2004) ISBN 978-0786869497
-* [[Joe Klein]] ''The Natural: The Misunderstood Presidency of Bill Clinton'' (2003) ISBN 0-7679-1412-0
-* [[David Maraniss]] ''First in His Class: A Biography of Bill Clinton'' (1996) ISBN 0-684-81890-6
-* [[David Maraniss]] ''The Clinton Enigma: A Four and a Half Minute Speech Reveals This President's Entire Life'' (1998) ISBN 0-684-86296-4
-* [[Dick Morris]] with Eileen McGann ''Because He Could'' (2004) ISBN 0-06-078415-6
-* [[Roger Morris (writer)|Roger Morris]] ''Partners in Power: The Clintons and Their America'' (1996) ISBN 0-89526-302-5
-* [[Richard Posner|Richard A. Posner]] ''An Affair of State: The Investigation, Impeachment, and Trial of President Clinton'' (1999) ISBN 0-674-00080-3
-* Mark J. Rozell ''The Clinton Scandal and the Future of American Government'' (2000) ISBN 0-87840-777-4
+===Biographical and Presidential===
+* John F. Harris ''The Survivor: Bill Clinton in the White House'' (2005) ISBN 0-375-50847-3
+* Joe Klein ''The Natural: The Misunderstood Presidency of Bill Clinton'' (2003) ISBN 0-7679-1412-0
+* David Maraniss ''First in His Class: A Biography of Bill Clinton'' (1996) ISBN 0-684-81890-6
+* Richard A. Posner ''An Affair of State: The Investigation, Impeachment, and Trial of President Clinton'' (1999) ISBN 0-674-00080-3
 * Michael Waldman ''POTUS Speaks: Finding the Words That Defined the Clinton Presidency'' (2000) ISBN 0-7432-0020-9
-* Ivory Tower Publishing Company [[Achievements of the Clinton Administration: the Complete Legislative and Executive]] (1995) ISBN 0-88032-748-0
 
 ===Academic studies===
 * Cohen; Jeffrey E. "The Polls: Change and Stability in Public Assessments of Personal Traits, Bill Clinton, 1993-99" ''Presidential Studies Quarterly'', Vol. 31, 2001
@@ -564,7 +540,12 @@
 * Schantz, Harvey L. ''Politics in an Era of Divided Government: Elections and Governance in the Second Clinton Administration'' (2001) ISBN 0-8153-3583-0
 * Wattenberg; Martin P. "The Democrats' Decline in the House during the Clinton Presidency: An Analysis of Partisan Swings" ''Presidential Studies Quarterly'', Vol. 29, 1999
 * Wattier; Mark J. "The Clinton Factor: The Effects of Clinton's Personal Image in 2000 Presidential Primaries and in the General Election" ''White House Studies'', Vol. 4, 2004
-* Smithers, Luken J. "The Miracle Whip"
+
+===Memoirs===
+* Clinton, Bill. ''My Life''. (2004). ISBN 0-375-41457-6.
+* Sidney Blumenthal ''The Clinton Wars''. (2003). ISBN 0-374-12502-3
+* Kenneth Starr. ''The Starr Report: The Findings of Independent Counsel Kenneth W. Starr on President Clinton and the Lewinsky Affair'' (1998) ISBN 1-891620-24-X
+* George Stephanopoulos. ''All Too Human: A Political Education'' (1998) ISBN 0-316-92919-0
 
 == External links ==
 *[http://www.millercenter.virginia.edu/index.php/academic/americanpresident/clinton Extensive essay on Bill Clinton and shorter essays on each member of his cabinet and First Lady from the Miller Center of Public Affairs]
