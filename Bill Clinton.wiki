@@ -1,0 +1,511 @@
+'''Bill Clinton''' was the Democratic President of the United States, elected in 1992 and 1996. Previously he served as governor of Arkansas. His administration was characterized by sustained prosperity, free trade internationally, the end of the [[New Deal]] welfare system, and an impeachment attempt that succeeded in the House but failed in the Senate. Known as a brilliant campaigner and policy wonk, as well as skirt chaser, he became a very well paid speaker after leaving the White House. His wife, '''[[Hillary Clinton''' was elected to the Senate in 2000 from New York, reelected in 2006, and in 2007 was the frontrunner for the Democratic presidential nomination in 2008.
+==Clinton voter Coalition==
+==== Voter demographics ====
+
+{| class=wikitable
+! colspan="8" |The Presidential Vote in Social Groups (percentages)
+|-
+! rowspan="3" | ''% of<br />1996<br />total<br />vote''
+|
+| colspan="6" |''3-party vote''
+|-
+|
+| colspan="3" |''1992''
+| colspan="3" |''1996''
+|-
+! ''Social group''
+! ''Clinton''
+! ''Bush''
+! ''Perot''
+! ''Clinton''
+! ''Dole''
+! ''Perot''
+|-
+|
+| Total vote
+| style="text-align:right;" | 43
+| style="text-align:right;" | 38
+| style="text-align:right;" | 19
+| style="text-align:right;" | 49
+| style="text-align:right;" | 41
+| style="text-align:right;" | 8
+|-
+|
+| ''''''''Party and ideology''''''''
+|
+|
+|
+|
+|
+|
+|-
+| style="text-align:right;" | 2
+| Liberal Republicans
+| style="text-align:right;" | 17
+| style="text-align:right;" | 54
+| style="text-align:right;" | 30
+| style="text-align:right;" | 44
+| style="text-align:right;" | 48
+| style="text-align:right;" | 9
+|-
+| style="text-align:right;" | 13
+| Moderate Republicans
+| style="text-align:right;" | 15
+| style="text-align:right;" | 63
+| style="text-align:right;" | 21
+| style="text-align:right;" | 20
+| style="text-align:right;" | 72
+| style="text-align:right;" | 7
+|-
+| style="text-align:right;" | 21
+| Conservative Republicans
+| style="text-align:right;" | 5
+| style="text-align:right;" | 82
+| style="text-align:right;" | 13
+| style="text-align:right;" | 6
+| style="text-align:right;" | 88
+| style="text-align:right;" | 5
+|-
+| style="text-align:right;" | 4
+| Liberal Independents
+| style="text-align:right;" | 54
+| style="text-align:right;" | 17
+| style="text-align:right;" | 30
+| style="text-align:right;" | 58
+| style="text-align:right;" | 15
+| style="text-align:right;" | 18
+|-
+| style="text-align:right;" | 15
+| Moderate Independents
+| style="text-align:right;" | 43
+| style="text-align:right;" | 28
+| style="text-align:right;" | 30
+| style="text-align:right;" | 50
+| style="text-align:right;" | 30
+| style="text-align:right;" | 17
+|-
+| style="text-align:right;" | 7
+| Conservative Independents
+| style="text-align:right;" | 17
+| style="text-align:right;" | 53
+| style="text-align:right;" | 30
+| style="text-align:right;" | 19
+| style="text-align:right;" | 60
+| style="text-align:right;" | 19
+|-
+| style="text-align:right;" | 13
+| Liberal Democrats
+| style="text-align:right;" | 85
+| style="text-align:right;" | 5
+| style="text-align:right;" | 11
+| style="text-align:right;" | 89
+| style="text-align:right;" | 5
+| style="text-align:right;" | 4
+|-
+| style="text-align:right;" | 20
+| Moderate Democrats
+| style="text-align:right;" | 76
+| style="text-align:right;" | 9
+| style="text-align:right;" | 15
+| style="text-align:right;" | 84
+| style="text-align:right;" | 10
+| style="text-align:right;" | 5
+|-
+| style="text-align:right;" | 6
+| Conservative Democrats
+| style="text-align:right;" | 61
+| style="text-align:right;" | 23
+| style="text-align:right;" | 16
+| style="text-align:right;" | 69
+| style="text-align:right;" | 23
+| style="text-align:right;" | 7
+|-
+|
+| ''Gender and marital status''
+|
+|
+|
+|
+|
+|
+|-
+| style="text-align:right;" | 33
+| Married men
+| style="text-align:right;" | 38
+| style="text-align:right;" | 42
+| style="text-align:right;" | 21
+| style="text-align:right;" | 40
+| style="text-align:right;" | 48
+| style="text-align:right;" | 10
+|-
+| style="text-align:right;" | 33
+| Married women
+| style="text-align:right;" | 41
+| style="text-align:right;" | 40
+| style="text-align:right;" | 19
+| style="text-align:right;" | 48
+| style="text-align:right;" | 43
+| style="text-align:right;" | 7
+|-
+| style="text-align:right;" | 15
+| Unmarried men
+| style="text-align:right;" | 48
+| style="text-align:right;" | 29
+| style="text-align:right;" | 22
+| style="text-align:right;" | 49
+| style="text-align:right;" | 35
+| style="text-align:right;" | 12
+|-
+| style="text-align:right;" | 20
+| Unmarried women
+| style="text-align:right;" | 53
+| style="text-align:right;" | 31
+| style="text-align:right;" | 15
+| style="text-align:right;" | 62
+| style="text-align:right;" | 28
+| style="text-align:right;" | 7
+|-
+|
+| ''Race''
+|
+|
+|
+|
+|
+|
+|-
+| style="text-align:right;" | 83
+| White
+| style="text-align:right;" | 39
+| style="text-align:right;" | 40
+| style="text-align:right;" | 20
+| style="text-align:right;" | 43
+| style="text-align:right;" | 46
+| style="text-align:right;" | 9
+|-
+| style="text-align:right;" | 10
+| Black
+| style="text-align:right;" | 83
+| style="text-align:right;" | 10
+| style="text-align:right;" | 7
+| style="text-align:right;" | 84
+| style="text-align:right;" | 12
+| style="text-align:right;" | 4
+|-
+| style="text-align:right;" | 5
+| Hispanic
+| style="text-align:right;" | 61
+| style="text-align:right;" | 25
+| style="text-align:right;" | 14
+| style="text-align:right;" | 72
+| style="text-align:right;" | 21
+| style="text-align:right;" | 6
+|-
+| style="text-align:right;" | 1
+| Asian
+| style="text-align:right;" | 31
+| style="text-align:right;" | 55
+| style="text-align:right;" | 15
+| style="text-align:right;" | 43
+| style="text-align:right;" | 48
+| style="text-align:right;" | 8
+|-
+|
+| ''Religion''
+|
+|
+|
+|
+|
+|
+|-
+| style="text-align:right;" | 46
+| White Protestant
+| style="text-align:right;" | 33
+| style="text-align:right;" | 47
+| style="text-align:right;" | 21
+| style="text-align:right;" | 36
+| style="text-align:right;" | 53
+| style="text-align:right;" | 10
+|-
+| style="text-align:right;" | 29
+| Catholic
+| style="text-align:right;" | 44
+| style="text-align:right;" | 35
+| style="text-align:right;" | 20
+| style="text-align:right;" | 53
+| style="text-align:right;" | 37
+| style="text-align:right;" | 9
+|-
+| style="text-align:right;" | 3
+| Jewish
+| style="text-align:right;" | 80
+| style="text-align:right;" | 11
+| style="text-align:right;" | 9
+| style="text-align:right;" | 78
+| style="text-align:right;" | 16
+| style="text-align:right;" | 3
+|-
+| style="text-align:right;" | 17
+| Born Again, religious right
+| style="text-align:right;" | 23
+| style="text-align:right;" | 61
+| style="text-align:right;" | 15
+| style="text-align:right;" | 26
+| style="text-align:right;" | 65
+| style="text-align:right;" | 8
+|-
+|
+| ''Age''
+|
+|
+|
+|
+|
+|
+|-
+| style="text-align:right;" | 17
+| 18–29 years old
+| style="text-align:right;" | 43
+| style="text-align:right;" | 34
+| style="text-align:right;" | 22
+| style="text-align:right;" | 53
+| style="text-align:right;" | 34
+| style="text-align:right;" | 10
+|-
+| style="text-align:right;" | 33
+| 30–44 years old
+| style="text-align:right;" | 41
+| style="text-align:right;" | 38
+| style="text-align:right;" | 21
+| style="text-align:right;" | 48
+| style="text-align:right;" | 41
+| style="text-align:right;" | 9
+|-
+| style="text-align:right;" | 26
+| 45–59 years old
+| style="text-align:right;" | 41
+| style="text-align:right;" | 40
+| style="text-align:right;" | 19
+| style="text-align:right;" | 48
+| style="text-align:right;" | 41
+| style="text-align:right;" | 9
+|-
+| style="text-align:right;" | 24
+| 60 and older
+| style="text-align:right;" | 50
+| style="text-align:right;" | 38
+| style="text-align:right;" | 12
+| style="text-align:right;" | 48
+| style="text-align:right;" | 44
+| style="text-align:right;" | 7
+|-
+|
+| ''Education''
+|
+|
+|
+|
+|
+|
+|-
+| style="text-align:right;" | 6
+| Not a high school graduate
+| style="text-align:right;" | 54
+| style="text-align:right;" | 28
+| style="text-align:right;" | 18
+| style="text-align:right;" | 59
+| style="text-align:right;" | 28
+| style="text-align:right;" | 11
+|-
+| style="text-align:right;" | 24
+| High school graduate
+| style="text-align:right;" | 43
+| style="text-align:right;" | 36
+| style="text-align:right;" | 21
+| style="text-align:right;" | 51
+| style="text-align:right;" | 35
+| style="text-align:right;" | 13
+|-
+| style="text-align:right;" | 27
+| Some college education
+| style="text-align:right;" | 41
+| style="text-align:right;" | 37
+| style="text-align:right;" | 21
+| style="text-align:right;" | 48
+| style="text-align:right;" | 40
+| style="text-align:right;" | 10
+|-
+| style="text-align:right;" | 26
+| College graduate
+| style="text-align:right;" | 39
+| style="text-align:right;" | 41
+| style="text-align:right;" | 20
+| style="text-align:right;" | 44
+| style="text-align:right;" | 46
+| style="text-align:right;" | 8
+|-
+| style="text-align:right;" | 17
+| Post graduate education
+| style="text-align:right;" | 50
+| style="text-align:right;" | 36
+| style="text-align:right;" | 14
+| style="text-align:right;" | 52
+| style="text-align:right;" | 40
+| style="text-align:right;" | 5
+|-
+|
+| ''Family income''
+|
+|
+|
+|
+|
+|
+|-
+| style="text-align:right;" | 11
+| Under $15,000
+| style="text-align:right;" | 58
+| style="text-align:right;" | 23
+| style="text-align:right;" | 19
+| style="text-align:right;" | 59
+| style="text-align:right;" | 28
+| style="text-align:right;" | 11
+|-
+| style="text-align:right;" | 23
+| $15,000–$29,999
+| style="text-align:right;" | 45
+| style="text-align:right;" | 35
+| style="text-align:right;" | 20
+| style="text-align:right;" | 53
+| style="text-align:right;" | 36
+| style="text-align:right;" | 9
+|-
+| style="text-align:right;" | 27
+| $30,000–$49,999
+| style="text-align:right;" | 41
+| style="text-align:right;" | 38
+| style="text-align:right;" | 21
+| style="text-align:right;" | 48
+| style="text-align:right;" | 40
+| style="text-align:right;" | 10
+|-
+| style="text-align:right;" | 39
+| Over $50,000
+| style="text-align:right;" | 39
+| style="text-align:right;" | 44
+| style="text-align:right;" | 17
+| style="text-align:right;" | 44
+| style="text-align:right;" | 48
+| style="text-align:right;" | 7
+|-
+| style="text-align:right;" | 18
+| Over $75,000
+| style="text-align:right;" | 36
+| style="text-align:right;" | 48
+| style="text-align:right;" | 16
+| style="text-align:right;" | 41
+| style="text-align:right;" | 51
+| style="text-align:right;" | 7
+|-
+| style="text-align:right;" | 9
+| Over $100,000
+| style="text-align:right;" | —
+| style="text-align:right;" | —
+| style="text-align:right;" | —
+| style="text-align:right;" | 38
+| style="text-align:right;" | 54
+| style="text-align:right;" | 6
+|-
+|
+| ''Region''
+|
+|
+|
+|
+|
+|
+|-
+| style="text-align:right;" | 23
+| East
+| style="text-align:right;" | 47
+| style="text-align:right;" | 35
+| style="text-align:right;" | 18
+| style="text-align:right;" | 55
+| style="text-align:right;" | 34
+| style="text-align:right;" | 9
+|-
+| style="text-align:right;" | 26
+| Midwest
+| style="text-align:right;" | 42
+| style="text-align:right;" | 37
+| style="text-align:right;" | 21
+| style="text-align:right;" | 48
+| style="text-align:right;" | 41
+| style="text-align:right;" | 10
+|-
+| style="text-align:right;" | 30
+| South
+| style="text-align:right;" | 41
+| style="text-align:right;" | 43
+| style="text-align:right;" | 16
+| style="text-align:right;" | 46
+| style="text-align:right;" | 46
+| style="text-align:right;" | 7
+|-
+| style="text-align:right;" | 20
+| West
+| style="text-align:right;" | 43
+| style="text-align:right;" | 34
+| style="text-align:right;" | 23
+| style="text-align:right;" | 48
+| style="text-align:right;" | 40
+| style="text-align:right;" | 8
+|-
+|
+| ''Community size''
+|
+|
+|
+|
+|
+|
+|-
+| style="text-align:right;" | 10
+| Population over 500,000
+| style="text-align:right;" | 58
+| style="text-align:right;" | 28
+| style="text-align:right;" | 13
+| style="text-align:right;" | 68
+| style="text-align:right;" | 25
+| style="text-align:right;" | 6
+|-
+| style="text-align:right;" | 21
+| Population 50,000 to 500,000
+| style="text-align:right;" | 50
+| style="text-align:right;" | 33
+| style="text-align:right;" | 16
+| style="text-align:right;" | 50
+| style="text-align:right;" | 39
+| style="text-align:right;" | 8
+|-
+| style="text-align:right;" | 39
+| Suburbs
+| style="text-align:right;" | 41
+| style="text-align:right;" | 39
+| style="text-align:right;" | 21
+| style="text-align:right;" | 47
+| style="text-align:right;" | 42
+| style="text-align:right;" | 8
+|-
+| style="text-align:right;" | 30
+| Rural areas, towns
+| style="text-align:right;" | 39
+| style="text-align:right;" | 40
+| style="text-align:right;" | 20
+| style="text-align:right;" | 45
+| style="text-align:right;" | 44
+| style="text-align:right;" | 10
+|}
+'''Source:''' Voter News Service exit poll, reported in ''[[The New York Times]]'', [[November 10]], [[1996]], 28.
+==Bibliography==
