@@ -1,5 +1,11 @@
 '''Bill Clinton''' (born William Jefferson Blythe III) was the Democratic President of the United States, elected in 1992 and 1996. Previously he served as governor of Arkansas. His administration was characterized by sustained prosperity, free trade internationally, the end of the [[New Deal]] welfare system, and an impeachment attempt that succeeded in the House but failed in the Senate. Known as a brilliant campaigner and policy wonk, as well as skirt chaser, he became a very well paid speaker after leaving the White House. His wife, '''[[Hillary Clinton]]''' was elected to the Senate in 2000 from New York, reelected in 2006, and in 2007 was the frontrunner for the Democratic presidential nomination in 2008.
+==National Security Policy==
+Butfoy (2006) argues that in the 1990s the "revolution in military affairs" (RMA), which produced "smart" weapons like cruise missiles, came of age. This apparently transformed how America viewed the relationship between force and international relations. It looked as though technology was framing foreign policy. In particular, smart weapons enabled Clinton to combine risk minimization with an expanded security agenda. However, we should be wary of ascribing technological determinism to the conflicts of the 1990's dominated by Washington's flexing of its strategic superiority, such as its bombing of Belgrade. As shown by comparison with US strategy after the 11 September 2001 terrorist attacks, Washington's stance in the 1990's was shaped by linkages between technology and specific political circumstances. As these circumstances changed, so did the RMA's place in US efforts to shape world order.
+
 ==Clinton voter Coalition==
+===Public Opinion: Clinton's popularity===
+Needham (2005) argues the "permanent campaign" is said to have reached its apogee in the incumbent communications strategies of Clinton and British Prime Minister [[Tony Blair]]. However, their assiduous courting of public opinion while in office has been used to explain both the high approval ratings of these leaders and their unpopularity for long periods of their incumbency. This apparent paradox suggests that the permanent campaign model is too blunt an instrument to usefully describe or evaluate incumbent communications. Its assumption of continuity between election campaigning and office-holding fails to explain how the strategic terrain changes once a challenger takes office. The concepts of branding and relationship marketing can be used to highlight the difference between gaining support in the one-off transaction of an election and retaining voter loyalty in a post-"purchase" setting. The success of Blair and Clinton in establishing a relationship with voters from within office can be assessed using six attributes of successful brands: simplicity, uniqueness, reassurance, aspiration, values, and credibility. As incumbents, facing challenges in shifting strategic and institutional environments, Blair and Clinton developed messages that were simple and appealed to voter aspirations. Voters remained skeptical about the extent to which these leaders embodied values and delivered on their promises.
+  
 ==== Voter demographics ====
 
 {| class=wikitable
@@ -513,10 +519,9 @@
 * John F. Harris ''The Survivor: Bill Clinton in the White House'' (2005) ISBN 0-375-50847-3
 * Joe Klein ''The Natural: The Misunderstood Presidency of Bill Clinton'' (2003) ISBN 0-7679-1412-0
 * David Maraniss ''First in His Class: A Biography of Bill Clinton'' (1996) ISBN 0-684-81890-6
-* Richard A. Posner ''An Affair of State: The Investigation, Impeachment, and Trial of President Clinton'' (1999) ISBN 0-674-00080-3
-* Michael Waldman ''POTUS Speaks: Finding the Words That Defined the Clinton Presidency'' (2000) ISBN 0-7432-0020-9
 
 ===Academic studies===
+* Butfoy, Andrew. "The Rise and Fall of Missile Diplomacy? President Clinton and the 'Revolution in Military Affairs' in Retrospect." ''Australian Journal of Politics and History'' 2006 52(1): 98-114. Issn: 0004-9522 Fulltext: in Ebsco 
 * Cohen; Jeffrey E. "The Polls: Change and Stability in Public Assessments of Personal Traits, Bill Clinton, 1993-99" ''Presidential Studies Quarterly'', Vol. 31, 2001
 * Cronin, Thomas E. and Michael A. Genovese; "President Clinton and Character Questions" ''Presidential Studies Quarterly'' Vol. 28, 1998
 * Davis; John. "The Evolution of American Grand Strategy and the War on Terrorism: Clinton and Bush Perspectives" ''White House Studies'', Vol. 3, 2003
@@ -531,14 +536,17 @@
 * Lanoue, David J. and Craig F. Emmert; "Voting in the Glare of the Spotlight: Representatives' Votes on the Impeachment of President Clinton" ''Polity'', Vol. 32, 1999
 * Livingston, C. Don, Kenneth A. Wink; "The Passage of the North American Free Trade Agreement in the U.S. House of Representatives: Presidential Leadership or Presidential Luck?" ''Presidential Studies Quarterly'', Vol. 27, 1997
 * Maurer; Paul J. "Media Feeding Frenzies: Press Behavior during Two Clinton Scandals" ''Presidential Studies Quarterly,'' Vol. 29, 1999
+* Needham, Catherine. "Brand Leaders: Clinton, Blair and the Limitations of the Permanent Campaign." ''Political Studies'' 2005 53(2): 343-361. Issn: 0032-3217 Fulltext: in Ebsco 
 * Nie; Martin A. "'It's the Environment, Stupid!': Clinton and the Environment" ''Presidential Studies Quarterly'', Vol. 27, 1997
 * O'Connor; Brendon. "Policies, Principles, and Polls: Bill Clinton's Third Way Welfare Politics 1992-1996" ''The Australian Journal of Politics and History'', Vol. 48, 2002
+* Richard A. Posner ''An Affair of State: The Investigation, Impeachment, and Trial of President Clinton'' (1999) ISBN 0-674-00080-3
 * Poveda; Tony G. "Clinton, Crime, and the Justice Department" ''Social Justice'', Vol. 21, 1994  
 * Renshon; Stanley A. ''The Clinton Presidency: Campaigning, Governing, and the Psychology of Leadership'' Westview Press, 1995
 * Renshon; Stanley A. "The Polls: The Public's Response to the Clinton Scandals, Part 1: Inconsistent Theories, Contradictory Evidence" ''Presidential Studies Quarterly'', Vol. 32, 2002
 * Rushefsky, Mark E. and Kant Patel. ''Politics, Power & Policy Making: The Case of Health Care Reform in the 1990s'' (1998) ISBN 1-56324-956-1
 * Schantz, Harvey L. ''Politics in an Era of Divided Government: Elections and Governance in the Second Clinton Administration'' (2001) ISBN 0-8153-3583-0
 * Wattenberg; Martin P. "The Democrats' Decline in the House during the Clinton Presidency: An Analysis of Partisan Swings" ''Presidential Studies Quarterly'', Vol. 29, 1999
+* Michael Waldman ''POTUS Speaks: Finding the Words That Defined the Clinton Presidency'' (2000) ISBN 0-7432-0020-9
 * Wattier; Mark J. "The Clinton Factor: The Effects of Clinton's Personal Image in 2000 Presidential Primaries and in the General Election" ''White House Studies'', Vol. 4, 2004
 
 ===Memoirs===
