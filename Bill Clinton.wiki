@@ -1,7 +1,11 @@
 '''Bill Clinton''' (born William Jefferson Blythe III) was the Democratic President of the United States, elected in 1992 and 1996. Previously he served as governor of Arkansas. His administration was characterized by sustained prosperity, free trade internationally, the end of the [[New Deal]] welfare system, and an impeachment attempt that succeeded in the House but failed in the Senate. Known as a brilliant campaigner and policy wonk, as well as skirt chaser, he became a very well paid speaker after leaving the White House. His wife, '''[[Hillary Clinton]]''' was elected to the Senate in 2000 from New York, reelected in 2006, and in 2007 was the frontrunner for the Democratic presidential nomination in 2008.
+==Early Career==
+==Election of 1992==
+==Domestic Policies==
 ==National Security Policy==
 Butfoy (2006) argues that in the 1990s the "revolution in military affairs" (RMA), which produced "smart" weapons like cruise missiles, came of age. This apparently transformed how America viewed the relationship between force and international relations. It looked as though technology was framing foreign policy. In particular, smart weapons enabled Clinton to combine risk minimization with an expanded security agenda. However, we should be wary of ascribing technological determinism to the conflicts of the 1990's dominated by Washington's flexing of its strategic superiority, such as its bombing of Belgrade. As shown by comparison with US strategy after the 11 September 2001 terrorist attacks, Washington's stance in the 1990's was shaped by linkages between technology and specific political circumstances. As these circumstances changed, so did the RMA's place in US efforts to shape world order.
-
+==1996 Election==
+===Impeachment===
 ==Clinton voter Coalition==
 ===Public Opinion: Clinton's popularity===
 Needham (2005) argues the "permanent campaign" is said to have reached its apogee in the incumbent communications strategies of Clinton and British Prime Minister [[Tony Blair]]. However, their assiduous courting of public opinion while in office has been used to explain both the high approval ratings of these leaders and their unpopularity for long periods of their incumbency. This apparent paradox suggests that the permanent campaign model is too blunt an instrument to usefully describe or evaluate incumbent communications. Its assumption of continuity between election campaigning and office-holding fails to explain how the strategic terrain changes once a challenger takes office. The concepts of branding and relationship marketing can be used to highlight the difference between gaining support in the one-off transaction of an election and retaining voter loyalty in a post-"purchase" setting. The success of Blair and Clinton in establishing a relationship with voters from within office can be assessed using six attributes of successful brands: simplicity, uniqueness, reassurance, aspiration, values, and credibility. As incumbents, facing challenges in shifting strategic and institutional environments, Blair and Clinton developed messages that were simple and appealed to voter aspirations. Voters remained skeptical about the extent to which these leaders embodied values and delivered on their promises.
@@ -127,7 +131,7 @@ Needham (2005) argues the "permanent campaign" is said to have reached its apoge
 | style="text-align:right;" | 7
 |-
 |
-| ''Gender and marital status''
+| '''Gender and marital status'''
 |
 |
 |
@@ -172,7 +176,7 @@ Needham (2005) argues the "permanent campaign" is said to have reached its apoge
 | style="text-align:right;" | 7
 |-
 |
-| ''Race''
+| '''Race'''
 |
 |
 |
@@ -217,7 +221,7 @@ Needham (2005) argues the "permanent campaign" is said to have reached its apoge
 | style="text-align:right;" | 8
 |-
 |
-| ''Religion''
+| '''Religion'''
 |
 |
 |
@@ -524,8 +528,9 @@ Needham (2005) argues the "permanent campaign" is said to have reached its apoge
 
 ===Foreign Policy===
 * Butfoy, Andrew. "The Rise and Fall of Missile Diplomacy? President Clinton and the 'Revolution in Military Affairs' in Retrospect." ''Australian Journal of Politics and History'' 2006 52(1): 98-114. Issn: 0004-9522 Fulltext: in Ebsco 
+*  Cohen, Warren I.  ''America's Failing Empire: U.S. Foreign Relations since the Cold War.'' 2005. 204 pp.  
 * Davis; John. "The Evolution of American Grand Strategy and the War on Terrorism: Clinton and Bush Perspectives" ''White House Studies'', Vol. 3, 2003
-* William G. Hyland. ''Clinton's World: Remaking American Foreign Policy'' (1999) ISBN 0-275-96396-9
+* Hyland, William G. ''Clinton's World: Remaking American Foreign Policy'' (1999) ISBN 0-275-96396-9
 * Jewett, Aubrey W. and Marc D. Turetzky; " Stability and Change in President Clinton's Foreign Policy Beliefs, 1993-96" ''Presidential Studies Quarterly'', Vol. 28, 1998
 * Livingston, C. Don, Kenneth A. Wink; "The Passage of the North American Free Trade Agreement in the U.S. House of Representatives: Presidential Leadership or Presidential Luck?" ''Presidential Studies Quarterly'', Vol. 27, 1997
 
