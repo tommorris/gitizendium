@@ -22,7 +22,7 @@ Needham (2005) argues the "permanent campaign" is said to have reached its apoge
 |-
 ! rowspan="3" | ''% of<br />1996<br />total<br />vote''
 |
-| colspan="6" |''3-party vote''
+| colspan="6" |''% of 3-party vote''
 |-
 |
 | colspan="3" |''1992''
@@ -271,7 +271,7 @@ Needham (2005) argues the "permanent campaign" is said to have reached its apoge
 | style="text-align:right;" | 8
 |-
 |
-| ''Age''
+| '''Age'''
 |
 |
 |
@@ -316,7 +316,7 @@ Needham (2005) argues the "permanent campaign" is said to have reached its apoge
 | style="text-align:right;" | 7
 |-
 |
-| ''Education''
+| '''Education'''
 |
 |
 |
@@ -370,7 +370,7 @@ Needham (2005) argues the "permanent campaign" is said to have reached its apoge
 | style="text-align:right;" | 5
 |-
 |
-| ''Family income''
+| '''Family income'''
 |
 |
 |
@@ -433,7 +433,7 @@ Needham (2005) argues the "permanent campaign" is said to have reached its apoge
 | style="text-align:right;" | 6
 |-
 |
-| ''Region''
+| '''Region'''
 |
 |
 |
@@ -478,7 +478,7 @@ Needham (2005) argues the "permanent campaign" is said to have reached its apoge
 | style="text-align:right;" | 8
 |-
 |
-| ''Community size''
+| '''Community size'''
 |
 |
 |
@@ -523,6 +523,7 @@ Needham (2005) argues the "permanent campaign" is said to have reached its apoge
 | style="text-align:right;" | 10
 |}
 '''Source:''' Voter News Service exit poll, reported in ''The New York Times'', November 10, 1996, p. 28.
+
 ==Bibliography==
 ===Biographical and Presidential===
 * Campbell, Colin, and Bert A. Rockman, eds. ''The Clinton Legacy'' 348 pp [http://www.questia.com/PM.qst?a=o&d=58143940 online edition]
