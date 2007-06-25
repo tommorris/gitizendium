@@ -2,6 +2,8 @@
 ==Early Career==
 ==Election of 1992==
 ==Domestic Policies==
+
+One of Clinton's favorite programs was "AmeriCorps," modeled after the Peace Corps and the [[CCC]]. It sent 100,000 youth into paid public service jobs around the country. It was an expansion of a Bush program. 
 ===Health Care policies===
 On 22 September 1993, Clinton called for a national medical care system that would incorporate the 15% of the population that was entitled to emergency care but lacked broader insurance. Polls showed strong initial support, but the 1994 elections shattered hopes for the passage of such a plan. Clinton decided on a plan using regional insurance purchasing agencies along with modest tax subsidies to combine universal coverage with cost efficiency. He and his advisors believed the plan would be acceptable to big business and the larger insurance companies, but the plan was opposed by a well-financed campaign. Skocpol (1996) suggests the major mistake may have been in emphasizing the cost-reducing aspect of the plan, not realizing that Americans were willing to pay for a government program that would provide generous benefits to them. The fear that Clinton's proposals would lead to the sort of health care rationing prevalent in Canada and other countries further troubled the voters. Starr (1997) notes that Clinton sought to achieve liberal ends of universal coverage through the conservative means of managed competition among private health plans, with a backup cap on the rate of growth in average insurance premiums. This approach had a political as well as policy rationale. It was meant to be the basis of an alliance that could include conservative Democrats and moderate Republicans and thereby achieve the majorities necessary for congressional passage. But what we saw as compromise, they did not -- especially as the very locus of the political center shifted to the right during the debate. Health care reform that seemed "inevitable" to many serious observers at the start became unthinkable by the end.
 
@@ -520,14 +522,13 @@ Needham (2005) argues the "permanent campaign" is said to have reached its apoge
 | style="text-align:right;" | 44
 | style="text-align:right;" | 10
 |}
-'''Source:''' Voter News Service exit poll, reported in ''[[The New York Times]]'', [[November 10]], [[1996]], 28.
+'''Source:''' Voter News Service exit poll, reported in ''The New York Times'', November 10, 1996, p. 28.
 ==Bibliography==
 ===Biographical and Presidential===
-* John F. Harris ''The Survivor: Bill Clinton in the White House'' (2005) ISBN 0-375-50847-3
-* Joe Klein ''The Natural: The Misunderstood Presidency of Bill Clinton'' (2003) ISBN 0-7679-1412-0
-* David Maraniss ''First in His Class: A Biography of Bill Clinton'' (1996) ISBN 0-684-81890-6
-
-===Academic studies===
+* Harris, John F.  ''The Survivor: Bill Clinton in the White House'' (2005) ISBN 0-375-50847-3
+* Klein, Joe.  ''The Natural: The Misunderstood Presidency of Bill Clinton'' (2003) ISBN 0-7679-1412-0
+* Levy, Peter. ''Encyclopedia of the Clinton Presidency'' (2002)
+* Maraniss, David,  ''First in His Class: A Biography of Bill Clinton'' (1996) ISBN 0-684-81890-6
 
 ===Foreign Policy===
 * Butfoy, Andrew. "The Rise and Fall of Missile Diplomacy? President Clinton and the 'Revolution in Military Affairs' in Retrospect." ''Australian Journal of Politics and History'' 2006 52(1): 98-114. Issn: 0004-9522 Fulltext: in Ebsco 
