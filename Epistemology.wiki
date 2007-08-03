@@ -1,4 +1,4 @@
-'''Epistemology''' is the study of the phenomenon of knowledge and its nature, and deals with questions like "What is knowledge?" and "How do we know this?". The term "epistemology" is derived from "ἐπιστήμη" (knowledge) and "λόγος" (logos), and was introduced into English by the Scottish philosopher [[James Frederick Ferrier]]. Epistemology is a branch of [[philosophy]].
+'''Epistemology''' is the theory of knowing.  It studies the phenomenon of knowledge, its nature, and deals with such fundamental questions "What is knowledge?" and "How do we know this?". The term "epistemology" is derived from "ἐπιστήμη" (knowledge) and "λόγος" (logos), and was introduced into English by the Scottish philosopher [[James Frederick Ferrier]]. Epistemology is a branch of [[philosophy]].
 
 == Hellenistic views ==
 Questions involving the nature of knowledge are as old as [[Philosophy]] itself.
