@@ -1,10 +1,7 @@
-'''Epistemology''' deals with questions like "What is knowledge?" and "How do we know this?".
-
-== Etymology ==
-"Epistemology" from "ἐπιστήμη" (knowledge) and "λόγος" (logos) was introduced into English by the Scottish philosopher James Frederick Ferrier.
+'''Epistemology''' is the study of the phenomenon of knowledge and its nature, and deals with questions like "What is knowledge?" and "How do we know this?". The term "epistemology" is derived from "ἐπιστήμη" (knowledge) and "λόγος" (logos), and was introduced into English by the Scottish philosopher [[James Frederick Ferrier]]. Epistemology is a branch of [[philosophy]].
 
 == Hellenistic views ==
-The questions are as old as [[Philosophy]] itself, and the search for answers continues today.
+Questions involving the nature of knowledge are as old as [[Philosophy]] itself.
 
 [[Plato]] viewed knowledge as universal unchanging Ideas. One dialogue shows how all knowledge is inherent in everyone, whereas another says that that which must be there already to be able to percieve   the world around him.
 
@@ -23,6 +20,22 @@ Reason and observation are important for knowledge to all philosophers, but are 
 
 == Modern times ==
 [[Immanuel Kant]] tries to resolve many issues, among them the contention between rationalism and empiricism. He uses twelve categories of knowledge and he argues, as Plato did before, that there has to be something in man already there to let observation into the mind. That which is already there before is ''a priori'' and gives a rational basis for handling the empirical knowledge, which is ''a posteriori'' knowledge. Reason corresponds to ''a priori'' and observation to ''a posteriori'' knowledge, thus reconciling rationalism and empiricism.
+
+== Primary questions and issues ==
+Epistemology deals largely with 
+
+=== What is knowledge? ===
+
+=== How is knowledge proven? ===
+
+=== How is knowledge acquired? ===
+
+== Epistemology outside of philosophy ==
+Epistemology has found uses in many fields outside of pure philosophy, since the ability to distinguish between knowledge and belief, and to determine what is true and what is false is often useful.
+
+*Law: The procedures necessary to establish guilt or innocence or to determine the truth of testimony.
+*Science: The ability to distinguish theory from speculation, and what can be established as fact.
+*Cognitive science: Dealing with the biology of reasoning, logic, belief, and determining truth.
 
 [[category:CZ Live]]
 [[category:Philosphy Workgroup]]
