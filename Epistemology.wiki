@@ -1,11 +1,16 @@
 {{subpages9}}
-'''Epistemology''' (from Greek ἐπιστήμη, or ''episteme,'' knowledge; and λόγος, or ''logos,'' a study or account) is also called '''Theory of Knowledge.'''  A [[philosophy|philosophical]] discipline, epistemology deals with broad questions: what is [[knowledge]]?  Is [[certainty]] required for knowledge, and what is certainty anyway?  From what sources--[[sense-perception]], say, or [[revelation]]--do we derive knowledge?  Our beliefs can have more or less [[justification]], [[warrant]], or [[evidence]]--and these features seem, roughly speaking, required for knowledge.  So what are they?  Some thinkers doubt that we have any, or very much, knowledge at all.  On what grounds can we embrace, or reject, such [[skepticism]]?
+'''Epistemology''' (from Greek ἐπιστήμη, or ''episteme,'' knowledge; and λόγος, or ''logos,'' a study or account) is also called '''Theory of Knowledge.'''  A [[philosophy|philosophical]] discipline, epistemology deals with broad questions: what is [[knowledge]]?  Is [[certainty]] required for knowledge, and what is certainty anyway?  From what sources--[[sense-perception]], say, or [[revelation]]--do we derive knowledge?  Our beliefs can have more or less [[justification]], [[warrant]], or [[evidence]]--and these features seem, roughly speaking, required for knowledge.  So what are they?  Some thinkers [[doubt]] that we have any, or very much, knowledge at all.  On what grounds can we embrace, or reject, such [[skepticism]]?
 
 Philosophers have virtually no unanimous views on these topics.  Still, to get the lay of the land, it will help to look at some common opinions.  Many, perhaps most, philosophers hold that knowledge is something like [[JTB analysis|justified, true belief]]; that certainty is not actually required for knowledge; that our basic sources of knowledge include at the very least sense-perception, memory, and reasoning; that our beliefs are justified, ultimately, by a foundation of obvious, self-justifying beliefs, ''or'' by their mutual coherence, ''or'' by being the result of reliable belief-forming processes; and finally, that we are capable of having ''some'' knowledge.  These are just some popular, sample views.  They are very far from being universally held.
 
-Occasionally, certain other topics are included in epistemology, particularly the [[philosophy of perception]] as well as questions about [[philosophy of language]], and even [[logic]].
+Occasionally, certain other topics are included in epistemology, particularly the [[philosophy of perception]] as well as questions about [[philosophy of language]], and even [[logic]].  This article, however, is focused on the earlier-listed questions.
 
+== The nature of knowledge ==
 
+Sometimes we speak as if knowledge is no more than true belief.  But if epistemologists (as they are called) are united in anything, it is that "true belief" is not really adequate as a definition.  Plato famously proposed that knowledge is true belief "with the addition of an account (''logos'')."<ref>Plato, ''Theatetus,'' 201d.  Actually, Plato has Theatetus report something that he remembered: "I had forgotten but now it comes back to me.  He said that true belief with the addition of an account was knowledge, while belief without an account was outside its range."  Later in the dialogue, characteristically, Socrates finds grounds on which to reject this definition.</ref>  An "account" is something like a reason, evidence, or justification.
+
+== References ==
+<references/>
 
 [[Category:CZ Live]]
 [[Category:Philosophy Workgroup]]
