@@ -33,8 +33,7 @@ Such contrasts with regard to "history's value" serve as examples of history as 
 *[[Historical revisionism]]: A new interpretation based not on new facts but on a new moral judgment, reversing the previous "orthodox" interpretation. Originally used to discuss who was "guilty" of starting World War I.
 
 ''Particular studies and fields''
-*[[Big History]]: study of history on a large scale across long time frames through a multi-disciplinary approach.
-*[[Cultural history]]: the study of culture in the past, or the use of cultural sources
+*[[Cultural history]]: the study of culture in the past, or the use of cultural sources; this became a dominant theme in the 1990s, especially using linguistic evidence (exactly how key words were used)
 * [[Demographic history]], studies entire populations with census data and demographic models; emphasis on births, deaths, family structure and dynamic trends
 *[[Diplomatic history]]: the study of international relations in the past.
 *[[Economic History]]: the study of economic structures and behavior, especially with use of modern economic models
@@ -46,11 +45,11 @@ Such contrasts with regard to "history's value" serve as examples of history as 
 *[[Psychohistory]]: study of the psychological motivations of historical actors, often with emphasis on childhood
 *[[Quantitative history]] use of statistical data and methods, especially in demographic, economic and political history
 **[[Prosopography]]: the statistical or systematic collection of facts about all the individuals in a given leadership group. 
-*[[Science History]] - History of scientists and their theories
+*[[History of Science]] - History of scientists and their theories
 ***[[History of Biology]] 
 ***[[History of Medicine]]
-*[[Social History]]: the study of ordinary individuals 
-*[[World History]]: the study of history from a global perspective.
+*[[Social History]]: the study of ordinary individuals; the "New Social History" emerged in the 1960s to dominate professional scholarlship<ref> Zunz (1985)</ref>; by the 1990s it had given way to [[Cultural History]] 
+*[[World History]]: the study of history from a global perspective, with emphasis on Asia and, to a lesser degree, Latin America and Africa; became fashionable in 1980s partly to replace the teaching of "Western Civ" (i.e. surveys focused on the tradition from Geece and Rome, through Europe).
 
 ==Bibliography ==
 *  Barraclough, Geoffrey, and Michael Burns. ''Main Trends in History,'' (1991) [http://www.questia.com/PM.qst?a=o&d=105793227 online edition]
@@ -73,11 +72,8 @@ Such contrasts with regard to "history's value" serve as examples of history as 
 * James Westfall Thompson and Bernard J. Holm; ''A History of Historical Writing'' (1942) [http://www.questia.com/PM.qst?a=o&d=9276002 vol 1: From the Earliest Times to the End of the Seventeenth Century  online edition] [http://www.questia.com/PM.qst?a=o&d=58613485 vol 2: 18th and 19th centuries online edition]
 * Q. Edward Wang and Georg G. Iggers, eds. ''Turning Points in Historiography: A Cross-Cultural Perspective. '' (2005)
 *  Keith Windschuttle. ''The Killing of History: How Literary Critics and Social Theorists Are Murdering Our Past.'' (2000), Australian critique.  [http://www.questia.com/PM.qst?a=o&d=101567740 online edition]
-* Harvey Wish; ''The American Historian: A Social-intellectual History of the Writing of the American Past,'' (1960) [http://www.questia.com/PM.qst?a=o&d=98866105 online edition]
-* Olivier Zunz, ed. ''Reliving the Past: The Worlds of Social History,'' (1985) [http://www.questia.com/PM.qst?a=o&d=958580 online edition]
-
-
-
+* Wish, Harvey. ''The American Historian: A Social-intellectual History of the Writing of the American Past,'' (1960) [http://www.questia.com/PM.qst?a=o&d=98866105 online edition]
+* Zunz, Olivier ed. ''Reliving the Past: The Worlds of Social History,'' (1985) [http://www.questia.com/PM.qst?a=o&d=958580 online edition]
 
 [[Category:CZ Live]]
 [[Category:History Workgroup]]
