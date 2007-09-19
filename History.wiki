@@ -33,14 +33,17 @@ Such contrasts with regard to "history's value" serve as examples of history as 
 *[[Historical revisionism]]: A new interpretation based not on new facts but on a new moral judgment, reversing the previous "orthodox" interpretation. Originally used to discuss who was "guilty" of starting World War I.
 
 ''Particular studies and fields''
+*[[Antiquarianism]], the collection and studfy of old artifacts, such as antiques; also, an interest in topics because they are old; not usually considered part of historiography
 *[[Cultural history]]: the study of culture in the past, or the use of cultural sources; this became a dominant theme in the 1990s, especially using linguistic evidence (exactly how key words were used)
 * [[Demographic history]], studies entire populations with census data and demographic models; emphasis on births, deaths, family structure and dynamic trends
 *[[Diplomatic history]]: the study of international relations in the past.
 *[[Economic History]]: the study of economic structures and behavior, especially with use of modern economic models
 *[[Family history]], studies the structure and behavior of ordinary families, with emphasis on the strategies for survival and success; includes studies of marriage, childhood, and old age; closely tied to [[demographic history]]
+*[[Generalogy]], the identification of ancestors using census and local records; generalogists use the same materials as social historians, to quote different goals; genealogy is not usually considered part of historiography
+*[[Labor history]], deals with labor unions and the social history of workers
 *[[Military History]]: The study of military practice and  theory; wars and battles; technology; organization of armies, leadership and soldiers; also [[Naval History]].
 * [[Oral history]]: creating new information by structured interviews with participants
-*[[Paleography]]: study of ancient texts.
+*[[Paleography]]: study of ancient texts to detect forgeries and lines of transmission
 *[[Political history]]: the study of political institutions, theories, leadership and practical politics.
 *[[Psychohistory]]: study of the psychological motivations of historical actors, often with emphasis on childhood
 *[[Quantitative history]] use of statistical data and methods, especially in demographic, economic and political history
@@ -67,11 +70,12 @@ Such contrasts with regard to "history's value" serve as examples of history as 
 * Hofstadter, Richard. ''Progressive Historians: Turner Beard Parrington'' (1969) 
 * Iggers, Georg G. ''Historiography in the Twentieth Century: From Scientific Objectivity to the Postmodern Challenge'' (2005) 
 * Iggers, Georg G. ''New Directions in European Historiography'' (rev. edn, 1985). 
+*  Lucassen, Jan, ed. ''Global Labour History: A State of the Art'' (Bern: Peter Lang, 2006. 790 pp. isbn 0-820-47567-X.)
 * Novick, Peter. ''That Noble Dream: The 'Objectivity Question' and the American Historical Profession'' (1988).
 *  Stokes, Melvyn. ''The State of U.S. History'' (2002) [http://www.questia.com/PM.qst?a=o&d=102287734 online edition]
-* James Westfall Thompson and Bernard J. Holm; ''A History of Historical Writing'' (1942) [http://www.questia.com/PM.qst?a=o&d=9276002 vol 1: From the Earliest Times to the End of the Seventeenth Century  online edition] [http://www.questia.com/PM.qst?a=o&d=58613485 vol 2: 18th and 19th centuries online edition]
-* Q. Edward Wang and Georg G. Iggers, eds. ''Turning Points in Historiography: A Cross-Cultural Perspective. '' (2005)
-*  Keith Windschuttle. ''The Killing of History: How Literary Critics and Social Theorists Are Murdering Our Past.'' (2000), Australian critique.  [http://www.questia.com/PM.qst?a=o&d=101567740 online edition]
+* Thompson, James Westfall, and Bernard J. Holm; ''A History of Historical Writing'' (1942) [http://www.questia.com/PM.qst?a=o&d=9276002 vol 1: From the Earliest Times to the End of the Seventeenth Century  online edition] [http://www.questia.com/PM.qst?a=o&d=58613485 vol 2: 18th and 19th centuries online edition]; detailed discussion of the work of major historians
+* Wang, Q. Edward, and Georg G. Iggers, eds. ''Turning Points in Historiography: A Cross-Cultural Perspective. '' (2005)
+*  Windschuttle, Keith. ''The Killing of History: How Literary Critics and Social Theorists Are Murdering Our Past.'' (2000), Australian critique.  [http://www.questia.com/PM.qst?a=o&d=101567740 online edition]
 * Wish, Harvey. ''The American Historian: A Social-intellectual History of the Writing of the American Past,'' (1960) [http://www.questia.com/PM.qst?a=o&d=98866105 online edition]
 * Zunz, Olivier ed. ''Reliving the Past: The Worlds of Social History,'' (1985) [http://www.questia.com/PM.qst?a=o&d=958580 online edition]
 
