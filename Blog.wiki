@@ -1,3 +1,5 @@
+{{subpages}}
+
 A '''blog''' is a journalistic [[website]] in which a "blogger" (web author, or site administrator) posts entries.  Often, entries are displayed in reverse-[[chronological order]].  
 
 ==Etymology==
@@ -64,6 +66,4 @@ Bloggers may make use of collaborative web tools in their blogs.  For instance, 
 ==Further reading==
 * [http://hyku.com/blog/archives/000238.html Josh Hallett's research on appearance of the word "blog"]
 
-[[Category:Computers Workgroup]]
-[[Category:CZ Live]]
-[[Category:Big Write]] <!--OK, it's kinda short, but it'll get there--!>
+<!--OK, it's kinda short, but it'll get there--!>
