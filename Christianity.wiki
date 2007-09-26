@@ -1,3 +1,5 @@
+{{subpages}}
+
 '''Christianity''' is the largest [[religion]] in the world, with over two billion adherents, and is made up of a large set of traditions originating in first-century [[Palestine]] with the philosophy and teachings of [[Jesus Christ|Jesus]] (or Yeshua) Christ. As an historical and theological offspring of [[Judaism]], the [[early Christianity|early Christian community]] incorporated the [[Tanakh|Jewish scriptures]] into their [[Bible]] and the relationship between the Jewish and Christian traditions remains complex and multifaceted. Christianity is a [[Monotheism|monotheistic]] faith that teaches that [[God]] is made up of three [[person]]s sharing a single essence (this teaching is known as [[Trinitarianism]]), and that His will for the world has been revealed in the Bible, a book made up of [[Books of the Bible|several dozen]] pieces of literature composed over 2,000 years in the [[Ancient Near East]].
 
 ==Denominational taxonomy==
@@ -18,6 +20,3 @@ Christianity has developed into a variety of traditions and ecclesiastical bodie
 ====Independent churches====
 
 ===Other groups=== -->
-
-[[category:CZ Live]]
-[[category:Religion Workgroup]]
