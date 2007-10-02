@@ -1,13 +1,17 @@
 '''History''' (from the Greek ἱστορία) is the study of past human  events based on written documents, conventionally divided into [[ancient history|ancient]], [[medieval history|medieval]] and [[modern history|modern]] periods. Academic studies of history attempt to document past events, as well as interpret or explain them according to various methodologies.  '''Prehistory''' deals with mankind before written records, and is part of [[Archaeology]].  Popular history (or "heritage") is related to folklore and concerns memories of the past constructed by a group.  Sacred history concerns divinely inspired events and is handled by religion scholars. This article discusses '''historiography''', the writing of history by scholars and specialists.
 
-==Source material==
-Historians depend upon "primary sources" (written sources cerated by participants) using an interpretive framework developed in "secondary sources" (usually the writings of other scholars.) They help create tertiary sources (like encyclopedias) but do not fully rely upon them. 
+==Etymology==
+{{main|History (etymology)}}
 
-==Historical research methods==
+==Sources used by historians==
+Since History has established itself as discipline (in the modern sense), his main source of information is writting text, mainly political, burocratical and juridical ones. However, other fields that developed paralell, use as fonts more refinated writting text, as phylosophical (in case of [[History of Phylosophy]]) and litterary (in case of [[History of Litterature]]) works. In addition, since 60's and the french ''[[Nouvelle Histoire]]'', many other kinds of sources began to take more serious and sistematically; we can cite two examples: (i) the reborn of oral tradition as historical font and (ii) the visual fonts: paintings, sculptures, domestical, religious and artistical pieces. 
+
+The french [[historiography]] of ''[[Annales]]'' divided the fonts generally in two groups: "primary sources" (written sources cerated by participants) using an interpretive framework developed in "secondary sources" (usually the writings of other scholars). However, from the point of view of german [[Historicism|historicist]] thinking, this division don't make sense, since any writting text is an interpretation of other writting or oral discourse, and since is impossible read a font with neutrality, without the own points of view of the historian exerces influence upon the reading. 
+
+
+==Methods of analysing sources==
+
 The historical research method uses an interpretive framework to gather and evaluate source materials then to create a '''narrative''' (story) describing what happened, or an '''analysis''' using historiographical concepts to interpret what happened in terms of an overall conceptual framework. Books and articles on history focus on what happened long ago, studies of historiography focus on how historians use an interpretive framework. In practice, academic historians usually combine history and historiography, while "popular" historians writing for non-scholars typically do not discuss the historiography.
-
-
-==Historical methods==
 
 The '''historical method''' comprises the techniques and guidelines by which [[historian]]s use [[primary source]]s and other evidence to research and then to write [[historiography|history]].
 
@@ -17,22 +21,9 @@ Historians of note who have advanced the historical methods of study include [[L
  
 In the 20th century, historians avoided epic nationalistic narratives, favoring more specialized studies looking as social, economic, political or intellectual forces.  French demographic historians introduced quantitative history, using broad data to track the lives of average groupings. Other French historians were prominent in the establishment of [[cultural history]] (cf. [[histoire des mentalités]]). In the U.S. "Progressive" historians following [[Frederick Jackson Turner]] emphasized the frontier and sectionalism, while those following [[Charles Beard]] and [[C. Vann Woodward]] looked for conflicts of economic interest. After 1950 intellectual history replaced the older Progressive models. After 1960 [[neoabolitionist]] historians inspired by the American civil rights movement emphasized moralistic stories, with racism as the evil that triumphed or was defeated.  The "new social history" in the 1970s took a comprehensive approach to include every man, woman and child, often using census, court and tax records. After the 1970s [[postmodernism|postmodernists]] have challenged the validity and need for the study of history on the basis that all history is based on the personal interpretation of sources. This approach came under blistering attack by historians such as Granatstein (1998) in Canada, and Windschuttle (2000) in Australia, leading to lively debates.
 
-==Value==
-Historians often claim that the study of history teaches valuable lessons with regard to past successes and failures of leaders, military strategy and tactics, economic systems, forms of government, and other recurring themes in the human story. From history we may learn factors that result in the rise and fall of [[nation-state]]s or [[civilization]]s, as explored by [[Arnold Toynbee]]. Other historians have explored various political, economic, and social systems, and the effects of factors such as religion, disease, warfare, trade and technology.
-
-One of the most famous quotations about history and the value of studying history, by the Spanish philosopher [[George Santayana]], reads: "Those who cannot remember the past are condemned to repeat it." The German philosopher [[Georg Wilhelm Friedrich Hegel]] remarked in his ''Philosophy of History'' that "What history and experience teach us is this: that people and government never have learned anything from history or acted on principles deduced from it." This was famously paraphrased by the [[Winston Churchill]], who said "The one thing we have learned from history is that we don't learn from history."
-
-An alternative view is that the forces of history are too great to be changed by human deliberation, or that, even if people do change the course of history, the movers and shakers of this world are usually too self-involved to stop to look at the big picture.
-
-Yet another view is that history does not repeat itself because of the uniqueness of any given historical event. In this view, the specific combination of factors at any moment in time can never be repeated, and so knowledge about events in the past can not be directly and beneficially applied to the present.
-
-Such contrasts with regard to "history's value" serve as examples of history as an outlet for intellectual debate, and indeed many, both in and outside of academia, would argue that at least part of history's value lies simply in its ability to provoke such discussion. In turn, this can be seen as cultivating further intellectual interest.
+==Types of historical description==
 
 
-''Methods and tools''
-*[[Historical revisionism]]: A new interpretation based not on new facts but on a new moral judgment, reversing the previous "orthodox" interpretation. Originally used to discuss who was "guilty" of starting World War I.
-
-''Particular studies and fields''
 *[[Antiquarianism]], the collection and studfy of old artifacts, such as antiques; also, an interest in topics because they are old; not usually considered part of historiography
 *[[Atlantic History]]: a recent trend; studies the interaction of Europe, Africa and North America and South America, especially before 1800
 *[[Cultural history]]: the study of culture in the past, or the use of cultural sources; this became a dominant theme in the 1990s, especially using linguistic evidence (exactly how key words were used)
@@ -55,6 +46,23 @@ Such contrasts with regard to "history's value" serve as examples of history as 
 *[[Social History]]: the study of ordinary individuals; the "New Social History" emerged in the 1960s to dominate professional scholarlship<ref> Zunz (1985)</ref>; by the 1990s it had given way to [[Cultural History]] 
 ** see also [[Social History, U.S.]]
 *[[World History]]: the study of history from a global perspective, with emphasis on Asia and, to a lesser degree, Latin America and Africa; became fashionable in 1980s partly to replace the teaching of "Western Civ" (i.e. surveys focused on the tradition from Geece and Rome, through Europe).
+
+==Methods of relying the narrative==
+
+==Approaches to valuing historical descriptions==
+
+Historians often claim that the study of history teaches valuable lessons with regard to past successes and failures of leaders, military strategy and tactics, economic systems, forms of government, and other recurring themes in the human story. From history we may learn factors that result in the rise and fall of [[nation-state]]s or [[civilization]]s, as explored by [[Arnold Toynbee]]. Other historians have explored various political, economic, and social systems, and the effects of factors such as religion, disease, warfare, trade and technology.
+
+One of the most famous quotations about history and the value of studying history, by the Spanish philosopher [[George Santayana]], reads: "Those who cannot remember the past are condemned to repeat it." The German philosopher [[Georg Wilhelm Friedrich Hegel]] remarked in his ''Philosophy of History'' that "What history and experience teach us is this: that people and government never have learned anything from history or acted on principles deduced from it." This was famously paraphrased by the [[Winston Churchill]], who said "The one thing we have learned from history is that we don't learn from history."
+
+An alternative view is that the forces of history are too great to be changed by human deliberation, or that, even if people do change the course of history, the movers and shakers of this world are usually too self-involved to stop to look at the big picture.
+
+Yet another view is that history does not repeat itself because of the uniqueness of any given historical event. In this view, the specific combination of factors at any moment in time can never be repeated, and so knowledge about events in the past can not be directly and beneficially applied to the present.
+
+Such contrasts with regard to "history's value" serve as examples of history as an outlet for intellectual debate, and indeed many, both in and outside of academia, would argue that at least part of history's value lies simply in its ability to provoke such discussion. In turn, this can be seen as cultivating further intellectual interest.
+
+==See Also==
+* [[Historiography]]
 
 ==Bibliography ==
 *  Barraclough, Geoffrey, and Michael Burns. ''Main Trends in History,'' (1991) [http://www.questia.com/PM.qst?a=o&d=105793227 online edition]
