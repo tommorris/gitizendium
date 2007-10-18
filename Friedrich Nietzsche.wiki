@@ -1,0 +1,19 @@
+'''Friedrich Nietzsche''' was a German philosopher and writer born in 1844, who died in 1900. His work was critical of the concepts of morality, religion and the contemporary culture of Europe in the nineteenth century. His style is radical and, like [[Søren Kierkegaard]], Nietzsche's work is often considered foundational for [[Existentialism]] and influential on later philosophical movements including [[postmodernism]].
+
+== Nietzsche's thought ==
+
+Unlike [[Georg Wilhelm Friedrich Hegel|Hegel]], Nietzsche's thought is unsystematic and sometimes not clear. Nietzsche's impressive literary style serves as much to reveal aspects of his thought as to cover them up. At points, for instance, the reader is treated to quite clear philosophical discussion of topics like [[morality]] and [[ethics]], and at other points, we have coded [[aphorism|aphorisms]] and even [[narrative]] fiction - in the case of ''[[Thus Spake Zarathustra]]''.
+
+There are some common elements or threads to this though.
+
+=== Truth and Lying ===
+
+There are some strands of Nietzsche's writing which coalesce into a broad method which some have described as ''perspectivism''[http://www.stolaf.edu/depts/philosophy/reed/2001/perspectivism.html]. This is usually based on an essay entitled ''Truth and Lie in an Extra-Moral Sense''[http://www.geocities.com/thenietzschechannel/tls.htm].
+
+=== Morality and The Will to Power ===
+
+Nietzsche is critical of the concept of morality as a universal or God-given ideal, describing how it is in fact caused by a '''will to power''' - that is, it is based on human desires and power rather than on moral ideals. His method here is '''genealogical''' - by describing possible scenarios in which morality could have came to be. The genealogical critique would later be taken up by [[Michel Foucault]].
+
+Nietzsche's story of morality is based around a distinction between master and slave morality. Master morality is that which exalts human strength and will, while slave morality is based on human weakness and wretchedness. The archetype of master morality that Nietzsche describes is that of ancient Greek society, while Jewish and later Christian morality is seen as a slave morality. Christian 'slave' morality is exemplified in the [[crucifixion]] of [[Jesus Christ|Christ]], hence Nietzsche's phrase "Dionysus versus the Crucified".
+
+[[Category:CZ Live]]
