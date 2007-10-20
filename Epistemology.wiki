@@ -12,5 +12,36 @@ Sometimes we speak as if knowledge is no more than true belief.  But epistemolog
 == References ==
 <references/>
 
+== References ==
+{{col-begin}}
+{{col-break}}
+=== Classical works ===
+* Berkeley, George. ''On the Principles of Human Knowledge''
+* Descartes, René. ''A Discourse on Method''
+* Descartes, René. ''Meditations on First Philosophy''
+* Hume, David. ''A Treatise of Human Nature''
+* Kant, Immanuel. ''Critique of Pure Reason''
+* Kant, Immanuel. ''Prolegomena to any Future Metaphysics''
+* Kierkegaard, Søren. ''Philosophical Fragments''
+* Locke, John. ''An Essay Concerning Human Understanding''
+* Plato. ''Meno''
+* Plato. ''Euthyphro''
+* Plato. ''The Republic''
+* Plato. ''Theaetetus''
+* Sextus Empiricus. ''Outlines of Pyrrhonism''
+{{col-break}}
+=== Contemporary works ===
+* Ayer, Alfred Jules. ''The Problem of Knowledge''
+* BonJour, Laurence. ''The Structure of Empirical Knowledge''
+* BonJour, Laurence. ''In Defense of Pure Reason''
+* Chisholm, Roderick. ''Theory of Knowledge''
+* Gettier, Edmund. Is Justified True Belief Knowledge?
+* Goldman, Alvin I. What is Justified Belief?
+* Kripke, Saul. ''Naming and Necessity''
+* Quine, W. V. O. Epistemology Naturalized
+* Quine, W. V. O. Two Dogmas of Empiricism
+{{col-end}}
+
+
 [[Category:CZ Live]]
 [[Category:Philosophy Workgroup]]
