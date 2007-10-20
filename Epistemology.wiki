@@ -17,19 +17,16 @@ Sometimes we speak as if knowledge is no more than true belief.  But epistemolog
 {{col-break}}
 === Classical works ===
 * Berkeley, George. ''On the Principles of Human Knowledge''
-* Descartes, René. ''A Discourse on Method''
+* Descartes, René. ''[[Discourse on Method]]''
 * Descartes, René. ''Meditations on First Philosophy''
 * Hume, David. ''A Treatise of Human Nature''
 * Kant, Immanuel. ''Critique of Pure Reason''
-* Kant, Immanuel. ''Prolegomena to any Future Metaphysics''
-* Kierkegaard, Søren. ''Philosophical Fragments''
 * Locke, John. ''An Essay Concerning Human Understanding''
 * Plato. ''Meno''
-* Plato. ''Euthyphro''
-* Plato. ''The Republic''
 * Plato. ''Theaetetus''
 * Sextus Empiricus. ''Outlines of Pyrrhonism''
 {{col-break}}
+
 === Contemporary works ===
 * Ayer, Alfred Jules. ''The Problem of Knowledge''
 * BonJour, Laurence. ''The Structure of Empirical Knowledge''
