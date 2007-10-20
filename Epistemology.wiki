@@ -35,11 +35,9 @@ Sometimes we speak as if knowledge is no more than true belief.  But epistemolog
 * BonJour, Laurence. ''The Structure of Empirical Knowledge''
 * BonJour, Laurence. ''In Defense of Pure Reason''
 * Chisholm, Roderick. ''Theory of Knowledge''
-* Gettier, Edmund. Is Justified True Belief Knowledge?
-* Goldman, Alvin I. What is Justified Belief?
-* Kripke, Saul. ''Naming and Necessity''
-* Quine, W. V. O. Epistemology Naturalized
-* Quine, W. V. O. Two Dogmas of Empiricism
+* Gettier, Edmund. Is Justified True Belief Knowledge?"
+* Goldman, Alvin I. "What is Justified Belief?"
+* Quine, W. V. O. "Epistemology Naturalized"
 {{col-end}}
 
 
