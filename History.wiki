@@ -1,3 +1,5 @@
+{{subpages}}
+
 '''History''' (from the Greek ἱστορία) is the study of past human  events based on written documents, conventionally divided into [[ancient history|ancient]], [[medieval history|medieval]] and [[modern history|modern]] periods. Academic studies of history attempt to document past events, as well as interpret or explain them according to various methodologies.  '''Prehistory''' deals with mankind before written records, and is part of [[Archaeology]].  Popular history (or "heritage") is related to folklore and concerns memories of the past constructed by a group.  Sacred history concerns divinely inspired events and is handled by religion scholars. This article discusses '''historiography''', the writing of history by scholars and specialists.
 
 ==Etymology==
@@ -92,6 +94,3 @@ Such contrasts with regard to "history's value" serve as examples of history as 
 *  Windschuttle, Keith. ''The Killing of History: How Literary Critics and Social Theorists Are Murdering Our Past.'' (2000), Australian critique.  [http://www.questia.com/PM.qst?a=o&d=101567740 online edition]
 * Wish, Harvey. ''The American Historian: A Social-intellectual History of the Writing of the American Past,'' (1960) [http://www.questia.com/PM.qst?a=o&d=98866105 online edition]
 * Zunz, Olivier ed. ''Reliving the Past: The Worlds of Social History,'' (1985) [http://www.questia.com/PM.qst?a=o&d=958580 online edition]
-
-[[Category:CZ Live]]
-[[Category:History Workgroup]]
