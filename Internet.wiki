@@ -1,3 +1,5 @@
+{{subpages}}
+
 [[Image:Internet map 1024.jpg|right|thumb|250px|A map graphically displaying interconnections on the Internet (known as [[Router|routes]])]]
 
 The '''Internet''' is a "network of [[computer network|networks]]" best known as the global network the [[World Wide Web]] is run on. Many people mistakenly call the "World Wide Web" "the Internet," however this is not actually the case. The Web is the Internet's best known and front-facing service, however there are literally hundreds of different [[protocols]], applications and services that run over the Internet.
@@ -23,6 +25,3 @@ The research which led to the Internet was funded initially by the United States
 
 ==References==
 <references />
-
-[[Category:CZ Live]]
-[[Category:Computers Workgroup]]
