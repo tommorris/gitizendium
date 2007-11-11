@@ -1,3 +1,5 @@
+{{subpages}}
+
 '''Metaphysics''' (from [[Greek language|Greek]]: ''μετά (meta)'' = "after", ''φύσις (phúsis)'' = "nature") is the branch of [[philosophy]] concerned with explaining the nature of the [[World_(philosophy)|world]]. It is the study of [[being]] or [[reality]].<ref name ="BECA">Geisler, Norman L. "Baker Encyclopedia of Christian Apologetics" page 446. Baker Books, 1999</ref> It addresses questions such as: What is the nature of [[reality]]? [[Existence of God|Is there a]] [[God]]? What is man's place in the [[universe]]?
 
 A central branch of metaphysics is [[ontology]], the investigation into what [[category of being|categories]] of things are in the world and what relations these things bear to one another. The metaphysician also attempts to clarify the notions by which people understand the world, including [[existence]], [[object (philosophy)|objecthood]], [[property (philosophy)|property]], [[space]], [[time]], [[causality]], and [[possibility]].
@@ -167,5 +169,3 @@ A more nuanced view is that metaphysical statements are not ''meaningless'' stat
 * [http://plato.stanford.edu/entries/aristotle-metaphysics/ Aristotle's Metaphysics at Stanford Encyclopedia of Philosophy]
 * [http://plato.stanford.edu/entries/object/ Stanford Encyclopedia of Philosophy, entry under OBJECT, by Henry Laycock]
 * [http://waysofseeing.net/ Ways of Seeing: A common sense exploration of modern metaphysics.]
-
-[[Category:Philosophy Workgroup]]
