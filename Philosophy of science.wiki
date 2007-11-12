@@ -1,3 +1,5 @@
+{{subpages}}
+
 The '''philosophy of science''' is the study of the assumptions, foundations, and implications of [[science]], including the [[formal science]]s, [[natural science]]s, and [[social sciences]]. It includes study of:
 
 :* The nature of the terms, concepts, propositions, hypotheses, models and theories used by scientists.
@@ -133,7 +135,3 @@ More recently, the battles over teaching [[evolution]] and [[intelligent design]
 *[http://www.univie.ac.at/wissenschaftstheorie/popper/ Karl Popper Institute] includes complete bibliography 1925-1999
 *[http://www.sveinbjorn.org/popper_audio_recordings Audio recordings of Karl Popper speaking]
 *[http://www.stephenjaygould.org/ctrl/gardner_popper.html "A Skeptical Look at Karl Popper"] by [[Martin Gardner]]
-
-
-[[Category:CZ Live]]
-[[Category:Philosophy Workgroup|Science, Philosophy of]]
