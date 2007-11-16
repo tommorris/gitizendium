@@ -1,36 +1,29 @@
 {{subpages}}
 
-'''History''' (from the Greek ἱστορία) is the study of past human  events based on written documents, conventionally divided into [[ancient history|ancient]], [[medieval history|medieval]] and [[modern history|modern]] periods. Academic studies of history attempt to document past events, as well as interpret or explain them according to various methodologies.  '''Prehistory''' deaorls with mankind before written records, and is part of [[Archaeology]].  Popular history (or "heritage") is related to folklore and concerns memories of the past constructed by a group.  Sacred history concerns divinely inspired events and is handled by religion scholars. This article discusses '''historiography''', the writing of history by scholars and specialists.
+'''History''' (from the Greek ἱστορία) is the study of past human  events based on written documents, conventionally divided chronologically into ancient, medieval and modern periods. Academic studies of history attempt to document past events, as well as interpret or explain them according to various methodologies.  '''Prehistory''' deals with mankind before written records, and is part of [[Archaeology]].  Popular history (or "heritage") is related to folklore and concerns memories of the past constructed by a group.  Sacred history concerns divinely inspired events and is handled by religion scholars. This article discusses '''historiography''', the writing of history by scholars and specialists.
 
 ==Etymology==
 {{main|History (etymology)}}
 
-The [[Ancient Greek]] word '''''{{polytonic|ἱστορία}}''''', ''istoría'', means "knowledge acquired by investigation, inquiry". In this sense it is used in antique expression "natural history". Because these knowledge is many times described in a [[narrative]] or [[descritive]] form, the word "record of facts", specifically ordained in a chronological form.
+The [[Ancient Greek]] word '''''{{polytonic|ἱστορία}}''''', ''istoría'', means "knowledge acquired by investigation, inquiry". In this sense it is used in antique expression "natural history". 
 
-In [[english language]], the word went into two different directions: "story", chronological narrative, and "history", chronological facts ocurred with humans". A similar important distinction is between "history as the sequence of facts" and "history as the study of this sequence", which is partially solved by using "History" (with [[capital letter]]) or "[[historiography]]" for the second sense.
+In English the word went into two different directions: "story", or chronologically-structured narrative, and "history", or discourse on human events. 
 
 ==Sources used by historians==
-Since History has established itself as discipline (in the modern sense), his main source of information is writting text, mainly political, burocratical and juridical ones. However, other fields that developed paralell, use as fonts more refinated writting text, as phylosophical (in case of [[History of Phylosophy]]) and litterary (in case of [[History of Litterature]]) works. In addition, since 60's and the french ''[[Nouvelle Histoire]]'', many other kinds of sources began to take more serious and sistematically; we can cite two examples: (i) the reborn of oral tradition as historical font and (ii) the visual fonts: paintings, sculptures, domestical, religious and artistical pieces. 
+The main source of information is written text, mainly from political, ceremonial or bureaucratic sources. Other kinds of sources include memoirs, oral interviews, newspaper accounts, and works of  art. 
 
-The french [[historiography]] of ''[[Annales]]'' divided the fonts generally in two groups: "primary sources" (written sources cerated by participants) using an interpretive framework developed in "secondary sources" (usually the writings of other scholars). However, from the point of view of german [[Historicism|historicist]] thinking, this division don't make sense, since any writting text is an interpretation of other writting or oral discourse, and since is impossible read a font with neutrality, without the own points of view of the historian exerces influence upon the reading. 
-
-
-==Methods of analysing sources==
-
-The historical research method uses an interpretive framework to gather and evaluate source materials then to create a '''narrative''' (story) describing what happened, or an '''analysis''' using historiographical concepts to interpret what happened in terms of an overall conceptual framework. Books and articles on history focus on what happened long ago, studies of historiography focus on how historians use an interpretive framework. In practice, academic historians usually combine history and historiography, while "popular" historians writing for non-scholars typically do not discuss the historiography.
-
-The '''historical method''' comprises the techniques and guidelines by which [[historian]]s use [[primary source]]s and other evidence to research and then to write [[historiography|history]].
+Historians distinguish "primary sources" (written sources created by participants), and "secondary sources", which is the interpretation of history by scholars 
 
 [[Ibn Khaldun]] laid down the principles for the historical method in his book [[Muqaddimah]], but was unknown to scholars and not rediscovered until the 19th century.  
 
 Historians of note who have advanced the historical methods of study include [[Leopold von Ranke]], [[Lewis Bernstein Namier]], [[Frederick Jackson Turner]], [[Charles Beard]] and E.P. Thompson.
  
-In the 20th century, historians avoided epic nationalistic narratives, favoring more specialized studies looking as social, economic, political or intellectual forces.  French demographic historians introduced quantitative history, using broad data to track the lives of average groupings. Other French historians were prominent in the establishment of [[cultural history]] (cf. [[histoire des mentalités]]). In the U.S. "Progressive" historians following [[Frederick Jackson Turner]] emphasized the frontier and sectionalism, while those following [[Charles Beard]] and [[C. Vann Woodward]] looked for conflicts of economic interest. After 1950 intellectual history replaced the older Progressive models. After 1960 [[neoabolitionist]] historians inspired by the American civil rights movement emphasized moralistic stories, with racism as the evil that triumphed or was defeated.  The "new social history" in the 1970s took a comprehensive approach to include every man, woman and child, often using census, court and tax records. After the 1970s [[postmodernism|postmodernists]] have challenged the validity and need for the study of history on the basis that all history is based on the personal interpretation of sources. This approach came under blistering attack by historians such as Granatstein (1998) in Canada, and Windschuttle (2000) in Australia, leading to lively debates.
+In the 20th century, academic historians avoided epic nationalistic narratives, favoring more specialized studies looking as social, economic, political or intellectual forces.  Demographic historians introduced quantitative history, using census data to track the lives of average people. French historians were prominent in the establishment of [[cultural history]] (such as the "histoire des mentalités"). In the U.S. "Progressive" historians following [[Frederick Jackson Turner]] emphasized the frontier and sectionalism, while those following [[Charles Beard]] and [[C. Vann Woodward]] looked for conflicts of economic interest. After 1950 intellectual history replaced the older Progressive models. After 1960 [[neoabolitionist]] historians inspired by the American civil rights movement emphasized moralistic stories, with racism as the evil that triumphed or was defeated.  The "new social history" in the 1970s took a comprehensive approach to include every man, woman and child, often using census, court and tax records. After the 1970s some postmodernists have challenged the validity and need for the study of history on the basis that all history is based on the personal interpretation of sources. This approach came under blistering attack by historians such as Granatstein (1998) in Canada, and Windschuttle (2000) in Australia, leading to lively debates.
 
 ==Types of historical description==
 
 
-*[[Antiquarianism]], the collection and studfy of old artifacts, such as antiques; also, an interest in topics because they are old; not usually considered part of historiography
+*[[Antiquarianism]], the collection and study of old artifacts, such as antiques; also, an interest in topics because they are old; not usually considered part of historiography
 *[[Atlantic History]]: a recent trend; studies the interaction of Europe, Africa and North America and South America, especially before 1800
 *[[Cultural history]]: the study of culture in the past, or the use of cultural sources; this became a dominant theme in the 1990s, especially using linguistic evidence (exactly how key words were used)
 * [[Demographic history]], studies entire populations with census data and demographic models; emphasis on births, deaths, family structure and dynamic trends
@@ -49,9 +42,9 @@ In the 20th century, historians avoided epic nationalistic narratives, favoring 
 *[[History of Science]] - History of scientists and their theories
 ***[[History of Biology]] 
 ***[[History of Medicine]]
-*[[Social History]]: the study of ordinary individuals; the "New Social History" emerged in the 1960s to dominate professional scholarlship<ref> Zunz (1985)</ref>; by the 1990s it had given way to [[Cultural History]] 
+*[[Social History]]: the study of ordinary individuals; the "New Social History" emerged in the 1960s to dominate professional scholarship<ref> Zunz (1985)</ref>; by the 1990s it had given way to [[Cultural History]] 
 ** see also [[Social History, U.S.]]
-*[[World History]]: the study of history from a global perspective, with emphasis on Asia and, to a lesser degree, Latin America and Africa; became fashionable in 1980s partly to replace the teaching of "Western Civ" (i.e. surveys focused on the tradition from Geece and Rome, through Europe).
+*[[World History]]: the study of history from a global perspective, with emphasis on Asia and, to a lesser degree, Latin America and Africa; became fashionable in 1980s partly to replace the teaching of "Western Civ" (i.e. surveys focused on the tradition from Greece and Rome, through Europe).
 
 ==Methods of relying the narrative==
 
@@ -85,7 +78,7 @@ Such contrasts with regard to "history's value" serve as examples of history as 
 *  Gransden, Antonia. ''Historical Writing in England: c.550-c.1307'' (1996) [http://www.questia.com/PM.qst?a=o&d=109077534 online edition]
 * Hofstadter, Richard. ''Progressive Historians: Turner Beard Parrington'' (1969) 
 * Iggers, Georg G. ''Historiography in the Twentieth Century: From Scientific Objectivity to the Postmodern Challenge'' (2005) 
-* Iggers, Georg G. ''New Directions in European Historiography'' (rev. edn, 1985). 
+* Iggers, Georg G. ''New Directions in European Historiography'' (rev. ed., 1985). 
 *  Lucassen, Jan, ed. ''Global Labour History: A State of the Art'' (Bern: Peter Lang, 2006. 790 pp. isbn 0-820-47567-X.)
 * Novick, Peter. ''That Noble Dream: The 'Objectivity Question' and the American Historical Profession'' (1988).
 *  Stokes, Melvyn. ''The State of U.S. History'' (2002) [http://www.questia.com/PM.qst?a=o&d=102287734 online edition]
