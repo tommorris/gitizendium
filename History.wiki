@@ -1,6 +1,6 @@
 {{subpages}}
 
-'''History''' (from the Greek ἱστορία) is the study of past human  events based on written documents, conventionally divided into [[ancient history|ancient]], [[medieval history|medieval]] and [[modern history|modern]] periods. Academic studies of history attempt to document past events, as well as interpret or explain them according to various methodologies.  '''Prehistory''' deals with mankind before written records, and is part of [[Archaeology]].  Popular history (or "heritage") is related to folklore and concerns memories of the past constructed by a group.  Sacred history concerns divinely inspired events and is handled by religion scholars. This article discusses '''historiography''', the writing of history by scholars and specialists.
+'''History''' (from the Greek ἱστορία) is the study of past human  events based on written documents, conventionally divided into [[ancient history|ancient]], [[medieval history|medieval]] and [[modern history|modern]] periods. Academic studies of history attempt to document past events, as well as interpret or explain them according to various methodologies.  '''Prehistory''' deaorls with mankind before written records, and is part of [[Archaeology]].  Popular history (or "heritage") is related to folklore and concerns memories of the past constructed by a group.  Sacred history concerns divinely inspired events and is handled by religion scholars. This article discusses '''historiography''', the writing of history by scholars and specialists.
 
 ==Etymology==
 {{main|History (etymology)}}
@@ -40,7 +40,7 @@ In the 20th century, historians avoided epic nationalistic narratives, favoring 
 *[[Genealogy]], the identification of ancestors using census and local records; genealogists use the same materials as social historians, to quote different goals; genealogy is not usually considered part of historiography
 *[[Labor history]], deals with labor unions and the social history of workers
 *[[Military History]]: The study of military practice and  theory; wars and battles; technology; organization of armies, leadership and soldiers; also [[Naval History]].
-* [[Oral history]]: creating new information by structured interviews with participants
+* [[Oral History]]: creating new information by structured interviews with participants
 *[[Paleography]]: study of ancient texts to detect forgeries and lines of transmission
 *[[Political history]]: the study of political institutions, theories, leadership and practical politics.
 *[[Psychohistory]]: study of the psychological motivations of historical actors, often with emphasis on childhood
