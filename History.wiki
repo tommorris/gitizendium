@@ -22,42 +22,29 @@ In the 20th century, academic historians avoided epic nationalistic narratives, 
 
 ==Types of historical description==
 
-The historians have sometimes divided their major field of knowledge in specialized subfields, usually period, place or approach.
 
-===Field of History by period and place===
-
-*[[Ancient Classical History]]: '''grosso modo''', they study of Ancient Greece and the Roman Empire. See also [[Classics]].
-
-*[[Ancient Oriental History]]: Sometimes is the term used by designated the study of other ancient reigns by the time of the classical ones - like the [[Mesopitamian]] and the [[Persian]].
-
-*[[Medieval History]]: Deals with the period usually called [[Middle Age]] (between ~500-1492) in [[Europe]] and sometimes also in the Islamic World.
-
-*[[Modern History]]
-
-*[[Contemporary History]]
-**[[Atlantic History]]: a recent trend; studies the interaction of Europe, Africa and North America and South America, especially before 1800
-
-===Fields of History by approach===
-
-Although there are many different division, varying by country to country, or indeed by uiversity to university, we can make an schematic division in some major fields:
-
-*[[Political History]]: It is the study of political institutions, theories, leadership and practical politics. The historian from [[Annales]] accused the positivist to just write this kind of history.
-**[[Diplomatic history]]: the historical study having as basis the international relations.
-**[[Military History]]: The study of military practice and  theory; wars and battles; technology; organization of armies, leadership and soldiers; also [[Naval History]].
-
-*[[Economic History]]: The most of proeminent name of this field is [[Karl Marx]], for beeen perhaps the first to use economical estimations and statistics to draw an univeral history of the men. But there are different tendences on it, like the english '''New Economical History''', much associated to modern economic models. The economic historians often uses the set of techniques called [[quantitative history]].
-
-*[[Social History]]: It is the study of history with emphasis the social reality and the effects in large group of people.The '''New Social History''' emerged in the 1960s to dominate professional scholarship<ref> Zunz (1985)</ref>. see also [[Social History, U.S.]].
-**[[Labor history]], deals with labor unions and the social history of workers
-
-*[[Cultural history]]: It is the study history focusing the [[culture]], or by using cultural sources. This became a dominant theme in the 1960s, especially influenced by [[linguistics]] (exactly how key words were used).
-
-* [[History of Ideas]] is a field founded in U.S. by [[Arthur Lovejoy]], dealing with [[ideas]], [[concepts]] or [[thoughts]]. After Second Wolrd War, the field has developed mainly in England around [[Quentin Skinner]]'s group and in Germany, under the way of [[History of Concepts]]. 
-**[[History of Science]] - History of scientific thought. It is mostly often used the approach of History of Ideas, but is also possible a '''social history of science''' (see [[Christopher Hill]]).
-
-* [[Microhistory]]: A relatively recent field, basing its approach not in political debate or  economical systems or coletive manifestations but in specifical or individual events.
-
-*[[Archaeology]] or  [[Antiquarianism]] can be also a way of historical apporach, studying a certain epoque based in [[material culture]] of that epoque.
+*[[Antiquarianism]], the collection and study of old artifacts, such as antiques; also, an interest in topics because they are old; not usually considered part of historiography
+*[[Atlantic History]]: a recent trend; studies the interaction of Europe, Africa and North America and South America, especially before 1800
+*[[Cultural history]]: the study of culture in the past, or the use of cultural sources; this became a dominant theme in the 1990s, especially using linguistic evidence (exactly how key words were used)
+* [[Demographic history]], studies entire populations with census data and demographic models; emphasis on births, deaths, family structure and dynamic trends
+*[[Diplomatic history]]: the study of international relations in the past.
+*[[Economic History]]: the study of economic structures and behavior, especially with use of modern economic models
+*[[Family history]], studies the structure and behavior of ordinary families, with emphasis on the strategies for survival and success; includes studies of marriage, childhood, and old age; closely tied to [[demographic history]]
+*[[Genealogy]], the identification of ancestors using census and local records; genealogists use the same materials as social historians, to quote different goals; genealogy is not usually considered part of historiography
+*[[Labor history]], deals with labor unions and the social history of workers
+*[[Military History]]: The study of military practice and  theory; wars and battles; technology; organization of armies, leadership and soldiers; also [[Naval History]].
+* [[Oral History]]: creating new information by structured interviews with participants
+*[[Paleography]]: study of ancient texts to detect forgeries and lines of transmission
+*[[Political history]]: the study of political institutions, theories, leadership and practical politics.
+*[[Psychohistory]]: study of the psychological motivations of historical actors, often with emphasis on childhood
+*[[Quantitative history]] use of statistical data and methods, especially in demographic, economic and political history
+**[[Prosopography]]: the statistical or systematic collection of facts about all the individuals in a given leadership group. 
+*[[History of Science]] - History of scientists and their theories
+***[[History of Biology]] 
+***[[History of Medicine]]
+*[[Social History]]: the study of ordinary individuals; the "New Social History" emerged in the 1960s to dominate professional scholarship<ref> Zunz (1985)</ref>; by the 1990s it had given way to [[Cultural History]] 
+** see also [[Social History, U.S.]]
+*[[World History]]: the study of history from a global perspective, with emphasis on Asia and, to a lesser degree, Latin America and Africa; became fashionable in 1980s partly to replace the teaching of "Western Civ" (i.e. surveys focused on the tradition from Greece and Rome, through Europe).
 
 ==National debates==
 Historians inside a nation often engage in extended debates about the nation's history, and how to teach it.  In the case of teaching Japanese history in the schools of Japan, other countries (especially China and South Korea), have officially complained.
