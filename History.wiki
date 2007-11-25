@@ -5,7 +5,7 @@
 ==Etymology==
 {{main|History (etymology)}}
 
-The [[Ancient Greek]] word '''''{{polytonic|ἱστορία}}''''', ''istoría'', means "knowledge acquired by investigation, inquiry". In this sense it is used in antique expression "natural history". 
+The Greek word '''''{{polytonic|ἱστορία}}''''', ''istoría'', means "knowledge acquired by investigation, inquiry". In this sense it is used in antique expression "natural history". 
 
 In English the word went into two different directions: "story", or chronologically-structured narrative, and "history", or discourse on human events. 
 
@@ -14,7 +14,7 @@ The main source of information is written text, mainly from political, ceremonia
 
 Historians distinguish "primary sources" (written sources created by participants), and "secondary sources", which is the interpretation of history by scholars 
 
-[[Ibn Khaldun]] laid down the principles for the historical method in his book [[Muqaddimah]], but was unknown to scholars and not rediscovered until the 19th century.  
+[[Ibn Khaldun]] discussed his principles of the historical method in his book [[Muqaddimah]], but was unknown to scholars and not rediscovered until the 19th century.  
 
 Historians of note who have advanced the historical methods of study include [[Leopold von Ranke]], [[Lewis Bernstein Namier]], [[Frederick Jackson Turner]], [[Charles Beard]] and E.P. Thompson.
  
@@ -26,13 +26,12 @@ The historians have sometimes divided their major field of knowledge in speciali
 
 ===Field of History by period and place===
 
-*[[Ancient Classical History]]: '''grosso modo''', they study of Ancient Greece and the Roman Empire. See also [[Classics]].
+*[[Ancient History]]: studies Greece and the Roman Empire. See also [[Classics]].
 
-*[[Ancient Oriental History]]: Sometimes is the term used by designated the study of other ancient reigns by the time of the classical ones - like the [[Mesopitamian]] and the [[Persian]].
 
-*[[Medieval History]]: Deals with the period usually called [[Middle Age]] (between ~500-1492) in [[Europe]] and sometimes also in the Islamic World.
+*[[Medieval History]]: Deals with the period usually called [[Middle Age]] (between ~500-1453) especially in Europe and the Middle East. It includes the early Middle Ages (once called "the Dark Ages"), and the later Middle Ages. Major themes include the Church, the Holy Roman Empire, agricultural change, the [[Crusades]], and intellectual and cultural trends
 
-*[[Modern History]]
+*[[Modern History]]. "Early modern history" covers Europe about 145o to 1648, with spcial attention to warfare, science and technology, the rise of the nation state (especially England, France, Spain, Prussia and Russia), and explorations of the [[Atlantic World]]. "Modern History" (since 1648) covers a vast array of topics.
 
 *[[Contemporary History]]
 **[[Atlantic History]]: a recent trend; studies the interaction of Europe, Africa and North America and South America, especially before 1800
@@ -41,24 +40,19 @@ The historians have sometimes divided their major field of knowledge in speciali
 
 Although there are many different division, varying by country to country, or indeed by uiversity to university, we can make an schematic division in some major fields:
 
-*[[Political History]]: It is the study of political institutions, theories, leadership and practical politics. The historian from [[Annales]] accused the positivist to just write this kind of history.
-**[[Diplomatic history]]: the historical study having as basis the international relations.
-**[[Military History]]: The study of military practice and  theory; wars and battles; technology; organization of armies, leadership and soldiers; also [[Naval History]].
+*[[Political History]]: It is the study of political institutions, theories, leadership and practical politics. Since the 1980s much of political history has migrated to [[Political Science]].
+*[[Diplomatic history]]: deals with international relations. Both historians and politicial scientists are involved.
+*[[Military History]]: The study of military practice and  theory; wars and battles; technology; organization of armies, leadership and soldiers; also [[Naval History]].  Much of the field is handled by non-academics and amateurs, as military history has a marginal status in most research-oriented history departments.
+*[[Economic History]]: Covers covers topics from agriculture, technology and business organization, and includes population studies and the reconstruction of economic indicators (like GDP).  One important new branch is [[Business history]]. Since the 1970s much of economic history, as well as [[History of economic thought]], has migrated from history departments and journals to economics.
+*[[Social History]]: It is the study of ordinary people. It was revolutionized in the 1960s by the introduction of sophisticated quuantitative and demographic methods, as well as models from sociology such as social mobility.  The '''New Social History''' emerged in the 1960s to dominate professional scholarship<ref> Zunz (1985)</ref>. see also [[Social History, U.S.]].
+*[[Labor history]], deals with labor unions and the social history of workers. Seee for example [[Labor Unions, U.S., History]]
 
-*[[Economic History]]: The most of proeminent name of this field is [[Karl Marx]], for beeen perhaps the first to use economical estimations and statistics to draw an univeral history of the men. But there are different tendences on it, like the english '''New Economical History''', much associated to modern economic models. The economic historians often uses the set of techniques called [[quantitative history]].
+*[[Cultural history]]: Uses linguistic and cultural evidence to explore the inner psychology of societies. This became a dominant theme in the 1960s, especially influenced by careful analysis of exactly how key words were used. For example, the study of [[Republicanism]].
 
-*[[Social History]]: It is the study of history with emphasis the social reality and the effects in large group of people.The '''New Social History''' emerged in the 1960s to dominate professional scholarship<ref> Zunz (1985)</ref>. see also [[Social History, U.S.]].
-**[[Labor history]], deals with labor unions and the social history of workers
-
-*[[Cultural history]]: It is the study history focusing the [[culture]], or by using cultural sources. This became a dominant theme in the 1960s, especially influenced by [[linguistics]] (exactly how key words were used).
-
-* [[History of Ideas]] is a field founded in U.S. by [[Arthur Lovejoy]], dealing with [[ideas]], [[concepts]] or [[thoughts]]. After Second Wolrd War, the field has developed mainly in England around [[Quentin Skinner]]'s group and in Germany, under the way of [[History of Concepts]]. 
-**[[History of Science]] - History of scientific thought. It is mostly often used the approach of History of Ideas, but is also possible a '''social history of science''' (see [[Christopher Hill]]).
-
-* [[Microhistory]]: A relatively recent field, basing its approach not in political debate or  economical systems or coletive manifestations but in specifical or individual events.
-
-*[[Archaeology]] or  [[Antiquarianism]] can be also a way of historical apporach, studying a certain epoch based in [[material culture]] of that epoch.
-
+* [[History of Ideas]] is a field founded in U.S. by [[Arthur Lovejoy]], dealing with the inner history of ideas. It contrasts with the intellectual history promoted by [[Merle Curti]] that stresses the links between ideas and social and economic forces.
+**[[History of Science]] - History of scientific thought and technique. 
+* [[World History]],  a teaching field (rather than a research field), developed by historians of Asia and Latin America to provide a counterpoint to the "Western Civilization" emphasis that dominated history teaching after 1920.<ref> See William H. McNeill, "The Changing Shape of World History" (1994) [http://www.hartford-hwp.com/archives/10/041.html online version]</ref>
+*[[Antiquarianism]] uses historical data without the theoretical structure of historiography, to look at topics that happen to interest the amateur because of proximity, age and accumulated myth. 
 ==National debates==
 Historians inside a nation often engage in extended debates about the nation's history, and how to teach it.  In the case of teaching Japanese history in the schools of Japan, other countries (especially China and South Korea), have officially complained.
 ===Germany===
@@ -67,13 +61,13 @@ The Historikerstreit
 <ref> see Jane Caplan, et al. "The Historikerstreit Twenty Years On." ''German History'' 2006 24(4): 587-607. Issn: 0266-3554 Fulltext: [[Ebsco]]</ref>
 
 
-
 ==Revisionism==
 Revisionism is a reversal of opinion, and generally is used for historians who reverse the old "orthodox" or standard interpretation. The first "revisionist" debate came in the 1920s when a new group of historians rejected the thesis that Germany was "guilty" (primarily responsible) for causing the Great War, a proposition that was included in the [[Treaty of Versailles]].<ref> See Samuel R. Williamson Jr. and Ernest R. May, "An Identity of Opinion: Historians and July 1914," ''Journal of Modern History'' (2007) Volume 79, Number 2, 335-87 </ref>
 
 ==Approaches to valuing historical descriptions==
 
-Historians often claim that the study of history teaches valuable lessons with regard to past successes and failures of leaders, military strategy and tactics, economic systems, forms of government, and other recurring themes in the human story. From history we may learn factors that result in the rise and fall of [[nation-state]]s or [[civilization]]s, as explored by [[Arnold Toynbee]]. Other historians have explored various political, economic, and social systems, and the effects of factors such as religion, disease, warfare, trade and technology.
+Historians often claim that the study of history teaches valuable lessons with regard to past successes and failures of leaders, military strategy and tactics, economic systems, forms of government, and other recurring themes in the human story. The use of history to study the rise and fall of nation-states or ccivilizations, in the style of [[Edward Gibbon]] (1737-1794), Oswald Spengler (1880-1936), Pitirim Sorokin (1889-1968), or [[Arnold J. Toynbee]] (1889-1975), has fallen out of fashion, as most no longer have faith that such a project is possible.  However William H. McNeill (1917- ), a Toynbee student, has tried his hand at it, and [[World History]] is in fashion.
+
 
 One of the most famous quotations about history and the value of studying history, by the Spanish philosopher [[George Santayana]], reads: "Those who cannot remember the past are condemned to repeat it." The German philosopher [[Georg Wilhelm Friedrich Hegel]] remarked in his ''Philosophy of History'' that "What history and experience teach us is this: that people and government never have learned anything from history or acted on principles deduced from it." This was famously paraphrased by the [[Winston Churchill]], who said "The one thing we have learned from history is that we don't learn from history."
 
@@ -83,8 +77,6 @@ Yet another view is that history does not repeat itself because of the uniquenes
 
 Such contrasts with regard to "history's value" serve as examples of history as an outlet for intellectual debate, and indeed many, both in and outside of academia, would argue that at least part of history's value lies simply in its ability to provoke such discussion. In turn, this can be seen as cultivating further intellectual interest.
 
-==See Also==
-* [[Historiography]]
 
 ==Bibliography ==
 *  Barraclough, Geoffrey, and Michael Burns. ''Main Trends in History,'' (1991) [http://www.questia.com/PM.qst?a=o&d=105793227 online edition]
