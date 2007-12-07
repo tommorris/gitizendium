@@ -1,3 +1,5 @@
+{{subpages}}
+
 '''Google Inc.''' is an [[internet]] search engine company that was co-founded by [[Larry Page]] and [[Sergey Brin]]. It is currently one of the most popular search engines on the internet. Among the services offered by Google are Google Mail, Google Video, and Google Maps. Google Inc. is also the owner of several other websites and companies, for example Blogger, [[YouTube]], and [[DoubleClick]]. The history of Google has been detailed.<ref name="isbn1-59184-141-0">{{cite book |author=John Battelle |title=The Search: How Google and Its Rivals Rewrote the Rules of Business and Transformed Our Culture |publisher=Portfolio Trade |location= |year= |pages= |isbn=1-59184-141-0 |oclc= |doi=}}</ref>
 
 ==References==
@@ -7,7 +9,3 @@
 * [http://www.google.com Google]
 * [http://www.google.com/corporate/ Official corporate website]
 * [http://labs.google.com/ Google labs]
-
-[[Category:CZ Live]]
-[[Category:Computers Workgroup]]
-[[Category:Stub Articles]]
