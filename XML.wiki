@@ -1,6 +1,6 @@
 {{subpages}}
 
-The '''eXtensible Markup Language''' (XML) is a platform-independent, human-readable  way of representing data sent between two [computer]s.  XML is in widespread use across the [[world-wide web]], and has built-in parses in the [[Java]] and .NET platforms, as well as most other widely-used web server [[scripting language]]s.  XML is one of several representations used in [[Ajax]] for ''background'' messaging between a web page and programs residing on a web server.
+The '''eXtensible Markup Language''' (XML) is a platform-independent, human-readable  way of representing data sent between two [[computer]]s.  XML is in widespread use across the [[world-wide web]], and has built-in parses in the [[Java]] and .NET platforms, as well as most other widely-used web server [[scripting language]]s.  XML is one of several representations used in [[Ajax]] for ''background'' messaging between a web page and programs residing on a web server.
 
 XML is a [[W3C]] markup language derived from [[SGML]] (ISO8879-1986) used in a wide variety of applications for the storage and representation of textual data in a consistent, hierarchical, and well-formed structure.<ref>Bray, Tim, Jean Paoli, C. M. Sperberg-McQueen, Eve Maler, and François Yergeau, eds. "Extensible Markup Language (XML) 1.0 (Fourth Edition)." World Wide Web Consortium Recommendations. 29 Sept. 2006. 18 May 2007 <http://www.w3.org/TR/2006/REC-xml-20060816/#sec-intro>.</ref>
 
