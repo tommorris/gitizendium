@@ -35,6 +35,7 @@ Sometimes we speak as if knowledge is no more than true belief.  But epistemolog
 * Gettier, Edmund. Is Justified True Belief Knowledge?"
 * Goldman, Alvin I. "What is Justified Belief?"
 * Quine, W. V. O. "Epistemology Naturalized"
+* Wittgenstein, Ludwig. ''On Certainty''
 {{col-end}}
 
 
