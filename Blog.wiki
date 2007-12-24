@@ -49,7 +49,7 @@ Many bloggers use a [[hosted blogging service]], like [[Blogger]] or [[TypePad]]
 
 There are also dozens of blogging programs a user can install on his own computer, using a personal machine as his blog's [[server]].  These allow the blogger to decide whether or not to allow [[advertising]] for income but require the blogger to shoulder his hardware and bandwidth costs.
 
-==Business Model==
+==Business model==
 Although most blogging is done for fun or for informational purposes, some blogging is done for monetary reasons.
 
 Some businesses run blogs, where their [[Chief Executive Officer|CEOs]] or other ranking officials can write to the public, their customers, and to [[shareholder]]s.  Some of these blogs are actually written by the executive, but many are [[ghostwriter|ghostwritten]] by staffers or assistants.  This model is also followed by political candidates.
@@ -58,7 +58,7 @@ Some bloggers accept money to do [[promotion]] for a company or its products wit
 
 Finally, some bloggers with a large enough audience can make money off of [[pay-per-click advertising]] and selling merchandise.
 
-==Accomplishments of Bloggers==
+==Accomplishments of bloggers==
 
 ==Integrating Web 2.0 services==
 Bloggers may make use of collaborative web tools in their blogs.  For instance, many bloggers store videos related to their posts on [[Youtube]] or [[Google Video]] and photos on [[Photobucket]] or [[Flickr]].  They link to other blogs, and find many of their stories on other collaborative websites like [[Digg]], which in turn finds and highlights interesting blog stories.
