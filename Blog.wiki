@@ -44,7 +44,7 @@ Travelling people can write articles and publish photos to share their discoveri
 
 Blogs are not necessarily public. Many of them are private, password-protected. Among them, family blogs allow people to stay tuned with what happens in the family circle.
 
-==Technical Preconditions==
+==Technical preconditions==
 Many bloggers use a [[hosted blogging service]], like [[Blogger]] or [[TypePad]] or [[LiveJournal]], which allow the blogger to get started without installing any software on their computer.  Some of these are ad-supported, and some offer paid ad-free models.
 
 There are also dozens of blogging programs a user can install on his own computer, using a personal machine as his blog's [[server]].  These allow the blogger to decide whether or not to allow [[advertising]] for income but require the blogger to shoulder his hardware and bandwidth costs.
