@@ -1,0 +1,234 @@
+<!--OMISSIONS (OFTEN SERIOUS) AND UNANSWERED QUESTIONS ARE INVISIBLE IN CAPITALS. PLEASE REMOVE THESE INVISIBLE WARNINGS (ONLY) AFTER THE OMISSION HAS BEEN ADDRESSED. USER:ANDRIES 17 MARCH 2008-->
+
+
+'''[[Theory|Theories]] of [[religion]]s''' can be classified into substantive (focusing on what it is) theories and functional or [[reductionism|reductionist]] (focusing on what religions does) theories. 
+
+Influential susbtantive theories have been proposed by [[Theories of religion#Edward_Burnett_Tylor_and_James_George_Frazer|Tylor and Frazer]] (treating explanatory value for its adherents), the [[theology|theologian]] [[Theories of religion#Rudolf_Otto|Rudolf Otto]]  (treating the importance of [[religious experience]], more specifically experiences that are both fascinating and terrifying), [[Theories of religion#Mircea_Eliade|Mircea Eliade]] (treating the longing for otherwordly perfection, quest for meaning, and seeking patterns in mythology in various religions)
+
+Influential functional theories have been proposed by [[Theories_of_religion#Karl_Marx|Karl Marx]] (focusing on the economic background) , [[Theories_of_religion#Sigmund_Freud|Sigmund Freud]] (focusing on [[neurosis]] as a [[psychology|pscychological]] origin of religious beliefs), and [[Theories_of_religion#Émile_Durkheim|Émile Durkheim]] (focusing on the social function of religions).
+
+[[Theories_of_religion#Max_Weber|Max Weber]] did not so much a propose a general theory of religion, but focused on the interaction between society and religion. He also introduced a number of key concepts in the [[sociology of religion]].
+
+In contrast to earlier theorists, the [[anthropology|anthropologists]] [[Theories_of_religion#E._E._Evans-Pritchard|E. E. Evans-Pritchard]] and [[Theories_of_religion#Clifford Geertz|Clifford Geertz]] performed detailed [[ethnography|ethnographical]] studies of ("primitive") cultures and came to the conclusion that earlier theories were one-sided at best. Geertz denied that it would ever be possible to propose a general theory of religion
+
+The [[Theories_of_religion#Rational_choice_theory|rational choice theory]]  has been applied to religions, among others by the sociologists [[Rodney Stark]] and [[William Sims Bainbridge]]. They asserted that religion is able to function as compensators for unobtained rewards.
+
+[[:wikt:prescientific|Prescientific]] theories have been proposed since [[presocratic]] times. <ref>[[Robert A. Segal|Segal, Robert A.]] ''Theories of Religion'', page 49 in [[John R. Hinnells|Hinnells, John R. (editor)]], ''The Routledge Companion to the Study of Religion'' (Routledge 2005)</ref>[[Herodotus]] (484 – 425 [[Common Era|BCE]]) stated that the gods of Greece were the same as the gods of Egypt.<ref>Pals, page 4</ref>[[Euhemerus]] (appr. 330– 264 [[Common Era|BCE]]) wrote that gods were excellent historical persons  who eventually became worshiped.<ref>Pals, page 4</ref>
+
+Theorizing beyond mere specualtion became possible after data from tribes and peoples all over the world became available in Europe and the United States in the 18th and 19th century. <ref>[[Robert A. Segal|Segal, Robert A.]] ''Theories of Religion'', page 49 in [[John R. Hinnells|Hinnells, John R. (editor)]], ''The Routledge Companion to the Study of Religion'' (Routledge 2005)</ref>The founder of the scientific study of religion is generally considered to be [[Max Müller]]  (1823 – 1900), who advocated [[comparative religion]].<ref>Pals, page 3</ref>Later serious doubts were raised about the question whether it possible to provide a general theory of all religions.<ref>Pals, page 9</ref>
+
+==Scope and classifications==
+This article only treats influential [[theory|theories]]  about [[religion]] that are open for empirical verification or falsifications i.e (attempts to) scientific theories. This means that most religious views will not be treated here. 
+
+Theories of religion can be classified into. <ref>Pals, page 12</ref>
+
+*Substantive (or essentialist) theories that focus on the contents of religions and the meaning the contents has for people. This approach asserts that people have faith because beliefs make sense to them.  [[Theories of religion#Edward_Burnett_Tylor_and_James_George_Frazer|The theories by Tylor and Frazer]], [[Theories of religion#Rudolf_Otto|Rudolf Otto]] and [[Theories of religion#Mircea_Eliade|Mircea Eliade]] are examples substantive theories.
+*[[Function|Functional]] (and in a stronger form [[Reductionism|reductionist]]) theories that focuses on the social or psychological functions that religion has for a group or a person.<ref>Pals, page ?</ref>This approach tends to focus more on the subconscious motives why people have beliefs that are irrational. [[Theories_of_religion#Karl_Marx|Theories by Karl Marx]], [[Theories_of_religion#Sigmund_Freud|Sigmund Freud]], [[Theories_of_religion#Émile_Durkheim|Émile Durkheim]], and the [[Theories_of_religion#Rodney_Stark_and_William_Sims_Bainbridge|theory by Stark and Bainbridge]] are examples of functional theories.<ref>{{cite web |url=http://hirr.hartsem.edu/ency/Theory.htm |title=Theory |accessdate=2008-03-14 |author=Nielsen, Donald A. |date=1998  |work=Encyclopedia of Religion and Society edited by William H. Swatos, Jr.|publisher=Altamira}}</ref>This approach tends to be static, with the exception of [[Theories_of_religion#Karl_Marx|Marx' theory]], and unlike e.g. [[Theories_of_religion#Max_Weber|Weber's approach]] that treats the  interaction and dynamic processes between religions and the rest of societies.<ref>Kunin, page 40</ref>
+
+Other dichotomies on which theories or descriptions of religions can be classified are. <ref>Kunin, page 66</ref>
+*Insider versus outsider perspectives (roughly coresponding to [[emic and etic|emic versus etic]] descriptions)
+*Individualist versus social views
+*[[Sociocultural evolution|Evolutionist]] versus [[relativism|relativist]] views
+
+==Karl Marx==
+[[Image:Karl Marx_001.jpg|thumb|right|200px|[[Karl Marx]] (1818 – 1883) ]]
+{{main|Sociology_of_religion#Karl_Marx|Marx's theory of alienation|Opium of the People}}
+
+[[Karl Marx]] (1818 – 1883) held a strictly materialist world view and saw economics, including [[class]] distinctions (including [[class struggle]]), as the determining factor of society. According to Marx, the human mind and human consciousness as part of matter. <ref>Kunin, page ?</ref>The dynamics of society was fueled by economics, according to [[Georg Wilhelm Friedrich Hegel|Hegelian]] concept of [[Dialectics|theses, antitheses, and synthese]]<ref>Kunin, pp 6-7</ref> [[False consciousness]] is a term used by Marx' collaborator [[Friedrich Engels]]  (1820 – 1895), not by Marx.<ref>Kunin</ref>He saw religion originating from [[Marx%27s_theory_of_alienation|alienation]] and aiding the persistence of alienation. <ref>Kunin, page ?</ref>He saw religion as supportive as the status quo, in correspondence with his famous saying that [[Opium of the People|religion is opium of the people]]. This view is however contradicted by the existence of certain religious groups, like the [[liberation theology]].<ref>Kunin, page ?</ref>
+<ref>Kunin, page ?</ref>Religion can be a source of happiness, though illusory and temporary, or at least a source of comfort.<ref>Kunin, page ?</ref> Religion is not a necessary part of human culture.<ref>Kunin, page ?</ref>
+<!--WHAT IS FALSE CONSCIOUSNESS AND HOW IS IT RELATED TO RELIGION? (Pals, page ) --><!--WHAT IS ALIENATION IN RELIGION (Pals, page 140) -->
+Marxist views strongly influenced thinking about society, among others the anthropological school of [[cultural_materialism_(anthropology)|cultural materialism]].
+
+Marx' explanations for all religions, always, in all forms, and everywhere have never been taken seriously by many experts in the field, though a substantial fraction accept that Marx' views explain some aspects of some religions.<ref>Pals, chapter "Conclusion"</ref>
+
+==Edward Burnett Tylor and James George Frazer==
+{{main|E._B._Tylor#Ideology and "Primitive Culture"|The Golden Bough}}
+The [[anthropology|anthropogist]] [[Edward Burnett Tylor]] (1832 – 1917) defined religion as belief in supernatural beings and stated that this belief originated as explanations to the world. Belief in supernatural being grew out of attempts to explain life and death. Primitive people used human dreams in which spirits seemed to appear as an indication that the human mind could exist independent of a body. They used this by extension to explain life and death, and belief in the after life. [[Myth]]s and [[deity|deities]] to explain natural phenomena originated out of an analogy and an extension of these explanations. His theory assumed that the psyche of all peoples of all times are more or less the same and that explanations in [[Unilineal_evolution#Tylor_.26_Morgan|cultures and religions tend to grow more sophisticated]] via [[monotheism|monotheist]] religions, like [[Christianity]] and eventually to [[science]].<ref>Pals, page ?</ref> Tylor saw backwards practices  and beliefs in modern societies as ''survivals'', but he did not explain why they survived. 
+[[Image:Golden bough.jpg|thumb|right|360px|[[J. M. W. Turner]]'s painting of [[the Golden Bough]] incident in the ''[[Aeneid]]'']]
+[[James George Frazer]] (1854 – 1941) followed Tylor's theories to a great extent in his book [[The Golden Bough]], but he distinguished between [[magical thinking|magic]] and [[religion]]. [[Magic]] is used to influence the natural world in the primitive man's struggle for survival. He asserted that [[Sympathetic_magic|magic relied on an uncritical belief of primitive people in contact and imitation]]. For example, precipitation may be invoked by the primitive man by sprinkling water on the ground. He asserted that according to them magic worked through laws. In contrast religion is faith that the natural world is ruled by one of more deities with personal characteristics with whom can be pleaded, not by laws.<ref>Pals, page ?</ref>
+
+The method that Tylor and Frazer used was seeking similar beliefs and practices in all societies, especially the more primitive ones, more or less regardless of time and place.<ref> Pals in treating Durkheim</ref>They relied heavily on reports made by missionaries, discoverers, and colonial civil servants.
+
+Their theory has been criticized as one-sided for focusing on mere intellectual aspects of religions, while neglecting social aspects of religion, among others by the [[anthropology|anthropologist]] [[Theories_of_religion#E._E._Evans-Pritchard|E. E. Evans-Pritchard]].<ref>Pals, page 200</ref><ref>Pals, page 47</ref>Tylor's anthropological method has been criticized as out-of-context comparisons of practices in different cultures and times. Tylor's and Frazer's view on the origin of religion has been classified as unverifiable speculation.<ref>Pals, page 47</ref> The view that monotheism is a more evolved than polytheism has been disconfirmed by evidence: monotheism is more prevalent in hunter societies than in agricultural societies. The view that [[Unilineal_evolution#Tylor_.26_Morgan|societies' views and practices grow more evolved over time in an uniform way]] has been criticized as unverifiable and contradicted by data from [[anthropology|anthropological]] studies, among others by the writer [[Andrew Lang]] (1844 – 1912) and [[Theories_of_religion#E._E._Evans-Pritchard|E. E. Evans-Pritchard]].<ref>[[John R. Hinnells|Hinnells, John R. (editor)]], ''The Routledge Companion to the Study of Religion'' (Routledge 2005), page 29</ref><ref>Pals, page 200M</ref><ref>Kunin, page 9</ref> The individualist, intellectual view of religion, as proposed by Tylor and Frazer, is still considered worthwhile by many contemporary experts of the field, among others by the anthropologist [[Robin Horton]].<ref>Pals, chapter "Conclusion", page 273</ref>
+
+==Émile Durkheim==
+{{main|Émile_Durkheim#Religion|Sacred-profane dichotomy|Collective effervescence}}
+
+[[Image:Emile_Durkheim.jpg|thumb|right|200px|[[Émile Durkheim]] (1858 – 1917)]]
+
+Different from most other scholars, [[Émile Durkheim]] (1858 – 1917) saw the [[Sacred-profane dichotomy|concept of the sacred]] as the defining characteristic of religion, not faith in the supernatural.<ref>Pals, page 99</ref> He saw religion as a reflection of the concern for society. He based his view on recent research regarding [[totemism]] among the [[Australian aboriginals]]. With [[totemism]] he meant that each of the many clans had a different object, plant, or animal that they held sacred and that symbolizes the clan. Durkheim saw [[totemism]] as the original and simplest form of religion. <ref>Pals, page 102</ref>The analysis of this simple form of religion could provide the building blocks for more complex religions. He asserted that moralism cannot be separated from religion. The sacred i.e. religion reinforces group interest that clash very often with individual interests. The function of religion is group cohesion often performed by collectively attended rituals. He asserted that these group meeting provided a special kind of energy, which he called [[collective effervescence|effervescence]], that made group members lose their individuality and to feel united with the gods and thus with the group.<ref>Kunin, pp. 20-21</ref> Differing from Tylor and Frazer, he saw magic not as religous, but as an individual instrument to achieve something.
+
+Durkheim's proposed method for progress and refinement is first to carefully study religion in its simplest form in one contemporary society and then the same in another society and compare the religions then and only between societies that are the same.<ref>Pals, page 101</ref> <ref>Pals, page ?</ref>
+<!--WHAT IS THE FUNCTION OF ASCETICISM? SOURCE Pals-->
+<!--WHAT ARE THE ELEMENTARY FORMS OF PRIMITIVE RELIGION THAT ARE ALSO PRESENT IN MORE COMPLEX RELLGIONS? SOURCE PALS -->
+The empirical basis for Durkheim's view has been severely criticized when more detailed studies of the Australian aboriginals surfaced. More specifically, the definition of religion as dealing with the sacred only, regardless of the supernatural and is not supported by studies of these aboriginals. The view that religion has a social aspect, at the very least, introduced in a generalized very strong form by Durkheim has become influential and uncontested.<ref>Pals, page 281</ref>
+
+==Max Weber==
+[[Image: Max Weber 1894.jpg|thumb|right|150px|[[Max Weber]]]]
+ 
+{{main|Sociological_classifications_of_religious_movements#The_church-sect_typology|Sociology_of_religion#Max_Weber|Sociology of Religion (book)|Charismatic authority|The Protestant Ethic and the Spirit of Capitalism|The Religion of China: Confucianism and Taoism|The Religion of India: The Sociology of Hinduism and Buddhism|Three-component theory of stratification}}
+
+[[Max Weber]] (1864 – 1920) thought that the truth claims of religious movement were irrelevant for the scientific study of the movements.<ref>{{cite web |url=http://hirr.hartsem.edu/ency/Theory.htm |title=Theory |accessdate=2008-03-14 |author=Nielsen, Donald A. |date=1998  |work=Encyclopedia of Religion and Society edited by William H. Swatos, Jr.|publisher=Altamira}}</ref>He portrayed each religion as rational and consistent in their respective societies. <ref>Kunin, page 38</ref>
+Weber acknowledged that religion had a strong social component, but diverged from Durkheim by arguing, for example in his book  [[The Protestant Ethic and the Spirit of Capitalism]] that religion can be a force of change in society. In the book Weber wrote that modern [[capitalism]] spread quickly partially due to the protestant wordly ascetic morale. <ref>(Kunin)</ref><ref>{{cite web |url=http://hirr.hartsem.edu/ency/Theory.htm |title=Theory |accessdate=2008-03-14 |author=Nielsen, Donald A. |date=1998  |work=Encyclopedia of Religion and Society edited by William H. Swatos, Jr.|publisher=Altamira}}</ref> Weber's main focus was not on developing a theory of religion but on the interaction between society and religion, while introducing concepts that are still widely used in the [[sociology of religion]]. These concept include
+*[[Church sect typology]], <ref>http://hirr.hartsem.edu/ency/cstheory.htm</ref> Weber distinguished between [[sect]]s and churches by stating that membership of the former is a choice while the latter is determined by birth. The typology later developed more extensively by his friend [[Ernst Troeltsch]] and others. <ref name="Bendix49-50">{{cite book |last=Bendix |title=Max Weber |url=http://books.google.com/books?vid=ISBN0520031946&id=63sC9uaYqQsC&pg=PA49&lpg=PA49&sig=5_6_YcPUQvbgsE5Qo2--jiKG13s 
+|pages=pp. 49-50}}</ref>According to the typlogy, churches, [[Ecclesia (sociology of religion)|ecclesia]], [[denomination]], and [[sect]]s form a continuum with decreasing influence on society. Sects are protest break away groups and tend to be in tension with society. 
+*[[Ideal type]], a hypothetical "pure" or "clear" form, used in [[typology|typologie]]s
+*[[Charismatic authority]] Weber saw charisma as a volatile form or authority that depends on the acceptance of unique quality of a person by this person's followers. Charisma can be a revolutionary force and the authority can either be [[Charismatic_authority#Routinizing_charisma|routinized]] (change into [[Tripartite classification of authority|other forms of authority]]) or disappear upon the death of the charismatic person.<ref>{{cite web |url=http://hirr.hartsem.edu/ency/Theory.htm |title=Theory |accessdate=2008-03-14 |author=Nielsen, Donald A. |date=1998  |work=Encyclopedia of Religion and Society edited by William H. Swatos, Jr.|publisher=Altamira}}</ref>
+
+Somewhat differing from Marx, 
+Weber dealt with [[status group]]s, not with [[class]]. In status groups the primary motivation is prestige and [[social cohesion]].<ref>Kunin, page 35</ref> Status groups have differing levels of access to power and prestige and indirectly to economic resources. In [[The_Religion_of_China:_Confucianism_and_Taoism|his 1920 treatment of the religion in China]] he saw [[Confucianism]] as helping a certain status group, i.e. the educated elite to maintain access to prestige and power. He asserted that Confucianism opposition against both extravagance and thrift made it unlikely that capitalism could have originated in China. 
+
+He used the concept of "[[Verstehen#Max_Weber_and_the_Social_Sciences|Verstehen]]" (German for "understanding") to describe his method of interpretation of the intention and context of human action.<ref>Pals, page 239</ref>
+
+==Sigmund Freud==
+[[Image: Sigmund Freud-loc.jpg|thumb|right|150px|[[Sigmund Freud]]]]
+
+{{main|Psychology_of_religion#Sigmund_Freud|Future of an Illusion|Totem and Taboo|Moses_and_Monotheism|Oedipus complex}}
+
+[[Sigmund Freud]] (1856 – 1939) saw religion as an illusion. With illusion Freud means a belief that people want very much to be true. Unlike Tylor and Frazer, Freud attempted to explain why religion persists in spite of the lack of evidence for its tenets. Freud asserted that religion is a largely unconscious neurotical response to [[Psychological_repression|repression]]. With repression Freud meant that civilized society demands that we cannot fulfill all our desires immediately, but that they have to be repressed. Rational arguments to a person holding a religious conviction will not change the neurotic response of a person, in contrast to Tylor and Frazer who saw religion as rational conscious, but  primitive and mistaken attempt to explain the natural world.
+
+[[Image:Freud Sofa.JPG|thumb|right|200px|[[Sigmund Freud|Freud]]'s theory of [[psychoanalysis]] was developed by studying patients who were left free to talk while lying on a sofa]]
+
+Not only tries Freud to explain the origin and persistence of faith in individuals but in his 1913 book [[Totem and Taboo]] he even developed a speculative story how all [[monotheism|monotheist religions]] itself originated and developed. <ref>Pals, page 81</ref>In the book he asserted that monotheist religions  grew out of a homicide in a clan of a father by his sons. This incident was subconsciously remembered in human societies. 
+
+In his 1939 book [[Moses and Monotheism]] Freud proposed that [[Moses]]' monotheism derived from [[Akhenaten]]. This view is not supported by biblical accounts and differs from scholarly theories.
+
+Freud's view on religion was embedded in his larger theory of [[psychoanalysis]]. Apart from theorizing, Freud's theories were developed by studying patients who were left free to talk while lying on a sofa.
+
+[[Psychoanalysis]] has been assessed as non-scientific. Though his attempt to the historical origins of religions have not been accepted, his generalized view that all religions originate from unfulfilled psychological needs are still seen as offering a credible explanation in some cases. <ref>Pals, chapter "Conclusion" pp. 280-281</ref>
+
+==Rudolf Otto==
+{{main|Psychology_of_religion#Rudolf_Otto|Religious_experience#The_numinous|Numinous}}
+
+The theologian [[Rudolf Otto]] (1869–1937) focused on [[religious experience]], more specifically moments that he called [[numinous]] which means "Wholly Other". He described it as ''mysterium tremendum'' (terrifying mystery) and ''mysterium fascinans'' (awe inspiring, fascinating mystery). He saw religion as emerging from these expierences.<ref>{{cite web |url=http://hirr.hartsem.edu/ency/Theory.htm |title=Theory |accessdate=2008-03-14 |author=Nielsen, Donald A. |date=1998  |work=Encyclopedia of Religion and Society edited by William H. Swatos, Jr.|publisher=Altamira}}</ref>
+
+He asserted that these experiences arise from a special, non-rational faculty of the human mind, largely unrelated to other faculties, so religion cannot be [[reductionism|reduced]] to culture or society <ref>Kunin</ref> Some of his views, among others that the experience of the [[numinous]] was caused by a [[transcendental]] reality, are untestable and hence unscientific.<ref>Kunin, page 66</ref>
+
+His ideas strongly influenced [[Phenomenology of religion|phenomenologists]] and [[Mircea Eliade]].<ref>Kunin, page 62</ref>
+
+==Mircea Eliade==
+[[Image:Janco Eliade.jpg|thumb|right|200px|[[Mircea Eliade]]]]
+{{main|Eternal return (Eliade)|Sacred-profane dichotomy|Hierophany|Mircea_Eliade#Philosopher_of_religion|Mircea_Eliade#The_scholar}}
+[[Mircea Eliade]]'s (1907 – 1986) approach grew out of the [[phenomenology of religion]]. Like Otto, he saw religion as something special and autonomous, that cannot be [[reductionism|reduced]] to the social, economical or psychological alone.<ref>Pals, 158</ref><ref>Pals, page 162</ref> Like Durkheim, he saw the [[Sacred (comparative religion)|sacred]] as central to religion, but differing from Durkheim, he views the sacred as often dealing with the [[supernatural]], not with the clan or society. <ref>Pals, page 164</ref>The daily life of an ordinary person is connected to the sacred by the appearance of the sacred, called [[hierophany]]. [[Theophany]] (an appearance of a god) is a special case of it. <ref>Pals, page 177</ref>Eliade wrote that archaic men wish to participate in the sacred. Archaic men long to return to lost paradise, outside the historic time, as explained in Eliade's book [[Eternal return (Eliade)]] to escape meaninglessness.<ref>Pals, page 168</ref> The primitive man could not endure that his struggle to survive  had no meaning.<ref>Pals, page 180</ref> He wrote than man had a [[nostalgia]] (longing) for an otherworldly perfection. Archaic man wishes to escape the ''terror of time'' and saw [[cyclic time|time as cyclic]].<ref>Pals, page 180</ref> Historical religions, like Christianity, Judaism revolted against this older concept of cyclic time. They provided meaning and contact with the sacred ''in'' history through the [[God of Israel]]. <ref>Pals, page 181</ref>
+
+Eliade sought and found patterns in [[mythology|myth]] in various cultures, e.g. [[sky god]]. [[Zeus]] is an example of a sky god.<ref>Pals, page 169</ref><ref>Pals, page 171</ref>
+
+<!--HOW DOES A RELIGIOUS PERSON SEE THE WORLD? -->
+
+Eliade's methodology was studying [[comparative religion]] of various cultures and societies more or less regardless of other aspects of these societies, often relying on second hand reports. He also used some personal knowledge of other societies and cultures for his theories, among others his knowledge of [[Hinduism|Hindu]] [[folk religion]].<ref>Pals, page ?</ref>
+
+He has been criticized for vagueness in defining his key concepts.<ref>Pals, page ?</ref> Like Frazer and Tylor he has also been accused of out-of-context comparisons of religious beliefs of very different societies and cultures. <ref>Pals, page ?</ref>
+He has also been accused of having a pro-religious bias (Christian and Hindu), though this bias does not seem essential for his theory.<ref>Pals, page ?</ref>
+
+==E. E. Evans-Pritchard==
+{{main|E._E._Evans-Pritchard#Later_theories}}
+
+The [[anthropology|anthropologist]] [[E. E. Evans-Pritchard|Edward Evan Evans-Pritchard]] (1902 – 1973) did extensive [[ethography|ethonographic]] studies among the [[Azande]] and [[Nuer]] peoples who were considered "primitive" by society and earlier scholars. Evans-Pritchard  saw these people as different, but not primitive.
+
+Unlike the previous scholars, Evans-Pritchard did not propose a grand universal theory and he did extensive long-term fieldwork among primitive peoples, studying their culture and religion, among other among the [[Azande]]. <ref>Pals, page </ref>Not just passing contact, like Eliade.
+
+He argued that the religion of the Azande ([[witchcraft]] and [[oracle]]s) can not be understood without the social context and its social function. Witchcraft and oracles played a great role in solving disputes among the Azande. In this respect he agreed with Durkheim, though he acknowledged that Frazer and Tylor were right that their religion also had an intellectual explanatory aspect. The Azande's faith in witchcraft and oracles was quite logical and consistent once some fundamental tenets were accepted. Loss of faith in the fundamental tenets could not be endured because of its social importance and hence they had an elaborate system of explanations (or excuses) against disproving evidence. Besides an alternative system of terms or school of thought did not exist.<ref>Pals, page 208</ref>
+
+He was heavily critical about earlier theorists of [[primitive religion]] with the exception of [[Lucien Lévy-Bruhl]], asserting that they made statements about primitive people without having enough inside knowledge to make more than a guess. In spite of his praise of Bruhl's works, Evans-Pritchard disagreed with Bruhl's statement that a member of a "primitive" tribe saying "I am the moon" is prelogical, but that this statement makes perfect sense within their culture if understood metaphorically.<ref>Kunin, page 122</ref><ref>Pals, ch. "Evans-Pritchard"</ref>
+
+Apart from the Azande, Evans-Pritchard, also studied the neighbouring, but very different [[Nuer]] people.The Nuer had had an abstract monotheistic faith, somewhat similar to [[Christianity]] and [[Judaism]], though it included lesser spirits. They had also [[totemism]], but this was a minor aspect of their religion and hence a corrective to Durkheim's generalizations should be made.  Evans-Pritchard did not propose a theory of religion''s'', but only a theory of the Nuer religion.
+
+==Clifford Geertz==
+
+{{Main|Clifford_Geertz#Thought_and_works|Thick description}}
+
+The [[anthropology|anthropologist]] [[Clifford Geertz]] (1926 – 2006) made several detailed [[ethnography]] studies, but in [[Java]]nese town, a more complex and multi-religious society than Evans-Pritchard had studied. He avoided the subjective and vague concept of [[group attitude]] as used by [[Ruth Benedict]] by using the analysis of society as proposed by [[Talcott Parsons]] who in turn had adapted it from [[Max Weber]].<ref>Pals, page 239</ref>Parsons' adaptation Weber's consisted of distinguished all human groups on three levels i.e. ''1.'' an individual level that is controlled by ''2.'' a [[social system]] that is in turn controlled by ''3.'' a [[cultural system]]. <ref>Pals, page 239</ref>Geertz followed Weber when he wrote that man is an animal suspended in webs of significance he himself has spun and the analysis of it to be therefore not an experimental science in search of law but an interpretive one in search of meaning.  <ref>{{cite web |url=http://www.nytimes.com/2006/11/01/obituaries/01geertz.html?_r=1&oref=slogin |title=Clifford Geertz, Cultural Anthropologist, Is Dead at 80 |accessdate=2008-03-14 |author=Andrew L. Yarrow |date=November 1, 2006 |work= |publisher=New York Times}}</ref> Mere explanations to describe religions and cultures are not sufficient. Interpretations are needed too. <ref>(Pals)</ref>He advocated what he called ''[[thick description]]s'' to interpret symbols by observing them in use. Therefore the anthropologist must be both empirically rigorous and a savvy interpreter, akin to a psychoanalyst. In 1972 he wrote that “cultural analysis is (or should be) guessing at meanings, assessing the guesses and drawing explanatory conclusions from the better guesses.”
+<ref>[http://www.nytimes.com/2006/11/01/obituaries/01geertz.html?_r=1&oref=slogin Clifford Geertz, Cultural Anthropologist, Is Dead at 80] by Andrew L. Yarrow published on November 1, 2006 in the [[New York Times]]</ref>
+
+Geertz saw religion as one of the [[cultural system]]s of a society. He defined religion as 
+:(1) a system of symbols 
+:(2) which acts to establish powerful, pervasive and long-lasting moods and motivations in men 
+:(3) by formulating conceptions of a general order of existence and 
+:(4) clothing these conceptions with such an aura of factuality that 
+:(5) the moods and motivations seem uniquely realistic.<ref>Kunin, page 153</ref>
+With symbols Geertz meant a carrier that embodies a conception, because he saw religion and culture as systems of communication.<ref>Kunin, page 153</ref>
+
+This definition emphasizes the mutual reinforcement between [[world view]] and [[ethic]]s.
+<!-- WHAT DOES EACH POINT THIS DEFINITION MEAN? SOURCES: PALSE AND KUNIN -->
+
+Though, he used more or less the same methodology, as Evans-Pritchard, he did not share Evans-Pritchard's hope that a theory of religion could ever be found. Geertz proposed methodology was not the [[scientific method]] of the [[natural science]], but [[Historical method|the method of historians studying history]].<ref>Pals, page ?</ref>
+
+==Rational choice theory==
+The [[rational choice theory]] has been applied to religions, among others by the sociologists [[Rodney Stark]] (1934 – ) and [[William Sims Bainbridge]] (1940 – ).<ref>Kunin, page 84</ref>They see religions as systems of "compensators". <ref>{{cite web |url=http://hirr.hartsem.edu/ency/StarkR.htm |title=Stark, Rodney |accessdate=2008-03-14 |author=Nauta, André |date=1998 |work=Encyclopedia of Religion and Society edited by William H. Swatos, Jr.|publisher=Altamira}}</ref> Compensators are a body of language and practices that compensate for some physical lack or frustrated goal. They can be divided into specific compensators (compensators for the failure to achieve specific goals), and general compensators (compensators for failure to achieve any goal). <ref>R. Stark & W. S. Bainbridge's book "Theory of Religion".</ref><ref>{{cite web |url=http://hirr.hartsem.edu/ency/StarkR.htm |title=Stark, Rodney |accessdate=2008-03-14 |author=Nauta, André |date=1998 |work=Encyclopedia of Religion and Society edited by William H. Swatos, Jr.|publisher=Altamira}}</ref>They define religion as a system of compensator that relies on the [[supernatural]]. <ref>Kunin, page 85</ref> They assert that only a supernatural compensator can explain death or the meaning of life. <ref>Kunin, page 85</ref>
+
+It has been observed that social or political movements that fail to achieve their goals will often transform into religions. As it becomes clear that the goals of the movement will not be achieved by natural means (at least within their lifetimes), members of the movement will look to the supernatural to achieve what cannot be achieved naturally. The new religious beliefs are compensators for the failure to achieve the original goals. Examples of this include the [[counterculture]] movement in America: the early counterculture movement was intent on changing society and removing its injustice and boredom; but as members of the movement proved unable to achieve these goals they turned to Eastern and new religions as compensators.<ref>R. Stark & W. S. Bainbridge's book "Theory of Religion".</ref>
+
+Most religions start out their lives as [[cult]]s or [[sect]]s, i.e. groups in high tension with the surrounding society. Over time, they tend to either die out, or become more established, mainstream and in less tension with society. Cults are new groups with a new novel [[theology]], while sects are attempts to return mainstream religions to (what the sect views as) their original purity. Mainstream established groups are called [[denomination]]s. The comments below about cult formation apply equally well to sect formation.<ref>R. Stark & W. S. Bainbridge's book "Theory of Religion".</ref>
+
+There are four models of cult formation: the [[psychopathology|Psychopathological]] Model, the Entrepreneurial Model, the Social Model and the Normal [[Revelation]]s model.
+*'''Psychopathological model''': religions are founded during a period of severe stress in the life of the founder. The founder suffers from psychological problems, which they resolve through the founding of the religion. (The development of the religion is for them a form of self-therapy, or self-medication.)
+*'''Entrepreneurial model''': founders of religions act like entrepreneurs, developing new products (religions) to sell to consumers (to convert people to). According to this model, most founders of new religions already have experience in several religious groups before they begin their own. They take ideas from the pre-existing religions, and try to improve on them to make them more popular.
+*'''Social model:''' religions are founded by means of [[social implosion]]s. Members of the religious group spend less and less time with people outside the group, and more and more time with each other within it. The level of affection and emotional bonding between members of a group increases, and their emotional bonds to members outside the group diminish. According to the social model, when a social implosion occurs, the group will naturally develop a new theology and rituals to accompany it.
+*'''Normal revelations''': religions are founded when the founder interprets ordinary natural phenomena as supernatural; for instance, ascribing his or her own creativity in inventing the religion to that of the deity.<ref>R. Stark & W. S. Bainbridge's book "Theory of Religion".</ref>
+
+Some religions are better described by one model than another, though all apply to differing degrees to all religions.
+
+Once a cult or sect has been founded, the next problem for the founder is to convert new members to it. Prime candidates for [[religious conversion]] are those with an openness to religion, but who do not belong or fit well in any existing religious group. Those with no religion or no interest in religion are difficult to convert, especially since the cult and sect beliefs are so extreme by the standards of the surrounding society. But those already happy members of a religious group are difficult to convert as well, since they have strong social links to their pre-existing religion and are unlikely to want to sever them in order to join a new one. The best candidates for religious conversion are those who are members of or have been associated with religious groups (thereby showing an interest or openness to religion), yet exist on the fringe of these groups, without strong social ties to prevent them from joining a new group.<ref>[[Rodney Stark|Stark, Rodney]] and  [[William Sims Bainbridge]] "Theory of Religion".</ref>
+
+Potential converts vary in their level of social connection. [[New religious movement|New religions]] best spread through pre-existing friendship networks. Converts who are marginal with few friends are easy to convert, but having few friends to convert they cannot add much to the further growth of the organization. Converts with a large social network are harder to convert, since they tend to have more invested in mainstream society; but once converted they yield many new followers through their friendship network.<ref>[[Rodney Stark|Stark, Rodney]] and  [[William Sims Bainbridge]] "Theory of Religion".</ref>
+
+Cults initially can have quite high growth rates; but as the social networks that initially feed them are exhausted, their growth rate falls quickly. On the other hand, the rate of [[exponential growth|growth is exponential]] (ignoring the limited supply of potential converts): the more converts you have, the more missionaries you can have out looking for new converts. But nonetheless it can take a very long time for religions to grow to a large size by natural growth. This often leads to cult leaders giving up after several decades, and withdrawing the cult from the world.<ref>[[Rodney Stark|Stark, Rodney]] and  [[William Sims Bainbridge]] "Theory of Religion".</ref>
+
+It is difficult for cults and sects to maintain their initial enthusiasm for more than about a generation. As children are born into the cult or sect, members begin to demand a more stable life. When this happens, cults tend to lose or de-emphasise many of their more radical beliefs, and become more open to the surrounding society; they then become [[denomination]]s.<ref>[[Rodney Stark|Stark, Rodney]] and  [[William Sims Bainbridge]] "Theory of Religion".</ref>
+<!--HOW AND WHEN DOES THIS THEORY CONTRADICT THE [[Secularization|SECULARIZATION THESIS]]? -->
+
+==See also==
+*[[Anthropology of religion]]
+*[[Development of religion]]
+*[[Emic and etic]]
+*[[History_of_religion]]
+*[[Jungian interpretation of religion]]
+*[[Magic and religion]]
+*[[Magical thinking]]
+*[[Origins of religion]]
+*[[Phenomenology of religion]]
+*[[Psychology of religion]]
+*[[Rational choice theory]]
+*[[Religious studies]]
+*[[Sociology of religion]]
+*[[Theory of religious economy]]
+
+==Notes==
+{{reflist|2}}
+
+==References==
+*[[Reinhard Bendix|Bendix Reinhard]], ''Max Weber: An Intellectual Portrait'', 1977 (originally published in 1960), University of California Press, ISBN 0520031946 [http://books.google.com/books?vid=ISBN0520031946&id=63sC9uaYqQsC&pg=PA49&lpg=PA49&sig=5_6_YcPUQvbgsE5Qo2--jiKG13s google books]
+*[[John R. Hinnells|Hinnells, John R. (editor)]], ''The Routledge Companion to the Study of Religion'' (Routledge 2005) [http://books.google.nl/books?id=p4Exlk7gPrIC&pg=PA135&lpg=PA135&dq=stark+bainbridge+towards+a+theory+of+religion&source=web&ots=BnHm7Suifa&sig=VGeYh243V5eu_XmE2uNbHGAEIRE&hl=en#PPP1,M1 google books]
+*Nauta, André (1998). [http://hirr.hartsem.edu/ency/StarkR.htm Stark, Rodney] in  the ''Encyclopedia of Religion and Society'' edited by William H. Swatos, Jr.. Altamira.
+*Nielsen, Donald A. [http://hirr.hartsem.edu/ency/Theory.htm Theory] in  the ''Encyclopedia of Religion and Society'' edited by William H. Swatos, Jr.. Altamira.
+*Kunin, Seth D. "Religion; the modern theories" University of Edinburgh 2003 ISBN 0748615229 [http://books.google.nl/books?hl=en&id=P2ZgBL37gb0C&dq=kunin+theories&printsec=frontcover&source=web&ots=eNa2DEJD2m&sig=qILnGZMaJUghzUZz6rHT4bQbjPg#PPA20,M1 google books]
+*Pals, Daniel L. 1996. Seven Theories of Religion. USA: Oxford University Press. ISBN 0-19-508725-9 [http://atheism.about.com/library/books/full/aafprSevenTheory.htm book review]
+*[[Robert A. Segal|Segal, Robert A.]] ''Theories of Religion'', in [[John R. Hinnells|Hinnells, John R. (editor)]], ''The Routledge Companion to the Study of Religion'' (Routledge 2005) [http://books.google.nl/books?id=p4Exlk7gPrIC&pg=PA135&lpg=PA135&dq=stark+bainbridge+towards+a+theory+of+religion&source=web&ots=BnHm7Suifa&sig=VGeYh243V5eu_XmE2uNbHGAEIRE&hl=en#PPP1,M1 google books]
+*[[Rodney Stark|Stark, Rodney]] & [[William Sims Bainbridge]] "Theory of Religion". Rutgers University Press 1996, (originally published in 1987) ISBN 0813523303 [http://books.google.nl/books?id=9kA0LW4PA6cC&printsec=frontcover&dq=theory+of+Religion&hl=en&sig=MPZSubsGuUIDVYdeGNYveiVyq-M google books] [http://www.questia.com/library/book/a-theory-of-religion-by-william-sims-bainbridge-rodney-stark.jsp Questia selected preview]
+*Swatos, William H. Jr. Editor Encyclopedia of Religion and Society  by Altamira press 1998 [http://hirr.hartsem.edu/ency/coverpage.htm web version]
+*Yarrow, Andrew L. (November 1, 2006). Clifford Geertz, Cultural Anthropologist, Is Dead at 80. New York Times. [http://www.nytimes.com/2006/11/01/obituaries/01geertz.html?_r=1&oref=slogin online version]
+
+==Bibliography==
+*[[Émile Durkheim|Durkheim, Émile]], ''[[The Elementary Forms of the Religious Life]]'', (1912), English translation by Joseph Swain: 1915) The Free Press, 1965. ISBN 0-02-908010-X, new translation by Karen E. Fields 1995, ISBN 0029079373
+*[[Clifford Geertz|Geertz, Clifford]] ''[[The Religion of Java (book)|The Religion of Java]]'' (1960), University Of Chicago Press 1976 paperback: ISBN 0-226-28510-3 [http://books.google.com/books?vid=ISBN0226285103&id=Xv7Ke4IMTaAC google books]
+*[[Clifford Geertz|Geertz, Clifford]]  ''[[Peddlers and Princes|Peddlers and Princes: Social Development and Economic Change in Two Indonesian Towns]]'' (1963), University Of Chicago Press 1968 paperback: ISBN 0-226-28514-6 [http://books.google.com/books?vid=ISBN0226285146&id=Ja8nF0hP0moC google books]
+*[[Clifford Geertz|Geertz, Clifford]]  ''Islam Observed, Religious Development in Morocco and Indonesia'' (1968), University Of Chicago Press 1971 paperback: ISBN 0-226-28511-1
+*[[Clifford Geertz|Geertz, Clifford]] ''[[The Interpretation of Cultures]]'' (1973), Basic Books 2000 paperback: ISBN 0-465-09719-7
+*[[William James|James, William]], ''[[The Varieties of Religious Experience|The Varieties of Religious Experience: A Study in Human Nature]] (1902)
+*[[Rudolf Otto|Otto, Rudolf]] ''[[The Idea of the Holy]]'' (first published in German in 1917), Oxford University Press, 1923 ISBN 0-19-500210-5
+*[[E. E. Evans-Pritchard|Pritchard, E. E.]], ''[[Theories of Primitive Religion]]''. Oxford University Press.  1965 ISBN 0-19-823131-8
+*[[Tim Jensen (religious scholar)|Jensen, Tim]] and [[Mikael Rothstein]] (editors), ''Secular Theories on Religion'', Museum Tusculanum press, University of Copenhagen, 2000, ISBN 8772895721 [http://books.google.nl/books?id=oFCX113Zk94C&printsec=frontcover&dq=secular+theories+of+religion&hl=en&sig=nKLFl1UgSi96dqMj3YmS5XhiR_8 google books]
+*[[Edward Burnett Tylor|Tylor, Edward Burnett]] ''[[Primitive Culture (book)|Primitive Culture]]'' (1871)
+
+==External links==
+*[http://www.basr.ac.uk/diskus/diskus7/kunin.htm The dialectical relationship between theory and ethnography] in DISKUS Vol. 7 (2006) by Seth D. Kunin, Department of Theology and Religion, [[Durham University]], UK 
+*[http://www.freud.org.uk/religion.html Freud and Religion] website of the [[Freud Museum]] in London
+*[http://www.basr.ac.uk/diskus/diskus7/whaling.htm A brief history of the history of the study of religion] in DISKUS Vol. 7 (2006) by Frank Whaling, [[University of Edinburgh]]
+*[http://hirr.hartsem.edu/ency/Yinger.htm Yinger, John Milton] by Keith A. Roberts in the ''Encyclopedia of Religion and Society'' edited by Swatos, William H. Jr. Altamira press 1998 [http://hirr.hartsem.edu/ency/coverpage.htm web version]
+*[http://www.csa.com/discoveryguides/religion/overview.php Shopping for Faith or Dropping Your Faith? The Rational Choice Theory of why religious vitality varies between societies, and its relationship to the Secularization Thesis] by by Peter Ellway (May 2005)
+*[http://encarta.msn.com/encyclopedia_761565187/Religion.html Religion] entry "religion" in the [[Encarta|Encarta encyclopedia]]
+*[http://www.indiana.edu/~wanthro/religion.htm Anthropology of Religion] by [[Doug Padgett (anthropologist)|Doug Padgett]] homepage at [[Indiana University]] (May 1998)
+
+
+  	
+[[Category:Study of religion|Theories]]
