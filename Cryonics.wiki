@@ -1,0 +1,486 @@
+'''Cryonics''' (often mistakenly called [[cryogenics]]) is the low-temperature [[preservation]] of [[human]]s and other [[animals]] that can no longer be sustained by contemporary [[medicine]] until [[resuscitation]] may be possible in the future.  Human [[cryopreservation]] is not currently reversible.  In the United States, cryonics can only be [[legal|legally]] performed on humans after pronounced legally dead.  The rationale for cryonics is that the process may be [[reversible]] in the future if performed soon enough, and that cryopreserved people are not dead by the modern [[information theoretic death|information-theoretic definition of death]].<ref>{{cite web 
+| title = Jeane Trend-Hill
+| publisher = Paragraph authorship claimed by Jeane Trend-Hill (www.homestead.com/askjeane)
+| url = http://www.doverlocals.co.uk/showthread.php?t=1296
+| accessdate = 2008-01-07 }}</ref>   Cryonics is derived from the [[Greek language|Greek]] word κρύος (kryos), meaning cold.<ref>{{cite web 
+| title = Out of Thin Air - TIME 
+| publisher = TIME Magazine 
+| url = http://www.time.com/time/magazine/article/0,9171,874786,00.html
+| accessdate = 2008-01-07 }}</ref> 
+
+There is a high representation of scientists among cryonics supporters.<ref>{{cite web 
+| title = Scientists' Open Letter on Cryonics 
+| publisher = Immortality Institute  
+| url = http://www.imminst.org/cryonics_letter/
+| accessdate = 2007-04-13 }}</ref> Scientific support for cryonics is based on studies showing substantial preservation of brain cell structure by current methods, and projections of future technology, especially [[molecular nanotechnology]] and [[nanomedicine]]. Some scientists believe that future medicine<ref>{{cite book
+| url = http://www.alcor.org/Library/html/24thcenturymedicine.html 
+| last = Donaldson
+| first = Thomas
+| title = 24th Century Medicine
+| publisher = Davis Publications
+| year = 1988
+| accessdate = 2006-03-17}}</ref> will enable [[molecular]]-level repair and regeneration of damaged [[biological tissue|tissue]]s and [[organ (anatomy)|organ]]s decades or centuries in the future.  [[Disease]] and [[aging]] are also assumed to be reversible.  Many ethical questions revolve around the issue of whether cryonics can work.
+
+The modern concept of cryonics as a general procedure to apply whenever patients are considered beyond help by the medicine of their time was originated in 1962 by [[Robert Ettinger]].  The largest current practitioners of cryonics are two member-owned, non-profit organizations, the [[Alcor Life Extension Foundation]] in [[Scottsdale, Arizona|Scottsdale]], [[Arizona]], with 77 cryopreserved patients and 842 members, and the [[Cryonics Institute]] in [[Clinton Charter Township, Michigan|Clinton Township]], [[Michigan]] with 86 patients and 718 members. In Europe, the Russian company [[KrioRus]] (founded 2005) maintains four cryopreserved patients in Moscow.
+
+==Premises of cryonics==
+The central premise of cryonics is that [[memory]], [[Wiktionary:personality|personality]], and [[personal identity (philosophy)|identity]] are stored in cellular structures and chemistry, principally in the [[brain]].  ([[Neuropreservation]] relies entirely on the brain, while "whole body" preservation addresses the possibility that some attributes, such as [[muscle memory]], might reside at least partially elsewhere in the body.)  While this view is widely accepted in medicine, and brain activity is known to stop and later resume under certain conditions, it is not generally accepted that current methods preserve the brain well enough to permit revival in the future.  Cryonics advocates point to studies showing that high concentrations of [[cryoprotectant]] circulated through the brain before cooling can largely prevent freezing injury, preserving the fine [[cell (biology)|cell]] structures of the brain in which memory and [[personal identity (philosophy)|identity]] presumably reside.<ref>{{cite book
+| url = http://www.alcor.org/Library/html/braincryopreservation1.html
+| accessdate = 2006-03-17
+| title = Effect of Human Cryopreservation Protocol on the Ultrastucture of the Canine Brain
+| last = Platt
+| first = Charles
+| publisher = Alcor Life Extension Foundation
+| year = 1995
+| work = CryoCare Report
+| edition = 4}}</ref>
+
+To its detractors, the justification for the actual practice of cryonics is unclear, given present limitations of preservation technology.  Currently cells, tissues, blood vessels, and some small animal organs can be reversibly [[cryopreservation|cryopreserved]].  Some [[frog]]s can survive for a few months in a partially frozen state a few degrees below freezing, but this is not true cryopreservation.  Cryonics advocates counter that demonstrably reversible preservation is not necessary to achieve the present-day goal of cryonics, which is preservation of basic brain information that encodes memory and personal identity.  Preservation of this information is said to be sufficient to prevent [[information theoretical death]] until future repairs might be  possible.
+
+==Obstacles to success==
+=== Preservation injury===
+Long-term cryopreservation requires cooling to near &minus;196°C, the [[boiling point]] of [[liquid nitrogen]].  Cooling whole people to this temperature causes injuries that are not reversible with present technology. The common belief that water freezes inside cells causing them to burst is a myth,<ref>{{cite journal
+| last = Mazur P
+| title = Freezing of living cells: mechanisms and implications
+| journal = Am J Physiol
+| volume = 247
+| pages = C125-142
+| year = 1984
+| publisher = American Physiological Society
+| url = http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=6383068
+| accessdate = 2007-04-29}}</ref> but damage from freezing can still be serious.  When untreated [[tissue (biology)|tissue]] is slowly cooled below the [[melting point|freezing point]] of water, ice forms between cells, causing mechanical and chemical damage.  Cryonics uses [[cryoprotectant]]s to reduce this damage.  Cryoprotectant solutions are circulated through blood vessels to remove and replace water inside cells with chemicals that prevent freezing.  This can reduce damage greatly,<ref>{{cite book
+| url = http://www.alcor.org/Library/html/braincryopreservation1.html
+| accessdate = 2006-03-17
+| title = New Brain Study Shows Reduced Tissue Damage
+| last = Platt
+| first = Charles
+| publisher = CryoCare Foundation
+| year = 1995
+| work = CryoCare Report
+| edition = 4}}</ref> but not enough for whole people to recover spontaneously from cryopreservation.
+When used at high concentrations, cryoprotectants stop ice formation completely.  Cooling and solidification without freezing is called [[vitrification]].<ref>{{cite journal
+| last = Fahy GM et al
+| title = Vitrification as an approach to cryopreservation
+| journal = Cryobiology
+| volume = 21
+| pages = 407-426
+| year = 1984
+| publisher = Academic Press
+| url = http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=6467964
+| accessdate = 2007-04-29}}</ref>  The first cryoprotectant solutions able to vitrify at very slow cooling rates while still being compatible with tissue survival were developed in the late 1990s by [[cryobiology|cryobiologists]] [[Greg Fahy|Gregory Fahy]] and [[Brian Wowk]] for the purpose of banking transplantable organs.<ref>{{cite journal
+| last = Fahy GM et al
+| title = Cryopreservation of organs by vitrification: perspectives and recent advances
+| journal = Cryobiology
+| volume = 50
+| pages = 157-178
+| year = 2005
+| publisher = Elsevier
+| url = http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=15094092
+| accessdate = 2007-04-29}}</ref>  These solutions were adopted for use in cryonics by the [[Alcor Life Extension Foundation]], for which they are believed to permit [[vitrification]] of some parts of the human body, especially the brain.<ref>{{cite web
+  | title = New Cryopreservation Technology
+  | publisher = Alcor Life Extension Foundation
+  | date=  October, 2005
+  | url = http://www.alcor.org/Library/html/newtechnology.html
+  | accessdate = 2007-04-29}}</ref>  This has allowed animal brains to be vitrified, warmed back up, and examined for ice damage using light and [[electron microscope|electron microscopy]].  No ice crystal damage was found.<ref>{{cite book
+| url = http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=15247086
+| publisher = Annals of New York Academy of Sciences
+| edition = 1019:559-63
+| title = The arrest of biological time as a bridge to engineered negligible senescence
+| last = Lemler J, Harris SB, Platt C, Huffman TM
+| year = 2004
+| accessdate = 2006-03-31}}</ref><ref>{{cite book
+| url = http://www.alcor.org/Library/html/annals.html
+| title = The Arrest of Biological Time as a Bridge to Engineered Negligible Senescence 
+| last = Lemler J, Harris SB, Platt C, Huffman TM
+| publisher = Alcor Life Extension Foundation
+| year = 2004
+| accessdate = 2006-03-31}}</ref><ref>{{cite book
+| url = http://www.alcor.org/Library/html/cambridge.html
+| title = Alcor Presentation at Cambridge University
+| last = Lemler J, Harris SB, Platt C, Huffman TM
+| publisher = Alcor Life Extension Foundation
+| year = 2004
+| accessdate = 2006-03-31}}</ref>
+The [[Cryonics Institute]] also uses a vitrification solution developed by their staff cryobiologist, Dr. Yuri Pichugin, applying it principally to the brain.<ref>{{cite web
+| title = CI-VM-1 Cryoprotectant and CI-Carrier Solution Used for Vitrification
+  | publisher = Cryonics Institute
+ | date=  2007
+  | url = http://www.cryonics.org/research/CI-VM-1.html
+  | accessdate = 2007-04-29}}</ref>    
+
+Vitrification in cryonics is different than vitrification in mainstream cryobiology because vitrification in cryonics is not reversible with current technology.  It is only structural vitrification.  When successful it can prevent freezing injury in some body parts, but at the price of toxicity caused by cryoprotectant chemicals.  The nature of this toxicity is still poorly understood.  Cryonicists assume that toxicity is more subtle and repairable than obvious structural damage that would otherwise be caused by freezing.  If, for example, toxicity is due to [[denaturation (biochemistry)|denatured]] proteins, those proteins could be repaired or replaced.
+
+=== Ischemic injury ===
+
+[[Ischemia]] means inadequate or absent blood circulation that deprives tissue of oxygen and nutrients. At least several minutes of ischemia is an unavoidable part of cryonics because of the legal requirement that cryonics procedures do not begin until after blood circulation stops. The heart must stop beating so that [[legal death]] can be declared. When there is advance notice of impending clinical death, it is sometimes possible to deploy a team of technicians to perform a “standby”.  The team artificially restores blood circulation and breathing using techniques similar to [[CPR]] as soon as possible after the heart stops.<ref>{{cite web
+  | last = Wowk B
+  | title = Cardiopulmonary Support in Cryonics
+  | publisher = Alcor Life Extension Foundation
+  | url = http://www.alcor.org/Library/html/CardiopulmonarySupport.html
+  | accessdate =  2007-04-29}}</ref> The aim is to keep tissues alive after legal death by analogy to conventional medical procedures in which viable organs and tissues are obtained for transplant from legally deceased donors. Contrary to popular belief, legal death does not mean that all the cells of the body have died.<ref>{{cite web
+  | title = National Human Neuronal Stem Cell Resource Frequently Asked Questions
+  | publisher = NHNSCR
+  | url = http://nhnscr.org/home/faqs_q4.htm
+  | accessdate =  2007-04-29}}</ref>  
+
+Often in cryonics the brain is without oxygen for many minutes at warm temperatures, or even hours if the heart stops unexpectedly. This causes ischemic injury to the brain and other tissues that makes resuscitation impossible by present medical technology. Cryonicists justify preservation under such conditions by noting recent advances that allow brain resuscitation after longer periods of ischemia than the traditional 4 to 6 minute limit, and persistence of brain structure and even some brain cell function after long periods of clinical death.<ref name = "Donaldson-1976">{{cite book
+| url = http://www.alcor.org/Library/html/DonaldsonBrief.html
+| accessdate = 2007-04-29
+| title = A Brief Scientific Introduction to Cryonics
+| last = Donaldson
+| first = Thomas
+| publisher = Alcor Life Extension Foundation
+| year = 1976}}</ref><ref>{{cite journal
+| title = The Cryobiological Case for Cryonics
+| journal = Cryonics
+| pages = 23-36
+| date=  March, 1988
+| publisher = Alcor Life Extension Foundation
+| url = http://www.alcor.org/Library/html/caseforcryonics.html
+| accessdate = 2007-04-29}}</ref> They argue that definitions of death change as technology advances, and the early stages of what is called “death” today is actually a form of ischemic injury that will be reversible in the future.<ref>{{cite journal
+| last = Donaldson
+| first = Thomas
+| title = Prospects of a Cure for “Death”
+| journal = Cryonics
+| pages = 26-35
+| date=  May, 1990
+| publisher = Alcor Life Extension Foundation
+| url = http://www.alcor.org/Library/html/ProspectsOfACureForDeath.html
+| accessdate = 2007-04-29}}</ref> They claim that personal survival during long periods of clinical death is determined by [[information theoretic death|information theoretic criteria]].<ref>{{cite journal
+| last = Merkle R
+| title = The technical feasibility of cryonics
+| journal = Med Hypotheses
+| volume = 39
+| pages = 6-16
+| year = 1992
+| publisher = Churchill Livingstone
+| url = http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=1435395
+| accessdate = 2007-04-29}}</ref><ref>{{cite journal
+| last = Whetstine L et al
+| title = Pro/con ethics debate: when is dead really dead?
+| journal = Critical Care
+| volume = 9
+| pages = 538-542
+| year = 2005
+| publisher = BioMed Central Ltd.
+| url = http://www.timeoutintensiva.it/archivio/cc3894.pdf?PHPSESSID=79a9b2cb47d09efdc8081c2f4e75ed07
+| accessdate = 2007-04-29}}</ref><ref>{{cite journal
+| last = Crippen DW et al
+| title = Ethics review: dark angels—the problem of death in intensive care
+| journal = Critical Care
+| volume = 11
+| pages = 202
+| year = 2007
+| publisher = BioMed Central Ltd.
+| url = http://nereja.free.fr/files/DarkAngels.pdf 
+| accessdate = 2007-04-29}}</ref>
+
+===Revival===
+It is universally agreed by scientists and cryonics advocates that reversing human cryopreservation is not possible with “any near-term technology.”<ref>{{cite web
+| url = http://www.alcor.org/sciencefaq.htm
+| title = Scientists’ Cryonics FAQ
+| publisher = Alcor Life Extension Foundation
+| accessdate = 2006-04-03}}</ref>  Those who believe that revival may someday be possible generally look toward advanced [[bioengineering]], [[molecular nanotechnology]],<ref>Nanofactory Collaboration http://www.MolecularAssembler.com/Nanofactory</ref> [[nanomedicine]],<ref>Robert A. Freitas Jr., Nanomedicine, Landes Bioscience; Vol I (1999), Vol IIA (2003) http://www.nanomedicine.com</ref> or [[mind uploading]] as key technologies. Revival (except for mind uploading) requires repairing damage from lack of oxygen, cryoprotectant toxicity, thermal stress (fracturing), freezing in tissues that do not successfully vitrify, physical therapy to regain function of the body (similar to that of a long-term coma), and reversing the effects that caused the patient death. In many cases extensive [[regeneration (biology)|tissue regeneration]] will be necessary. Hypothetical revival scenarios generally envision repairs being performed by vast numbers of microscopic organisms or devices.<ref>{{cite book
+| url = http://www.alcor.org/Library/html/MolecularRepairOfTheBrain.htm
+| accessdate = 2006-04-04
+| title = Molecular Repair of the Brain
+| last = Merkle
+| first = R
+| publisher = Alcor Life Extension Foundation
+| year = 1994}}</ref><ref>{{cite book
+| url = http://www.alcor.org/Library/html/nanotechrepair.html
+| accessdate = 2006-04-04
+| title = “Realistic” Scenario for Nanotechnological Repair of the Frozen Human Brain
+| publisher = Alcor Life Extension Foundation
+| year = 1991}}</ref><ref>{{cite book
+| url = http://www.foresight.org/EOC/EOC_Chapter_9.html#section03of06
+| accessdate = 2006-04-04
+| title = Engines of Creation
+| last = Drexler
+| first = E
+| publisher = Ancor Press/Doubleday
+| year = 1986}}</ref><ref>{{cite book
+| url = http://www.alcor.org/Library/html/resuscitation.htm
+| accessdate = 2006-04-04
+| title = Resuscitation: A Speculative Scenario for Recovery
+| last = Darwin
+| first = M
+| publisher = Alcor Life Extension Foundation
+| year = 1988}}</ref>  These devices would restore healthy cell structure and chemistry at the molecular level, ideally before warming.  More radically, [[mind transfer]] has also been suggested as a possible revival approach if and when technology is ever developed to scan the memory contents of a preserved brain.
+
+It has often been written that cryonics revival will be a last-in-first-out ([[LIFO]]) process.  In this view, preservation methods will get progressively better until eventually they are demonstrably reversible, after which medicine will begin to reach back and revive people cryopreserved by more primitive methods.  Revival of people cryopreserved by the current combination of [[neurovitrification]] and deep-cooling (technically not "freezing", as cryoprotectant inhibits ice crystallization) may require centuries, if it is possible at all.<ref name = "Donaldson-1976"/>
+
+It has been claimed that if technologies for general molecular analysis and repair are ever developed, then theoretically any damaged body could be “revived.”  Survival would then depend on whether preserved brain information was sufficient to permit restoration of all or part of the personal identity of the original person, with [[amnesia]] being the final dividing line between life and death.
+
+==Neuropreservation==
+[[Neuropreservation]] is cryopreservation of the brain, usually within the head, with surgical removal and disposal of the rest of the body.  Neuropreservation, sometimes called “neuro,” is one of two distinct preservation options in cryonics, the other being "whole body" preservation.
+
+Neuropreservation is motivated by the fact that the [[brain]] is the primary repository of memory and personal identity.  (For instance, spinal cord injury victims, organ transplant patients, and amputees retain their personal identity.) It is also motivated by the belief that reversing any type of cryonic preservation is so difficult and complex that any future technology capable of it must by its nature be capable of generalized [[regeneration (biology)|tissue regeneration]], including growth of a new body around a repaired brain.  Some suggested revival scenarios for whole body patients even involve discarding the original body and regenerating a new one because tissues are so badly damaged by the preservation process.  These considerations, along with lower costs, easier transportation in emergencies, and the specific focus on brain preservation quality, have motivated many cryonicists to choose neuropreservation.
+
+The advantages and disadvantages of neuropreservation are often debated among cryonics advocates. Critics of neuropreservation note that the body is a record of much life experience, including learned motor skills.  While few cryonicists doubt that a revived neuro patient would be the same person, there are wider questions about how a regenerated body might feel different from the original.<ref>{{cite book
+| url = http://www.alcor.org/Library/html/CaseForWholeBody.html
+| last = O'Neal
+| first = Michael B.
+| year = 1990
+| work = Cryonics
+| title = The Case for Whole Body Suspension
+| publisher = Alcor Life Extension Foundation
+| accessdate = 2006-03-16}}</ref>  Partly for these reasons (as well as for better public relations), the [[Cryonics Institute]] preserves only whole bodies.  Some proponents of neuropreservation agree with these concerns, but still feel that lower costs and better brain preservation justify preserving only the brain. About three-quarters of the patients stored at Alcor are "neuros".
+
+==Financial issues==
+Costs of cryonics vary greatly, ranging from $28,000 for cryopreservation by [[Cryonics Institute]], to $150,000 for whole body cryopreservation (or $80,000 for neuropreservation of the head alone) plus a ~$500 annual membership fee during life by [[Alcor Life Extension Foundation|Alcor]].<ref>{{cite web
+  | title = Membership info: costs
+  | publisher = Alcor Life Extension Foundation
+  | url = http://www.alcor.org/BecomeMember/scheduleA.html
+  }}</ref> <ref>''Modern Marvels: Deep Freeze''.  '''The History Channel'''.</ref>  To some extent these cost differences reflect differences in how fees are quoted.  The [[Cryonics Institute]] fee doesn’t include “standby” (a team that begins procedures at bedside), transportation costs, or funeral director expenses outside of Michigan, which must be purchased as extras. CI Members wanting Standby and Transport from cryonics professionals can contract for additional payment to the [[Florida]]-based company Suspended Animation, Inc.
+
+While cryonics is sometimes suspected of being greatly profitable, the high expenses of doing cryonics are well documented.<ref>{{cite book
+| url = http://www.alcor.org/Library/html/CostOfCryonics.html
+| title = The Cost of Cryonics
+| last = Darwin
+| first = Mike
+| publisher = Alcor Life Extension Foundation
+| work = Cryonics
+| year = 1990
+| accessdate = 2006-03-17}}</ref>  The expenses are comparable to major transplant surgeries.  The largest single expense, especially for whole body cases, is the money that must be set aside to generate interest to pay for maintenance in perpetuity.
+
+The most common method of paying for cryonics is [[life insurance]], which spreads the cost over many years.  Cryonics advocates are quick to point out that such insurance is especially affordable for young people.  It has been claimed that cryonics is “affordable for the vast majority” of people in the industrialized world who really want it and plan for it in advance.
+
+==Philosophical and ethical considerations==
+Cryonics is based on a view of dying as a process that can be stopped in the minutes, and perhaps hours, following [[clinical death]].  If [[death]] is not an event that happens suddenly when the heart stops, this raises philosophical questions about what exactly death is.  In 2005 an ethics debate in the medical journal, Critical Care, noted “…few if any patients pronounced dead by today’s physicians are in fact truly dead by any scientifically rigorous criteria.”<ref>{{cite book
+| url = http://ccforum.com/inpress/cc3894/abstract
+| publisher = Critical Care Forum
+| title = Pro/con ethics debate: When is dead really dead?
+| year = [[2005-10-31]]
+| last = Whetstine
+| first = Leslie
+| coauthors = Stephen Streat, Mike Darwin, and David Crippen
+| accessdate = 2006-03-17}}</ref>  Cryonics proponent [[Thomas K. Donaldson|Thomas Donaldson]] has argued that “death” based on [[cardiac arrest]] or resuscitation failure is a purely social construction used to justify terminating care of dying patients.<ref>{{cite book
+| url = http://www.alcor.org/Library/html/ProspectsOfACureForDeath.html
+| title = Prospects of a Cure for "Death"
+| work = Cryonics
+| year = 1990
+| last = Donaldson
+| first = Thomas
+| publisher = Alcor Life Extension Foundation
+| accessdate = 2006-03-17}}</ref>  In this view, [[legal death]] and its aftermath are a form of [[euthanasia]] in which sick people are abandoned.  Philosopher [[Max More]] suggested a distinction between death associated with circumstances and intention versus death that is absolutely irreversible.<ref>{{cite book
+| url = http://www.alcor.org/Library/html/TerminusOfTheSelf.html
+| title = The Terminus of the Self
+| work = Cryonics
+| year = 1995
+| last = More
+| first = Max
+| accessdate = 2006-03-17
+| publisher = Alcor Life Extension Foundation}}</ref>  Absolutely irreversible death has also been called [[information theoretical death|information-theoretic death]], which is destruction of the brain to such an extent that the original information content can no longer be inferred. [[Bioethicist]]  [[James Hughes]] has written that increasing rights will accrue to cryonics patients as prospects for revival become clearer, noting that recovery of legally dead persons has precedent in the discovery of missing persons.<ref>{{cite book
+| url = http://www.jetpress.org/volume6/death.htm
+| accessdate = 2006-03-17
+| title = The Future of Death: Cryonics and the Telos of Liberal Individualism
+| last = Hughes
+| first = James J.
+| work = Journal of Evolution and Technology
+| edition = Volume 6
+| year = 2001
+| publisher = Jet Press}}</ref>
+
+[[Ethical]] and [[theological]] opinions of cryonics tend to pivot on the issue of whether cryonics is regarded as [[interment]] or [[medicine]].  If cryonics is interment, then [[religious]] beliefs about death and [[afterlife]] may come into consideration.  Resuscitation may be deemed impossible by those with religious beliefs because the [[soul]] is gone, and according to most religions only [[God]] can [[resurrection|resurrect]] the dead.  Expensive interment is seen as a waste of resources.  If cryonics is regarded as medicine, with [[legal death]] as a mere enabling mechanism, then cryonics is a long-term [[coma]] with uncertain prognosis.  It is continuing to care for sick people when others have given up, and a legitimate use of resources to sustain human life.  Cryonics advocates complain that theological dismissal of cryonics because it is interment is a circular argument because calling cryonics "interment" presumes that cryonics cannot work.<ref>{{cite web
+| url = http://www.alcor.org/Library/html/hesdeadjim.htm
+| title = He's Dead, Jim, The Irreversibility of Death as a Circular Argument
+| publisher = Alcor Life Extension Foundation
+| accessdate = 2006-03-17}}</ref>  They believe future technical advances will validate their view that cryonics patients are recoverable, and therefore never really dead.<ref>{{cite journal
+| last = Harris SB
+| title = Many are cold but few are frozen: a humanist looks at cryonics
+| journal = Free Inquiry
+| volume = 9
+| pages = 19-24
+| year = 1989
+| publisher = Council for Secular Humanism
+| url = http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&list_uids=11652342 
+| accessdate = 2007-06-08}}</ref>
+
+[[Alcor Life Extension Foundation|Alcor]] has published a vigorous Christian defense of cryonics,<ref>{{cite web
+| url = http://www.alcor.org/Library/html/christianityandcryonics.html
+| title = Christianity and Cryonics
+| publisher = Alcor Life Extension Foundation
+| accessdate = 2006-03-17}}</ref> including excerpts of a sermon by [[Lutheran]] Reverend Kay Glaesner.  Noted [[Christian]] apologist [[John Warwick Montgomery]] has defended cryonics.<ref>{{cite book
+| url = http://www.alcor.org/Library/html/cryonicsandorthodoxy.html
+| publisher = Christianity Today
+| edition = 12, 816
+| title = Cryonics and Orthodoxy
+| last = Montgomery
+| first = John Warwick
+| year = [[1968-05-10]]
+| accessdate = 2006-03-17}}</ref>  In 1969, a [[Roman Catholic]] priest [[consecrated]] the cryonics capsule of Ann DeBlasio, one of the first cryonics patients.<ref>{{cite journal | author=[[Curtis Henderson]] | title=Cryonic Suspension of Ann DeBlasio | journal=CRYONICS REPORTS | volume=4 | issue=9-10 | publisher=Cryonics Society of New York, Inc.
+| date=Sep-Oct 1969 | pages=10-15}}</ref> Many followers of [[Nikolai Fyodorovich Fyodorov]] see cryonics as an important step in the Common Cause project (reference: Fedorov seminar in Moscow, Russia on 25.11.2006) and compatible with [[Eastern Orthodox Church|Orthodox Christianity]].
+
+==History==<!-- This section is linked from [[Cryonics]] -->
+[[Benjamin Franklin]] suggested in a famous 1773 letter<ref>{{cite book
+| url = http://www.foresight.org/EOC/EOC_Chapter_9.html
+| publisher = Foresight Nanotech Institute
+| title = Letter to Jacques Duborg
+| last = Franklin
+| first = Benjamin
+| year = 1773
+| accessdate = 2006-03-17}}</ref> that it might be possible to preserve human life in a suspended state for centuries. However, the modern era of cryonics began in 1962 when Michigan college physics teacher [[Robert Ettinger]] proposed in a privately published book, “The Prospect of Immortality”,<ref>{{cite book | first= Robert C.W. | last= Ettinger|  year= 1964 | title= The Prospect of Immortality| edition= First | publisher= Doubleday|url = http://www.cryonics.org/book1.html}}</ref> that freezing people may be a way to reach future medical technology. Even though freezing a person is apparently fatal, Ettinger argued that what appears to be fatal today may be reversible in the future. He applied the same argument to the process of dying itself, saying that the early stages of [[clinical death]] may be reversible in the future. Combining these two ideas, he suggested that freezing recently deceased people may be a way to save lives.
+
+Slightly before [[Robert Ettinger|Ettinger’s]] book was complete, Evan Cooper<ref>{{cite web
+| url = http://www.cryonet.org/cgi-bin/dsp.cgi?msg=23124
+| title = Ev Cooper
+| accessdate = 2006-03-17}}</ref> (writing as Nathan Duhring) privately published a book called ''Immortality: Physically, Scientifically, Now'' that independently suggested the same idea. Cooper founded the Life Extension Society in 1965 to promote freezing people. [[Robert Ettinger|Ettinger]] came to be credited as the originator of cryonics, perhaps because his book was republished by Doubleday in 1964 on recommendation of [[Isaac Asimov]] and [[Fred Pohl]], and received more publicity. Ettinger also stayed with the movement longer. Nevertheless, cryonics historian R. Michael Perry has written “Evan Cooper deserves the principal credit for forming an organized cryonics movement.”<ref>{{cite web
+| url = http://www.alcor.org/cryonics/cryonics9208.txt
+| title = Cryonics
+| accessdate = 2006-03-17}}</ref> Cooper founded the first cryonics organization in 1964, the Life Extension Society (LES).
+
+The actual word “cryonics” was invented by Karl Werner in 1965 in conjunction with the founding of the Cryonics Society of New York (CSNY) by [[Curtis Henderson]] and [[Saul Kent]] that same year.  This was followed by the founding of the Cryonics Society of Michigan (CSM) and Cryonics Society of California (CSC) in 1966, and Bay Area Cryonics Society (BACS) in 1969 (renamed the [[American Cryonics Society]], or ACS, in 1985). CSM eventually became the Immortalist Society, a non-profit affiliate of the [[Cryonics Institute]] (CI), a cryonics service organization founded by [[Robert Ettinger]] in 1976, now the second-largest cryonics organization.
+
+Although there was at least one earlier aborted case, it is generally accepted that the first person frozen with intent of future resuscitation was [[Dr. James Bedford]], a 73-year-old psychology professor frozen under crude conditions by CSC on [[January 12]], [[1967]]. The case made the cover of a limited print run of ''[[Life Magazine]]'' before the presses were stopped to report the death of three astronauts in the [[Apollo 1]] fire instead.
+
+Cryonics suffered a major setback in 1979 when it was discovered that nine bodies stored by CSC in a cemetery in Chatsworth, California, thawed due to depletion of funds.<ref>{{cite book
+| url = http://www.alcor.org/Library/html/suspensionfailures.html
+| last = Perry
+| first = R. Michael
+| work = Cryonics
+| year = 1992
+| publisher = Alcor Life Extension Foundation
+| accessdate = 2006-03-17
+| title = Suspension Failures: Lessons from the Early Years}}</ref>  Some of the bodies had apparently thawed years earlier without notification. The head of CSC was sued, and negative publicity slowed cryonics growth for years afterward. Of seventeen documented cryonics cases between 1967 and 1973, only James Bedford remains [[cryopreservation|cryopreserved]] today. Strict financial controls and requirements adopted in response to the Chatsworth scandal have resulted in the successful maintenance of almost all cryonics cases since that era.
+
+The largest cryonics organization today was established by [[Fred and Linda Chamberlain]] in 1972 as the Alcor Society for Solid State Hypothermia (ALCOR). In 1977 the name was changed to the [[Alcor Life Extension Foundation]]. In 1982, the Institute for Advanced Biological Studies (IABS) founded by [[Mike Darwin]] and Steve Bridge in Indiana merged with Alcor. During the 1980s Darwin worked with [[UCLA]] cardiothoracic surgery researcher [[Jerry Leaf]] at Alcor to develop a medical model for cryonics procedures. They pioneered the first consistent use of a cryonics procedure now known as a “standby”, in which a team waits to begin life support procedures at the bedside of a cryonics patient as soon as possible after the heart stops.
+
+Cryonics received new support in the 1980s when MIT engineer [[Eric Drexler]] started publishing papers and books foreseeing the new field of [[molecular nanotechnology]]. His 1986 book, ''[[Engines of Creation]]'', included an entire chapter on cryonics applications.<ref name="Note7">{{cite book
+| url = http://www.foresight.org/EOC/EOC_Chapter_9.html
+| title = Engines of Creation, "A Door to the Future"
+| year = 1986
+| last = Drexler
+| first = K. Eric
+| publisher = Foresight Nanotech Institute
+| accessdate = 2006-03-17}}</ref> Cryonics advocates saw the nascent field of nanotechnology as vindication of their long held view that molecular repair of injured tissue was theoretically possible.<ref>{{cite book
+| last = Drexler
+| first = K. Eric
+| url = http://www.foresight.org/EOC/EOC_References.html#0156
+| title = Engines of Creation, The Coming Age of Nanotechnology
+| publisher = Foresight Nanotech Institute
+| year = 1986
+| accessdate = 2006-03-17}}</ref> [[Alcor Life Extension Foundation|Alcor’s]] membership expanded tenfold within a decade, with a 30% annual growth rate between 1988 and 1992. 
+
+[[Alcor Life Extension Foundation|Alcor]] was disrupted by political turmoil in 1993 when a group of activists left to start the CryoCare Foundation,<ref>{{cite web
+| url = http://www.cryocare.org/index.cgi
+| title = CryoCare Foundation
+| accessdate = 2006-03-17}}</ref> and associated for-profit companies CryoSpan, Inc. (headed by Paul Wakfer) and BioPreservation, Inc.<ref>{{cite web
+| url = http://www.cryocare.org/index.cgi?subdir=bpi&url=bpi.html
+| accessdate = 2006-03-17
+| title = BioPreservation, Inc. - Cryopreservation Services}}</ref> (headed by [[Mike Darwin]]). Darwin and collaborators made many technical advances during this time period, including a landmark study documenting high quality brain preservation by freezing with high concentrations of glycerol.<ref>{{cite web
+| url = http://www.alcor.org/Library/html/braincryopreservation1.html
+| title = Effect of Human Cryopreservation Protocol on the Ultrastructure of the Canine Brain
+| last = Platt
+| first = Charles
+| publisher = Alcor Life Extension Foundation
+| work = Cryocare
+| edition = Report #4
+| year = 1995
+| accessdate = 2006-03-17}}</ref> CryoCare ceased operations in 1999 when they were unable to renew their service contract with BioPreservation. CryoCare’s two patients stored at CryoSpan were transferred to Alcor. Several ACS patients stored at CryoSpan were transferred to CI.  
+
+There have been numerous, often transient, for-profit companies involved in cryonics. For-profit companies were often paired or affiliated with non-profit groups they served. Some of these companies, with non-profits they served in parentheses, were Cryonic Interment, Inc. (CSC), Cryo-Span Corporation (CSNY), Cryo-Care Equipment Corporation (CSC and CSNY), Manrise Corporation (Alcor), CryoVita, Inc. (Alcor), BioTransport, Inc. (Alcor), Trans Time, Inc.<ref>{{cite web
+| url = http://www.transtime.com/
+| title = Trans Time, Inc.
+| accessdate = 2006-03-17}}</ref> (BACS), Soma, Inc. (IABS), CryoSpan, Inc. (CryoCare and ACS), BioPreservation, Inc. (CryoCare and ACS), Kryos, Inc. (ACS), Suspended Animation, Inc.<ref>{{cite web
+| url = http://www.suspendedinc.com/
+| title = Suspended Animation, Inc.
+| accessdate = 2006-03-17}}</ref> (CI, ACS, and Alcor). Only Trans Time and Suspended Animation still exist. Apparently none of the companies were ever profitable.{{Fact|date=December 2007}}
+
+The cryonics field seems to have largely consolidated around three non-profit groups, Alcor, Cryonics Institute (CI), and the American Cryonics Society (ACS), all deriving significant income from bequests and donations.  A newly formed non-profit group called the [[Cryonics Society]] was formally incorporated in 2006 but is devoted solely to promotion and public education of the cryonics concept.
+
+As research in the 1990s revealed in greater detail the damaging effects of freezing, there was a trend to use higher concentrations of glycerol [[cryoprotectant]] to prevent freezing injury. In 2001 Alcor began using [[vitrification]], a technology borrowed from mainstream organ preservation research, in an attempt to completely prevent ice formation during cooling. Initially the technology could only be applied to the head when separated from the body. In 2005 Alcor began treating the whole body with their [[vitrification]] solution in a procedure called "neurovitrification with whole body cryoprotection".<ref>{{cite web
+| url = http://www.alcor.org/Library/html/newtechnology.html
+| title = New Cryopreservation Technology
+| publisher = Alcor Life Extension Foundation
+| accessdate = 2006-03-17}}</ref> In the same year, the Cryonics Institute began treating the head of their whole body patients with their own vitrification solution.<ref>{{cite web 
+| author=[[Ben Best]]
+| title=The Cryonics Institute's 69th Patient 
+| url=http://www.cryonics.org/reports/CI69.html 
+| accessdate=2006-06-07}}</ref>
+
+Alcor currently maintains 77 cryonics patients in Scottsdale, Arizona. The Cryonics Institute maintains 84 human patients (along with about 50 pets) at its [[Clinton Charter Township, Michigan|Clinton Township]], [[Michigan]] facility. There are support groups in [[Europe]], [[Canada]], [[United Kingdom]], and [[Australia]]. There is also a small cryonics facility in Russia storing two neuropatients called [[KrioRus]], and plans for a facility in [[Australia]].
+
+In 2005, the [[University of Pittsburgh]] successfully revived clincally dead dogs by replacing their blood with an ice-cold salt solution. <ref>http://www.foxnews.com/story/0,2933,160903,00.html</ref>
+
+==Culture==
+===Cryonics in popular culture===
+Procedures similar to cryonics have been featured in innumerable [[science fiction]] stories to aid space travel, or as means to transport a character from the past into the future. In addition to accomplishing whatever the character's primary task is in the future, he or she must cope with the strangeness of a new world, which may contain only traces of their previous surroundings. This prospect of alienation is often cited as a major reason for the unpopularity of cryonics.
+
+Notable early science fiction short stories featuring human cryopreservation, deliberate or accidental, include Jack London's first published work "[[A Thousand Deaths]]" (1899), H.P. Lovecraft's "[[Cool Air]]" (1928), and Edgar Rice Burroughs' "[[The Resurrection of Jimber-Jaw]]" (1937). Many of the subjects in these stories are unwilling ones, although a 1931 short story by [[Neil R. Jones]] called "The Jameson Satellite", in which the subject has himself deliberately preserved in space after death, has been credited with giving [[Robert Ettinger]] the seed of the idea of cryonics, when he was a teenager. Ettinger would later write a science fiction story called ''The Penultimate Trump'' published in 1948, in which the explicit idea of cryopreservation of legally-dead persons for future repair of medical causes of death, is promulgated <ref>Full text of Ettinger's "Penultimate Trump" short story: [http://www.cryonics.org/Trump.html] Accessed June 8, 2007</ref>.
+
+Relatively few stories have been published concerning the primary objective and definition of cryonics, which is medical time travel. Influential novels with this theme include the early ''[[The Door Into Summer]]'' by [[Robert A. Heinlein]] (1956), and ''[[The Age of the Pussyfoot]]'' (1966) by [[Fred Pohl]]. Also included are national best-seller ''[[The First Immortal]]'' by [[James Halperin]], ''[[Tomorrow and Tomorrow]]'' by [[Charles Sheffield]], ''Chiller'' by Sterling Blake (aka [[Gregory Benford]]), ''Ralph’s Journey'' by David Pizer, ''Formerly Brandewyne''<ref>{{cite web | title = Formerly Brandewyne | publisher = Lee Books | date=  1997 | url = http://www.judesplace.com/excerpt.htm }}</ref> by Jude Liebermann, and ''I Was a Teenage Popsicle'' by Bev Katz Rosenbaum.<ref> ISBN: 0425211800 
+Publisher: BERKLEY JAM </ref> A fictional book about cryonics specifically for children is ''21st Century Kids'' by [[Shannon Vyff]].<ref>{{cite web | title = 21st Century Kids | publisher = 21CenturyKids  | date=  2007 | url = http://www.21stcenturykidsbook.com/ | accessdate 2007-03-08 }}</ref><ref>{{cite book | authorlink = [[Shannon Vyff]] | title = 21st Century Kids | publisher = [[Warren Publishing]] | date=  March 15, 2007 | isbn = 1886057001}}</ref> 
+
+Domovi Butler from the [[Artemis Fowl]] series was frozen after his death and kept frozen over night in the third book, there after being revived by fairy magic.
+
+Fictional application of cryonics as rescue after freezing in space has continued since ''The Jameson Satellite'' in 1931. [[Arthur C. Clarke]]'s ''[[3001: The Final Odyssey]]'' reveals that [[Frank Poole]], murdered by [[HAL 9000]] in ''[[2001: A Space Odyssey]]'' was cryopreserved by his exposure to space, and found and revived a thousand years later. The [[Larry Niven]] short story "Wait It Out" depicts a sort of emergency self-cryopreservation by men marooned on Pluto. The 1992 Hugo-winning novel ''[[A Fire Upon the Deep]]'' by [[Vernor Vinge]] features a protagonist who is resuscitated by a superintelligence, thousands of years after a spaceship accident.
+
+Movies featuring cryonics for medical purposes include the [[Woody Allen]] comedy, ''[[Sleeper (film)|Sleeper]]'', and the films ''[[Late for Dinner]]'', ''[[Abre los Ojos]]'' (remade as ''[[Vanilla Sky]]'') and ''[[Wes Craven's Chiller]]''. One of the most famous movies regarding a cryonics-like process was 1992's ''[[Forever Young]]'', starring Mel Gibson. Although not about cryonics per se, the [[Ron Howard]] film ''[[Cocoon (film)|Cocoon]]'' has been hailed by cryonics advocates as expressing the values motivating cryonics better than any other film.<ref>{{cite book
+| url = http://www.alcor.org/cryonics/cryonics8508.txt
+| title = Cryonics
+| publisher = Alcor Life Extension Foundation
+| year = 1985
+| edition = Volume 6 Issue 61
+| accessdate = 2006-03-17}}</ref> 
+
+Cryonics is featured in the movies [[Alien_%28film%29|Alien]] and [[Aliens_%28film%29|Aliens]] where the ships crew enter "cryo-sleep" so they can travel through space great distances without aging, A form of "cryo-stasis" is featured in the film [[Demolition_Man_%28film%29|Demolition Man]] where criminals are frozen in a "Cryo-penitentiary" and given neural implants to alter their characters and remove violent tendencies.
+More recently cryogenics has featured in the [[Austin Powers]] [[spoof]] series of films where [[Dr. Evil]] and [[Austin Powers]] were both cryogenically frozen between the [[1960s]] and the [[1990s]]. During the freezing process Dr. Evil's cat Mr Bigglesworth went completely bald due to feline complications of the freezing process.
+
+On television, producer [[David E. Kelley]] wrote well-researched portrayals of cryonics for the TV shows ''[[L.A. Law]]'' (1990 episode<ref>{{cite web
+| url = http://www.imdb.com/title/tt0624130/
+| title = "L.A. Law" The Good Human Bar (1990)
+| publisher = IMDb
+| accessdate = 2006-03-17}}</ref>), ''[[Picket Fences]]'' (1994 episode<ref>{{cite web
+| url = http://www.imdb.com/title/tt0674696/
+| publisher = IMDb
+| title = "Picket Fences" Frosted Flakes (1994)
+| accessdate = 2006-03-17}}</ref>), and ''[[Boston Legal]]''
+(2005 episode<ref>{{cite web
+| url = http://www.imdb.com/title/tt0530525/
+| title = "Boston Legal" Let Sales Ring (2005)
+| publisher = IMDb
+| accessdate = 2006-03-17}}</ref>). In each case, there was a dying plaintiff petitioning a court for the right to elective [[cryopreservation]]. Cryonics was also featured in an episode of ''[[Miami Vice]]'' called "The Big Thaw", the episode "When We Dead Awaken" of ''[[seaQuest DSV]]'', the episode "[[The Neutral Zone (TNG episode)|The Neutral Zone]]" of ''[[Star Trek: The Next Generation]]'', the last two television works of [[Dennis Potter]], ''[[Karaoke (TV serial)|Karaoke]]'' and ''[[Cold Lazarus]]'', and the anime ''[[Cowboy Bebop]]''. Cryonics was also satirized by the comedy cartoon series ''[[Futurama]]'', in which the main character is frozen from December 31, 1999 to December 31, 2999.
+
+[[Captain America]] was placed unwillingly in a form of cryogenic suspension, according to Marvel Comics, when he was entombed in ice, preserving him, mind and body, for twenty years in the mainstream Marvel continuity (disappearing in 1945, and being revived in the sixties), and nearly sixty years in the ''Ultimate Marvel'' timeline, during which time each version was revived. His arch-nemesis the [[Red Skull]] was the recipient of a similar treatment in the ''Heroes Reborn'' universe.
+
+The most famous [[:Category:Cryonically preserved people|cryopreserved patient]] is baseball player [[Ted Williams]]. The popular [[urban legend]] that [[Walt Disney]] was cryopreserved is false; he was cremated, and interred at [[Forest Lawn Memorial Park (Glendale)|Forest Lawn Memorial Park Cemetery]]. [[Robert A. Heinlein]], who [[The Door into Summer|wrote enthusiastically]] of the concept, was cremated and his ashes distributed over the [[Pacific Ocean]]. [[Timothy Leary]] was a long-time cryonics advocate, and signed up with a major cryonics provider. He changed his mind, however, shortly before his death, and so was not cryopreserved.
+
+Cryonics was the inspiration for the song "Cryogenic" by the electronic rock group TheSwimmingPools.
+
+===The subculture of cryonicists===
+
+Cryonicists have been able to form cryonics societies in highly populated areas (see [[Cryonics#History|history section]]), have regular meetings, publish magazines and hold conferences. [[Saul Kent]] and Evan Cooper as well as [[Fred and Linda Chamberlain]] were active in organizing cryonics conferences in the early years of cryonics. The magazines of the cryonics organizations have also helped keep members of the cryonics community informed about events and common problems. On July 24, 1988 a [[Doctor of Philosophy|Ph.D.]] in [[computer science]] named Kevin Brown started an [[electronic mailing list]] called ''CryoNet''<ref>{{cite web
+| url = http://www.cryonet.org/
+| title = CryoNet
+| accessdate = 2006-03-17}}</ref> that became a powerful tool of  communication for the cryonics community. Numerous other mailing lists and web forums for discussing cryonics and the affairs of particular organizations have since appeared, but CryoNet remains a central point of contact for cryonicists. 
+
+Cryonicists have also had a common jargon, including their use of the words ''patient'', ''deanimation'' and ''suspension''. The phrase ''cryonic suspension'' to describe cryopreservation is falling into disfavor, partly because the abbreviation ''suspension'' is too easily misunderstood. As in other subcultures, some members of the community can have strong feelings about the use of "[[Political correctness|politically correct]]" cryonics language.
+
+==See also==
+* [[Alcor Life Extension Foundation]]
+* [[American Cryonics Society]]
+* [[Cryonics Institute]]
+* [[Life extension]]
+* [[Vitrification]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [http://www.benbest.com/cryonics/CryoFAQ.html Cryonics FAQ]
+* [http://www.merkle.com/cryo/ Ralph Merkle's introduction to cryonics]
+* [http://www.cryonet.org/ CryoNet]
+* [http://www.alcor.org/ Alcor Life Extension Foundation]
+* [http://www.cryonics.org/ Cryonics Institute]
+* [http://www.americancryonics.org/ American Cryonics Society]
+* [http://www.cryonics-europe.org/ Cryonics Europe]
+* [http://www.cryocdn.org/ Cryonics Society of Canada]
+* [http://www.cryonicssociety.org/ Cryonics Society - Resources and Advocacy]
+* [http://www.cryostasis.com/cryonics.php Cryostasis.com: Cryonics]
+* [http://depressedmetabolism.com/ Depressed Metabolism (cryonics technology blog)]
+* [http://www.imminst.org/forum/index.php?s=&act=SF&f=61 Immortality Institute Cryonics]
+* [http://www.cryonics.uk.com/ Cryonics UK]
+* [http://www2.comp.polyu.edu.hk/~04329143d/cryonicsmap.html World Cryonics Map]
+
+[[Category:Cryonics]]
