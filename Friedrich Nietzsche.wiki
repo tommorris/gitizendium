@@ -2,6 +2,8 @@
 
 '''Friedrich Nietzsche''' was a German philosopher and writer born in 1844, who died in 1900. His work was critical of the concepts of morality, religion and the contemporary culture of Europe in the nineteenth century. His style is radical and, like [[Søren Kierkegaard]], Nietzsche's work is often considered foundational for [[Existentialism]] and influential on later philosophical movements including [[postmodernism]].
 
+Nietzsche's father, Carl Ludwig Nietzsche (1813-1849), a teacher and Lutheran pastor, died five years after Friedrich's birth, and his brother Ludwig Joseph died at age two in 1850. Nietzsche grew up with his mother, Franziska Oehler, and his sister Elisabeth, who would later care for Nietzsche during his final years of insanity, and posthumously edit and publish his work. He excelled academically, studying at Schulpforta, and then studying theology and classical philology at [[University of Bonn|Bonn]]. He promptly gave up theology having lost his faith, and studied philology. In 1869, Nietzsche became a professor at the [[University of Basel]].
+
 == Nietzsche's thought ==
 
 Unlike [[Georg Wilhelm Friedrich Hegel|Hegel]], Nietzsche's thought is unsystematic and sometimes not clear. Nietzsche's impressive literary style serves as much to reveal aspects of his thought as to cover them up. At points, for instance, the reader is treated to quite clear philosophical discussion of topics like [[morality]] and [[ethics]], and at other points, we have coded [[aphorism|aphorisms]] and even [[narrative]] fiction - in the case of ''[[Thus Spake Zarathustra]]''.
@@ -19,3 +21,4 @@ Nietzsche is critical of the concept of morality as a universal or God-given ide
 Nietzsche's story of morality is based around a distinction between master and slave morality. Master morality is that which exalts human strength and will, while slave morality is based on human weakness and wretchedness. The archetype of master morality that Nietzsche describes is that of ancient Greek society, while Jewish and later Christian morality is seen as a slave morality. Christian 'slave' morality is exemplified in the [[crucifixion]] of [[Jesus Christ|Christ]], hence Nietzsche's phrase "Dionysus versus the Crucified".
 
 [[Category:CZ Live]]
+[[Category:Philosophy Workgroup]]
