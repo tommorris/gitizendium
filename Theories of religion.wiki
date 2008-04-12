@@ -42,7 +42,7 @@ Marx' explanations for all religions, always, in all forms, and everywhere have 
 ==Edward Burnett Tylor and James George Frazer==
 {{main|E._B._Tylor#Ideology and "Primitive Culture"|The Golden Bough}}
 The [[anthropology|anthropogist]] [[Edward Burnett Tylor]] (1832 – 1917) defined religion as belief in supernatural beings and stated that this belief originated as explanations to the world. Belief in supernatural being grew out of attempts to explain life and death. Primitive people used human dreams in which spirits seemed to appear as an indication that the human mind could exist independent of a body. They used this by extension to explain life and death, and belief in the after life. [[Myth]]s and [[deity|deities]] to explain natural phenomena originated out of an analogy and an extension of these explanations. His theory assumed that the psyche of all peoples of all times are more or less the same and that explanations in [[Unilineal_evolution#Tylor_.26_Morgan|cultures and religions tend to grow more sophisticated]] via [[monotheism|monotheist]] religions, like [[Christianity]] and eventually to [[science]].<ref>Pals, page ?</ref> Tylor saw backwards practices  and beliefs in modern societies as ''survivals'', but he did not explain why they survived. 
-[[Image:Golden bough.jpg|thumb|right|360px|[[J. M. W. Turner]]'s painting of [[the Golden Bough]] incident in the ''[[Aeneid]]'']]
+
 [[James George Frazer]] (1854 – 1941) followed Tylor's theories to a great extent in his book [[The Golden Bough]], but he distinguished between [[magical thinking|magic]] and [[religion]]. [[Magic]] is used to influence the natural world in the primitive man's struggle for survival. He asserted that [[Sympathetic_magic|magic relied on an uncritical belief of primitive people in contact and imitation]]. For example, precipitation may be invoked by the primitive man by sprinkling water on the ground. He asserted that according to them magic worked through laws. In contrast religion is faith that the natural world is ruled by one of more deities with personal characteristics with whom can be pleaded, not by laws.<ref>Pals, page ?</ref>
 
 The method that Tylor and Frazer used was seeking similar beliefs and practices in all societies, especially the more primitive ones, more or less regardless of time and place.<ref> Pals in treating Durkheim</ref>They relied heavily on reports made by missionaries, discoverers, and colonial civil servants.
@@ -52,7 +52,7 @@ Their theory has been criticized as one-sided for focusing on mere intellectual 
 ==Émile Durkheim==
 {{main|Émile_Durkheim#Religion|Sacred-profane dichotomy|Collective effervescence}}
 
-[[Image:Emile_Durkheim.jpg|thumb|right|200px|[[Émile Durkheim]] (1858 – 1917)]]
+
 
 Different from most other scholars, [[Émile Durkheim]] (1858 – 1917) saw the [[Sacred-profane dichotomy|concept of the sacred]] as the defining characteristic of religion, not faith in the supernatural.<ref>Pals, page 99</ref> He saw religion as a reflection of the concern for society. He based his view on recent research regarding [[totemism]] among the [[Australian aboriginals]]. With [[totemism]] he meant that each of the many clans had a different object, plant, or animal that they held sacred and that symbolizes the clan. Durkheim saw [[totemism]] as the original and simplest form of religion. <ref>Pals, page 102</ref>The analysis of this simple form of religion could provide the building blocks for more complex religions. He asserted that moralism cannot be separated from religion. The sacred i.e. religion reinforces group interest that clash very often with individual interests. The function of religion is group cohesion often performed by collectively attended rituals. He asserted that these group meeting provided a special kind of energy, which he called [[collective effervescence|effervescence]], that made group members lose their individuality and to feel united with the gods and thus with the group.<ref>Kunin, pp. 20-21</ref> Differing from Tylor and Frazer, he saw magic not as religous, but as an individual instrument to achieve something.
 
@@ -62,7 +62,7 @@ Durkheim's proposed method for progress and refinement is first to carefully stu
 The empirical basis for Durkheim's view has been severely criticized when more detailed studies of the Australian aboriginals surfaced. More specifically, the definition of religion as dealing with the sacred only, regardless of the supernatural and is not supported by studies of these aboriginals. The view that religion has a social aspect, at the very least, introduced in a generalized very strong form by Durkheim has become influential and uncontested.<ref>Pals, page 281</ref>
 
 ==Max Weber==
-[[Image: Max Weber 1894.jpg|thumb|right|150px|[[Max Weber]]]]
+
  
 {{main|Sociological_classifications_of_religious_movements#The_church-sect_typology|Sociology_of_religion#Max_Weber|Sociology of Religion (book)|Charismatic authority|The Protestant Ethic and the Spirit of Capitalism|The Religion of China: Confucianism and Taoism|The Religion of India: The Sociology of Hinduism and Buddhism|Three-component theory of stratification}}
 
@@ -79,13 +79,11 @@ Weber dealt with [[status group]]s, not with [[class]]. In status groups the pri
 He used the concept of "[[Verstehen#Max_Weber_and_the_Social_Sciences|Verstehen]]" (German for "understanding") to describe his method of interpretation of the intention and context of human action.<ref>Pals, page 239</ref>
 
 ==Sigmund Freud==
-[[Image: Sigmund Freud-loc.jpg|thumb|right|150px|[[Sigmund Freud]]]]
 
 {{main|Psychology_of_religion#Sigmund_Freud|Future of an Illusion|Totem and Taboo|Moses_and_Monotheism|Oedipus complex}}
 
 [[Sigmund Freud]] (1856 – 1939) saw religion as an illusion. With illusion Freud means a belief that people want very much to be true. Unlike Tylor and Frazer, Freud attempted to explain why religion persists in spite of the lack of evidence for its tenets. Freud asserted that religion is a largely unconscious neurotical response to [[Psychological_repression|repression]]. With repression Freud meant that civilized society demands that we cannot fulfill all our desires immediately, but that they have to be repressed. Rational arguments to a person holding a religious conviction will not change the neurotic response of a person, in contrast to Tylor and Frazer who saw religion as rational conscious, but  primitive and mistaken attempt to explain the natural world.
 
-[[Image:Freud Sofa.JPG|thumb|right|200px|[[Sigmund Freud|Freud]]'s theory of [[psychoanalysis]] was developed by studying patients who were left free to talk while lying on a sofa]]
 
 Not only tries Freud to explain the origin and persistence of faith in individuals but in his 1913 book [[Totem and Taboo]] he even developed a speculative story how all [[monotheism|monotheist religions]] itself originated and developed. <ref>Pals, page 81</ref>In the book he asserted that monotheist religions  grew out of a homicide in a clan of a father by his sons. This incident was subconsciously remembered in human societies. 
 
@@ -105,7 +103,6 @@ He asserted that these experiences arise from a special, non-rational faculty of
 His ideas strongly influenced [[Phenomenology of religion|phenomenologists]] and [[Mircea Eliade]].<ref>Kunin, page 62</ref>
 
 ==Mircea Eliade==
-[[Image:Janco Eliade.jpg|thumb|right|200px|[[Mircea Eliade]]]]
 {{main|Eternal return (Eliade)|Sacred-profane dichotomy|Hierophany|Mircea_Eliade#Philosopher_of_religion|Mircea_Eliade#The_scholar}}
 [[Mircea Eliade]]'s (1907 – 1986) approach grew out of the [[phenomenology of religion]]. Like Otto, he saw religion as something special and autonomous, that cannot be [[reductionism|reduced]] to the social, economical or psychological alone.<ref>Pals, 158</ref><ref>Pals, page 162</ref> Like Durkheim, he saw the [[Sacred (comparative religion)|sacred]] as central to religion, but differing from Durkheim, he views the sacred as often dealing with the [[supernatural]], not with the clan or society. <ref>Pals, page 164</ref>The daily life of an ordinary person is connected to the sacred by the appearance of the sacred, called [[hierophany]]. [[Theophany]] (an appearance of a god) is a special case of it. <ref>Pals, page 177</ref>Eliade wrote that archaic men wish to participate in the sacred. Archaic men long to return to lost paradise, outside the historic time, as explained in Eliade's book [[Eternal return (Eliade)]] to escape meaninglessness.<ref>Pals, page 168</ref> The primitive man could not endure that his struggle to survive  had no meaning.<ref>Pals, page 180</ref> He wrote than man had a [[nostalgia]] (longing) for an otherworldly perfection. Archaic man wishes to escape the ''terror of time'' and saw [[cyclic time|time as cyclic]].<ref>Pals, page 180</ref> Historical religions, like Christianity, Judaism revolted against this older concept of cyclic time. They provided meaning and contact with the sacred ''in'' history through the [[God of Israel]]. <ref>Pals, page 181</ref>
 
