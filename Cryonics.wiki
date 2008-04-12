@@ -1,3 +1,4 @@
+{{subpages}}
 '''Cryonics''' (often mistakenly called [[cryogenics]]) is the low-temperature [[preservation]] of [[human]]s and other [[animals]] that can no longer be sustained by contemporary [[medicine]] until [[resuscitation]] may be possible in the future.  Human [[cryopreservation]] is not currently reversible.  In the United States, cryonics can only be [[legal|legally]] performed on humans after pronounced legally dead.  The rationale for cryonics is that the process may be [[reversible]] in the future if performed soon enough, and that cryopreserved people are not dead by the modern [[information theoretic death|information-theoretic definition of death]].<ref>{{cite web 
 | title = Jeane Trend-Hill
 | publisher = Paragraph authorship claimed by Jeane Trend-Hill (www.homestead.com/askjeane)
@@ -466,21 +467,3 @@ Cryonicists have also had a common jargon, including their use of the words ''pa
 
 ==References==
 {{reflist|2}}
-
-==External links==
-* [http://www.benbest.com/cryonics/CryoFAQ.html Cryonics FAQ]
-* [http://www.merkle.com/cryo/ Ralph Merkle's introduction to cryonics]
-* [http://www.cryonet.org/ CryoNet]
-* [http://www.alcor.org/ Alcor Life Extension Foundation]
-* [http://www.cryonics.org/ Cryonics Institute]
-* [http://www.americancryonics.org/ American Cryonics Society]
-* [http://www.cryonics-europe.org/ Cryonics Europe]
-* [http://www.cryocdn.org/ Cryonics Society of Canada]
-* [http://www.cryonicssociety.org/ Cryonics Society - Resources and Advocacy]
-* [http://www.cryostasis.com/cryonics.php Cryostasis.com: Cryonics]
-* [http://depressedmetabolism.com/ Depressed Metabolism (cryonics technology blog)]
-* [http://www.imminst.org/forum/index.php?s=&act=SF&f=61 Immortality Institute Cryonics]
-* [http://www.cryonics.uk.com/ Cryonics UK]
-* [http://www2.comp.polyu.edu.hk/~04329143d/cryonicsmap.html World Cryonics Map]
-
-[[Category:Cryonics]]
