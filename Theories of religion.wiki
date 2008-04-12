@@ -1,5 +1,4 @@
-<!--OMISSIONS (OFTEN SERIOUS) AND UNANSWERED QUESTIONS ARE INVISIBLE IN CAPITALS. PLEASE REMOVE THESE INVISIBLE WARNINGS (ONLY) AFTER THE OMISSION HAS BEEN ADDRESSED. USER:ANDRIES 17 MARCH 2008-->
-
+{{subpages}}
 
 '''[[Theory|Theories]] of [[religion]]s''' can be classified into substantive (focusing on what it is) theories and functional or [[reductionism|reductionist]] (focusing on what religions does) theories. 
 
@@ -199,16 +198,3 @@ The [[rational choice theory]] has been applied to religions, among others by th
 *[[E. E. Evans-Pritchard|Pritchard, E. E.]], ''[[Theories of Primitive Religion]]''. Oxford University Press.  1965 ISBN 0-19-823131-8
 *[[Tim Jensen (religious scholar)|Jensen, Tim]] and [[Mikael Rothstein]] (editors), ''Secular Theories on Religion'', Museum Tusculanum press, University of Copenhagen, 2000, ISBN 8772895721 [http://books.google.nl/books?id=oFCX113Zk94C&printsec=frontcover&dq=secular+theories+of+religion&hl=en&sig=nKLFl1UgSi96dqMj3YmS5XhiR_8 google books]
 *[[Edward Burnett Tylor|Tylor, Edward Burnett]] ''[[Primitive Culture (book)|Primitive Culture]]'' (1871)
-
-==External links==
-*[http://www.basr.ac.uk/diskus/diskus7/kunin.htm The dialectical relationship between theory and ethnography] in DISKUS Vol. 7 (2006) by Seth D. Kunin, Department of Theology and Religion, [[Durham University]], UK 
-*[http://www.freud.org.uk/religion.html Freud and Religion] website of the [[Freud Museum]] in London
-*[http://www.basr.ac.uk/diskus/diskus7/whaling.htm A brief history of the history of the study of religion] in DISKUS Vol. 7 (2006) by Frank Whaling, [[University of Edinburgh]]
-*[http://hirr.hartsem.edu/ency/Yinger.htm Yinger, John Milton] by Keith A. Roberts in the ''Encyclopedia of Religion and Society'' edited by Swatos, William H. Jr. Altamira press 1998 [http://hirr.hartsem.edu/ency/coverpage.htm web version]
-*[http://www.csa.com/discoveryguides/religion/overview.php Shopping for Faith or Dropping Your Faith? The Rational Choice Theory of why religious vitality varies between societies, and its relationship to the Secularization Thesis] by by Peter Ellway (May 2005)
-*[http://encarta.msn.com/encyclopedia_761565187/Religion.html Religion] entry "religion" in the [[Encarta|Encarta encyclopedia]]
-*[http://www.indiana.edu/~wanthro/religion.htm Anthropology of Religion] by [[Doug Padgett (anthropologist)|Doug Padgett]] homepage at [[Indiana University]] (May 1998)
-
-
-  	
-[[Category:Study of religion|Theories]]
