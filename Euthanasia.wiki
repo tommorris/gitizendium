@@ -6,6 +6,22 @@
 
 The term euthanasia covers both voluntary and involuntary death. In the former, a person elects or specifies conditions for medically-assisted death, often in the form of a [[living will]]. The moral issues that accompany voluntary euthanasia are whether or not assisting suicide compromises the professional ethics of doctors and other health providers. Critics will often point to the [[Hippocratic Oath]], and also point to the problem of coercion - that people may be pressured, or at least feel pressured, into giving consent in order to save the costs of healthcare, or to free up hospital beds and resources for others.
 
+== Passivity ==
+
+Euthanasia describes both ''passive'' and ''active'' euthanasia - that is, euthanasia through not providing medical care and euthanasia through an active intervention - for instance, an injection of a drug that would end a persons life. A lot of the moral discussion around the different circumstances tend to focus around the idea of [[double effect]] - that is the morality of an action that is done with a particular purpose, but which has a side-effect which, if it were performed directly would be considered immoral. In the case of euthanasia, often strong sedatives are prescribed to people close to the end of their life, with the principle effect being reduction of pain, but the side-effect being speeding up death.
+
+== Religious and theological concerns ==
+
+Non-religious people are fairly consistently in support of access to doctor-assisted suicide<ref>See, for instance, the [http://www.americanhumanist.org/about/euthanasia.php Plea for Beneficient Euthanasia], spearheaded by the [[Humanism|humanist]] movement in the United States.</ref>, while many religious people and organizations oppose euthanasia, seeing it as against God's will or as an affront to the sanctity of human life.
+
+[[Catholicism]] rejects active euthanasia, while allowing, under the 1980 Declaration on Euthanasia, some instances of passive euthanasia if done in extraordinary circumstances. [[Islam]] has similar policies. [[Protestantism|Protestant]] and [[Judaism|Jewish]] denominations are split on euthanasia, with more liberal adherents, clergy and denominations supporting euthanasia, with conservatives in opposition.
+
+== Famous euthanasia incidents ==
+
+Perhaps the most famous doctor performing assisted suicide is [[Jack Kevorkian]] - often referred to as ''Dr. Death'', who, until his conviction and imprisonment in 1999, assisted over 130 people in their death. He created a device to help patients administer drugs intravenously called the Thanatron, later replacing it with the Mercitron, which administered carbon monoxide. He was convicted after sending a video of him assisting in the death of Thomas Hyde, which prompted prosecution and imprisonment - he was paroled in June 2007. Conservative critics allege that he was addicted to killing so he could further his own research, and that a number of those he killed were not ill<ref>Wesley J. Smith [http://www.nationalreview.com/smithw/smith200512140825.asp A View to a Kill], ''National Review Online'', December 14, 2005.</ref>.
+
+[[Diane Pretty]] suffered from [[motor neurone disease]] and sued the British government under the [[Human Rights Act 1998|Human Rights Act]], but her appeals failed after the courts decided that the [[European Convention on Human Rights and Fundamental Freedoms]] does not provide for a right to die. She died in 2001.
+
 [[Category:CZ Live]]
 [[Category:Philosophy Workgroup]] <!-- for the ethical component -->
 [[Category:Healing Arts Workgroup]]
