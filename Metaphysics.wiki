@@ -31,6 +31,12 @@ The world seems to contain many individual things, both physical, like apples, a
 
 Metaphysicians working on questions about universals or particulars are interested in the nature of objects and their properties, and the relationship between the two.  For instance, one might hold that properties are abstract objects, existing outside of space and time, to which particular objects bear special relations.  Others maintain that what particulars are is a bundle or collection of properties (specifically, a bundle of properties they have).
 
+Universals raise an interesting problem - how exactly can we talk about one thing being the same as another? What do we mean when we use language in such a way as to suggest similarity or difference?
+
+[[Plato]]'s solution to the problem of universals was to posit a realm of ''forms'', which Plato was a realist about - he thought they existed outside of people's minds. Forms are transcendent - you cannot find them in a particular place or time, but they are universal. Forms are also the cause of the instance - that a crane is tall is because the Form of tallness made it tall.
+
+Other philosophers reject this kind of realism and are [[nominalism|nominalists]] - that is, they reject the existence of universals - instead, thinking of objects as having resemblances - Michael Jordan is tall and a crane is tall - but the problem of thinking that universals are simply resemblances is that we do not think that Michael Jordan is tall because he resembles a crane.
+
 ===Change and identity===
 [[Identity (philosophy)|Identity]], sometimes called Numerical Identity, is the relation that everything bears to itself, and which nothing bears to anything other than itself. According to [[Gottfried Leibniz|Leibniz]], if some object '''''x''''' is identical to some object '''''y''''', then any property that '''''x''''' has, '''''y''''' will have also.  However, it seems to us that objects can change over time.  If you were to look at a tree one day, and the tree later lost a leaf, it would seem that you could still go look at that same tree.  Metaphysicians work to explain what it means for the same object to have different properties at different times, as well as the question of how objects [[persistence through time|persist through time]]. (See Also: [[identity and change]])
 
