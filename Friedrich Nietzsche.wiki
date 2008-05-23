@@ -1,21 +1,42 @@
 {{subpages}}
 
-'''Friedrich Nietzsche''' was a German philosopher and writer born in 1844, who died in 1900. His work was critical of the concepts of morality, religion and the contemporary culture of Europe in the nineteenth century. His style is radical and, like [[Søren Kierkegaard]], Nietzsche's work is often considered foundational for [[Existentialism]] and influential on later philosophical movements including [[postmodernism]].
+'''Friedrich Nietzsche''' was a German philosopher and writer born in 1844, who died in 1900. His work was critical of the concepts of morality, religion and the contemporary culture of Europe in the nineteenth century. His style is radical and, like [[Søren Kierkegaard]], Nietzsche's work is often considered foundational for [[Existentialism]] and influential on later philosophical movements including [[postmodernism]] and the general trend of [[Continental philosophy]] since.
 
 Nietzsche's father, Carl Ludwig Nietzsche (1813-1849), a teacher and Lutheran pastor, died five years after Friedrich's birth, and his brother Ludwig Joseph died at age two in 1850. Nietzsche grew up with his mother, Franziska Oehler, and his sister Elisabeth, who would later care for Nietzsche during his final years of insanity, and posthumously edit and publish his work. He excelled academically, studying at Schulpforta, and then studying theology and classical philology at [[University of Bonn|Bonn]]. He promptly gave up theology having lost his faith, and studied philology. In 1869, Nietzsche became a professor at the [[University of Basel]].
 
 == Nietzsche's thought ==
 
-Unlike [[Georg Wilhelm Friedrich Hegel|Hegel]], Nietzsche's thought is unsystematic and sometimes not clear. Nietzsche's impressive literary style serves as much to reveal aspects of his thought as to cover them up. At points, for instance, the reader is treated to quite clear philosophical discussion of topics like [[morality]] and [[ethics]], and at other points, we have coded [[aphorism|aphorisms]] and even [[narrative]] fiction - in the case of ''[[Thus Spake Zarathustra]]''.
+Unlike [[Georg Wilhelm Friedrich Hegel|Hegel]], Nietzsche's thought is unsystematic and sometimes quite difficult to understand. Nietzsche's impressive literary style serves as much to reveal aspects of his thought as to cover them up. At points, for instance, the reader is treated to quite clear philosophical discussion of topics like [[morality]] and [[ethics]], and at other points, we have coded [[aphorism|aphorisms]] and even [[narrative]] fiction - in the case of ''[[Thus Spake Zarathustra]]''.
 
 There are some common elements or threads to this though.
 
 === Truth and Lying ===
 
-There are some strands of Nietzsche's writing which coalesce into a broad method which some have described as ''perspectivism''[http://www.stolaf.edu/depts/philosophy/reed/2001/perspectivism.html]. This is usually based on an essay entitled ''Truth and Lie in an Extra-Moral Sense''[http://www.geocities.com/thenietzschechannel/tls.htm].
+There are some strands of Nietzsche's writing which coalesce into a broad method which some have described as ''perspectivism''<ref>Nate Olson, [http://www.stolaf.edu/depts/philosophy/reed/2001/perspectivism.html Perspectivism and Truth in Nietzsche’s Philosophy: A Critical Look at the Apparent Contradiction]</ref> This is usually based on an essay entitled ''Truth and Lie in an Extra-Moral Sense''[http://www.geocities.com/thenietzschechannel/tls.htm].
 
 === Morality and The Will to Power ===
 
 Nietzsche is critical of the concept of morality as a universal or God-given ideal, describing how it is in fact caused by a '''will to power''' - that is, it is based on human desires and power rather than on moral ideals. His method here is '''genealogical''' - by describing possible scenarios in which morality could have came to be. The genealogical critique would later be taken up by [[Michel Foucault]].
 
 Nietzsche's story of morality is based around a distinction between master and slave morality. Master morality is that which exalts human strength and will, while slave morality is based on human weakness and wretchedness. The archetype of master morality that Nietzsche describes is that of ancient Greek society, while Jewish and later Christian morality is seen as a slave morality. Christian 'slave' morality is exemplified in the [[crucifixion]] of [[Jesus Christ|Christ]], hence Nietzsche's phrase "Dionysus versus the Crucified".
+
+=== "God is Dead" ===
+
+A controversial and frequently misunderstood component of Nietzsche's writings is the statement "God is dead". The statement "God is dead" appears in ''The Gay Science'' as the spoken dialogue of a 'madman' who enters the market square proclaiming God's death, and that those in the market have killed God. The straight forward interpretation of this - that God is a mortal creature and has been slayed by someone seems difficult to accept. Most interpret it to mean that the ''idea'' of God in Western culture is no longer significant - either it is to be replaced by Nietzsche's philosophical system (perhaps by Zarathustra or by the determination to become an ''übermensch''), in as much as such a system exists, or it is replaced by modernity. This does not necessarily mean that ''belief'' in God is dead, but rather the significance of such belief is no longer important in the way it was in previous centuries.
+
+=== Eternal Recurrence ===
+
+Another concept that is difficult to get one's head around in Nietzsche is the idea of eternal recurrence. Nietzsche uses it almost as an existential thought experiment. The scenario goes that a demon or a god says to you that your life will repeat for the rest of eternity, over and over again, with the same events happening in the same ways in every iteration. Would such an afterlife be acceptable to a person? Nietzsche thought that a person who had crossed the bridge and become an ''übermensch'' would see glory in such eternal recurrence, but that for most it would be unacceptable. It is also possible to see eternal recurrence as a parody of conceptions of heaven and salvation.
+
+The concept of eternal recurrence has been used in a variety of films, plays and books including [[K-PAX]] and [[Groundhog Day]].
+
+== Reactions to Nietzsche ==
+
+Some have seen Nietzsche as a kind of proto-Nazi thinker, mapping his concept of the ''Übermensch'' (Superman or Overman) with Hitler's view of the Aryan. This view was quite popular until about the time of [[Walter Kaufmann]]'s book on Nietzsche, and work by other scholars, noted that Nazi themes were mostly due to the way that Nietzsche's sister Elisabeth framed his work very selectively in ''The Will To Power''.
+
+Partly because of it's alleged Nazism and also because of Nietzsche's atheism, his work has been censured. It was mentioned as a dangerous and immoral terminus that could be reached if [[evolution]] was taught in the [[Scopes trial]] in the 1920s in [[Tennessee]].
+
+Nietzsche has been seen as a freeing and demystifying author by many, sometimes even as a ''Christian'' author, although the latter is rather harder to accept for many. Recently, some Christian writers have suggested that they would prefer to see atheists more as Nietzscheans than rationalists - it is difficult to see whether they would prefer more them to be more intellectually stimulating or as easier fodder for critique. Others see Nietzsche as not worthy of the title of philosopher, dismissing him as simply teenage 'rebel' fodder.
+
+== References ==
+<references />
