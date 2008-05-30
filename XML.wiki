@@ -20,102 +20,11 @@ The XML specification was developed in 1996 by the SGML Editorial Review Board c
 #''XML documents shall be easy to create.''
 #''Terseness in XML markup is of minimal importance.''
 
-<ref>Bray, Tim, Jean Paoli, C. M. Sperberg-McQueen, Eve Maler, and François Yergeau, eds. "Extensible Markup Language (XML) 1.0 (Fourth Edition)." World Wide Web Consortium Recommendations. 29 Sept. 2006. 18 May 2007 <http://www.w3.org/TR/2006/REC-xml-20060816/#sec-origin-goals>.</ref>
-
-
+<ref> Bray T, Paoli J, Sperberg-McQueen CM, Maler E, Yergeau F, eds. "Extensible Markup Language (XML) 1.0 (Fourth Edition)." World Wide Web Consortium Recommendations. 29 Sept. 2006. 18 May 2007 <http://www.w3.org/TR/2006/REC-xml-20060816/#sec-origin-goals>.</ref>
 
 </blockquote>
 
-=== Grammar and Definitions ===
 
-This section contains a brief over view of the components that define XML, for a more in-depth examination of those components read the individual sections under the heading '''''Structure'''''
-
-
-
-'''Prolog''' - A prolog is a sort of 'announcement' to the XML parser as to what version the following set of XML objects is written in. The prolog also contains other information pertinent to the XML document (discussed later.)
-
-<pre>
-<?xml version="1.0" standalone="no" ?>
-</pre>
-
-
-'''Tag''' - A tag denotes the beginning, end, or existence of an XML object. They consist of the '''<''' character followed by the name of the tag, and, in the case of an opening tag, just a '''>''' at the end. The exception is with end tags and single tags. End Tags always have a '''<''' then a forward slash before the name of the tag with a '''>''' at the end. Single tags always have a space after the name of the tag followed by a forward slash and then end with the '''>'''.
-
-''Example''
-<pre>
-<ninja>
-    <inventory>
-        <nunchucks />
-        <cookies />
-    </inventory>
-</ninja>
-</pre>
-
-
-
-'''Element''' - An element is an XML object composed of a start tag and a stop tag or a single tag.
-
-''Example''
-<pre>
-<?xml version="1.0" standalone="no" ?>
-<family>
-    <member>
-        <name>dad</name>
-        <favorite-food>pancakes</favorite-food>
-        <favorite-animal>wombats</favorite-animal>
-    </member>
-</family>
-</pre>
-
-'''Document''' - A document is any XML object that contains a prolog and one or more elements excluding the root element.
-
-<pre>
-<?xml version="1.0" standalone="no" ?>
-<root-element>
-    <lots-of-elements>
-    ...
-    </lots-of-elements>
-</root-element>
-</pre>
-
-=== Structure ===
-
-
-==== Prolog ====
-
-The XML prolog is a mandatory object present at the beginning of the document. 
-
-<pre>
-<?xml version="###" {encoding="???" standalone='y/n'} ?>
-</pre>
-
-'''version''' equals the version of XML the document was written to.
-
-''(Optional)'' '''encoding''' equals the character codebook the document was written to. The default is '''UTF-8'''. The character encoding declaration must be written using latin characters only.<ref>Bray, Tim, Jean Paoli, C. M. Sperberg-McQueen, Eve Maler, and François Yergeau, eds. "Extensible Markup Language (XML) 1.0 (Fourth Edition)." World Wide Web Consortium Recommendations. 29 Sept. 2006. 18 May 2007 <http://www.w3.org/TR/2004/REC-xml-20040204/#NT-EncodingDecl> §4.3.3 Character Encoding in Entities.</ref>
-
-
-<pre>EncName    ::=    [A-Za-z] ([A-Za-z0-9._] | '-')* </pre>
-The encoding name '''must''' begin with an alphabetic character and all other characters must be alphanumeric, the underscore ( _ ), the decimal ( . ), or a dash ( - ).
-
-
-''(Optional)'' '''standalone''' is either ''yes'' or ''no''. ''Yes'' in the instance that the XML document does not have an external DTD or Schema. ''No'' if the XML document does have an external DTD or Schema.
-
-====Elements====
-An '''element''' is an XML object defined by the accompanying DTD or Schema that is described by the use of tags, parsed text, attributes, and entities. An element may consist of a start tag and a end tag or a single tag.
-
-<pre>
-<?xml version="1.0" standalone="no" ?>
-<army>
-    <ninja name="woody">
-        <inventory>
-            <nunchucks count="2" />
-            <cookies count="15" />
-        </inventory>
-    </ninja>
-</army>
-</pre>
-
-In this case, '''<army>''' represents a root element that contains a series of elements, in this example the element shown is a '''<ninja>'''. A ninja has an inventory that contains a certain number of nunchucks and a certain number of cookies. The number of cookies and nunchucks are defined by the attribute '''count'''. Note, the attribute values are in quotation marks, all well formed XML documents have their attributes quoted in that fashion either with single quotes ''' ' '''or double quotes '''"'''.
 
 == References ==
 <references/>
