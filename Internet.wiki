@@ -4,7 +4,9 @@
 
 The '''Internet''' is a "network of [[computer network|networks]]" best known as the global network the [[World Wide Web]] is run on. It is common to call the World Wide Web "the Internet" but this is not accurate. The Web is the Internet's best known and front-facing service; however there are literally hundreds of different [[protocols]], applications and services that run over the Internet.
 
-The research which led to the Internet was funded initially by the United States' [[Defense Advanced Research Projects Agency]] (DARPA), which was established in 1958 as the first U.S. response to the Soviet launching of [[Sputnik]]<ref name="DARPA1">{{cite web|url=http://www.darpa.mil/body/overtheyears.html|title=Defense Advanced Research Projects Agency|publisher=United States government|year=2003|accessdate=2007-05-12}}</ref>.  The first functional networks between individual computers were created in the early 1970s.  Many educational institutions and corporations began joining the network, and in 1983 all nodes on the so-called ARPANET changed over at once to a new [[protocol]], TCP/IP, which is still in use on the internet today.  The fundamental transport [[protocol]] for the internet has not changed substantially in more than twenty years.  However, it is on the verge of being "upgraded" in the near future, with a movement from version 4 (IPv4) to version 6 (IPv6) of TCP/IP.
+The research which led to the Internet was funded initially by the United States' [[Defense Advanced Research Projects Agency]] (DARPA), which was established in 1958 as the first U.S. response to the Soviet launching of [[Sputnik]]<ref name="DARPA1">{{cite web|url=http://www.darpa.mil/body/overtheyears.html|title=Defense Advanced Research Projects Agency|publisher=United States government|year=2003|accessdate=2007-05-12}}</ref>.  The first functional networks between individual computers were created in the early 1970s.  Many educational institutions and corporations began joining the network, and in 1983 all nodes on the ARPANET changed over at once to [[Internet Protocol version 4]] (IPv4), which is still in use on the internet today.  While this is often called "TCP/IP", those are two distinct protocols: [[Transmission Control Protocol]] (TCP), and IPv4.
+
+While IPv4 will be present indefinitely, it is limited in its capability for modern functions, and an evolution is in process to [[Internet Protocol version 6]] (IPv6). Internally, the Internet is divided into [[Autonomous System]]s, which exchange information about the destinations they can reach, using the [[Border Gateway Protocol]] (BGP).
 
 ==History==
 ===1950s to 1970s===
@@ -21,7 +23,7 @@ The research which led to the Internet was funded initially by the United States
 
 ==Related Topics==
 * The [[ARPANET]] was the Advanced Research Projects Agency network that evolved into today's Internet
-* The article on [[Computer networks]] for a general overview of computer networking
+* The article on [[Computer networks]] for a general overview of computer networking; see [[Computer networking reference models]] for a more technical overview.
 
 ==References==
 <references />
