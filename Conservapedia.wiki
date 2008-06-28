@@ -11,15 +11,3 @@ Conservapedia also emphasises that it does not "attempt to be [[neutrality|neutr
 <div class="references-2column">
 <references/>
 </div>
-
-==External links==
-*[http://www.conservapedia.com Conservapedia]
-*[http://www.conservapedia.com/Special:Popularpages Conservapedia: Popular pages] - list of the most-viewed pages; in July 2007, the top ten included articles on [[Scientology]], [[evolution]], [[astronomy]], [[homosexuality]] and [[unicorn]]s
-*[http://www.poli.ucalgary.ca/Flanagan.htm Tom Flanagan] - academic home page of [[political science|political scientist]] and conservative [http://www.thestar.com/sciencetech/article/190501 critic of Conservapedia]
-
-==See also==
-*[[Wikipedia]]
-*[[Citizendium]]
-*[[Wiki]]
-*[[Young earth creationism]]
-*[[Intelligent design]]
