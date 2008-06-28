@@ -1,6 +1,7 @@
 {{subpages}}
 
 ==Parent topics==
+{{r|American conservatism}}
 {{r|conservatism}}
 {{r|wiki}}
 
