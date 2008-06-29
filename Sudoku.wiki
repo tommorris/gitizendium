@@ -1,0 +1,3 @@
+{{subpages}}
+
+'''Sudoku''' is a game of logic that uses numerical symbols. The game consists of a 9x9 grid, with the individual 3x3 grids marked off with a bolder line between them. The aim of the game is to fill the 9x9 grid with numbers (although these numbers serve only as symbolic markers and could quite easily be letters or colors, as the game requires no calculation or mathematical ability) - each horizontal row must contain the numbers 1-9, each vertical row the same, and each 3x3 grid must have the 1-9 set. The grid is pre-filled with some numbers already, and the difficulty of the game is determined by how many pre-filled squares there are on the grid.
