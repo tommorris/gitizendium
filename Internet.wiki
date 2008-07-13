@@ -21,9 +21,7 @@ While IPv4 will be present indefinitely, it is limited in its capability for mod
 ==External Links==
 *"History of the Internet" sites abound in various places on the Internet, as seen by this [http://www.google.com/search?q=%22History+of+the+Internet%22 Google search]
 
-==Related Topics==
-* The [[ARPANET]] was the Advanced Research Projects Agency network that evolved into today's Internet
-* The article on [[Computer network]] for a general overview of computer networking; see [[Computer networking reference models]] for a more technical overview.
+
 
 ==References==
 <references />
