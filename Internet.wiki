@@ -4,7 +4,46 @@
 
 The '''Internet''' is a "network of [[computer network|networks]]" best known as the global network the [[World Wide Web]] is run on. It is common to call the World Wide Web "the Internet" but this is not accurate. The Web is the Internet's best known and front-facing service; however there are literally hundreds of different [[protocols]], applications and services that run over the Internet.
 
-The research which led to the Internet was funded initially by the United States' [[Defense Advanced Research Projects Agency]] (DARPA), which was established in 1958 as the first U.S. response to the Soviet launching of [[Sputnik]]<ref name="DARPA1">{{cite web|url=http://www.darpa.mil/body/overtheyears.html|title=Defense Advanced Research Projects Agency|publisher=United States government|year=2003|accessdate=2007-05-12}}</ref>.  The first functional networks between individual computers were created in the early 1970s.  Many educational institutions and corporations began joining the network, and in 1983 all nodes on the ARPANET changed over at once to [[Internet Protocol version 4]] (IPv4), which is still in use on the internet today.  While this is often called "TCP/IP", those are two distinct protocols: [[Transmission Control Protocol]] (TCP), and IPv4.
+The first functional networks between individual computers were created in the early 1970s. These networks, however, assumed the computers ran common software and protocols. Some of the networks were proprietary to computer vendors, such as IBM's Binary Synchronous Communications and the 1974 System Network Architecture, Xerox Network Services, Digital Equipment Corporation DECnet. [[X.25]] was a nonproprietary standard, but used a different architecture than would the [[datagram]] networks such as the ARPANET and Internet.
+
+
+Louis Pozin first introduced the idea of a generalized method of interconnecting networks of computers rather than individual computers, which he termed a '''catenet'''<ref name=Pouzin>{{citation
+ | author = Pouzin, L.
+ | title = A Proposal for Interconnecting Packet Switching Networks
+ | conference = Proceedings of EUROCOMP
+ | publisher = Bronel University
+ | date = May 1974 
+ | pages = 1023-36
+ | comment = not known to be online}}</ref>, but the model needed refinement. Such refinement took place under the sponsorship of the [[United States Department of Defense]]'s Advanced Research Project Agency (ARPA), later renamed the [[Defense Advanced Research Projects Agency]] (DARPA).  ARPA was formed to meet a number of perceived Cold War technology challenges, and was established in 1958 as the first U.S. response to the Soviet launching of [[Sputnik]]<ref name="DARPA1">{{cite web|url=http://www.darpa.mil/body/overtheyears.html|title=Defense Advanced Research Projects Agency|publisher=United States government|year=2003|accessdate=2007-05-12}}</ref>.
+
+Among ARPA's areas of interest was the interconnection of networks, under the management and inspiration of  J.C.R. Licklider 1915-1990<ref>{{citation
+ | title = Internet Pioneers: J.C.R. Licklider 
+ | url = http://www.ibiblio.org/pioneers/licklider.html}}</ref>, one of the pioneers of cooperative research. Vint Cerf extended Pouzin's catenet model as the basis for what was to become the [[ARPANET]]:<blockquote>The U.S.
+DARPA research project on this subject has adopted the term to
+mean roughly "the collection of packet networks which are
+connected together."  This is, however, not a sufficiently
+explicit definition to determine, for instance, whether a new
+network is in conformance with the rules for network
+interconnection which make the catenet function as confederation
+of co-operating networks.<ref name=CerfIEN48>{{
+ | id = IEN 48
+ | title = The Catenet Model for Internetworking
+ | first = Vint | last = Cerf
+ | date = July 1978
+ | url = }}</ref></blockquote>
+
+Cerf extended the concept of catenet to be usable in a specific research network, the ARPANET. ARPANET was the first large-scale "network of networks" using common mechanisms to interconnect disparate networks. It was funded through ARPA, and access was limited to selected universities, research organizations, and government agencies. Contrary to widespread legend, it was never intended to be a military network survivable under nuclear attack, although other, not necessarily packet-switching, networks, were intended for warfighting. starting as early as the 1963 SACCS, specific to the [[Strategic Air Command]].<ref name=SAC>{{citation
+ | title = Strategic Automated Command Control System
+ | url = http://www.fas.org/nuke/guide/usa/c3i/saccs.htm
+}} Other warfighting networks included the even earlier Minimum Essential Emergency Command Network (MEECN), which was made up of multiple networks that were interconnected only through human intervention.<ref name=MinotMEECN>{{citation
+ | first = Carla | last = Williams
+ | date = 17 November 2005
+ | title = Minot completes final MEECN modifications
+ | url = http://www.afspc.af.mil/news/story.asp?id=123024513}}</ref>  Even today, the military warfighting networks, such as [[NIPRNET]], [[SIPRNET]], [[JWICS]] and [[Warfighter Information Network]] are separate from the Internet. 
+
+Many educational institutions and corporations began joining the network, and in 1983 all nodes on the ARPANET changed over at once to [[Internet Protocol version 4]] (IPv4), which is still in use on the internet today.  While this is often called "TCP/IP", those are two distinct protocols: [[Transmission Control Protocol]] (TCP), and IPv4.
+
+There were several intermediate steps between the ARPANET, to which access was strictly controlled, and today's ubiquitous Internet. See [[#History|History]]
 
 While IPv4 will be present indefinitely, it is limited in its capability for modern functions, and an evolution is in process to [[Internet Protocol version 6]] (IPv6). Internally, the Internet is divided into [[Autonomous System]]s, which exchange information about the destinations they can reach, using the [[Border Gateway Protocol]] (BGP).
 
