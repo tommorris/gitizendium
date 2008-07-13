@@ -58,15 +58,15 @@ While IPv4 will be present indefinitely, it is limited in its capability for mod
 ===1980 to 1990===
 The Internet of the 1980s did not resemble what we know as the Internet today. The concept of a [[web browser]] and [[web pages]] linked together via [[hypertext]] had not invented yet. Piecemeal protocols were invented to facilitate chat, share files, and store information.
 
-*{{r|Gopher}}
+*{{r|Gopher (protocol)}}
 
-*{{r|Archie}}
+*{{r|Archie (protocol)}}
 
-*{{r|Veronica}}
+*{{r|Veronica (protocol)}}
 
-*{{r|FTP}}
+*{{r|File Transfer Protocol}}
 
-*{{r|Telnet}}
+*{{r|Telnet (protocol)}}
 
 ==Impact on Society==
 
