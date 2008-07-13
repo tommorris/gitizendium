@@ -25,7 +25,7 @@ connected together."  This is, however, not a sufficiently
 explicit definition to determine, for instance, whether a new
 network is in conformance with the rules for network
 interconnection which make the catenet function as confederation
-of co-operating networks.<ref name=CerfIEN48>{{
+of co-operating networks.<ref name=CerfIEN48>{{citation
  | id = IEN 48
  | title = The Catenet Model for Internetworking
  | first = Vint | last = Cerf
