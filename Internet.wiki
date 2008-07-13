@@ -35,7 +35,7 @@ of co-operating networks.<ref name=CerfIEN48>{{citation
 Cerf extended the concept of catenet to be usable in a specific research network, the ARPANET. ARPANET was the first large-scale "network of networks" using common mechanisms to interconnect disparate networks. It was funded through ARPA, and access was limited to selected universities, research organizations, and government agencies. Contrary to widespread legend, it was never intended to be a military network survivable under nuclear attack, although other, not necessarily packet-switching, networks, were intended for warfighting. starting as early as the 1963 SACCS, specific to the [[Strategic Air Command]].<ref name=SAC>{{citation
  | title = Strategic Automated Command Control System
  | url = http://www.fas.org/nuke/guide/usa/c3i/saccs.htm
-}} Other warfighting networks included the even earlier Minimum Essential Emergency Command Network (MEECN), which was made up of multiple networks that were interconnected only through human intervention.<ref name=MinotMEECN>{{citation
+}}</ref> Other warfighting networks included the even earlier Minimum Essential Emergency Command Network (MEECN), which was made up of multiple networks that were interconnected only through human intervention.<ref name=MinotMEECN>{{citation
  | first = Carla | last = Williams
  | date = 17 November 2005
  | title = Minot completes final MEECN modifications
