@@ -56,17 +56,17 @@ While IPv4 will be present indefinitely, it is limited in its capability for mod
 *[[Email]] was invented, then shortly thereafter [[Spam]] was invented. Ugh.
 
 ===1980 to 1990===
-The Internet of the 1980s did not resemble what we know as the Internet today. The concept of a [[web browser]] and [[web pages]] linked together via [[hypertext]] had not invented yet. Piecemeal protocols were invented to facilitate chat, share files, and store information.
-
-*{{r|Gopher (protocol)}}
+The Internet of the 1980s did not resemble what we know as the Internet today. The concept of a [[web browser]] and [[web pages]] linked together via [[hypertext]] had not been invented yet. Piecemeal protocols were invented to facilitate chat, share files, store and retrieve information.
 
 *{{r|Archie (search engine)}}
 
-*{{r|Veronica (search engine)}}
-
 *{{r|File Transfer Protocol}}
 
+*{{r|Gopher (protocol)}}
+
 *{{r|Telnet (protocol)}}
+
+*{{r|Veronica (search engine)}}
 
 ==Impact on Society==
 
