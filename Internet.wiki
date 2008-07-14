@@ -56,19 +56,22 @@ While IPv4 will be present indefinitely, it is limited in its capability for mod
 *[[Email]] was invented, then shortly thereafter [[Spam]] was invented. Ugh.
 
 ===1980 to 1990===
-The Internet of the 1980s did not resemble what we know as the Internet today. The concept of a [[web browser]] and [[web pages]] linked together via [[hypertext]] had not been invented yet. Piecemeal protocols were invented to facilitate chat, share files, store and retrieve information.
+If one assumes the [[World Wide Web]] is the Internet, the Internet of the 1980s did not resemble what we know as the Internet today. [[Hypertext]] had been invented by [[Ted Nelson]] around 1960, and hyperdocuments could be transferred as files. 
 
-{{r|Archie (search engine)}}
+Nevertheless, the Internet routed approximately same packets as today.  The Internet of the time was not a public resource, and the research and academic users collaborated productively using electronic mail, file transfer, news, and other services. 
 
-{{r|File Transfer Protocol}}
+Before [[AOL]] opened up [[USENET]] and other Internet resources in the late 80s, the Internet was first an environment for networking research, and second an environment to support other research and education. When anonymous access became common, the social environment changed radically. The environment was one of trust as well as collaboration; anonymous access was rare. 
 
-{{r|Gopher (protocol)}}
-
-{{r|Internet Relay Chat}}
-
-{{r|Telnet (protocol)}}
-
-{{r|Veronica (search engine)}}
+[[Malware]] such as [[worm]]s and [[virus]]es were rare; the first well-known breakin happened in 1986,<ref>{{citation
+ | author = Stoll, Cliff
+ | title = The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage
+ | publisher = Pocket | year = 1989}}</ref> and the Morris worm hit in 1988.<ref>{{citation
+ | contribution =Security of the Internet
+ | title = The Froehlich/Kent Encyclopedia of Telecommunications vol. 15. 
+ | publisher =Marcel Dekker
+ | year = 1997
+ | pages = 231-255
+ | url = http://www.cert.org/encyc_article/tocencyc.html}}</ref>
 
 ==Impact on Society==
 
