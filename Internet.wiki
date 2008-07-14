@@ -9,7 +9,7 @@ To the general public, the [[World Wide Web]] is the best-known application, but
 The Internet itself has no direct human interfaces; every user-visible function must go through a program resident on a client or server computer. There are literally hundreds of different [[protocols]], applications and services that run over the Internet.  [[Virtual Private Networks]] interconnecting the parts of individual enterprises, or sets of cooperating enterprises, overlay the Internet. A wide range of interconnected networks using the same protocols as the public Internet, but isolated from it, provide services ranging from passing orders to launch u, authorizing credit card purchases, collecting intelligence information, controlling the electric power grid, transferring medical images and even allowing remote surgery, etc. 
 
 To Internet operators, however, the public Internet is the set of interconnected, separately administered networks, which agree on conventions for addressing computers, and exchange information on reachability using the [[Border Gateway Protocol]]
-==Predecessors==
+==Formative concepts==
 The first functional networks between individual computers were created in the early 1970s. These networks, however, assumed the computers ran common software and protocols. Some of the networks were proprietary to computer vendors, such as IBM's Binary Synchronous Communications and the 1974 System Network Architecture, Xerox Network Services, Digital Equipment Corporation DECnet. [[X.25]] was a nonproprietary standard, but used a different architecture than would the [[datagram]] networks such as the ARPANET and Internet.
 
 Louis Pouzin first introduced the idea of a generalized method of interconnecting networks of computers rather than individual computers, which he termed a '''catenet'''<ref name=Pouzin>{{citation
@@ -35,7 +35,7 @@ of co-operating networks.<ref name=CerfIEN48>{{citation
  | title = The Catenet Model for Internetworking
  | first = Vint | last = Cerf
  | date = July 1978
- | url = }}</ref></blockquote>
+ | url = http://www.isi.edu/in-notes/ien/ien48.txt}}</ref></blockquote>
 
 Cerf extended the concept of catenet to be usable in a specific research network, the ARPANET. ARPANET was the first large-scale "network of networks" using common mechanisms to interconnect disparate networks. It was funded through ARPA, and access was limited to selected universities, research organizations, and government agencies. Contrary to widespread legend, it was never intended to be a military network survivable under nuclear attack, although other, not necessarily packet-switching, networks, were intended for warfighting. starting as early as the 1963 SACCS, specific to the [[Strategic Air Command]].<ref name=SAC>{{citation
  | title = Strategic Automated Command Control System
@@ -63,12 +63,18 @@ Among the first applications on the experimental networks was [[email]], on the 
 [[Hypertext]] had been invented by [[Ted Nelson]] around 1960, and hyperdocuments could be transferred as files; [[Tim Berners-Lee]] later pioneered dynamic access to hyperdocuments on servers, which was the start of the [[World Wide Web]].
 
 ===1975 to 1980===
+In 1979, the [[National Science Foundation]] established CSNET, to interconnect academic computer science departments and research institutions that were not eligible for ARPANET access.
 
 ===1980 to 1985===
-The early, experimental ARPANET evolved to the [[NSFNET]], originally a U.S. government funded network that linked five supercomputer centers. At these centers, authorized research and academic users could connect their networks and access both the supercomputers and other resources. <ref name=NSFNET>{{citation
+[[Tim Berners-Lee]], while a consulting engineer at CERN, wrote, for personal use, a program called ''Enquire''.  Enquire can reasonably be considered the first networked hypertext application, although it certainly did not have the extensive indexing structure that characterizes the modern Web.
+
+Specifically military research split off the ARPANET into MILNET in 1983, although there was controlled access, mostly from military to nonmilitary. Email could still pass fairly freely. There were a wide range of internal military networks using the technologies being researched. The research networks had their results shared, but the operational networks tended to suffer from the urban legend that people told about them had to die.
+
+Without any intended Orwellian symbolism, the early, experimental ARPANET. in 1984, evolved to the [[NSFNET]], originally a U.S. government funded network that linked five supercomputer centers. At these centers, authorized research and academic users could connect their networks and access both the supercomputers and other resources. <ref name=NSFNET>{{citation
  | url=http://www.nsf.gov/about/history/nsf0050/internet/launch.htm
  | title = The Launch of NSFNET
- | author = National Science Foundation}}</ref>
+ | author = National Science Foundation}}</ref> The centers were interconnected by what seemed, at the time, to be extremely fast 56 Kbps lines;  9.6 Kbps lines had been more of a limit for most other installations
+
 ===1985 to 1990===
 NSFNET did not allow commercial traffic, but there was a gradual creation of networks, often simple pairings, of various computers and networks over which traffic ineligible for the NSFNET passed. In the early nineties, an increasing number of IP networks were commercially available, which connected to one another, and to NSFNET, in many ways both official and unofficial. 
 
@@ -88,6 +94,13 @@ and the Morris worm hit in 1988.<ref>{{citation
  | pages = 231-255
  | url = http://www.cert.org/encyc_article/tocencyc.html}}</ref>
 
+1988 saw a major speed increase in NSFNET, going from what were then powerful and expensive 56 Kbps lines to 1.5 Mbps links more than 24 times faster. 
+
+[[Tim Berners-Lee]] made the first proposal, in 1989, for the beginnings of a recognizable World Wide Web, based on his 1980 research on networked hypertext, which built on Ted Nelson's 1960 research on local hypertext.
+===1990 to 1995===
+The ARPANET was officially turned off in 1990, but with many replacement networks. In 1990-1991, the general experience was that traffic, and especially the number of new network routes, was doubling approximately every five months, but router capacity was doubling every 18 months. [[Classless inter-domain routing]] (CIDR), a variant of IP, bought time for routers to catch up, by making routing more efficient. By 1995, Version 4 of the [[Border Gateway Protocol]], which fully supported CIDR, was operationa. 
+
+NSFNET, which had essentially given up the [[Acceptable Use Policy]] of no commercial traffic, shut down in 1995. The National Science Foundation did create a new restricted IP network for supercomputing and high performance networking research,  the Very High Speed Backbone Network Service (vBNS).
 ==Impact on Society==
 
 
