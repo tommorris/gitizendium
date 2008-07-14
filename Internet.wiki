@@ -41,7 +41,7 @@ Cerf extended the concept of catenet to be usable in a specific research network
  | title = Minot completes final MEECN modifications
  | url = http://www.afspc.af.mil/news/story.asp?id=123024513}}</ref>  Even today, the military warfighting networks, such as [[NIPRNET]], [[SIPRNET]], [[JWICS]] and [[Warfighter Information Network]] are separate from the Internet. 
 
-Many educational institutions and corporations began joining the network, and in 1983 all nodes on the ARPANET changed over at once to [[Internet Protocol version 4]] (IPv4), which is still in use on the internet today.  While this is often called "TCP/IP", those are two distinct protocols: [[Transmission Control Protocol]] (TCP), and IPv4.
+Many educational institutions and corporations began joining the network, and in 1983 all nodes on the ARPANET changed over at once to [[Internet Protocol version 4]] (IPv4), which is still in use on the internet today.  While this is often referred to as "TCP/IP", they are two distinct protocols: [[Transmission Control Protocol]] (TCP), and IPv4. In a literal sense the written term TCP/IP can be read aloud as "TCP over IP" and would be a correct description.
 
 There were several intermediate steps between the ARPANET, to which access was strictly controlled, and today's ubiquitous Internet. See [[#History|History]]
 
