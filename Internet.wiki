@@ -6,7 +6,7 @@ The '''Internet''' is a "network of [[computer network|networks]]" best known as
 
 To the general public, the [[World Wide Web]] is the best-known application, but many other applications, such as electronic mail and large percentage of telephone calls run over Internet protocols. Web browsers are perhaps the most common user programs that access the Internet, but web browsers translate human requests to the [[Hypertext Transfer Protocol]] that actually runs from browser to Web server. 
 
-The Internet itself has no direct human interfaces; every user-visible function must go through a program resident on a client or server computer. There are literally hundreds of different [[protocols]], applications and services that run over the Internet.  [[Virtual private networks]] interconnecting the parts of individual enterprises, or sets of cooperating enterprises, overlay the Internet. A wide range of interconnected networks using the same protocols as the public Internet, but isolated from it, provide services ranging from passing military commands, authorizing credit card purchases, collecting intelligence information, controlling the electric power grid, transferring medical images and even allowing remote surgery, etc. 
+The Internet itself has no direct human interfaces; every user-visible function must go through a program resident on a client or server computer. There are literally hundreds of different [[protocols]], applications and services that run over the Internet.  [[Virtual Private Networks]] interconnecting the parts of individual enterprises, or sets of cooperating enterprises, overlay the Internet. A wide range of interconnected networks using the same protocols as the public Internet, but isolated from it, provide services ranging from passing orders to launch u, authorizing credit card purchases, collecting intelligence information, controlling the electric power grid, transferring medical images and even allowing remote surgery, etc. 
 
 To Internet operators, however, the public Internet is the set of interconnected, separately administered networks, which agree on conventions for addressing computers, and exchange information on reachability using the [[Border Gateway Protocol]]
 ==Predecessors==
@@ -54,14 +54,23 @@ While IPv4 will be present indefinitely, it is limited in its capability for mod
 
 ==History==
 ===1950s to 1970s===
+Among the first applications on the experimental networks was [[email]], on the ARPANET as well as vendor-proprietary networks and early commercial packet-switching networks such as [[TELENET]] and [[TYMNET]]. The latter networks used the [[X.25]] protocol that mimicked telephone calls, creating paths for each sender-receiver connection, as opposed to the connectionless Internet Protocol and its ancestors. Commercial email networks using X.25 were operational in 1972.
+
 *[[DARPA]]
 *[[BBN]] - Bolt, Barenek and Newman
 *[[NCP (ARPANET)]]
-===1975 to 1980===
-*[[Email]] was invented, then shortly thereafter [[Spam]] was invented. Ugh.
 
-===1980 to 1990===
-If one assumes the [[World Wide Web]] is the Internet, the Internet of the 1980s did not resemble what we know as the Internet today. [[Hypertext]] had been invented by [[Ted Nelson]] around 1960, and hyperdocuments could be transferred as files. 
+[[Hypertext]] had been invented by [[Ted Nelson]] around 1960, and hyperdocuments could be transferred as files; [[Tim Berners-Lee]] later pioneered dynamic access to hyperdocuments on servers, which was the start of the [[World Wide Web]].
+
+===1975 to 1980===
+
+===1980 to 1985===
+The early, experimental ARPANET evolved to the [[NSFNET]], originally a U.S. government funded network that linked five supercomputer centers. At these centers, authorized research and academic users could connect their networks and access both the supercomputers and other resources. <ref name=NSFNET>{{citation
+ | url=http://www.nsf.gov/about/history/nsf0050/internet/launch.htm
+ | title = The Launch of NSFNET
+ | author = National Science Foundation}}</ref>
+===1985 to 1990===
+NSFNET did not allow commercial traffic, but there was a gradual creation of networks, often simple pairings, of various computers and networks over which traffic ineligible for the NSFNET passed. In the early nineties, an increasing number of IP networks were commercially available, which connected to one another, and to NSFNET, in many ways both official and unofficial. 
 
 Nevertheless, the Internet routed approximately same packets as today.  The Internet of the time was not a public resource, and the research and academic users collaborated productively using electronic mail, file transfer, news, and other services. 
 
@@ -70,7 +79,8 @@ Before [[AOL]] opened up [[USENET]] and other Internet resources in the late 80s
 [[Malware]] such as [[worm]]s and [[virus]]es were rare; the first well-known breakin happened in 1986,<ref>{{citation
  | author = Stoll, Cliff
  | title = The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage
- | publisher = Pocket | year = 1989}}</ref> and the Morris worm hit in 1988.<ref>{{citation
+ | publisher = Pocket | year = 1989}}</ref> 
+and the Morris worm hit in 1988.<ref>{{citation
  | contribution =Security of the Internet
  | title = The Froehlich/Kent Encyclopedia of Telecommunications vol. 15. 
  | publisher =Marcel Dekker
@@ -83,4 +93,4 @@ Before [[AOL]] opened up [[USENET]] and other Internet resources in the late 80s
 
 
 ==References==
-<references />
+{{reflist | 2}}
