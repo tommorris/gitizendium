@@ -2,12 +2,17 @@
 
 [[Image:Internet map 1024.jpg|right|thumb|250px|A map graphically displaying interconnections on the Internet (known as [[Router|routes]])]]
 
-The '''Internet''' is a "network of [[computer network|networks]]" best known as the global network on which the [[World Wide Web]] is run. It is common to call the World Wide Web "the Internet" but this is not accurate. The Web is the Internet's best known and front-facing service; however there are literally hundreds of different [[protocols]], applications and services that run over the Internet.
+The '''Internet''' is a "network of [[computer network|networks]]" best known as the global network on which a wide range of applications and networking experiments run, using technologies of the [[Internet Protocol Suite]].
 
+To the general public, the [[World Wide Web]] is the best-known application, but many other applications, such as electronic mail and large percentage of telephone calls run over Internet protocols. Web browsers are perhaps the most common user programs that access the Internet, but web browsers translate human requests to the [[Hypertext Transfer Protocol]] that actually runs from browser to Web server. 
+
+The Internet itself has no direct human interfaces; every user-visible function must go through a program resident on a client or server computer. There are literally hundreds of different [[protocols]], applications and services that run over the Internet.  [[Virtual private networks]] interconnecting the parts of individual enterprises, or sets of cooperating enterprises, overlay the Internet. A wide range of interconnected networks using the same protocols as the public Internet, but isolated from it, provide services ranging from passing military commands, authorizing credit card purchases, collecting intelligence information, controlling the electric power grid, transferring medical images and even allowing remote surgery, etc. 
+
+To Internet operators, however, the public Internet is the set of interconnected, separately administered networks, which agree on conventions for addressing computers, and exchange information on reachability using the [[Border Gateway Protocol]]
+==Predecessors==
 The first functional networks between individual computers were created in the early 1970s. These networks, however, assumed the computers ran common software and protocols. Some of the networks were proprietary to computer vendors, such as IBM's Binary Synchronous Communications and the 1974 System Network Architecture, Xerox Network Services, Digital Equipment Corporation DECnet. [[X.25]] was a nonproprietary standard, but used a different architecture than would the [[datagram]] networks such as the ARPANET and Internet.
 
-
-Louis Pozin first introduced the idea of a generalized method of interconnecting networks of computers rather than individual computers, which he termed a '''catenet'''<ref name=Pouzin>{{citation
+Louis Pouzin first introduced the idea of a generalized method of interconnecting networks of computers rather than individual computers, which he termed a '''catenet'''<ref name=Pouzin>{{citation
  | author = Pouzin, L.
  | title = A Proposal for Interconnecting Packet Switching Networks
  | conference = Proceedings of EUROCOMP
