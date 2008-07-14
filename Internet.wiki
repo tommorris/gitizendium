@@ -2,7 +2,7 @@
 
 [[Image:Internet map 1024.jpg|right|thumb|250px|A map graphically displaying interconnections on the Internet (known as [[Router|routes]])]]
 
-The '''Internet''' is a "network of [[computer network|networks]]" best known as the global network the [[World Wide Web]] is run on. It is common to call the World Wide Web "the Internet" but this is not accurate. The Web is the Internet's best known and front-facing service; however there are literally hundreds of different [[protocols]], applications and services that run over the Internet.
+The '''Internet''' is a "network of [[computer network|networks]]" best known as the global network on which the [[World Wide Web]] is run. It is common to call the World Wide Web "the Internet" but this is not accurate. The Web is the Internet's best known and front-facing service; however there are literally hundreds of different [[protocols]], applications and services that run over the Internet.
 
 The first functional networks between individual computers were created in the early 1970s. These networks, however, assumed the computers ran common software and protocols. Some of the networks were proprietary to computer vendors, such as IBM's Binary Synchronous Communications and the 1974 System Network Architecture, Xerox Network Services, Digital Equipment Corporation DECnet. [[X.25]] was a nonproprietary standard, but used a different architecture than would the [[datagram]] networks such as the ARPANET and Internet.
 
