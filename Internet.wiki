@@ -64,6 +64,8 @@ The Internet of the 1980s did not resemble what we know as the Internet today. T
 
 *{{r|Gopher (protocol)}}
 
+*{{r|Internet Relay Chat}}
+
 *{{r|Telnet (protocol)}}
 
 *{{r|Veronica (search engine)}}
