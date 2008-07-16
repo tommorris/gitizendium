@@ -8,7 +8,7 @@ To the general public, the [[World Wide Web]] is the best-known application, but
 
 The Internet itself has no direct human interfaces; every user-visible function must go through a program resident on a client or server computer. There are literally hundreds of different [[protocol (computer)|protocols]], applications and services that run over the Internet.  [[Virtual private network]]s interconnecting the parts of individual enterprises, or sets of cooperating enterprises, overlay the Internet. A wide range of interconnected networks using the same protocols as the public Internet, but isolated from it, provide services ranging from passing orders to launch u, authorizing credit card purchases, collecting intelligence information, controlling the electric power grid, transferring medical images and even allowing remote surgery, etc. 
 
-To Internet operators, however, the public Internet is the set of interconnected, separately administered networks, which agree on conventions for addressing computers, and exchange information on reachability using the [[Border Gateway Protocol]]
+To Internet operators, however, the public Internet is the set of interconnected, separately administered networks, work through [[address registry|addressing registries]] to ensure unique addresses, and exchange information on reachability using the [[Border Gateway Protocol]]
 ==Formative concepts==
 The first functional networks between individual computers were created in the early 1970s. These networks, however, assumed the computers ran common software and protocols. Some of the networks were proprietary to computer vendors, such as IBM's Binary Synchronous Communications and the 1974 System Network Architecture, Xerox Network Services, Digital Equipment Corporation DECnet. [[X.25]] was a nonproprietary standard, but used a different architecture than would the [[datagram]] networks such as the ARPANET and Internet.
 
@@ -37,7 +37,16 @@ of co-operating networks.<ref name=CerfIEN48>{{citation
  | date = July 1978
  | url = http://www.isi.edu/in-notes/ien/ien48.txt}}</ref></blockquote>
 
-Cerf extended the concept of catenet to be usable in a specific research network, the ARPANET. ARPANET was the first large-scale "network of networks" using common mechanisms to interconnect disparate networks. It was funded through ARPA, and access was limited to selected universities, research organizations, and government agencies. Contrary to widespread legend, it was never intended to be a military network survivable under nuclear attack, although other, not necessarily packet-switching, networks, were intended for warfighting. starting as early as the 1963 SACCS, specific to the [[Strategic Air Command]].<ref name=SAC>{{citation
+Cerf extended the concept of catenet to be usable in a specific research network, the ARPANET. ARPANET was the first large-scale "network of networks" using common mechanisms to interconnect disparate networks. It was funded through ARPA, and access was limited to selected universities, research organizations, and government agencies. 
+
+Contrary to widespread legend, it was never intended to be a military network survivable under nuclear attack, although other, not necessarily packet-switching, networks, were intended for warfighting. [[Paul Baran]], at the [[Rand Corporation]], is usually associated with the idea of survivable routed networks.<ref name=Baran-Dist101>{{citation
+ | url = http://www.rand.org/pubs/research_memoranda/RM3420/
+ | author = Baran, Paul
+ | id = Rand RM-3420-PR
+ | title = On Distributed Communications: I. Introduction to Distributed Communications Networks
+ | year = 1964}}</ref>  Baran's extensive work influenced the development of packet switching, but there are distinctions between his contributions to the technology and to his solutions to specific military problems.
+
+High-availability, but not necessarily packet-switching, nuclear command networks started as early as the 1963 SACCS, specific to the [[Strategic Air Command]].<ref name=SAC>{{citation
  | title = Strategic Automated Command Control System
  | url = http://www.fas.org/nuke/guide/usa/c3i/saccs.htm
 }}</ref> Other warfighting networks included the even earlier Minimum Essential Emergency Command Network (MEECN), which was made up of multiple networks that were interconnected only through human intervention.<ref name=MinotMEECN>{{citation
@@ -54,10 +63,14 @@ While IPv4 will be present indefinitely, it is limited in its capability for mod
 
 ==History==
 ===1950s to 1970s===
+In 1968, ARPA contracted with [[Bolt, Beranek and Newman]] to build the ARPANET Network Management Center and the Interface Message Processor (IMP) routers, although the term "router" had not yet been coined.
+
+The first testing of live [[ARPANET]] components started on  August 30, 1969, when BBN delivered the first customer IMP to an ARPANET site ([[Leonard Kleinrock]]'s lab at UCLA). A one-IMP ARPANET was still meaningful, because it allowed testing of the host computer interface to the IMP. Installation of the second IMP at the Stanford Research Institute (SRI) on 29 October 1969, and testing of IMP-IMP protocols began: the first wide-area [[routing]] system.
+
 Among the first applications on the experimental networks was [[email]], on the ARPANET as well as vendor-proprietary networks and early commercial packet-switching networks such as [[TELENET]] and [[TYMNET]]. The latter networks used the [[X.25]] protocol that mimicked telephone calls, creating paths for each sender-receiver connection, as opposed to the connectionless Internet Protocol and its ancestors. Commercial email networks using X.25 were operational in 1972.
 
 *[[DARPA]]
-*[[BBN]] - Bolt, Barenek and Newman
+*[[BBN]] - Bolt, Beranek and Newman
 *[[NCP (ARPANET)]]
 
 [[Hypertext]] had been invented by [[Ted Nelson]] around 1960, and hyperdocuments could be transferred as files; [[Tim Berners-Lee]] later pioneered dynamic access to hyperdocuments on servers, which was the start of the [[World Wide Web]].
