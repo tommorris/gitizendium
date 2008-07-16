@@ -1,6 +1,6 @@
 {{subpages}}
 
-[[Image:Internet map 1024.jpg|right|thumb|250px|A map graphically displaying interconnections on the Internet (known as [[Router|routes]])]]
+[[Image:Internet map 1024.jpg|right|thumb|250px|A map graphically displaying interconnections on the public Internet (known as [[Router|routes]]). These routes are managed via the dynamic [[routing protocol]] [[Border Gateway Protocol]]]]
 
 The '''Internet''' is a "network of [[computer network|networks]]" best known as the global network on which a wide range of applications and networking experiments run, using technologies of the [[Internet Protocol Suite]].
 
