@@ -2,7 +2,7 @@
 
 [[Image:Internet map 1024.jpg|right|thumb|250px|A map graphically displaying interconnections on the public Internet (known as [[Router|routes]]). These routes are managed via the dynamic [[routing protocol]] [[Border Gateway Protocol]]]]
 
-The '''Internet''' is a "network of [[computer network|networks]]" best known as the global network on which a wide range of applications and networking experiments run, using technologies of the [[Internet Protocol Suite]].
+The '''Internet''' is a "network of [[computer network|networks]]" best known as the global network on which a wide range of applications and networking experiments runs, using technologies of the [[Internet Protocol Suite]].
 
 To the general public, the [[World Wide Web]] is the best-known application, but many other applications, such as electronic mail and a large percentage of telephone calls run over Internet protocols. Web browsers are perhaps the most common user programs that access the Internet, but web browsers translate human requests to the [[Hypertext Transfer Protocol]] that actually runs from browser to Web server. 
 
