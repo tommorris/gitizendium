@@ -1,0 +1,22 @@
+{{subpages}}
+
+==Parent topics==
+{{r|philosophy}}
+
+==Subtopics==
+{{r|causation}}
+{{r|dualism}}
+{{r|existence}}
+{{r|free will}}
+{{r|identity (philosophy)}}
+{{r|monism}}
+{{r|ontology}}
+{{r|persistence through time}}
+{{r|possible worlds}}
+{{r|time}}
+{{r|universals}}
+
+==Other related topics==
+{{r|Aristotle}}
+{{r|David Lewis}}
+{{r|theology}}
