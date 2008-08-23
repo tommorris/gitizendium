@@ -6,15 +6,16 @@ Nietzsche's father, Carl Ludwig Nietzsche (1813-1849), a teacher and Lutheran pa
 
 == Nietzsche's thought ==
 
-Unlike [[Georg Wilhelm Friedrich Hegel|Hegel]], Nietzsche's thought is unsystematic and sometimes quite difficult to understand. Nietzsche's impressive literary style serves as much to reveal aspects of his thought as to cover them up. At points, for instance, the reader is treated to quite clear philosophical discussion of topics like [[morality]] and [[ethics]], and at other points, we have coded [[aphorism|aphorisms]] and even [[narrative]] fiction - in the case of ''[[Thus Spake Zarathustra]]''.
+Unlike [[Georg Wilhelm Friedrich Hegel|Hegel]], Nietzsche's thought is unsystematic and sometimes quite difficult to understand. Nietzsche's impressive literary style - inspired, perhaps, by his reading of [[Arthur Schopenhaeur]]'s ''[[The World as Will and Representation]]'' - serves as much to reveal aspects of his thought as to cover them up. At points, for instance, the reader is treated to quite clear philosophical discussion of topics like [[morality]] and [[ethics]], and at other points, we have coded [[aphorism|aphorisms]] and even [[narrative]] epic fiction - in the case of ''[[Thus Spake Zarathustra]]'', which parodies the style of the Bible.
 
 There are some common elements or threads to this though.
 
 === Truth and Lying ===
 
-There are some strands of Nietzsche's writing which coalesce into a broad method which some have described as ''perspectivism''<ref>Nate Olson, [http://www.stolaf.edu/depts/philosophy/reed/2001/perspectivism.html Perspectivism and Truth in Nietzsche’s Philosophy: A Critical Look at the Apparent Contradiction]</ref> This is usually based on an essay entitled ''Truth and Lie in an Extra-Moral Sense''[http://www.geocities.com/thenietzschechannel/tls.htm].
+There are some strands of Nietzsche's writing which coalesce into a broad method which some have described as ''perspectivism''<ref>Nate Olson, [http://www.stolaf.edu/depts/philosophy/reed/2001/perspectivism.html Perspectivism and Truth in Nietzsche’s Philosophy: A Critical Look at the Apparent Contradiction]</ref>. This is usually based on an essay entitled ''Truth and Lie in an Extra-Moral Sense''<ref>Available on the Web [http://www.geocities.com/thenietzschechannel/tls.htm here]</ref>, but his perspectivism appears elsewhere:
+<blockquote>The falseness of a judgement is to us not necessarily an objection to a judgement... The question is to what extent it is life-advancing, life-preserving, species-preserving, perhaps even species-breeding<ref>Friedrich Nietzsche, ''Beyond Good and Evil'', §4</ref></blockquote>
 
-=== Morality and The Will to Power ===
+=== Morality, religion and The Will to Power ===
 
 Nietzsche is critical of the concept of morality as a universal or God-given ideal, describing how it is in fact caused by a '''will to power''' - that is, it is based on human desires and power rather than on moral ideals. His method here is '''genealogical''' - by describing possible scenarios in which morality could have came to be. The genealogical critique would later be taken up by [[Michel Foucault]].
 
@@ -26,7 +27,12 @@ A controversial and frequently misunderstood component of Nietzsche's writings i
 
 === Eternal Recurrence ===
 
-Another concept that is difficult to get one's head around in Nietzsche is the idea of eternal recurrence. Nietzsche uses it almost as an existential thought experiment. The scenario goes that a demon or a god says to you that your life will repeat for the rest of eternity, over and over again, with the same events happening in the same ways in every iteration. Would such an afterlife be acceptable to a person? Nietzsche thought that a person who had crossed the bridge and become an ''übermensch'' would see glory in such eternal recurrence, but that for most it would be unacceptable. It is also possible to see eternal recurrence as a parody of conceptions of heaven and salvation.
+Another concept that is difficult to understand in Nietzsche is the idea of eternal recurrence. Nietzsche uses it almost as an existential thought experiment. The scenario goes that a demon or a god says to you that your life will repeat for the rest of eternity, over and over again, with the same events happening in the same ways in every iteration. Would such an afterlife be acceptable to a person? Nietzsche thought that a person who had crossed the bridge and become an ''übermensch'' would see glory in such eternal recurrence, but that for most it would be unacceptable. It is also possible to see eternal recurrence as a parody of conceptions of heaven and salvation.
+
+The concept of eternal recurrence is best defined by one passage in Nietzsche's ''The Gay Science'' which is titled "The heaviest burden":
+<blockquote>What if a demon crept after you one day or night in your loneliest solitude and said to you: 'This life, as you live it now and have lived it, you will have to live again and again, times without number; and there will be nothing new in it, but every pain and every joy and every thought and sigh and all the unspeakably small and great in your life must return to you, and everything in the same series and sequence - and in the same way this spinder and this moonlight among the trees, and in the same way this moment and I myself. The eternal hour-glass of existence will be turned again and again - and you with it, you dust of dust!' - Would you not throw yourself down and gnash your teeth and curse the demon who thus spoke? Or have you experienced a tremendous moment in which you would have answered him: 'You are a god and never did I hear anything more divine!' If this thought gained power over you it would, as you are now, transform and perhaps crush you; the qeustion in all and everything: 'do you want this again and again, times without number?' would lie as te heaviest burden upon all your actions. Or how well disposed towards yourself and towards life would you have to become to have ''no greater desire'' than for this ultimate eternal sanction and seal?<ref>Friedrich Nietzsche, ''The Gay Science'', §341</ref></blockquote>
+
+In ''Ecce Homo'', Nietzsche describes this as ''amor fati'' - love of fate - "one wants nothing other than it is, not in the future, not in the past, not in all eternity"<ref>Friedrich Nietzsche, ''Ecce Homo'', §10 in 'Why I Am So Clever'</ref>.
 
 The concept of eternal recurrence has been used in a variety of films, plays and books including [[K-PAX]] and [[Groundhog Day]].
 
@@ -36,7 +42,7 @@ Some have seen Nietzsche as a kind of proto-Nazi thinker, mapping his concept of
 
 Partly because of it's alleged Nazism and also because of Nietzsche's atheism, his work has been censured. It was mentioned as a dangerous and immoral terminus that could be reached if [[evolution]] was taught in the [[Scopes trial]] in the 1920s in [[Tennessee]].
 
-Nietzsche has been seen as a freeing and demystifying author by many, sometimes even as a ''Christian'' author, although the latter is rather harder to accept for many. Recently, some Christian writers have suggested that they would prefer to see atheists more as Nietzscheans than rationalists - it is difficult to see whether they would prefer more them to be more intellectually stimulating or as easier fodder for critique. Others see Nietzsche as not worthy of the title of philosopher, dismissing him as simply teenage 'rebel' fodder.
+Nietzsche has been seen as a freeing and demystifying author by many, sometimes even as a ''Christian'' author (his work is foundational for those in the [[Death of God theology]] movement of the 1960s), although the latter is rather harder to accept for many. Recently, some Christian writers have suggested that they would prefer to see atheists more as Nietzscheans than rationalists - it is difficult to see whether they would prefer more them to be more intellectually stimulating or as easier fodder for critique. Others see Nietzsche as not worthy of the title of philosopher, dismissing him as simply teenage 'rebel' fodder.
 
 == References ==
 <references />
