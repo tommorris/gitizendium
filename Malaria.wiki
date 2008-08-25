@@ -1,0 +1,28 @@
+{{subpages}}
+{{TOC-right}}
+'''Malaria''', caused by four species of ''Plasmodium'' [[protozoa]] and spread by mosquitoes, causes more deaths, worldwide, than any other vector-borne disease. Coping with malaria must be a two-pronged strategy of preventing and treating the disease in humans, and eradicating the disease-carrying mosquito vectors.  The [[World Health Organization]] considers it the greatest problem among tropical diseases:<ref name=WHOfact>{{citation
+ | url = http://www.who.int/mediacentre/factsheets/fs094/en/index.html
+ | author = World Health Organization
+ | title = Malaria}}</ref>
+*Malaria is both preventable and curable.
+*A child dies of malaria every 30 seconds.
+*More than one million people die of malaria every year, mostly infants, young children and pregnant women and most of them in Africa
+[[Image:Map us malaria vectors.png|thumb|left|Areas where malaria could re-establish in the U.S]]
+Developed countries cannot be complacent. The vector is present in many parts of the world, and refugees from endemic areas potentially can introduce it, as shown in he U.S. map with areas that have the appropriate mosquitoes. While malaria, in the U.S.,  there are 1500 cases of malaria annually in the U.S., which could get into the mosquito population.<ref name=CDC-malaria>{{citation
+ | url = http://www.cdc.gov/malaria/features/refugees.htm
+ | title = Malaria
+ | author = Centers for Disease Control}}</ref>
+==Etiology==
+The protozoa are carried in the saliva of ''Anopheles'' [[mosquito|mosquitoes]], which reproduce in stagnant water. 
+==Prevention==
+Simple mechanical means are the starting point in controlling them: minimizing standing water and using netting. Appropriate insecticide and insect repellents have a role, although resistance to the main insecticides, [[DDT]] and [[pyrethrins]], is increasing and there are o immediate alternatives. The basic techniques can be enhanced with :
+*Indoor Residual Spraying of long-acting insecticide (IRS)
+*Long-Lasting Insecticidal Nets (LLINs). 
+
+Integrated Vector Management (IVM) strategies to kill the developing larvae have to be tailored to each environment. These are long-term activities needing long-term funding and political commitment.
+
+While there is no vaccine, chemoprophylaxis can be effective, although, as with the use of anti-malarial drugs to treat active infection, drug resistance is an increasing problem.
+==Treatment==
+While malaria is so common, in many areas of Africa, that fever and chills are routinely treated with antimalarial drugs, in the industrialized world, it is principally a disease of travelers. Clinicians encountering possible malaria must maintain a high index of suspicion, and be sure to take travel histories.
+==References==
+{{reflist}}
