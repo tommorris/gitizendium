@@ -8,7 +8,9 @@
 *A child dies of malaria every 30 seconds.
 *More than one million people die of malaria every year, mostly infants, young children and pregnant women and most of them in Africa
 [[Image:Map us malaria vectors.png|thumb|left|Areas where malaria could re-establish in the U.S]]
-Developed countries cannot be complacent. The vector is present in many parts of the world, and refugees from endemic areas potentially can introduce it, as shown in he U.S. map with areas that have the appropriate mosquitoes. While malaria, in the U.S.,  there are 1500 cases of malaria annually in the U.S., which could get into the mosquito population.<ref name=CDC-malaria>{{citation
+Developed countries cannot be complacent. It has been assessed as a world threat in analysis a [[U.S. intelligence and global health|U.S. National Intelligence Estimate]].
+
+The mosquito vector is present in many parts of the world, and refugees from endemic areas potentially can introduce it, as shown in he U.S. map with areas that have the appropriate mosquitoes. While malaria, in the U.S.,  there are 1500 cases of malaria annually in the U.S., which could get into the mosquito population.<ref name=CDC-malaria>{{citation
  | url = http://www.cdc.gov/malaria/features/refugees.htm
  | title = Malaria
  | author = Centers for Disease Control}}</ref>  five cases of malaria were diagnosed in 2007, among [[Burundia|Burundian]] refugees who had settled in the state of Washington, in the western United States. <ref name=MMWR2008-08-14>{{citation
@@ -16,6 +18,8 @@ Developed countries cannot be complacent. The vector is present in many parts of
  | journal = Morbidity and Mortality Weekly Report
  | date = August 14, 2008
  | title = Malaria in Refugees from Tanzania – King County, Washington, 2007}}</ref>
+
+Further, while mosquitoes are the natural vector, malaria certainly can be spread through shared hypodermic needles, either from [[intravenous drug abuse]], or in areas where the healthcare system cannot afford either disposable hypodermics or proper sterilization.
 ==Etiology==
 The protozoa, of the genus ''Plasmodium'', are carried in the saliva of ''Anopheles'' [[mosquito|mosquitoes]], which reproduce in stagnant water. There are four species: ''P. falciparum, P. vivax, P. ovale,'' and ''P. malariae''.
 
@@ -72,4 +76,4 @@ who have one or more of the following clinical criteria
 *[[disseminated intravascular coagulation]] or spontaneous bleeding or hemoglobinuria, *[[jaundice]]  
 *blood parasite load of > 5%
 ==References==
-{{reflist}}
+{{reflist|2}}
