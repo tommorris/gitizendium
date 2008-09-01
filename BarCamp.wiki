@@ -1,0 +1,6 @@
+{{subpages}}
+
+'''BarCamp''' is a network of free technology [[unconference|unconferences]] organized on the Internet. The first BarCamp was organised in [[Palo Alto]], [[California]], in August 2005, as a response to [[O'Reilly Publishing|O'Reilly's]] invite-only [[FooCamp]]. The BarCamp concept has spread across the whole world, and spin-off camps have started on a variety of topics. The sessions given are not pre-planned - rather, the schedule is determined when the event starts as people add sessions to a board.
+
+== Spin-offs ==
+The [[WordPress]] blogging software has led to [[WordCamp]], the [[PHP programming language|PHP]] content management system [[Drupal]] has spawned [[DrupalCamp]], [[JavaCamp]] for users of the [[Java programming language]], [[RailsCamp]] for [[Ruby programming language|Ruby]] and [[Ruby on Rails|Rails]] developers, [[PodCamp]] for [[podcasting]], the [[Semantic Web]] community has [[SemanticCamp]] and [[VoCamp]], the startup community has [[DemoCamp]]. Some BarCamp organisers have setup events for non-technical topics - [[TransitCamp]] is an event where people discuss public transport systems and try to make them better, [[HeroCamp]] tries to get those with technical skills to volunteer in education and other public roles. There have been some 'dev' camps for developers - [[LinuxDevCamp]] and [[iPhoneDevCamp]].
