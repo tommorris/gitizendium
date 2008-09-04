@@ -8,9 +8,21 @@
 ==Subtopics==
 
 ==Other related topics==
-{{r|Citizendium}}
 {{r|home education}}
-{{r|MediaWiki}}
 {{r|Andrew Schlafly}}
 {{r|Phyllis Schlafly}}
+
+===Other encyclopedia/large knowledge compendia===
 {{r|Wikipedia}}
+{{r|Encyclopaedia Britannica}}
+{{r|Citizendium}}
+{{r|Scholarpedia}}
+{{r|Digital Universe}}
+{{r|Encyclopedia of Earth}}
+{{r|Encyclopedia of Life}}
+
+
+===Other huge wiki-based projects===
+{{r|Wikinews}}
+{{r|Wikitravel}}
+{{r|MediaWiki}}
