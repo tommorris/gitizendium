@@ -1,15 +1,25 @@
 {{subpages}}
 '''Police''' are local, regional, or national governmental personnel who are responsible for investigating crimes and arresting criminal suspects, reducing the incidence of criminal acts, managing vehicular traffic and responding to accidents, and a variety of emergency services dependent on local needs and policies. They are principally responsible for domestic criminal matters, although certain police agencies may have anti-terrorist or paramilitary roles.
 
-Again depending on local law and custom, they may operate [[prison]]s, but will almost always have temporary secure holding facilities, often called jails, for suspects.
-==Investigative functions==
+== The role of police ==
+In most police systems in the Western world, there tends to be a split between the patrolling role of police - handled by uniformed officers - and the investigatory role of [[detective]]s. The role of the uniformed patrol officer - the "bobby on the beat" in Britain - can include crowd control and public order as well as apprehension of those breaking the law.
+
+Depending on local law and custom, they may operate [[prison]]s, but will almost always have temporary secure holding facilities, often called jails, for suspects.
+
+=== Investigative functions ===
 While it may be immediately obvious who committed a crime, it also may be quite difficult to determine the perpetrator, and specialists called [[detective]]s or criminal investigators may become involved in the inquiry. Increasingly, [[forensic]] techniques, involving the use of scientific techniques to discover and characterize evidence.
 
-Investigators may specialize in certain types of crimes, such as [[murder]], [[sexual offense]]s, [[drug abuse]], [[forgery]], etc. 
+Investigators may specialize in certain types of crimes, such as [[murder]], [[sexual offense]]s, [[drug abuse]], [[forgery]], etc.
+
 ==Civil rights==
 The role of the police towards civil and criminal rights varies widely. In some case, police may actively investigate and enforce civil rights violations. They may be constrained by rules in how they may interrogate prisoners and collect evidence.
 
 In some countries, however, "secret police" or "political police" may be among the worst violators. [[Gestapo]], derived from the German (originally Prussian) "secret state police" has become synonymous with abuse.
+
+== The politics of policing ==
+The political nature of police resource allocation has been controversial in recent years: many consider the heavy focus on arresting drug users to be a waste of time, distracting the police from dealing with the underlying causes of drug use - arresting dealers, or attempting to break apart gangs and protection rackets. In some European countries, drug use has changed from being an issue of criminal justice to one of health intervention on these kinds of principles.
+
+As any human institution does, the police makes mistakes and sometimes contains corruption and other undesirable traits of human character. Police attitudes to racial minorities have often been a subject of intense criticism and debate. The [[Rodney King]] incident in 1991 created outrage at the brutality showed towards King by six [[Los Angeles Police Department]] officers. The death of [[Stephen Lawrence]], a black British teenager, in 1993 led to a report by Sir William MacPherson which dubbed London's [[Metropolitan Police]] as "institutionally racist".
 
 ==Specialized jurisdictions==
 [[Military police]] may have authority only over military personnel, but often have role in maintaining order in occupied areas after combat troops have left. In the [[Iraq War]], military police often escort convoys and can take on a combat role very much like that of [[infantry]].
