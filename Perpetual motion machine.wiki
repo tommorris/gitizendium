@@ -1,5 +1,5 @@
 {{subpages}}
-A '''perpetual motion machine''' usually refers to a hypothetical machine that either keeps operating forever, or produces more energy than it consumes. It is considered impossible by the laws of [[physics]] as we know them.
+A '''perpetual motion machine''' refers to a hypothetical machine that keeps operating forever or produces more energy than it consumes. It is considered impossible by the laws of [[physics]] as we know them.
 
 == Thermodynamics ==
 The perpetual motion machine always breaks the [[second law of thermodynamics]], which in its best-known version says "All closed systems tends towards entropy". The kind that produces more energy than it consumes also breaks the [[first law of thermodynamics]], better known as the law of [[conservation of energy]]: "Energy can not be created nor consumed, only transformed".
