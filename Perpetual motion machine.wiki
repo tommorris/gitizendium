@@ -2,7 +2,7 @@
 A '''perpetual motion machine''' refers to a hypothetical machine that keeps operating forever or produces more energy than it consumes. It is considered impossible by the laws of [[physics]] as we know them.
 
 == Thermodynamics ==
-The perpetual motion machine always breaks the [[second law of thermodynamics]], which in its best-known version says "All closed systems tends towards entropy". The kind that produces more energy than it consumes also breaks the [[first law of thermodynamics]], better known as the law of [[conservation of energy]]: "Energy can not be created nor consumed, only transformed".
+A perpetual motion machine breaks the [[second law of thermodynamics]], which in its common version says "All closed systems tends towards entropy". A perpetual motion machine that produces more energy than it consumes also breaks the [[first law of thermodynamics]], better known as the law of [[conservation of energy]]: "Energy can not be created nor consumed, only transformed".
 
 == Usage in hoaxes ==
 It is not uncommon for people to claim to have a perpetual motion machine from which one could generate free energy. These people are usually very secretive about their work and need sponsors while claiming that the secrecy is to protect them from dangerous entities that might be afraid of free energy (usually big oil companies).
