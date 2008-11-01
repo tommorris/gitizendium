@@ -1,0 +1,5 @@
+{{subpages}}
+
+'''Philosophy of Science''' is the branch of [[philosophy]] that deals with questions related to the nature, assumptions and practice of [[science]]: the role of science in understanding the world around us, scientific [[epistemology]] and the scope of scientific inquiry. Questions which are of interest to philosophy of science include the [[demarcation problem|demarcation]] between science and [[pseudoscience]], between science and other branches of knowledge, and between different parts of science. Philosophers of science are interested in what a scientific theory is, and what it means for a theory to be confirmed or disconfirmed by evidence. 
+
+Prominent philosophers of science include [[Karl Popper]], [[Paul Feyerabend]], [[Carl Hempel]], [[Thomas Kuhn]], [[Willard van Orman Quine]], [[Michael Ruse]], [[Imre Lakatos]], [[Ian Hacking]] and [[Daniel Dennett]].
