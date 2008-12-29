@@ -1,0 +1,5 @@
+{{subpages}}
+
+'''Inclusionism''' is an opinion about the quantity and range of material to be included in the online encyclopedia [[Wikipedia]] (and, by extension, other online encyclopedia projects like the ''[[Citizendium]]''). The key argument inclusionists make is that, unlike a traditional encyclopedia, online wiki encyclopedias can be significantly larger in size. On Wikipedia, ''notability'' is the requirement that articles are held to. ''Deletionists'' claim that articles about subjects which are not that notable should be deleted, while inclusionists argue for the inclusion of articles which, though may not seem useful on the face of it, are still part of the "sum of human knowledge", what Wikipedia aims for.
+
+[[Larry Sanger]], the founder and current Editor-in-Chief of the ''Citizendium'', is an inclusionist. The ''Citizendium'' operates under a more inclusionist policy of [[CZ:Maintainability|Maintainability]] rather than notability.
