@@ -1,7 +1,5 @@
 {{subpages}}
-:''For other people of the same surname, and places and things named after Charles Darwin, see [[Darwin]].'' 
-
-'''Charles Robert Darwin''' ([[12 February]] [[1809]] &ndash; [[19 April]] [[1882]]) was an [[England|English]] [[natural history|naturalist]] who achieved lasting fame by finding considerable evidence that [[species]] originated through [[evolution]]ary change, at the same time proposing the [[scientific theory]] that [[natural selection]] is the mechanism by which such change occurs. Since then, an immense amount of additional evidence supporting this theory has been discovered.  Although there have been some later supplemental biological process involved, all are compatible with the basic concepts, and this theory remains a cornerstone of [[biology]].
+'''Charles Robert Darwin''' (12 February 1809 &ndash; 19 April 1882) was an [[England|English]] [[natural history|naturalist]] who achieved lasting fame by finding considerable evidence that [[species]] originated through [[evolution]]ary change, at the same time proposing the [[scientific theory]] that [[natural selection]] is the mechanism by which such change occurs. Since then, an immense amount of additional evidence supporting this theory has been discovered.  Although there have been some later supplemental biological process involved, all are compatible with the basic concepts, and this theory remains a cornerstone of [[biology]].
 
 Darwin developed an interest in natural history while studying first [[medicine]], then [[theology]], at university. After the University, Darwin's observations on his [[The Voyage of the Beagle|five-year voyage]] on the [[HMS Beagle|''Beagle'']] brought him eminence as a [[geology|geologist]] and fame as a popular author. His biological finds led him to study the [[transmutation of species]] and in 1838 he conceived his theory of natural selection. Fully aware that others had been severely treated for such "[[heresy#Contemporary heresy|heretical]]" ideas, he confided only in his closest friends and continued his research to meet anticipated objections. However, in 1858 the information that [[Alfred Russel Wallace]] had developed a similar theory forced an early joint [[publication of Darwin's theory|publication of the theory]].
 
@@ -172,41 +170,3 @@ The use of the phrase "Social Darwinism" to describe Malthus's ideas is particul
 
 ==Notes==
 <references />
-
-
-==References==
-*Charles Darwin, ''Voyage of the Beagle'', (including Robert FitzRoy's ''Remarks with reference to the Deluge''), (London: Penguin Books [[1989]]) ISBN 0-14-043268-X
-*[[E. Janet Browne]], ''Charles Darwin: vol. 1 Voyaging'' and ''vol. 2 The Power of Place'' (London: Jonathan Cape, 1995-2002). ISBN 1-8441-3314-1 and ISBN 0-7126-6837-3
-*Adrian Desmond and James Moore, ''Darwin'' (London: Michael Joseph, the Penguin Group, [[1991]]). ISBN 0-7181-3430-3
-*[[Richard Keynes]], ''Fossils, Finches and Fuegians: Charles Darwin's Adventures and Discoveries on the Beagle, 1832-1836''. ( London: HarperCollins, 2002) ISBN 0-00-710189-9.
-* James Moore and Adrian Desmond, "Introduction", in ''The Descent of Man, and Selection in Relation to Sex'' (London: Penguin Classics, 2004). (Detailed history of Darwin's views on race, sex, and class)
-*Diane B. Paul, "Darwin, social Darwinism and eugenics," in Jonathan Hodge and Gregory Radick, eds., ''The Cambridge Companion to Darwin'' (Cambridge, England: Cambridge University Press, 2003), 214-239.
-
-==External links==
-*[http://speakingoffaith.org/programs/darwin/index.shtml Speaking of Faith: Evolution and Wonder - Understanding Charles Darwin] radio program featuring biographer [[James Moore (biographer)|James Moore]] and high-res, zoomable images of Darwin's private transmutation and metaphysical notebooks
-*[http://www.orchids.co.in/orchidologists/charles-robert-darwin.shtm Charles Robert Darwin] Darwin's work on orchids
-*John van Wyhe ed., [http://pages.britishlibrary.net/charles.darwin/ Writings of Charles Darwin on the Web]
-*[http://darwin-online.org.uk/ The Complete Work of Charles Darwin Online]
-*[http://www.darwinproject.ac.uk/ Darwin Correspondence Project]
-*[http://darwinlibrary.amnh.org/ The Darwin Digital Library of Evolution]
-*[http://www.darwinisme.org/ Institut Charles Darwin International]
-*[http://www.aboutdarwin.com AboutDarwin.com]
-*[http://www.amnh.org/exhibitions/darwin/ Darwin] - at the [[American Museum of Natural History]]
-*[http://www.gruts.com/darwin/index.php The Friends of Charles Darwin]
-*[http://www.bankofengland.co.uk/banknotes/current/darwin.htm Darwin's portrait on the £10 note]
-*[http://www.npg.org.uk/live/search/person.asp?search=ss&sText=Charles+Darwin&LinkID=mp01196 Twelve different portraits of Charles Darwin at the National Portrait Gallery, U.K.]
-*[http://news.bbc.co.uk/1/hi/sci/tech/4607037.stm BBC News: "Darwin family repeat flower count"]
-*[http://www-personal.umich.edu/~jbourj/money4.htm Charles Darwin on the 10 British Pound banknote]
-*[http://www.rationalrevolution.net/articles/darwin_nazism.htm The Mis-portrayal of Darwin as a Racist]
-*[http://www.botanicus.org/creator.asp?creatorid=93 View digitized titles by Charles Darwin in ''Botanicus.org'']
-
-==See also==
-*[[Darwin Awards]]
-*[[Shrewsbury]] Birthplace of Darwin
-*[[Evolution]]
-*[[Darwin's Frog]] &ndash; a species of Frog named after Charles Darwin.
-*[[Harriet]] &ndash; a Galápagos tortoise, possibly collected by Darwin; died [[23 June]] [[2006]] at an estimated age of 175.
-*[[Patrick Matthew]] &ndash; an amateur evolutionary theorist and contemporary of Darwin.
-*[[Randal Keynes]] &ndash; the great-great grandson of Charles Darwin who wrote a book about him, his daughter, and human evolution
-
-[[Category:Biology Workgroup]]
