@@ -52,7 +52,7 @@ Darwin considered [[Thomas Malthus|Malthus's]] argument that human population in
 ===Darwin’s Health===
 After constant illness, on March 28, 1849, Darwin acknowledged that he was unable to work one day in every three, and further, he felt that he was dying. He said this specifically,
 <blockquote>
-"I was not able to do anything one day out of three, & was altogether too dispirited to write to you or to do anything but what I was compelled. I thought I was rapidly going the way of all flesh." <ref>Darwin Correspondence Project, [http://www.darwinproject.ac.uk/darwinletters/calendar/entry-1236.html Letter 1236] — Darwin, C. R. to Hooker, J. D., 28 Mar 1849.<small>
+"I was not able to do anything one day out of three, & was altogether too dispirited to write to you or to do anything but what I was compelled. I thought I was rapidly going the way of all flesh." <ref name="Letter 1236">Darwin Correspondence Project, [http://www.darwinproject.ac.uk/darwinletters/calendar/entry-1236.html Letter 1236] — Darwin, C. R. to Hooker, J. D., 28 Mar 1849.<small>
 :'''Summary''': 
 :CD's health and his father's death have delayed his answer. Describes J. M. Gully's water-cure.
 :JDH's Galapagos papers [Trans. Linn. Soc. Lond. 20 (1851): 163–233] have excellent discussion of geographical distribution, but why no general treatment of affinities?
@@ -68,7 +68,7 @@ and identified himself as a homeopathic physician, becoming a member of the Brit
 
 Darwin traveled over 100 miles with his family and arrived at Dr. Gully’s clinic on March 10, 1849.  Even though Darwin was very skeptical of homeopathy, he did receive care, writing on March 19, 1849: 
 <blockquote>
-“I grieve to say that Dr Gully gives me homeopathic medicines three times a day, which I take obediently without an atom of faith.”<ref>[ http://www.darwinproject.ac.uk/darwinletters/calendar/entry-1234.html]</ref>
+“I grieve to say that Dr Gully gives me homeopathic medicines three times a day, which I take obediently without an atom of faith.”<ref name="Letter 1236"/>
 </blockquote>
 
 After just eight days of his arrival, Darwin experienced a skin eruption all over his legs.<ref>Homeopaths and other practitioners of natural medicine commonly refer to a “healing crisis,” an initial and temporary exacerbation of symptoms prior to significant relief of a chronic ailment.  Skin symptoms, in particular, are considered to be externalizations of the disease process. Such exacerbations of symptoms suggest that a placebo response is unlikely.  This reference is to Darwin’s letter about this skin eruption. [http://www.darwinproject.ac.uk/darwinletters/calendar/entry-1236.html]
