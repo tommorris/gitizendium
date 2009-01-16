@@ -52,7 +52,13 @@ Darwin considered [[Thomas Malthus|Malthus's]] argument that human population in
 ===Darwin’s Health===
 After constant illness, on March 28, 1849, Darwin acknowledged that he was unable to work one day in every three, and further, he felt that he was dying. He said this specifically,
 <blockquote>
-"I was not able to do anything one day out of three, & was altogether too dispirited to write to you or to do anything but what I was compelled. I thought I was rapidly going the way of all flesh." <ref>Darwin Correspondence Project [http://www.darwinproject.ac.uk/darwinletters/calendar/entry-1236.html]</ref>
+"I was not able to do anything one day out of three, & was altogether too dispirited to write to you or to do anything but what I was compelled. I thought I was rapidly going the way of all flesh." <ref>Darwin Correspondence Project, [http://www.darwinproject.ac.uk/darwinletters/calendar/entry-1236.html Letter 1236] — Darwin, C. R. to Hooker, J. D., 28 Mar 1849.
+:'''Summary''': 
+::CD's health and his father's death have delayed his answer. Describes J. M. Gully's water-cure.
+::JDH's Galapagos papers [Trans. Linn. Soc. Lond. 20 (1851): 163–233] have excellent discussion of geographical distribution, but why no general treatment of affinities?
+::CD's views on clay-slate laminae.
+::Turmoil in Royal Society between naturalists and physicists.
+</ref>
 </blockquote>
 
 On the advice from one of his cousins as well as from a fellow shipmate from the Beagle, Charles Darwin brought himself and his family to the clinic and “water-cure” spa of Dr. [[James Manby Gully]].   Dr. Gully had written a popular book called '''The Water Cure in Chronic Disease''' in 1846, and this book went through five editions.<ref>[http://books.google.com/books?id=SBYDAAAAQAAJ&printsec=frontcover&dq=editions:07WVDaI0nAaUeMi6&lr]
