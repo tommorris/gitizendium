@@ -1,14 +1,15 @@
 {{subpages}}
-'''Cryonics''' (often mistakenly called [[cryogenics]]) is the low-temperature [[preservation]] of [[human]]s and other [[animals]] that can no longer be sustained by contemporary [[medicine]] until [[resuscitation]] may be possible in the future.  Human [[cryopreservation]] is not currently reversible.  In the United States, cryonics can only be [[legal|legally]] performed on humans after pronounced legally dead.  The rationale for cryonics is that the process may be [[reversible]] in the future if performed soon enough, and that cryopreserved people are not dead by the modern [[information theoretic death|information-theoretic definition of death]].<ref>{{cite web 
-| title = Jeane Trend-Hill
-| publisher = Paragraph authorship claimed by Jeane Trend-Hill (www.homestead.com/askjeane)
-| url = http://www.doverlocals.co.uk/showthread.php?t=1296
-| accessdate = 2008-01-07 }}</ref>   Cryonics is derived from the [[Greek language|Greek]] word κρύος (kryos), meaning cold.<ref>{{cite web 
+'''Cryonics''' (often mistakenly called [[cryogenics]]) is the low-temperature [[preservation]] of [[human]]s and other [[animals]] that can no longer be sustained by contemporary [[medicine]] until [[resuscitation]] may be possible in the future. The term is derived from the [[Greek language|Greek]] word κρύος (kryos), meaning cold.<ref>{{cite web 
 | title = Out of Thin Air - TIME 
 | publisher = TIME Magazine 
 | url = http://www.time.com/time/magazine/article/0,9171,874786,00.html
-| accessdate = 2008-01-07 }}</ref> 
+| accessdate = 2008-01-07 }}</ref>  Human [[cryopreservation]] is not currently reversible. Cryonics is based on the hope that the process may be [[reversible]] in the future if performed soon enough, and that cryopreserved people are not dead by the modern [[information theoretic death|information-theoretic definition of death]]<ref>{{cite web 
+| title = Jeane Trend-Hill
+| publisher = Paragraph authorship claimed by Jeane Trend-Hill (www.homestead.com/askjeane)
+| url = http://www.doverlocals.co.uk/showthread.php?t=1296
+| accessdate = 2008-01-07 }}</ref> but there is no scientific evidence to support hopes for future resuscitation of human bodies preserved with current technology. In the United States, cryonics can only be [[legal|legally]] performed on humans after pronounced legally dead.  
 
+<!--commented out for bias
 There is a high representation of scientists among cryonics supporters.<ref>{{cite web 
 | title = Scientists' Open Letter on Cryonics 
 | publisher = Immortality Institute  
@@ -20,7 +21,7 @@ There is a high representation of scientists among cryonics supporters.<ref>{{ci
 | title = 24th Century Medicine
 | publisher = Davis Publications
 | year = 1988
-| accessdate = 2006-03-17}}</ref> will enable [[molecular]]-level repair and regeneration of damaged [[biological tissue|tissue]]s and [[organ (anatomy)|organ]]s decades or centuries in the future.  [[Disease]] and [[aging]] are also assumed to be reversible.  Many ethical questions revolve around the issue of whether cryonics can work.
+| accessdate = 2006-03-17}}</ref> will enable [[molecular]]-level repair and regeneration of damaged [[biological tissue|tissue]]s and [[organ (anatomy)|organ]]s decades or centuries in the future.  [[Disease]] and [[aging]] are also assumed to be reversible. -->Many ethical questions revolve around the issue of whether cryonics can work.
 
 The modern concept of cryonics as a general procedure to apply whenever patients are considered beyond help by the medicine of their time was originated in 1962 by [[Robert Ettinger]].  The largest current practitioners of cryonics are two member-owned, non-profit organizations, the [[Alcor Life Extension Foundation]] in [[Scottsdale, Arizona|Scottsdale]], [[Arizona]], with 77 cryopreserved patients and 842 members, and the [[Cryonics Institute]] in [[Clinton Charter Township, Michigan|Clinton Township]], [[Michigan]] with 86 patients and 718 members. In Europe, the Russian company [[KrioRus]] (founded 2005) maintains four cryopreserved patients in Moscow.
 
