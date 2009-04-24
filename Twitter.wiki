@@ -1,0 +1,2 @@
+'''Twitter''' is a [[micro-blogging]] service hosted at http://twitter.com/.
+[[Category:Stub Articles]]
