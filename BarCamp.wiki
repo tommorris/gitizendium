@@ -1,6 +1,6 @@
 {{subpages}}
 
-[[Image:2538150719 952ab9810d b.jpg|right|thumb|300px|{{#ifexist:Template:2538150719 952ab9810d b.jpg/credit|{{2538150719 952ab9810d b.jpg/credit}}<br/>|}}Sessions board at BarCampLondon4]]
+{{Image|2538150719 952ab9810d b.jpg|right|300px|Sessions board at BarCampLondon4}}
 '''BarCamp''' is a network of free technology [[unconference|unconferences]] organized on the Internet. The first BarCamp was organised in [[Palo Alto]], [[California]], in August 2005, as a response to [[O'Reilly Publishing|O'Reilly's]] invite-only [[FooCamp]]. The BarCamp concept has spread across the whole world, and spin-off camps have started on a variety of topics. The sessions given are not pre-planned - rather, the schedule is determined when the event starts as people add sessions to a board.
 
 == Spin-offs ==
