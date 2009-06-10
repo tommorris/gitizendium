@@ -1,5 +1,5 @@
 {{subpages}}
-{{TOC-right}}
+{{TOC|right}}
 '''Homeopathy''' or '''homoeopathy''' is a system of [[Complementary and Alternative Medicine|alternative medicine]].  The term derives from  the Greek ''hómoios'' (similar) and ''páthos'' (suffering). The underlying concept of homeopathy is "like cures like" and is based on "the principle of similars", which asserts that substances known to ''cause'' particular symptoms can also, in low and specially prepared doses, help to ''cure'' diseases that cause similar symptoms.<ref>For homeopathic remedy selection, "symptom" refers to important external manifestations of a disease, without the medical distinction between [[symptom]] and [[sign (medical)|sign]]. As a medical term, [[syndrome]] may be closer to the combination of manifestations used in homeopathic remedy selection, although the procedure for diagnosis is the same.</ref> Some principles of homeopathy have been utilized in various forms in various medical systems for thouands of years in many diverse cultures<ref>{{citation
  | first = Linn | last = Boyd
  | title = The Simile in Medicine
