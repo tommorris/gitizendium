@@ -8,9 +8,9 @@ In most police systems in the Western world, there tends to be a split between t
 Depending on local law and custom, they may operate [[prison]]s, but will almost always have temporary secure holding facilities, often called jails, for suspects.
 
 === Investigative functions ===
-While it may be immediately obvious who committed a crime, it also may be quite difficult to determine the perpetrator, and specialists called [[detective]]s or criminal investigators may become involved in the inquiry. Increasingly, [[forensic]] techniques, involving the use of scientific techniques to discover and characterize evidence.
+Identifying the perpetrator of a crime requires a [[detective]] or criminal investigator who collects and evaluates physical evidence from the crime scene and conducts interviews of witnesses, friends and family of the victim and potential suspects. Increasingly, [[forensic]] techniques are used to discover and characterize evidence that will hopefully lead to the apprehension and conviction of the criminal.
 
-Investigators may specialize in certain types of crimes, such as [[murder]], [[sexual offense]]s, [[drug abuse]], [[forgery]], etc.
+Investigators may specialize in certain types of crime investigation, such as [[murder]], [[sexual offense]]s, [[drug abuse]], [[forgery]], etc.
 
 ==Civil rights==
 The role of the police towards civil and criminal rights varies widely. In some case, police may actively investigate and enforce civil rights violations. They may be constrained by rules in how they may interrogate prisoners and collect evidence.
