@@ -1,6 +1,6 @@
 {{subpages}}
-
-'''Police''' are local, regional, or national governmental personnel who are responsible for investigating [[crime]]s and arresting criminal suspects, reducing the incidence of criminal acts, managing vehicular traffic and responding to accidents, and a variety of [[emergency services]] dependent on local needs and policies. They are principally responsible for domestic criminal matters, although certain police agencies may have [[anti-terrorism|anti-terrorist]] or [[paramilitary]] roles.
+{{TOC|right}}
+'''Police''' are local, regional, or national governmental personnel who are responsible for investigating [[crime]]s and arresting criminal suspects, reducing the incidence of criminal acts, managing vehicular traffic and responding to accidents, and a variety of [[emergency services]] dependent on local needs and policies. They are principally responsible for domestic criminal matters, although certain police agencies may have [[anti-terrorism|anti-terrorist]] or [[paramilitary]] roles. Some parts of police organizations are [[critical infrastructure]] for emergency response.
 
 == The role of police ==
 In most police systems in the Western world, there tends to be a split between the patrolling role of police - handled by uniformed officers - and the investigatory role of [[detective]]s. The role of the uniformed patrol officer - the "bobby on the beat" in Britain - can include crowd control and public order as well as apprehension of those breaking the law.
