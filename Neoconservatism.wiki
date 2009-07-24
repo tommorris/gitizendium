@@ -1,6 +1,6 @@
 {{subpages}}
 {{TOC|right}}
-'''Neoconservatism''' is a political philosophy and ideology which combines many traditional conservative opinions with an emphasis on the importance of foriegn policy and using American power to push democracy forward. This originated in a number of places - liberal anti-Sovietism, strong support for Israel, dissent from the left. The [[University of Chicago]] philosopher [[Leo Strauss]] is seen as one of the foundational figures in pushing forward neoconservatism - believing in ''noble lies'' (religion being a prime example for Strauss) which you can tell to get people to act morally. 
+'''Neoconservatism''' is a political philosophy and ideology which combines many traditional conservative opinions with an emphasis on the importance of foreign policy and using American power to push democracy forward. This originated in a number of places - liberal anti-Sovietism, strong support for [[Israel]], dissent from the left. The [[University of Chicago]] philosopher [[Leo Strauss]] is seen as one of the foundational figures in pushing forward neoconservatism - believing in ''noble lies'' (religion being a prime example for Strauss) which you can tell to get people to act morally. 
 ==Roots==
 Strauss, and many of the neoconservative theoreticians, considered [[classics]] a strong foundation of their work.<ref name=Packer2006>{{citation
 | title = The Assassins' Gate
@@ -8,21 +8,22 @@ Strauss, and many of the neoconservative theoreticians, considered [[classics]] 
 | publisher = Farrar, Straus and Giroux | year = 2005
 | isbn = 0374299633}}, pp. 53-54</ref>
 
-As mentioned, they also looked to past political philosophy.  Strauss emigrated to the U.S. from Germany, where he had written on [[Thomas Hobbes]]: "Hobbes's political philosophy is the first peculiarly modern attempt to give a coherent and exhaustive attempt to the question of man's right life, which is at the same time the right order of society." <ref name=Strauss-Hobbes>{{citation
+As mentioned, they also looked to past political philosophy.  Strauss emigrated to the [[United States|U.S.]] from [[Germany]], where he had written on [[Thomas Hobbes]]: "Hobbes's political philosophy is the first peculiarly modern attempt to give a coherent and exhaustive attempt to the question of man's right life, which is at the same time the right order of society." <ref name=Strauss-Hobbes>{{citation
  | title = The Political Philosophy of Hobbes: Its Basis and its Genesis
  | author = Leo Strauss
  | translator = Elsa M. Sinclair
  | publisher = University of Chicago Press
  | year = 1936}}, p. 1</ref>
 
-[[Richard Perle]], in  a Public Broadcasting System interview with [[Ben Wattenberg]], agreed, in response to Wattenberg's comment "[[Irving Kristol]] said a neoconservative is a liberal who’s been mugged by reality."<blockquote>Right. And I think that’s a fair description, and I suppose all of us were liberal at one time. I was liberal in high school and a little bit into college. But reality and rigor are important tonics, and if you got into the world of international affairs and you looked with some rigor at what was going on in the world, it was really hard to be liberal and naïve...Anyone who looked at the facts in Nineteen Thirty-six knew what was coming or could at least see that the balance of power was in the process of shifting from one in which the democracies could expect to contain this growing totalitarian threat in Nazi Germany to a balance in which they couldn’t...the indulgence of Saddam led to the invasion of Kuwait.<ref>{{citation
+[[Richard Perle]], in a [[Public Broadcasting System|PBS]] interview with [[Ben Wattenberg]], agreed, in response to Wattenberg's comment "[[Irving Kristol]] said a neoconservative is a liberal who’s been mugged by reality."<blockquote>Right. And I think that’s a fair description, and I suppose all of us were liberal at one time. I was liberal in high school and a little bit into college. But reality and rigor are important tonics, and if you got into the world of international affairs and you looked with some rigor at what was going on in the world, it was really hard to be liberal and naïve...Anyone who looked at the facts in Nineteen Thirty-six knew what was coming or could at least see that the balance of power was in the process of shifting from one in which the democracies could expect to contain this growing totalitarian threat in Nazi Germany to a balance in which they couldn’t...the indulgence of Saddam led to the invasion of Kuwait.<ref>{{citation
  | url = http://www.pbs.org/thinktank/transcript1017.html
  | journal = PBS
  | author = Ben Wattenberg | date = 14 November 2002
  | title = Richard Perle: the Making of a Neoconservative
 }}</ref></blockquote>
+
 ==Post 9-11==
-Neoconservatism had become especially influential in the United States of America following the [[9-11 Attacks]]. Their greatest disciples in the [[George W. Bush|Bush Administration]] included the secretary of Defense, [[Donald Rumsfeld]], the Vice President [[Dick Cheney]] and [[Paul Wolfowitz]] who were all at one time or another members of the neoconservative [[Project for the  New American Century]] thinktank. Their influence waned somewhat as the Iraq War dragged on; Rumsfeld is no longer the secretary for defense and Wolfowitz is no longer directly involved in the administration.
+Neoconservatism had become especially influential in the United States of America following the [[9-11 Attacks]]. Their greatest disciples in the [[George W. Bush|Bush Administration]] included the secretary of Defense, [[Donald Rumsfeld]], the Vice President [[Dick Cheney]] and [[Paul Wolfowitz]] who were all at one time or another members of the neoconservative [[Project for the  New American Century]] think-tank. Their influence waned somewhat as the Iraq War dragged on; Rumsfeld is no longer the secretary for defense and Wolfowitz is no longer directly involved in the administration.
 
 [[Francis Fukuyama]] has written that the basic philosophy makes sense but the Bush Administration misapplied it. <ref name=Fukuyama-Crossroads>{{citation
  | author = Francis Fukuyama
@@ -30,5 +31,6 @@ Neoconservatism had become especially influential in the United States of Americ
  | year = 2006
  | publisher = Yale University Press
  | isbn = 0300113994 }}</ref>
+
 ==References==
 {{reflist|2}}
