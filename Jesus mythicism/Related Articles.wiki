@@ -1,0 +1,21 @@
+{{subpages}}
+
+==Parent topics==
+
+
+==Subtopics==
+
+
+==Other related topics==
+
+
+<!-- Remove the section below after copying links to the other sections. -->
+==Bot-suggested topics==
+Auto-populated based on [[Special:WhatLinksHere/Jesus mythicism]]. Needs checking by a human.
+
+{{r|Jesus Seminar}}
+{{r|Robert M. Price}}
+{{r|Zeitgeist (movie)}}
+
+[[Category:Bot-created Related Articles subpages]]
+<!-- Remove the section above after copying links to the other sections. -->
