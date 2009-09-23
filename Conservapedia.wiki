@@ -1,4 +1,5 @@
 {{subpages}}
+{{TOC|right}}
 
 '''Conservapedia''' is an [[internet]] [[encyclopedia]] project that attempts to present information from a [[conservatism|conservative]] and pro-[[United States of America|American]] viewpoint. 
 
