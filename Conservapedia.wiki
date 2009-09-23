@@ -1,7 +1,7 @@
 {{subpages}}
 {{TOC|right}}
 
-'''Conservapedia''' is an [[internet]] [[encyclopedia]] project that attempts to present information from a [[conservatism|conservative]] and pro-[[United States of America|American]] viewpoint. 
+'''Conservapedia''' is an [[internet]] [[encyclopedia]] project whose purpose to present information from a [[conservatism|conservative]] and pro-[[United States of America|American]] viewpoint. 
 
 It is a [[wiki]] project using the same [[Mediawiki]] [[software]] as [[Citizendium]] and [[Wikipedia]]; the site has set itself up in opposition particularly to Wikipedia and its perceived "[[liberalism|liberal]] bias".<ref>''Conservapedia'': '[http://www.conservapedia.com/index.php?title=Examples_of_Bias_in_Wikipedia&oldid=249783 Examples of bias in Wikipedia].' July 25th 2007.</ref> It was founded in November, 2006, by [[Andrew Schlafly]], son of conservative commentator [[Phyllis Schlafly]], and originally began as a class project by [[homeschooling|homeschooled]] students.<ref>''Conservapedia'': '[http://www.conservapedia.com/Conservapedia:About Conservapedia:About].'</ref> As of October, 2008, it had about 26,000 articles.<ref>''Conservapedia'': '[http://www.conservapedia.com/Special:Statistics Special:Statistics].'</ref>
 
