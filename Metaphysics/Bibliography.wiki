@@ -1,0 +1,5 @@
+<noinclude>{{subpages}}</noinclude>
+
+== Introductions and Primers ==
+* {{cite book |last= Beebee |first= Helen |authorlink= Helen Beebee |title= Reading Metaphysics |year= 2007 |coauthors= Julian Dodd |publisher= Blackwell |location= Oxford |isbn= 1405123672}}
+* {{cite book |last= Loux |first= Michael |authorlink= Michael Loux |title= Metaphysics: A Contemporary Introduction |year= 2001 |coauthors= |publisher= Routledge |location= London |isbn= }}
