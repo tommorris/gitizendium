@@ -129,10 +129,10 @@ Scientists and medical doctors today do not think that the principle of similars
 For example, [[Emil Adolph von Behring]] (1854-1917)<ref>[http://nobelprize.org/nobel_prizes/medicine/laureates/1901/behring-bio.html Emil von Behring, The Nobel Prize in Physiology or Medicine 1901]</ref>, who won the first Nobel Prize in medicine in 1901 for discoveries that led to [[vaccine]]s against [[tetanus]] and [[diphtheria]], and who some consider to be the father of immunology, asserted that vaccination is, in part, derived from the homeopathic principle of similars. 
 
 <blockquote>In spite of all scientific speculations and experiments regarding smallpox vaccination, Jenner’s discovery remained an erratic blocking medicine, till the biochemically thinking Pasteur, devoid of all medical classroom knowledge, traced the origin of this therapeutic block to a principle which cannot better be characterized than by Hahnemann’s word: homeopathic. <ref>{{citation
- | author = Behring AE von 
+ | author = Behring, Emil von 
  | year = 1905
- | title = Moderne Phthisiogenetische und Phthisotherapeutische: Probleme in Historischer Beleuchtung
- | publisher = Selbsteverlag des Verfassers}}</ref></blockquote>
+ | title = Moderne phthisiogenetische und phthisotherapeutische: Probleme in historischer Beleuchtung
+ | publisher = Selbstverlag des Verfassers}}</ref></blockquote>
 
 Although homeopathic remedies and vaccinations both use low doses of active ingedients, there are important differences. First, the doses used in homeopathic remedies are always ''very'' much lower than used in vaccines. Second, vaccines produce a measurable immune response (e.g., [[immunoglobulin]] production). Homeopathic remedies do not routinely produce a measurable immune response. Thus conventional treatments involve application of measurable doses of substances, at levels known to activate a cellular response. In contrast, homeopathic preparations above the <math>24X</math> (<math>12C</math>) potencies do not contain enough molecules to activate any known metabolic or signalling pathway.<ref>Vaccine doses are calculated from the TCID<sub>50</sub> dose; the minimum dose required to infect 50% of tissue cultures tested in a laboratory assay. A single dose of measles vaccine will contain at least 1,000 x the TCID50 dose in 0.5 ml.[http://www.drugs.com/ppa/measles-mumps-and-rubella-vaccine-live.html Measles, Mumps, and Rubella Vaccine, Live]</ref>
 
