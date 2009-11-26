@@ -1,3 +1,4 @@
+{{subpages}}
 '''WorldNetDaily.com''', founded by [[Joseph Farah]] and [[Elizabeth Farrah]], is a politically-oriented website generally associated with [[American conservatism]]; Joseph Farah is a "favorite columnist" of the [[American Conservative Union]].<ref name=ACU>{{citation
  | title = Columnists
  | url = http://www.conservative.org/columnists/default.asp
@@ -8,6 +9,6 @@
  | title = About Us
  | publisher = WorldNetDaily.com}}</ref>
 
-It is generally in favor of the policies of the [[State of Israel]]; its only listed foreign bureau is in [[Jerusalem]], and Joseph Farah is a contributing expert for the [[Ariel Center for Policy Research]], on the expert list of the [[Middle East Forum]] and a weekly columnist for the International Edition of the ''[[Jerusalem Post]]'.
+It is generally in favor of the policies of the [[State of Israel]]; its only listed foreign bureau is in [[Jerusalem]], and Joseph Farah is a contributing expert for the [[Ariel Center for Policy Research]], on the expert list of the [[Middle East Forum]] and a weekly columnist for the International Edition of the ''[[Jerusalem Post]]''.
 ==References==
 {{reflist}}
