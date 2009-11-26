@@ -1,6 +1,6 @@
 {{subpages}}
 {{TOC|right}}
-'''WorldNetDaily''', founded by [[Joseph Farah]] and [[Elizabeth Farrah]], is a politically-oriented website generally associated with [[American conservatism]]; Joseph Farah is a "favorite columnist" of the [[American Conservative Union]].<ref name=ACU>{{citation
+'''WorldNetDaily (WND)''', founded by [[Joseph Farah]] and [[Elizabeth Farrah]], is a politically-oriented website generally associated with [[American conservatism]]; Joseph Farah is a "favorite columnist" of the [[American Conservative Union]].<ref name=ACU>{{citation
  | title = Columnists
  | url = http://www.conservative.org/columnists/default.asp
  | publisher = [[American Conservative Union]]}}</ref>  According to its mission statement, is a "an independent news company dedicated to uncompromising journalism, seeking truth and justice and revitalizing the role of the free press as a guardian of liberty. We remain faithful to the traditional and central role of a free press in a free society – as a light exposing wrongdoing, corruption and abuse of power. We also seek to stimulate a free-and-open debate about the great moral and political ideas facing the world and to promote freedom and self-government by encouraging personal virtue and good character."
@@ -13,7 +13,13 @@
 It is generally in favor of the policies of the [[State of Israel]]; its only listed foreign bureau is in [[Jerusalem]], and Joseph Farah is a contributing expert for the [[Ariel Center for Policy Research]], on the expert list of the [[Middle East Forum]] and a weekly columnist for the International Edition of the ''[[Jerusalem Post]]''.
 
 WorldNetDaily is widely known for its advocacy of the theory that [[Barack Obama]] is not a natural-born citizen of the [[United States]] and is thus not eligible to be the President of the United States. WorldNetDaily published a purported Kenyan birth certificate with Obama's name on it, which turned out to be a clumsy fake produced by [[Orly Taitz]].
+==Political relations==
+The ''[[Los Angeles Times]]'' reported that the [[Republican National Committee]] has paid WND for its mailing lists, and that critics have asked the RNC to cut ties with it, because "More than any other group, critics say, WorldNetDaily sets the conservative fringe agenda."<ref name=LAT2009-09-14>{{citation
+ | title = Some fear GOP is being carried to the extreme: The Republican establishment hopes cooler heads will prevail over strongly anti-Obama parts of the conservative base.
+ | date = 14 September 2009| author = Peter Wallsten | journal = Los Angeles Times
+ | url = http://articles.latimes.com/2009/sep/14/nation/na-gop-fringe14}}</ref>
 
+In the ''Times'' article, it was reported that Joseph Farah had asked to hold a session on the [[birther]] issue (i.e., is Barack Obama a native-born American citizen?) at the [[Conservative Political Action Conference]], and told they did not have time for it given more important issues. "GOP strategist [[Jon Henke]] began a campaign against WorldNetDaily, which has published numerous articles giving credence to the birthplace issue and other allegations against the Obama administration. WorldNetDaily is also soliciting signatures and e-mail addresses for a petition calling on "any and all controlling legal authorities in this matter" to examine Obama's birth certificate."
 ==WND Scoops==
 The publication cites stories that it first reported, such as: <ref name=Scoops>{{citation
  | title = WND Scoops: You read it here first!
@@ -22,17 +28,17 @@ The publication cites stories that it first reported, such as: <ref name=Scoops>
 *"Friends of Barack": In an interview with [[Ahmed Yousuf]], a top adviser to  [[Hamas]] said, during a live broadcast, he "hopes" Barack Obama becomes president and compared the Illinois senator to John F. Kennedy"<ref name=WND2008-04-14>{{citation
  | title = Hamas terrorists make 2008 U.S. presidential pick: Cite need for change, excuse opposition to Carter meeting
  | date = 14 April 2008
- | author = Aaron Klein
+ | author = [[Aaron Klein]]
  | url = http://www.wnd.com/index.php?pageId=61631}}</ref>
 *" Wicked-pedia: The mega-website [[Wikipedia]] was found to have hundreds of graphic homosexual images, and the [[Federal Bureau of Investigation]] launched an investigation into [[child pornography]] on the ubiquitous online encyclopedia" <ref name=WND2008-05-08>{{citation
  |title =  Wikipedia debates kiddie porn action: Editors discuss whether to remove image, discovered by WND, investigated by FBI
  | date = 8 May 2008
- | author = Chelsea Schilling
+ | author = [[Chelsea Schilling]]
  | url = http://www.wnd.com/index.php?fa=PAGE.view&pageId=63770}}</ref>
 *"Brainwashing 101: A new plan by a California legislator proposes allowing schools to promote the overthrow of the U.S. government and to let teachers "inculcate in the mind of any pupil a preference for communism."<ref name=WND2008-03-04>{{citation
  | title = Next on school agenda: Teaching communism; Family advocate: 'Just when we thought indoctrination couldn't get any worse'
  | date = 4 March 2008
- | author = Bob Unruh
+ | author = [[Bob Unruh]]
  | url = http://www.wnd.com/index.php?fa=PAGE.view&pageId=58061}}</ref>
 ==Book publications==
 Its WND Books subsidiary published the book, ''Muslim Mafia: Inside the Secret Underworld That's Conspiring to Islamize America''. This was cited by Rep. [[Sue Myrick]] (R-NC) and three other Republicans as evidence of infiltration of Congress by Muslim groups, often sponsored by the [[Council on American Islamic Relations]]. [[MediaMatters]] called this consistent with the organization's tendency to stress [[conspiracy theory|conspiracy theories]].<ref name=MM>{{citation
@@ -44,7 +50,7 @@ Its WND Books subsidiary published the book, ''Muslim Mafia: Inside the Secret U
 For several years,it has reported  on an alleged plan to combine the United States, Mexico, and Canada into a North American Union. Reports said the plan had been created by the [[Council on Foreign Relations]], and accepted by Presidents [[George W. Bush]] and [[Barack Obama]], as an evolution of [[NAFTA]], <ref name=WND2009-10-23>{{citation
  | title = PREMEDITATED MERGER: Insider reveals secrets of North America plot; No 'conspiracy theory,' scheme hatched by CFR was sold to Bush, now Obama
  | date = 23 October 2009
- | author = Jerome R. Corsi
+ | author = [[Jerome Corsi]]
  | journal = WorldNetDaily.com
  | url = http://www.wnd.com/index.php?fa=PAGE.view&pageId=113913}}</ref>
 
