@@ -1,4 +1,5 @@
 {{subpages}}
+{{TOC|right}}
 '''WorldNetDaily''', founded by [[Joseph Farah]] and [[Elizabeth Farrah]], is a politically-oriented website generally associated with [[American conservatism]]; Joseph Farah is a "favorite columnist" of the [[American Conservative Union]].<ref name=ACU>{{citation
  | title = Columnists
  | url = http://www.conservative.org/columnists/default.asp
@@ -10,6 +11,7 @@
  | publisher = WorldNetDaily.com}}</ref>
 
 It is generally in favor of the policies of the [[State of Israel]]; its only listed foreign bureau is in [[Jerusalem]], and Joseph Farah is a contributing expert for the [[Ariel Center for Policy Research]], on the expert list of the [[Middle East Forum]] and a weekly columnist for the International Edition of the ''[[Jerusalem Post]]''.
+
 ==WND Scoops==
 The publication cites stories that it first reported, such as: <ref name=Scoops>{{citation
  | title = WND Scoops: You read it here first!
@@ -36,5 +38,13 @@ Its WND Books subsidiary published the book, ''Muslim Mafia: Inside the Secret U
  | date = October 15, 2009
  | url = http://mediamattersaction.org/factcheck/200910150008
  | journal = [[MediaMatters]]}}</ref>
+==North American Union==
+For several years,it has reported  on an alleged plan to combine the United States, Mexico, and Canada into a North American Union. Reports said the plan had been created by the [[Council on Foreign Relations]], and accepted by Presidents [[George W. Bush]] and [[Barack Obama]], as an evolution of [[NAFTA]], <ref name=WND2009-10-23>{{citation
+ | title = PREMEDITATED MERGER: Insider reveals secrets of North America plot; No 'conspiracy theory,' scheme hatched by CFR was sold to Bush, now Obama
+ | date = 23 October 2009
+ | author = Jerome R. Corsi
+ | journal = WorldNetDaily.com
+ | url = http://www.wnd.com/index.php?fa=PAGE.view&pageId=113913}}</ref>
+
 ==References==
 {{reflist|2}}
