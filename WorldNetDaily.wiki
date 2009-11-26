@@ -54,7 +54,17 @@ For several years, WorldNetDaily has reported on an alleged plan to combine the 
  | date = 23 October 2009
  | author = [[Jerome Corsi]]
  | journal = WorldNetDaily.com
- | url = http://www.wnd.com/index.php?fa=PAGE.view&pageId=113913}}</ref>. It is widely considered a [[conspiracy theory]].
+ | url = http://www.wnd.com/index.php?fa=PAGE.view&pageId=113913}}</ref>. 
+
+It is widely considered a [[conspiracy theory]], including by the conservative journal, ''Human Events''.<ref name=HE>{{citation
+ | url = http://www.humanevents.com/article.php?id=16103
+ | title = Killing the North American Union Conspiracy
+ | author = John Hawkins
+ | date = 19 July 2007
+ | journal = Human Events}}</ref> There is a 2005 CFR report called "Building A North American Community," which  calls for improving security between the borders, steps to grow the American economy, and improving trade, not any kind of merger.<ref name=CFR>{{citation
+ | url = http://www.cfr.org/content/publications/attachments/NorthAmerica_TF_final.pdf
+ | title = Building A North American Community
+ | publisher = [[Council on Foreign Relations]]}}</ref>
 
 ==References==
 {{reflist|2}}
