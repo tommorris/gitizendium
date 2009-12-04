@@ -1,6 +1,6 @@
 {{subpages}}
 {{TOC|right}}
-In U.S. politics, the '''Birther Movement''' claims that [[Barack Obama]] is not a legitimate President because he does not meet the Constitutional requirement of having been born in the United States, or of U.S. citizen parents. One branch of the movement claims he was not born in the state of [[Hawaii]]. Another claims that even though he may have been born there, he is legally a citizen of [[Kenya]], his father's country. 
+In U.S. politics, the '''Birther Movement''' claims that [[Barack Obama]] is not a legitimate President because he does not meet the Constitutional requirement of having been born in the United States, or of U.S. citizen parents: "No Person except a natural born Citizen, or a Citizen of the United States, at the time of the Adoption of this Constitution, shall be eligible to the Office of President."<ref>U.S. Constitution,  Article II Section 1</ref>  One branch of the movement claims he was not born in the state of [[Hawaii]]. Another claims that even though he may have been born there, he is legally a citizen of [[Kenya]], his father's country. 
 
 Obviously, since he is a sitting President, neither argument, or indeed some other variants such as claims he was actually born in Kenya or Indonesia, do not have widespread credibility. Nevertheless, it is a matter of intense concern to some factions and individuals, who generally oppose Obama on ideological grounds. Other analysts consider it a [[conspiracy theory]].
 ==Dual citizenship issue==
@@ -18,13 +18,27 @@ Kenyan law further specifies, however, that unless a child renounces non-Kenyan 
  | url = http://www.factcheck.org/askfactcheck/does_barack_obama_have_kenyan_citizenship.html
  | date = 29 August 2008
  | journal = Annenberg Political Fact Check}}</ref>
+==Political opinion broadcasting==
+In October 2008, [[Rush Limbaugh]] referred to an April suit by an individual, Philip Berg, demanding that Obama produce his birth certificate. Limbaugh said he himself had no specifics, but cast suspicions: this birth certificate business, I'm just wondering if something's up.  I have no clue, and folks, I'm telling you, this has not reached the threshold until now, and it's popping up all over the place.  There are a lot of people now that are starting to speculate and be curious about this.   <ref name=Limbaugh>{{citation
+ | url = http://www.rushlimbaugh.com/home/daily/site_102308/content/01125106.guest.html
+ | Obama "Rushes" to Grandmother's Bedside (After Just a Few Days)
+ | date = October 23, 2008
+ | journal = Rush Limbaugh show}}</ref>
 ==McCain Campaign==
-The general counsel of the [[John McCain]] campaign, Trevor Potter, does not consider the allegations credible. <blockquote>To the extent that we could, we looked into the substantive side of these allegations. We never saw any evidence that then-Senator Obama had been born outside of the United States. We saw rumors, but nothing that could be sourced to evidence. There were no statements and no documents that suggested he was born somewhere else. On the other side, there was proof that he was born in Hawaii. There was a certificate issued by the state's Department of Health, and the responsible official in the state saying that he had personally seen the original certificate. There was a birth announcement in the ''Honolulu Advertiser'', which would be very difficult to invent or plant 47 years in advance. <ref name=>{{citation
+The general counsel of the [[John McCain]] campaign, Trevor Potter, does not consider the allegations credible. <blockquote>To the extent that we could, we looked into the substantive side of these allegations. We never saw any evidence that then-Senator Obama had been born outside of the United States. We saw rumors, but nothing that could be sourced to evidence. There were no statements and no documents that suggested he was born somewhere else. On the other side, there was proof that he was born in Hawaii. There was a certificate issued by the state's Department of Health, and the responsible official in the state saying that he had personally seen the original certificate. There was a birth announcement in the ''Honolulu Advertiser'', which would be very difficult to invent or plant 47 years in advance. <ref name=CQP2009-07-24>{{citation
  | date = 24 July 2009 
  | author = David Weigel
  | title = McCain Lawyers Investigated Obama Citizenship
  | url =http://politicalwire.com/archives/2009/07/24/mccain_lawyers_investigated_obama_citizenship.html?referrer=js
  | journal = CQ Politics}}</ref></blockquote>
+==WorldNetDaily==
+[[WorldNetDaily]] (WND) has taken particular interest in the issue, saying they are following it when other media ignore it. 
+
+WND head [[Joseph Farah]] is conducting a campaign to erect  billboards with the question, "Where's the birth certificate?"  There are several U.S. court cases asking for the documentation, one of which was dismissed in October. <ref name=WND2009-10-21>{{citation
+ | title = BORN IN THE USA? Judge tosses eligibility case against Congress 'We've lost a skirmish. Now on with the war in the higher courts!'
+ | date = 21 October 2009
+ | author = [[Bob Unruh]]
+ | journal = [[WorldNetDaily]]}}</ref> Plaintiffs in that case included Charles F. Kerchner Jr., who wrote, "The federal courts and judges are committing treason to the Constitution by not taking jurisdiction and getting to the merits in the various cases before them regarding the Article II eligibility clause question for Obama." 
 ==December 2009 Palin comments==
 On 4 December 2009, the matter received additional attention after [[Sarah Palin]] said, on the Rusty Humphries radio show, "I think it's a fair question, just like I think past associations and past voting records -- all of that is fair game."  Soon afterwards, she posted to her [[Facebook]] page, that while others have raised the question, she has not directly done so: <blockquote>At no point - not during the campaign, and not during recent interviews - have I asked the president to produce his birth certificate or suggested that he was not born in the United States. Voters have every right to ask candidates for information if they so choose. I've pointed out that it was seemingly fair game during the 2008 election for many on the left to badger my doctor and lawyer for proof that Trig is in fact my child. Conspiracy-minded reporters and voters had a right to ask... which they have repeatedly,"<ref name=WaPo>{{citation
  | url = http://voices.washingtonpost.com/44/2009/12/palin-flirts-with-obama-birth.html?hpid=topnews
