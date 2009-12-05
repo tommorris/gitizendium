@@ -11,22 +11,6 @@
  | publisher = WorldNetDaily.com}}</ref>
 
 It is generally in favor of the policies of the [[State of Israel]]; its only listed foreign bureau is in [[Jerusalem]], and Joseph Farah is a contributing expert for the [[Ariel Center for Policy Research]], on the expert list of the [[Middle East Forum]] and a weekly columnist for the International Edition of the ''[[Jerusalem Post]]''.
-
-==Political relations==
-The ''[[Los Angeles Times]]'' reported that the [[Republican National Committee]] has paid WND for its mailing lists, and that critics have asked the RNC to cut ties with it, because "More than any other group, critics say, WorldNetDaily sets the conservative fringe agenda."<ref name=LAT2009-09-14>{{citation
- | title = Some fear GOP is being carried to the extreme: The Republican establishment hopes cooler heads will prevail over strongly anti-Obama parts of the conservative base.
- | date = 14 September 2009| author = Peter Wallsten | journal = Los Angeles Times
- | url = http://articles.latimes.com/2009/sep/14/nation/na-gop-fringe14}}</ref>
-
-In the ''Times'' article, it was reported that Joseph Farah had asked to hold a session on the [[birther]] issue (i.e., is Barack Obama a native-born American citizen?) at the [[Conservative Political Action Conference]], and told they did not have time for it given more important issues. "GOP strategist [[Jon Henke]] began a campaign against WorldNetDaily, which has published numerous articles giving credence to the birthplace issue and other allegations against the Obama administration. WorldNetDaily is also soliciting signatures and e-mail addresses for a petition calling on "any and all controlling legal authorities in this matter" to examine Obama's birth certificate." Henke, who now calls himself "of the right" rather than conservative, and wants to restructure a more effective Republican Party, writes in his blog, "In the 1960's, William F. Buckley denounced the John Birch Society leadership for being "so far removed from common sense" and later said "We cannot allow the emblem of irresponsibility to attach to the conservative banner. The Birthers are the Birchers of our time, and WorldNetDaily is their pamphlet."<ref>{{citation
- | title = Organizing Against WorldNetDaily
- | author = [[Jon Henke]]
- | date = 31 August 2009
- | url = http://www.thenextright.com/jon-henke/organizing-against-worldnetdaily
- | journal = [[The NextRight]]}}</ref>
-==Birther Movement==
-WorldNetDaily is widely known for its advocacy of the [[Birther Movement]] theory that [[Barack Obama]] is not a natural-born citizen of the [[United States]] and is thus not eligible to be the President of the United States. WorldNetDaily published a purported Kenyan birth certificate with Obama's name on it, which turned out to be a clumsy fake produced by [[Orly Taitz]].<ref>David Weigel, [http://washingtonindependent.com/53494/birthers-latch-onto-forged-kenyan-birth-certificate ‘Birthers’ Latch Onto Forged Kenyan Birth Certificate], ''The Washington Independent''</ref>
-
 ==WND Scoops==
 The publication cites stories that it first reported, such as: <ref name=Scoops>{{citation
  | title = WND Scoops: You read it here first!
@@ -47,6 +31,23 @@ The publication cites stories that it first reported, such as: <ref name=Scoops>
  | date = 4 March 2008
  | author = [[Bob Unruh]]
  | url = http://www.wnd.com/index.php?fa=PAGE.view&pageId=58061}}</ref>
+==Birther Movement==
+{{main|Birther Movement}}
+WorldNetDaily is widely known for its advocacy of the [[Birther Movement]] theory that [[Barack Obama]] is not a natural-born citizen of the [[United States]] and is thus not eligible to be the President of the United States. WorldNetDaily published a purported Kenyan birth certificate with Obama's name on it, which turned out to be a clumsy fake produced by [[Orly Taitz]].<ref>David Weigel, [http://washingtonindependent.com/53494/birthers-latch-onto-forged-kenyan-birth-certificate ‘Birthers’ Latch Onto Forged Kenyan Birth Certificate], ''The Washington Independent''</ref>
+==Political relations==
+{{main|Restructuring of the U.S. political right}}
+The ''[[Los Angeles Times]]'' reported that the [[Republican National Committee]] has paid WND for its mailing lists, and that critics have asked the RNC to cut ties with it, because "More than any other group, critics say, WorldNetDaily sets the conservative fringe agenda."<ref name=LAT2009-09-14>{{citation
+ | title = Some fear GOP is being carried to the extreme: The Republican establishment hopes cooler heads will prevail over strongly anti-Obama parts of the conservative base.
+ | date = 14 September 2009| author = Peter Wallsten | journal = Los Angeles Times
+ | url = http://articles.latimes.com/2009/sep/14/nation/na-gop-fringe14}}</ref>
+
+In the ''Times'' article, it was reported that Joseph Farah had asked to hold a session on the [[birther]] issue (i.e., is Barack Obama a native-born American citizen?) at the [[Conservative Political Action Conference]], and told they did not have time for it given more important issues. "GOP strategist [[Jon Henke]] began a campaign against WorldNetDaily, which has published numerous articles giving credence to the birthplace issue and other allegations against the Obama administration. WorldNetDaily is also soliciting signatures and e-mail addresses for a petition calling on "any and all controlling legal authorities in this matter" to examine Obama's birth certificate." Henke, who now calls himself "of the right" rather than conservative, and wants to restructure a more effective Republican Party, writes in his blog, "In the 1960's, William F. Buckley denounced the John Birch Society leadership for being "so far removed from common sense" and later said "We cannot allow the emblem of irresponsibility to attach to the conservative banner. The Birthers are the Birchers of our time, and WorldNetDaily is their pamphlet."<ref>{{citation
+ | title = Organizing Against WorldNetDaily
+ | author = [[Jon Henke]]
+ | date = 31 August 2009
+ | url = http://www.thenextright.com/jon-henke/organizing-against-worldnetdaily
+ | journal = [[The NextRight]]}}</ref>
+
 ==Book publications==
 Its WND Books subsidiary published the book, ''Muslim Mafia: Inside the Secret Underworld That's Conspiring to Islamize America''. This was cited by Rep. [[Sue Myrick]] (R-NC) and three other Republicans as evidence of infiltration of Congress by Muslim groups, often sponsored by the [[Council on American Islamic Relations]]. [[MediaMatters]] called this consistent with the organization's tendency to stress [[conspiracy theory|conspiracy theories]].<ref name=MM>{{citation
  | title =  Republican Lawmakers Leading Witch Hunt Against Muslim Group
