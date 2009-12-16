@@ -1,3 +1,4 @@
+{{subpages}}
 {{TOC|right}}
 '''Glenn Beck''' (1964-) is a U.S. [[political opinion broadcasting|political opinion broadcaster]] and author, with a show on [[Fox News]], and his own website, books and national tours. He is strongly identified with [[American conservatism]], and has started a movement called the [[9-12 Project]], strongly critical of liberal ideas and suspicious of large government.
 
@@ -25,7 +26,17 @@ He suffers from [[attention deficit hyperactivity disorder]], and credits religi
  | url = http://www.nndb.com/people/809/000049662/
  | journal = NNDB
  | title = Glenn Beck}}</ref>
-==Interviews==
+==On-air comments==
+In a skit with a woman wearing a mask of [[U.S. Speaker of the House]] [[Nancy Pelosi]],  on 6 August 2009, he spoke of poisoning her. <blockquote> So, Speaker Pelosi, I just wanted to — you gonna drink your wine? Are you blind? Do those eyes not work? There you — I want you to drink it now. Drink it. Drink it. Drink it.
+
+I really just wanted to thank you for having me over here to wine country. You know, to be invited, I thought I had to be a major Democratic donor or a longtime friend of yours, which I’m not.
+
+By the way, I put poison in your — no, I — I look forward to all the policy discussions that we’re supposed to have — you know, on health care, energy reform, and the economy.<ref name=MM>{{citation
+ | title = Beck jokes about "put(ting) poison" in Nancy Pelosi's wine
+ | journal = [[MediaMatters]]
+ | date = 6 August 2009
+ | url = http://mediamatters.org/mmtv/200908060037
+}}</ref></blockquote>
 On a [[CNN]] interview of Rep. [[Keith Ellison]] ([[U.S. Democratic Party|D-]][[Minnesota]]), the first Muslim elected to the [[U.S. House of Representatives]], he questioned Ellison's loyalty to the United States. Beck said, with respect to Iraq, "You are saying, "Let`s cut and run." And I have to tell you, I have been nervous about this interview with you, because what I feel like saying is, "Sir, prove to me that you are not working with our enemies." And I know you`re not. I`m not accusing you of being an enemy, but that`s the way I feel, and I think a lot of Americans will feel that way."<ref>{{citation
  | url = http://transcripts.cnn.com/TRANSCRIPTS/0611/14/gb.01.html
  | title = What Should be Done with Iran? First Muslim Congressman Speaks Out
@@ -33,6 +44,12 @@ On a [[CNN]] interview of Rep. [[Keith Ellison]] ([[U.S. Democratic Party|D-]][[
  | date = 14 November 2006
  | journal = CNN
 }}</ref>
+
+He mused about killing left-wing filmmaker [[Michael Moore]] on his show of 17 May 2005.<blockquote>I'm thinking about killing Michael Moore, and I'm wondering if I could kill him myself, or if I would need to hire somebody to do it. No, I think I could. I think he could be looking me in the eye, you know, and I could just be choking the life out -- is this wrong? I stopped wearing my What Would Jesus -- band -- Do, and I've lost all sense of right and wrong now. I used to be able to say, "Yeah, I'd kill Michael Moore," and then I'd see the little band: What Would Jesus Do? And then I'd realize, "Oh, you wouldn't kill Michael Moore. Or at least you wouldn't choke him to death." And you know, well, I'm not sure.<ref name=MM2005-05-18>{{citation
+ | title = Radio host Glenn Beck "thinking about killing Michael Moore"
+ | date = 18 May 2005
+ | journal = [[MediaMatters]]
+ | url = http://mediamatters.org/research/200505180008?is_gsa=1&final=1}}</ref></blockquote>
 ==9-12 Project==
 {{main|9-12 Project}}
 He created the [[9-12 Project]] as a movement whose name invokes U.S. response to the [[9-11 Attacks]], <blockquote>On 9/10 we were burying our heads in the sand or we were playing politics. It was about Republicans or Democrats. On 9/11 we were freaking out and no one knew who attacked us, where did this come from, what is this. On 9/12 no one in the government had to tell us what to do. We just did it.<ref name=Announce>{{citation
@@ -88,7 +105,11 @@ His calling called [[Barack Obama]] a racist over the [[Henry Louis Gates, Jr.]]
  | date = 25 August 2009 | author = Conor Clarke
  | title = Why Hasn't the Glenn Beck Boycott Hurt Fox News? | journal = [[The Atlantic]]
  | url = http://politics.theatlantic.com/2009/08/why_hasnt_the_glenn_beck_boycott_hurt_fox_news.php}}</ref>
-
-
+==Conflict of interest allegations==
+His current advertisers do include gold sellers Goldline International, which offers investing in precious metals as a hedge against catastrophic economic events. Its website calls him a paid spokesman, and product endorsements is generally forbidden for Fox broadcast personnel. [[Joel Cheatwood]], senior vice president for development for Fox, said an exception was made for him: Joel Cheatwood, senior vice president for development. "When we hired Glenn at Fox News, we hired him with the understanding that he had a well-established, burgeoning radio business, and we had to be accepting of certain elements of that." <ref name=DF2009-12-07>{{citation
+ | url = http://www.dailyfinance.com/2009/12/07/thars-gold-in-them-shills-fox-raps-glenn-becks-endorsement-de/
+ |title = Thar's gold in them shills! Fox raps Glenn Beck's endorsement deal
+ |author = Jeff Bercovici | journal = Daily Finance
+ | date = 7 December 2009}}</ref>
 ==References==
 {{reflist|2}}
