@@ -1,3 +1,4 @@
+{{TOC|right}}
 '''Glenn Beck''' (1964-) is a U.S. [[political opinion broadcasting|political opinion broadcaster]] and author, with a show on [[Fox News]], and his own website, books and national tours. He is strongly identified with [[American conservatism]], and has started a movement called the [[9-12 Project]], strongly critical of liberal ideas and suspicious of large government.
 
 Among Fox opinion commentators, Beck differentiates himself as a highly emotional "revivalist in a troubled land", with an apocalyptic vision, as opposed to [[Bill O'Reilly]] as an "outsider" and [[Sean Hannity]] as an ideologue. Conservative writer [[David Frum]] called  Beck's success the “...product of the collapse of conservatism as an organized political force, and the rise of conservatism as an alienated cultural sensibility. It’s a show for people who feel they belong to an embattled minority that is disenfranchised and cut off." He calls himself an entertainer that challenges his critics: "I’m a rodeo clown...It takes great skill.”<ref name=NYT2009-03-30>{{citation
@@ -8,6 +9,17 @@ Among Fox opinion commentators, Beck differentiates himself as a highly emotiona
  | url = http://www.nytimes.com/2009/03/30/business/media/30beck.html?pagewanted=print}}</ref>
 
 [[Tom Rosenstiel]], of the [[Project for Excellence in Journalism]], speaks of his appeal in historical terms: “There was a lot of radio evangelism during the Depression. People were frustrated and frightened. There are a lot of scary parallels now.” 
+==Early life==
+There is little question that he started broadcasting at the age of 13. <ref name=About>{{citation
+ | title = About the Glenn Beck Program
+ | url = http://www.glennbeck.com/content/program/about/
+ | publisher = Glenn Beck Program}}</ref>  There are, however, various versions of his early life. He grew up in Mount Vernon, [[Washington]], a farm town that, in the 1960s, had a considerable counterculture component, although his father, William Beck, was known as a conventional bakery owner. Quoted by Salon.com, Beck said it was ethnically homogeneous: "the source of his lingering discomfort around Jews and other ethnic minorities. 'I'm the whitest guy you will ever meet," Beck never tires of saying. "The first time I saw an African-American, my dad had to tell me to stop staring.'" The family was active in the local Catholic church, and he and his sisters attended religious schools.  <ref name=Salon2009-09-21>{{citation | date = 21 September 2009
+ | title = The making of Glenn Beck: His roots, from the alleged suicide of his mom to Top 40 radio to the birth of the morning zoo (Part 1 of 3)
+ | url = http://www.salon.com/news/feature/2009/09/21/glenn_beck/index.html
+ | author = Alexander Zaitchik | journal = Salon.com}}</ref>
+===Mother's death===
+===Redemption===
+The theme of redemption recurs in his own, and other accounts, of his career. According to his website, at age 30, he "was consumed by alcoholism and drug addiction. Coming to terms with his past and staying sober shifted his life direction." <ref name=About />His second wife, Tania, required him to convert to Mormonism before they were wed.  
 ==9-12 Project==
 {{main|9-12 Project}}
 He created the [[9-12 Project]] as a movement whose name invokes U.S. response to the [[9-11 Attacks]], <blockquote>On 9/10 we were burying our heads in the sand or we were playing politics. It was about Republicans or Democrats. On 9/11 we were freaking out and no one knew who attacked us, where did this come from, what is this. On 9/12 no one in the government had to tell us what to do. We just did it.<ref name=Announce>{{citation
@@ -22,7 +34,7 @@ According to his open letter of November 2009, Beck said, <ref name=Letter>{{cit
  | author = Glenn Beck
  | url =http://www.the912project.com/category/the-plan/
  | date = 23 November 2009
- | publisher = 9-12 Project}}</ref> "Today, I have stopped looking for a leader to show us the way out because I have come to realize that the only one who can truly save our country… is us."  Speaking on Fox, he also said "Coming this January, my whole approach changes on this program “This next year is going to be critical, and I think it's going to change and I think we are going to set it right, at least set our course right. And if that means the Democrats or the Republicans are destroyed along the way, well, good. Good.” " <ref name=Politico2009-11-21>{{citation
+ | publisher = 9-12 Project}}</ref> "Today, I have stopped looking for a leader to show us the way out because I have come to realize that the only one who can truly save our country… is us." On his show, he said "Coming this January, my whole approach changes on this program. This next year is going to be critical, and I think it's going to change and I think we are going to set it right, at least set our course right. And if that means the Democrats or the Republicans are destroyed along the way, well, good. Good. " <ref name=Politico2009-11-21>{{citation
  | title =  Beck's plan: Rally followers, sell books
  | author = Kenneth P. Vogel
  | date = 21 November 2009 | journal = Politico 
