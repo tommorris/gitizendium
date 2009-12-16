@@ -2,7 +2,7 @@
 {{TOC|right}}
 '''Glenn Beck''' (1964-) is a U.S. [[political opinion broadcasting|political opinion broadcaster]] and author, with a show on [[Fox News]], and his own website, books and national tours. Among the top three talk hosts in listener size, he is strongly identified with [[American conservatism]], and has started a movement called the [[9-12 Project]], strongly critical of liberal ideas and suspicious of large government.  
 
-Among Fox opinion commentators, Beck differentiates himself as a highly emotional "revivalist in a troubled land", with an apocalyptic vision, as opposed to [[Bill O'Reilly]] as an "outsider" and [[Sean Hannity]] as an ideologue. Conservative writer [[David Frum]] called  Beck's success the “...product of the collapse of conservatism as an organized political force, and the rise of conservatism as an alienated cultural sensibility. It’s a show for people who feel they belong to an embattled minority that is disenfranchised and cut off." He calls himself an entertainer that challenges his critics: "I’m a rodeo clown...It takes great skill.”<ref name=NYT2009-03-30>{{citation
+Among Fox opinion commentators, Beck differentiates himself as a highly emotional "revivalist in a troubled land", with an apocalyptic vision, as opposed to [[Bill O'Reilly]] as an "outsider" and [[Sean Hannity]] as an ideologue. Conservative writer [[David Frum]] called  Beck's success the “...product of the collapse of conservatism as an organized political force, and the rise of conservatism as an alienated cultural sensibility. It’s a show for people who feel they belong to an embattled minority that is disenfranchised and cut off." Beck calls himself an entertainer that challenges his critics: "I’m a rodeo clown...It takes great skill.”<ref name=NYT2009-03-30>{{citation
  | date = 30 March 2009
  | author = Brian Stelter and Bill Carter
  | title = Fox News’s Mad, Apocalyptic, Tearful Rising Star
@@ -112,7 +112,9 @@ Supporters argue that this is left-wing bias by a "left-wing African American ad
  | journal = Orlando Republican Examiner, in Boston Globe
  | url = http://www.examiner.com/x-5325-Orlando-Republican-Examiner~y2009m8d17-Glenn-Beck-supporters-fight-back-against-leftwing-boycott}}</ref>
 ==Conflict of interest allegations==
-His current advertisers do include gold sellers Goldline International, which offers investing in precious metals as a hedge against catastrophic economic events. Its website calls him an endorser,<ref>{{citation
+His current advertisers do include gold sellers Goldline International, which offers investing in precious metals as a hedge against catastrophic economic events. While his personal financial interest in Goldline is described as obvious on his radio show, it has been questioned if he keeps proper separation when speaking of apocalyptic events on television, events against which gold buying is considered a hedge. <ref name=Boston2009-12-13>{{citation
+ | title =Goldgate part one: Glenn Beck and Gretchen Carlson have something in common at Fox News
+ | date = 13 December 2009 | author = Ryan Witt| journal = Boston Globe | url =http://www.examiner.com/examiner/x-5738-Political-Buzz-Examiner~y2009m12d13-Goldgate-part-one-Glenn-Beck-and-Gretchen-Carlson-have-something-in-common-at-Fox-News}}</ref>Goldline's website calls him an endorser,<ref>{{citation
  | url = http://www.goldline.com/d/index.html?id=544&utm_source=glennbeck.com&utm_medium=banner&utm_campaign=beckbanner
  | publisher = Goldline International
  | title = Goldline is Glenn Beck's Choice for Gold}}</ref> and product endorsements is generally forbidden for Fox broadcast personnel. [[Joel Cheatwood]], senior vice president for development for Fox, said an exception was made for him:  "When we hired Glenn at Fox News, we hired him with the understanding that he had a well-established, burgeoning radio business, and we had to be accepting of certain elements of that." <ref name=DF2009-12-07>{{citation
