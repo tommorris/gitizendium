@@ -1,2 +1,7 @@
-'''Twitter''' is a [[micro-blogging]] service hosted at http://twitter.com/.
-[[Category:Stub Articles]]
+{{subpages}}
+
+'''Twitter''' is a [[microblogging]] service created in 2006 by Jack Dorsey as a side project at Obvious, creators of podcasting service [[Odeo]]. It was formally incorporated in May 2007. Users on Twitter can post 140-character status updates ("tweets"), and get updated on tweets by other users through the Twitter website, the mobile-optimized site, [[Short Message Service|SMS]] text messages or a large number of Twitter API-based services and clients, including clients for most mobile devices such as the [[iPhone]].
+
+Functionality is often developed at Twitter through a process of codifying common community practices. The syntax to reply to another user (so-called "at-replies") has been formalized from early usage, as have hashtags and 'retweeting' functionality, which allows a user to rebroadcast a Twitter message to other users.
+
+Twitter has been extremely popular: originally the preserve of the early adopting geek market (including a lot of attendees at the [[SXSW]] Interactive conference in [[Austin, Texas|Austin]], [[Texas]]
