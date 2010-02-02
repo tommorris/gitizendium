@@ -24,7 +24,6 @@ Some conspiracy theorists maintain that President Obama was not born in the stat
 | author = Dina Rosendorff
 | title = Adelaide man caught up in bid to oust Obama
 | work = ABC News / PM (Australia)
-| format = News
 | accessdate = 2010-02-02
 | date = 2008-10-17
 | url = http://www.abc.net.au/pm/content/2008/s2646009.htm
