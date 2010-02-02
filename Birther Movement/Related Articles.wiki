@@ -1,6 +1,7 @@
 {{subpages}}
 {{TOC|right}}
 ==Parent topics==
+{{r|Conspiracy theory}}
 {{r|Barack Obama}}
 {{r|Kenya}} 
 
@@ -8,7 +9,6 @@
 {{r|Orly Taitz}}
 
 ==Other related topics==
-{{r|Conspiracy theory}}
 {{r|Lou Dobbs}}
 {{r|Andrea Shea King}}
 {{r|Rush Limbaugh}}
