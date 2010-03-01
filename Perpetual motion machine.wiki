@@ -17,7 +17,7 @@ In partivular, the Russian sqtellite Yubileiny launched  23 May 2008, was report
 <ref name="prav2009.4.14">
 http://english.pravda.ru/science/tech/14-04-2009/107399-Russian_scientists-0.
 Russian scientists test perpetual motion machine in space. Pravda, 2009, April 14
-</ref>. Such a message looks al an April-Fill-Joke, but the Russiqn publications indicate that the huge funds were spent to test the Law of conservation of momentum at the authomatic spacraft.
+</ref>. Such a message looks al an April-Fill-Joke, but the Russian publications indicate that the huge funds were spent to test the Law of conservation of [[momentum]] at the authomatic spacraft.
 <ref name="gazeta">
 http://www.gazeta.ru/science/2010/02/22_a_3328272.shtml
 Nikolaj Podvorotnuk. Gratitzapa with problems. Gazeta, 2010 February 22, (In Russian).
@@ -26,7 +26,7 @@ Nikolaj Podvorotnuk. Gratitzapa with problems. Gazeta, 2010 February 22, (In Rus
 http://en.wikipedia.org/wiki/Yubileiny : 
 "Valery Menshikov, the director of the institute, said that the machine was installed at Yubileiny satellite which was launched into orbit almost a year ago. The satellite can now move from one orbit to another with the help of the engine, which discharges no reaction mass."
 (state for the end of February of 2010).
-</ref>. The engine is called "gravitzapa" (гравицапа)  and causes a lot of discussions in Russian forums. For the beginning of March 2010, no official erratum from the Russian officials is reported with respect to such a device. 
+</ref>. The engine is called "gravitzapa" (гравицапа)  and causes a lot of discussions in Russian forums. For the beginning of March 2010, no official erratum from the Russian officials is reported with respect to such a device.
 
 == Patent system ==
 Since the patent system was put in place, it has received a number of patent requests for perpetual motion machines. The [[U.S. Patent Office]] now requires a working prototype in order to grant a patent for a perpetual motion machine.
