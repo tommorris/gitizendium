@@ -13,7 +13,9 @@ A perpetual motion machine of the second kind breaks the [[second law of thermod
 It is not uncommon for people to claim to have a perpetual motion machine from which one could generate mechanical or electric energy. These people are usually very secretive about their work and need sponsors while claiming that the secrecy is to protect them from dangerous entities that might be afraid of gratis energy (usually big oil companies).
 
 The invention of the perpetual motion machines, as well as other claims to violate the fundamantal laws of physics continues in the XXI century.
-In partivular, the Russian sqtellite Yubileiny launched  23 May 2008, was reported to use a perpetual motion machine for the propulsion. Later, there was a correction, indicating, that the engine violates "the only" First law of Newton, while the energy comes from the solar cells.
+In partivular, the Russian sqtellite Yubileiny launched  23 May 2008, was reported to use a perpetual motion machine for the propulsion. Later, there was a correction, indicating, that the engine violates "the only" 
+[[Classical_mechanics#Newton.27s_laws_of_motion|First law of Newton]]
+, while the energy comes from the solar cells
 <ref name="prav2009.4.14">
 http://english.pravda.ru/science/tech/14-04-2009/107399-Russian_scientists-0.
 Russian scientists test perpetual motion machine in space. Pravda, 2009, April 14
@@ -21,7 +23,7 @@ Russian scientists test perpetual motion machine in space. Pravda, 2009, April 1
 <ref name="gazeta">
 http://www.gazeta.ru/science/2010/02/22_a_3328272.shtml
 Nikolaj Podvorotnuk. Gratitzapa with problems. Gazeta, 2010 February 22, (In Russian).
-</ref>. Sich a perpetial motion machine is installed at the satellite "Yubileiny", mentioned in wikipedia,
+</ref>. Sich a perpetial motion machine is installed at the satellite "Yubileiny", mentioned in wikipedia
 <ref name="wiki:Yubuleiny">
 http://en.wikipedia.org/wiki/Yubileiny : 
 "Valery Menshikov, the director of the institute, said that the machine was installed at Yubileiny satellite which was launched into orbit almost a year ago. The satellite can now move from one orbit to another with the help of the engine, which discharges no reaction mass."
