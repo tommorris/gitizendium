@@ -1,13 +1,13 @@
 {{subpages}}
 {{TOC|right}}
-'''Bromance''' describes a intense feeling of intimacy between two [[heterosexual]] men but which doesn't involve [[sexual intercourse|sex]].<ref name =finebromance>{{cite news 
+'''Bromance''' describes an intense feeling of intimacy between two heterosexual men but which doesn't involve [[sexual intercourse|sex]].<ref name =finebromance>{{cite news 
   | last = Elder
   | first = John
   | title = A fine bromance
   | work = The Age
   | date = 2008-10-18
   | url = http://www.theage.com.au/national/a-fine-bromance-20081011-4yst.html?page=1
-  | accessdate = 2008-10-28}}</ref> It is a form of intimacy, brotherhood, close friendship. The term was coined in the 1990s by the editor of ''Skateboard Magazine'', Dave Carnie, referring to relationships between skaters who bond after spending much time together,<ref name =grandbromance>{{cite news 
+  | accessdate = 2008-10-28}}</ref> It is a form of brotherhood and close friendship. The term was coined in the 1990s by the editor of ''Skateboard Magazine'', Dave Carnie, referring to relationships between skaters who bond after spending much time together,<ref name =grandbromance>{{cite news 
   | last = Elliott
   | first = Tim
   | title = A grand bromance
@@ -30,7 +30,6 @@
 |url= http://www.huffingtonpost.com/jodi-jacobson/waldman-and-saletan-oh-wh_b_221947.html
 |accessdate= 2010-03-08
 }}</ref> But a report from Lake Superior State University included the term "bromance" along with 14 others on their 2010 list of "Words Banished from the Queen's English for Mis-use, Over-use and General Uselessness."<ref name=twsMAR12j23>{{cite news
-|author= 
 |title= Say No More: The Banned Words of 2010
 |quote= 1. Shovel-ready
 2. Transparent/Transparency
