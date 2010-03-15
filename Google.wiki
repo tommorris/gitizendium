@@ -2,6 +2,11 @@
 
 '''Google Inc.''' is an [[internet]] search engine company that was co-founded by [[Larry Page]] and [[Sergey Brin]]. It is currently the most popular search engine on the internet. Among the services offered by Google are Google Mail, Google Video, and Google Maps. Google Inc. is also the owner of several other websites and companies, for example Blogger, [[YouTube]], and [[DoubleClick]].
 
+Several Google services are architected as [[cloud computing]].
+==Products and services==
+Google is best known for its [[search engine]], but also offers a variety of other services.
+===Gmail===
+Google Mail, usually called ''gmail'', is a web-based [[electronic mail]] service. 
 ==History==
 The history of Google has been detailed.<ref name="isbn1-59184-141-0">{{cite book |author=John Battelle |title=The Search: How Google and Its Rivals Rewrote the Rules of Business and Transformed Our Culture |publisher=Portfolio Trade |location= |year=2006 |pages= |isbn=1-59184-141-0 |oclc= |doi=}}</ref>
 
@@ -21,7 +26,6 @@ Yahoo had a lawsuit against Google for patent infringement that resulted in  Yah
 ==Controversies==
 The Google Book Search Library Project, in which millions of books from libraries will be scanned and made searchable on the Web, has led to controversy and legal action. In support of Google's mission to "organize the world's information," the Google Book Search program is designed to digitize printed book content so that it may be searched and retrieved via Google's search engine.  The program has two facets—one that involves publishers, which has not been controversial, and one that involves libraries, which has. The University of Michigan has committed to allowing Google to scan its entire print and journal collection.  Publishers are suing Google for copyright infringement, while Google claims their use falls under the fair use privilege of the Copyright Act.<ref>Baksik, Corinna. (2006) "Fair Use or Exploitation? The Google Book Search Controversy," ''Libraries and the Academy''- Volume 6, Number 4, October 2006, pp. 399-415 in [[Project Muse]]</ref> 
 
-
 Google has agreed to censor results for queries made from China. Google has decided to do so to stop [[China]] from hindering Chinese user searches (blocking Google or substantially slowing down the result display). Google has agreed to block content that the Chinese government deems unacceptable. <ref>''Fox News.com'', "[http://www.foxnews.com/story/0,2933,182695,00.html China's Google Search Engine to Be Censored]", [Associated Press], January 25, 2006.</ref>. 
 
 [[Google Reader]] now automatically allows contacts a person has in a [[Gmail]] account to what feeds are subscribed.<ref>''Profy'', "[http://www.profy.com/2007/12/27/google-reader-privacy-mess/ Don't Be... What Was That Again? We Seem to Have Forgotten]", Cyndy Aleo-Carreira, December 27th, 2007.</ref>.
@@ -30,8 +34,3 @@ Google [[cookie]]s are criticized by the [[World Privacy Forum]] and others. The
 
 ==References==
 <references/>
-
-== External links ==
-* [http://www.google.com Google]
-* [http://www.google.com/corporate/ Official corporate website]
-* [http://labs.google.com/ Google labs]
