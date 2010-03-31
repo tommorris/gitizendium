@@ -4,20 +4,30 @@
 {{r|philosophy}}
 
 ==Subtopics==
-{{r|causation}}
-{{r|dualism}}
-{{r|existence}}
-{{r|free will}}
-{{r|identity (philosophy)}}
-{{r|monism}}
-{{r|ontology}}
+{{r|Causation}}
+{{r|David Hume||**}}
+{{r|Dispositions}}
+{{r|Dualism}}
+{{r|Existence}}
+{{r|Free will}}
+{{r|Identity (philosophy)}}
+{{r|Reasons and Persons||**}}
+{{r|Modal worlds}}
+{{r|Modal realism||**}}
+{{r|Monism}}
+{{r|Ontology}}
 {{r|persistence through time}}
 {{r|Philosophy of Spinoza}}
 {{r|possible worlds}}
-{{r|time}}
-{{r|universals}}
+{{r|Scientific realism}}
+{{r|Bas van Fraassen||**}}
+{{r|Ontic strucutral realism||**}}
+{{r|Universals and Scientific Realism||**}}
+{{r|Time}}
+{{r|Universals}}
 
 ==Other related topics==
 {{r|Aristotle}}
+{{r|David Armstrong}}
 {{r|David Lewis}}
 {{r|theology}}
