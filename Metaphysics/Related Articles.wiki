@@ -26,6 +26,7 @@
 {{r|Time}}
 {{r|Presentism||**}}
 {{r|Universals}}
+{{r|Vagueness}}
 
 ==Other related topics==
 {{r|Aristotle}}
