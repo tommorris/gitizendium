@@ -1,11 +1,53 @@
 {{subpages}}
 
-'''Fascism''' is a political ideology of the far right that seeks national unity through patriotism, collectivism and opposition to [[liberalism]]. Fascism generally sees the individual as subservient to the group. The prototypical fascist state is usually seen as the [[Italy]] of [[Benito Mussolini]], and fascism is also thought of as an important undercurrent in [[Adolf Hitler|Hitler's]] [[Germany]] under [[National Socialism]].
+
+'''Fascism''' is a political ideology, practice and religion that seeks national unity through patriotism, collectivism and strong suppression or extermination of any [[liberalism]] and [[opposition]].
+<!--, allowing all methods fighting enemies.!-->
+Fascism generally sees the individual as subservient to the group; those who do not accept this are considered as enemies;
+the dictatorship of the strongly organized group is justified. 
+Fascism usually implies the existence of a at least one strong leader, [[fuhrer]]; the canonical texts by the leader are considered as irrefutable true. 
+In such a way, fascism substitutes all the historical concepts of [[morality]] with submission to the interests of the patriotic group, expressed by the leader.
+<!-- In the extremal form, the leader (especially after his death) is considered as God.!-->
+
+The main assumption of the fascistic religion is that the superiority gives namely this group the moral right to dominate over all other people and use all methods necessary to provide such domination: propaganda of xenophobia, terror, racket, taking hostages, the war of extermination, cruelty. These methods, both theory and practice were described by [[Vladimir Lenin]] at the beginning of century XX
+<ref name="lenin1906"> [http://www.marxists.org/archive/lenin/works/1906/aug/29.htm V.I.Lenin. Lessons of the Moscow Uprising. (1906)]</ref>
+<ref name="lenin1918"> [http://www.marx2mao.com/Lenin/DD18.html V.I.Lenin. Democracy and dictatorship.(1918)] V.I.Lenin, Collected Works, 4th English Edition, Progress Publishers, Moscow, 1966, v.28, p.368-372</ref>.
+(See the links for more Russian references.) 
+
+In years 1920-1930ths, fascism spread to [[Germany]] (and then to [[Italy]]), and got its future development. The canonic text on the German fascism, called also [[hitlerism]] (or [[National Socialism]]), is the book by [[Adolf Hitler]] entitled [[Mein Kampf]] published in 1925-1926 years <ref name="MeinKampf"> [http://www.hitler.org/writings/Mein_Kampf/ A.Hitler. Mein Kampf] (1925-1926)</ref>. This book is considered as an equivalent of the [[Bible]] for hitlerism 
+<ref name="jimwalker"> [http://www.nobeliefs.com/hitler.htm Jim Walker. Hitler's religious beliefs and fanaticism]</ref>.
+The main enemy is declared to be [[jews]], either by the [[ethnicity]] or by their [[Judaism|religion]]. For this reason, hitlerism is also called [[nazism]]. The racial orientation makes the main difference between [[hitlerism]] and [[stalinism]] (named after [[Joseph Stalin]], leader of the USSR), where the dominant group is called [[proletariat]] and the meaning of "main enemy" varies from epoch to epoch; first, it refers to the [[bourgeoisie]], then, to [[kulak]]s (transliteration from [[Russian]] кулак, which means an independent [[farmer]]), then, after extermination of farmers, becomes some kind of abstract [[enemy of the people]] (Literal translation of the Russian враг народа), a term, which can be applied to anybody: that time, every citizen of the USSR or foreigner could be qualified as "enemy of the people" (justifying the [[repression]]). This gave the almost permanent source of [[slave]]s for the [[concentration camp]]s, created in the USSR in 1918; this recourse was limited only by the population of the USSR, making stalinism stronger than hitlerism, at least during few generations.<br>
+In many other aspects, hitlerism and stalinism are very close. Their cooperation covered the suppression of the enemies inside the countries (Germany, USSR), the coordinated invasion to other countries
+<ref name="MolotovRibbentrop"> [http://www.fordham.edu/halsall/mod/1939pact.html The Molotov-Ribbentrop Pact], 1939</ref>,
+the export of grain from starving Russia to more prosper Germany and the ideological support 
+<ref name="Molotov1940speech"> [http://everything2.com/title/Molotov%2527s+speech+after+Finnish+Winter+War V.M.MOLOTOV. THE FOREIGN POLICY OF THE GOVERNMENT]. March 29, 1940</ref>.
+Such a cooperation lasted until year 1941; then the it converted to war. Since that time, the [[soviet propaganda]] interprets the [[National Socialism]] as essence of fascism.
+
+The ideas of [[hitlerism]] and [[stalinism]] are generalized in the book [[The doctrine of fascism]] (La dottrina del fascismo)
+<ref name="doctrine">[http://www.worldfuturefund.org/wffmaster/Reading/Germany/mussolini.htm Benito Mussolini. The doctrine of fascism] (1933)</ref>, published by the Italian leader [[Benito Mussolini]] in 1933. In that book the ideas of fascism are formulated in the abstract form, that can be applied to any country and any epoch; the only need is to choose the appropriate strong majority as the dominant elite, representing the national interests, and to declare some minorities as enemies (id est, victims). This idea generalizes the Russian concept of [[bolshevik]]s (transliteration from Russian большевик). Neither stalinists, not hitlerists use the term 'fascism' with respect to themselves. German hitlerists used word [[nazi]], while the stalinists call themselves [[bolshevik]]s of [[communist]]s; some of them recognize themselves as stalinists (but do not recognize stalinism as kind of fascism). 
+<!--However, the soviet propaganda uses term "fascism" referring to nazi.!-->
+
+After the [[World War II]] (1938-1945), the hitlerism was condemned and punished; then fascism is not welcomed in civilized countries. In some countries, the book [[Mein Kampf]] is banned
+<ref name="ban">
+[http://www.rferl.org/content/Russia_Bans_Mein_Kampf/1994662.html Russia Bans 'Mein Kampf']. [Radio Liberty], March 26, 2010.</ref>
+The ban give the [[neo-fascist]]s 
+<ref name="ZbigniewBrzezinski2004">[http://hnn.us/roundup/entries/7455.html Zbigniew Brzezinski. Moscow's Mussolini] (How Putin Is Creating a Fascist State). Sept. 20, 2004</ref>
+<ref name="GavinKnight2007">[http://www.newstatesman.com/politics/2007/07/putin-russia-nashi-soviet Gavin Knight. The alarming spread of fascism in Putin"s Russia], 24 July 2007</ref>
+more opportunities: they recycle the fascistic ideas and re-use them without to cite the sources. The groups, united with the collective [[narcissism]], pretend to be "anti-fascists", while they never had red the classic fascists documents and can neither classify, nor even identify the phenomena of fascism in century 21.
+<ref name="AnselmWaldermann2007"> 
+[http://www.spiegel.de/international/world/0,1518,514891,00.html Anselm Waldermann. The Nashi Movement.
+The [[New Statesman]],  2007 Nov. 2</ref> 
+
+<!--
+The prototypical fascist state is usually seen as the [[Italy]] of [[Benito Mussolini]], and fascism is also thought of as an important undercurrent in [[Adolf Hitler|Hitler's]] [[Germany]] under [[National Socialism]].
 
 Fascism as a movement tends to be a [[populism|populist]] movement, which exists in a symbiotic relationship with the party - in [[Germany]], this included the [[Hitler Youth]] and frequent marches. Fascism tends to play to a feeling of crisis and group victimhood (usually racial and nationalistic), blaming another group for social problems.
+!-->
 
-Fascism and fascist are also often used as a pejorative name for people. This was lucidly described by [[George Orwell]] in ''What is Fascism?''<ref>George Orwell, 1944, [http://www.orwell.ru/library/articles/As_I_Please/english/efasc What is Fascism?]. Also see Orwell's [http://www.mtholyoke.edu/acad/intrel/orwell46.htm Politics and the English Language] which makes similar reference to the pejorative use of 'fascism'.</ref>, where he described how it was used to describe a huge swathe of political ideologies and positions and is thus it has been rendered fairly meaningless.
+Words ''fascism'' and ''fascist'' are also often used as a pejorative name for people. This was lucidly described by [[George Orwell]] in ''What is Fascism?''<ref>George Orwell, 1944, [http://www.orwell.ru/library/articles/As_I_Please/english/efasc What is Fascism?]. Also see Orwell's [http://www.mtholyoke.edu/acad/intrel/orwell46.htm Politics and the English Language] which makes similar reference to the pejorative use of 'fascism'.</ref>, where he described how it was used to describe a huge swathe of political ideologies and positions and is thus it has been rendered fairly meaningless. 
+In particular, the [[nashism|nashists]] by themselves use the term 'fascism' with respect to any ideology, different from [[nashism]].
 
+<!--
 ==Bibliography==
 *  Blamires, Cyprian. ''World Fascism: A Historical Encyclopedia'' (2 vol. 2006)
 * De Grand, Alexander. ''Fascist Italy and Nazi Germany. The Fascist "Style" of Rule,'' (1995),
@@ -16,10 +58,10 @@ Fascism and fascist are also often used as a pejorative name for people. This wa
 * Laqueur, Walter, ed. ''Fascism. A Reader's Guide: Analyses, Interpretations, Bibliography,'' (1979)
 * Morgan, Philip. ''Fascism in Europe, 1919-1945.'' (2002) [http://www.questia.com/read/108077313?title=Fascism%20in%20Europe%2c%201919-1945 online edition]
 * Payne, Stanley. ''A History of Fascism, 1914-1945,'' (1995)
-*  Paxton, Robert O. ''The Anatomy of Fascism'' (2005)
-
+* Paxton, Robert O. ''The Anatomy of Fascism'' (2005)
 ===Primary sources===
 * Griffin, Roger, ed. ''Fascism,'' (1995) [http://www.amazon.com/Fascism-Oxford-Readers-Roger-Griffin/dp/0192892495/ref=pd_bbs_sr_3?ie=UTF8&s=books&qid=1208116272&sr=1-3 excerpt and text search]
+!-->
 
 ==See also==
 * [[National Socialism]]
