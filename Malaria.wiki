@@ -57,6 +57,11 @@ By 1947, comparisons were possible, and chloroquine was most preferred. <ref>{{c
  | title = Comparison of Chloroquine, Quinacrine (atabrine) and Quinine in the treatment of acute attacks of Sporozite-induced Vivax malaria (Chesson Strain)
  | year = 1947
  | journal = J. Clinical Invest. | author = Pullman T ''et al.''}}</ref>
+====Antibiotics====
+More general antibiotics, including [[clindamycin]], [[doxycycline]] and --- have activity.
+====Newer agents====
+Approved in 2000 was the fixed-combination, for prophylaxis and treatment, of [[atovaquone-proguanil]].
+
 ===Resistance concerns===
 Where the disease is not endemic, and the illness is not immediately life-threatening, laboratory diagnosis of the specific ''Plasmodium'' species, along with the travel history, will help guide the choice of the appropriate drug treatment. <ref name=CDC-treat>{{citation
  | author = Centers for Disease Control
