@@ -75,5 +75,14 @@ who have one or more of the following clinical criteria
 *acidosis,
 *[[disseminated intravascular coagulation]] or spontaneous bleeding or hemoglobinuria, *[[jaundice]]  
 *blood parasite load of > 5%
+===Early treatment===
+Malaria was one of the first drugs with a specific treatment, the alkaloid [[quinine]], from cinchona tree bark, also called Jesuit's Bark.  Quinine rarely is a complete cure but suppresses symptoms and is relatively toxic. With the advent of synthetic drugs in the Second World War, it was gradually replaced, although it still has a role as a backup drug for resistant forms.
+===First-generation antimalarials===
+===Resistance concerns===
+===Artemisinin===
+Today's most valuable drug is [[artemisinin]], which was first available as a Chinese herbal preparation.  It has been synthesized to help meet demand.  To minimize resistance formation, the general recommendation is to give it with other drugs.
+
+There is a significant drug counterfeiting problem, which is contributing to resistance.
+
 ==References==
 {{reflist|2}}
