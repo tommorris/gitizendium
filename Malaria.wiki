@@ -58,7 +58,8 @@ By 1947, comparisons were possible, and chloroquine was most preferred. <ref>{{c
  | year = 1947
  | journal = J. Clinical Invest. | author = Pullman T ''et al.''}}</ref>
 ====Antibiotics====
-More general antibiotics, including [[clindamycin]], [[doxycycline]] and [[tetracycline]] have activity.
+More general antibiotics, including [[clindamycin]], [[doxycycline]] and [[tetracycline]] have activity.  Since their action against active parasites may be slower than that of other drugs, they tend to be preferred for prophylaxis, or in multidrug regimens where their specific modes of action are synergistic with faster-acting drugs.
+
 ====Newer agents====
 Approved in 2000 was the fixed-combination, for prophylaxis and treatment, of [[atovaquone-proguanil]].
 
