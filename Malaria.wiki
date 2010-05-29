@@ -113,6 +113,7 @@ who have one or more of the following clinical criteria
 *[[disseminated intravascular coagulation]] or spontaneous bleeding or hemoglobinuria, *[[jaundice]]  
 *blood parasite load of > 5%
 ===Artemisinin===
+{{main|artemisinin}}
 Today's most valuable drug is [[artemisinin]], which was first available as a Chinese herbal preparation.  It has been synthesized to help meet demand.  To minimize resistance formation, the standard of care defined by the [[World Health Organization]] is '''artemisin combination therapy (ACT)''', either with the original drug or a derivative. Artemisin itself has relatively low bioavailability and has been banned in some countries, to avoid resistance formation due to underdosage
 
 Artesunate is a derivative that produces higher blood levels when given intravenously. In 2007, the U.S. [[Centers for Disease Control]] (CDC) received an exception from the [[Food and Drug Administration]] to Artesunate in the United States, specifically for treatment of  malarial clinical emergencies; CDC will dispense it to requesting organizations that meet treatment criteria.
