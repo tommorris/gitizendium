@@ -3,10 +3,16 @@
 '''Malaria''', caused by four species of ''Plasmodium'' [[protozoa]] and spread by mosquitoes, causes more deaths, worldwide, than any other [[vector (epidemiology)|vector-borne disease]]. Coping with malaria must be a two-pronged strategy of preventing and treating the disease in humans, and eradicating the disease-carrying mosquito vectors.  The [[World Health Organization]] considers it the greatest problem among tropical diseases:<ref name=WHOfact>{{citation
  | url = http://www.who.int/mediacentre/factsheets/fs094/en/index.html
  | author = World Health Organization
- | title = Malaria}}</ref>
+ | title = Malaria}}</ref>  
 *Malaria is both preventable and curable.
 *A child dies of malaria every 30 seconds.
 *More than one million people die of malaria every year, mostly infants, young children and pregnant women and most of them in Africa
+
+WHO, in its 2008 report on malaria, in no way minimizes the problem, but sees several areas of distinct progress. Some, however, are already showing difficulties." Half of the world's population is at risk of malaria, and an estimated 247 million cases led to nearly 881 000 deaths in 2006. The advent of long-lasting insecticidal nets and [[#artemisinin|artemisinin-based combination therapy]], plus a revival of support for [[indoor residual spraying of insecticide]], presents a new opportunity for large-scale malaria control. "<ref>{{citation
+ | author = WHO World Malaria Programme
+ | url = http://malaria.who.int/wmr2008/
+ | title = 2008 WORLD MALARIA REPORT
+ | publisher = World Health Organization}}</ref>
 [[Image:Map us malaria vectors.png|thumb|left|Areas where malaria could re-establish in the U.S]]
 Developed countries cannot be complacent. It has been assessed as a world threat in an [[U.S. intelligence and global health|U.S. National Intelligence Estimate]].
 
