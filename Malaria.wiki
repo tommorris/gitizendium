@@ -30,7 +30,7 @@ Further, while mosquitoes are the natural vector, malaria certainly can be sprea
 The protozoa, of the genus ''Plasmodium'', are carried in the saliva of ''Anopheles'' [[mosquito|mosquitoes]], which reproduce in stagnant water. There are four species: ''P. falciparum, P. vivax, P. ovale,'' and ''P. malariae''.
 
 ==Prevention==
-Simple mechanical means are the starting point in controlling them: minimizing standing water and using netting. Appropriate insecticide and insect repellents have a role, although resistance to the main insecticides, [[DDT]] and [[pyrethrins]], is increasing and there are o immediate alternatives. The basic techniques can be enhanced with :
+Simple mechanical means are the starting point in controlling them: minimizing standing water and using netting. Appropriate insecticide and insect repellents have a role, although resistance to the main insecticides, [[DDT]] and [[pyrethrins]], is increasing and there are no immediate alternatives. The basic techniques can be enhanced with :
 *Indoor Residual Spraying of long-acting insecticide (IRS)
 *Long-Lasting Insecticidal Nets (LLINs). 
 
@@ -39,6 +39,7 @@ Integrated Vector Management (IVM) strategies to kill the developing larvae have
 While there is no vaccine, chemoprophylaxis can be effective, although, as with the use of anti-malarial drugs to treat active infection, drug resistance is an increasing problem.
 
 The [[Centers for Disease Control]] recommend <ref name=MMWR2008-08-14 /> that refugees from sub-Saharan Africa routinely be treated, before leaving Africa, with presumptive artemisinin-based combination therapy (ACT; e.g., artemether-lumefantrine).
+
 ==Treatment==
 Drug treatment has been challenging. Many of the agents effective against parasites have significant toxicity, and ''Plasmodium'' sp. also become resistant.  Even recently, major side effects such as increased psychosis became apparent only when a drug went into widespread use. <ref name=Weina1998>{{citation
  | url = http://findarticles.com/p/articles/mi_qa3912/is_199809/ai_n8811004/
