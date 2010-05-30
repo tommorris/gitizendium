@@ -57,16 +57,17 @@ Quinine is intensely bitter. Before tablet and capsule dosage forms were common,
 ===First-generation synthetics===
 The first synthetic alternative to quinine was [[quinacrine]], widely known by the trade name of ''Atabrine''. First made in Germany in the 1930s, its distribution to U.S. troops at risk began in 1942.  Compliance was a problem, as it turned the skin yellow, and casused nausea, vomiting, diarrhea, skin staining, psychosis, lichen planus, and exfoliative dermatitis. Weina observed that the first dose was often given to troops aboard a ship approaching a combat area, so anxiety, seasickness, and gastrointestinal upset were therefore blamed on the drug when other factors could have been responsible.<ref name=Weina1998/>   Military folklore also claimed that quinacrine caused impotence.
 
-The next major drug, [[chloroquine]] was discovered by a German, Hans Andersag, in 1934 at Bayer I.G. Farbenindustrie A.G. laboratories in Eberfeld, Germany. He named his compound resochin. Through a series of lapses and confusion brought about during the war, chloroquine was finally recognized and established as an effective and safe antimalarial in 1946 by British and U.S. scientists. <ref name=CDC-Malaria-History>{{citation
+The next major drug, [[chloroquine]], was discovered by a German, Hans Andersag, in 1934 at Bayer I.G. Farbenindustrie A.G. laboratories in Eberfeld, Germany. He named his compound resochin. Through a series of lapses and confusion brought about during the war, chloroquine was finally recognized and established as an effective and safe antimalarial in 1946 by British and U.S. scientists. <ref name=CDC-Malaria-History>{{citation
  | url = http://www.cdc.gov/malaria/history/index.htm
  | title = The History of Malaria, an Ancient Disease
- | publisher = [[Centers for Disease Control]]}}</ref>  Chloroquine has activity against other parasites, and is, with derivatives, a member of the "antimalarial" subclass of [[disease-modifying antirheumatic drugs]].
+ | publisher = [[Centers for Disease Control]]}}</ref>  Chloroquine has activity against other parasites, and is, with derivatives, a member of the "antimalarial" subclass of [[disease-modifying antirheumatic drugs]].  
 
 By 1947, comparisons were possible, and chloroquine was most preferred. <ref>{{citation
  | url = http://www.jci.org/articles/view/101970/files/pdf
  | title = Comparison of Chloroquine, Quinacrine (atabrine) and Quinine in the treatment of acute attacks of Sporozite-induced Vivax malaria (Chesson Strain)
  | year = 1947
- | journal = J. Clinical Invest. | author = Pullman T ''et al.''}}</ref>
+ | journal = J. Clinical Invest. | author = Pullman T ''et al.''}}</ref>  Subsequent comparisons between chloroquine and hydroxychloroquine show the former is more effective, more toxic, and cheaper.
+
 ===Antibiotics===
 More general antibiotics, including [[clindamycin]], [[doxycycline]] and [[tetracycline]] have activity.  Since their action against active parasites may be slower than that of other drugs, they tend to be preferred for prophylaxis, or in multidrug regimens where their specific modes of action are synergistic with faster-acting drugs.
 
