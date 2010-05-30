@@ -54,7 +54,7 @@ Malaria was one of the first drugs with a specific treatment, the alkaloid [[qui
 
 Quinine is intensely bitter. Before tablet and capsule dosage forms were common, it had to be drunk. The British, in India, turned an unpleasant task of taking quinine for chemoprophylaxis into a pleasant daily ritual, by incorporating quinine into alcoholic drink mixer "tonics".  One's gin-and-tonic was, aside from other attractions, the means of less painfully ingesting one's daily quinine dose.
 
-===First-generation antimalarials===
+===First-generation synthetics===
 The first synthetic alternative to quinine was [[quinacrine]], widely known by the trade name of ''Atabrine''. First made in Germany in the 1930s, its distribution to U.S. troops at risk began in 1942.  Compliance was a problem, as it turned the skin yellow, and casused nausea, vomiting, diarrhea, skin staining, psychosis, lichen planus, and exfoliative dermatitis. Weina observed that the first dose was often given to troops aboard a ship approaching a combat area, so anxiety, seasickness, and gastrointestinal upset were therefore blamed on the drug when other factors could have been responsible.<ref name=Weina1998/>   Military folklore also claimed that quinacrine caused impotence.
 
 The next major drug, [[chloroquine]] was discovered by a German, Hans Andersag, in 1934 at Bayer I.G. Farbenindustrie A.G. laboratories in Eberfeld, Germany. He named his compound resochin. Through a series of lapses and confusion brought about during the war, chloroquine was finally recognized and established as an effective and safe antimalarial in 1946 by British and U.S. scientists. <ref name=CDC-Malaria-History>{{citation
@@ -67,10 +67,10 @@ By 1947, comparisons were possible, and chloroquine was most preferred. <ref>{{c
  | title = Comparison of Chloroquine, Quinacrine (atabrine) and Quinine in the treatment of acute attacks of Sporozite-induced Vivax malaria (Chesson Strain)
  | year = 1947
  | journal = J. Clinical Invest. | author = Pullman T ''et al.''}}</ref>
-====Antibiotics====
+===Antibiotics===
 More general antibiotics, including [[clindamycin]], [[doxycycline]] and [[tetracycline]] have activity.  Since their action against active parasites may be slower than that of other drugs, they tend to be preferred for prophylaxis, or in multidrug regimens where their specific modes of action are synergistic with faster-acting drugs.
 
-====Newer agents====
+===Newer agents===
 Approved in 2000 was the fixed-combination, for prophylaxis and treatment, of [[atovaquone-proguanil]].
 
 ===Resistance concerns===
